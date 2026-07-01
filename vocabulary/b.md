@@ -1,5 +1,9 @@
 # B
 
+**Зміст:** [besides](#besides)
+
+---
+
 ## besides
 **besides** /bɪˈsaɪdz/ — 1. **adverb** (прислівник) 2. **preposition** (прийменник) — 1. до того ж, крім того 2. крім, окрім
 

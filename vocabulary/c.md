@@ -1,5 +1,9 @@
 # C
 
+**Зміст:** [complain](#complain) · [complaint](#complaint) · [contribute](#contribute) · [cosy](#cosy)
+
+---
+
 ## complain
 **complain** /kəmˈpleɪn/ — **verb** (дієслово) — скаржитися, жалітися
 
@@ -26,3 +30,25 @@
 **Приклади:**
 - Customers made a lot of complaints **about** the new update. — Клієнти подали багато скарг **на** нове оновлення.
 - I'd like to make a complaint. — Я хотів би подати скаргу. _(типова фраза в готелі/сервісі)_
+
+---
+
+## contribute
+**contribute** /kənˈtrɪbjuːt/ — **verb** (дієслово) — робити внесок, сприяти, долучатися
+
+**💡 contribute to** + що — робити внесок **у** / сприяти **чому** (завжди з `to`). Іменник — **contribution**.
+
+**Приклади:**
+- Everyone can **contribute to** an open-source project. — Кожен може зробити внесок у open-source проєкт.
+- Stress **contributes to** many illnesses. — Стрес сприяє багатьом хворобам.
+
+---
+
+## cosy
+**cosy** /ˈkəʊzi/ — **adjective** (прикметник) — затишний _(AmE пишеться `cozy`)_
+
+**Пояснення:** тепле, комфортне, приємне відчуття місця (кімната, кафе, ліжко).
+
+**Приклади:**
+- We found a **cosy** little café near the station. — Ми знайшли затишну кав'ярню біля станції.
+- Her room is small but **cosy**. — Її кімната маленька, але затишна.

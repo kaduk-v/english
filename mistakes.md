@@ -31,9 +31,11 @@
 
 ## C. Нові помилки з уроків
 
-_Заповнюється по ходу — сюди пишемо повторюваний патерн, коли він з'явиться._
+**🎯 be-radar (з Уроку 0) — твій ключовий фікс:** став `be` (am/is/are) перед прикметником / іменником / місцем (It **is** cold) або в `be + -ing` (she **is** running). НЕ став `be` перед звичайним дієсловом у простому часі (не «we **are** went», не «she **is** plays»).
 
-<!--
 | ❌ | ✅ | Правило / нотатка | Дата · урок |
 |----|----|----|----|
--->
+| She **listen** to music | She **listens** | 3-тя особа Present Simple → +s → [§2](rules.md#2-present-simple) | 01.07 · Урок 0 |
+| He **don't** play | He **doesn't** play | 3-тя особа: don't → doesn't → [§2](rules.md#2-present-simple) | 01.07 · Урок 0 |
+| we **are went** to the cinema | we **went** | зайвий be — «went» уже дієслово → [§1](rules.md#1-дієслово-та-підмет) | 01.07 · Урок 0 |
+| **Today is** very cold | **It's** very cold today | погода → порожнє `it` → [§1](rules.md#1-дієслово-та-підмет) | 01.07 · Урок 0 |

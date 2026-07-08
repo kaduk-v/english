@@ -1,5 +1,6 @@
 # Урок 9 — Present Simple vs Present Continuous
 
+**Теми уроку:** [Present Simple](../grammar/present-simple.md) · [Present Continuous](../grammar/present-continuous.md)
 **Статус:** ✅ пройдено (Simple↔Continuous засвоєно) · **Дата:** 2026-07-01
 **Звідки:** з власного тексту учня — «**Now** he **develops** his own game» → мало б бути `is developing`. Ідеальний привід розібрати різницю.
 

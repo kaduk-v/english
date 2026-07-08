@@ -20,6 +20,7 @@
 15. [Unless](#15-unless)
 16. [Прислівники-нюанси](#16-прислівники-нюанси)
 17. [Часто плутані слова](#17-часто-плутані-слова)
+18. [Present Simple vs Continuous](#18-present-simple-vs-continuous)
 
 ---
 
@@ -84,6 +85,10 @@
 **Сталі випадки з `the`:**
 - ✅ **the** weather (погода завжди з the)
 - ⚠️ **the last / next + період як ТРИВАЛІСТЬ**: over **the** next few weeks, for **the** last three years, **the** past month. АЛЕ прислівникові «last week / next year / last night» — **БЕЗ** the: ✅ I saw him **last week**.
+
+**Загальні твердження — БЕЗ артикля** (незлічувані та множинні у загальному сенсі):
+- незлічувані (абстрактні): ❌ **a** stress → ✅ **Stress** is bad. Так само: research, wisdom, success, advice, information, music, water.
+- множинні (загальна категорія): ❌ **the** computer games are fun → ✅ **Computer games** are fun. `the` — лише коли йдеться про конкретні, відомі речі.
 
 ## 6. Comparative vs Superlative
 
@@ -199,3 +204,10 @@
 - **get** у значенні «отримати/дістати» — перехідне, потребує об'єкта: ✅ **get a ticket**.
 - **were at** (стан: «були в») vs **went to** (дія: «ходили в»): ✅ We **were at** the cinema. / We **went to** the cinema.
 - **meet** розмовно без «with» (with — для офіційних/бізнес-зустрічей): ✅ Let's **meet** at 6.
+
+## 18. Present Simple vs Continuous
+
+- **Present Simple** (he works) — звичка / факт / взагалі. Маркери: usually, every day, always, often, never, on Mondays.
+- **Present Continuous** (he is working) — прямо зараз / тимчасово. Маркери: **now**, right now, at the moment, currently, **today**, these days, **Look! / Listen!**
+- Пастка: слово «now / зараз / today» → бери Continuous: ❌ Now he **develops** → ✅ Now he **is developing**.
+- **Stative verbs** (like, want, know, need, love, believe) майже не йдуть у Continuous: ✅ I **like** it _(не «am liking»)_.

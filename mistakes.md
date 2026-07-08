@@ -39,3 +39,8 @@
 | He **don't** play | He **doesn't** play | 3-тя особа: don't → doesn't → [§2](rules.md#2-present-simple) | 01.07 · Урок 0 |
 | we **are went** to the cinema | we **went** | зайвий be — «went» уже дієслово → [§1](rules.md#1-дієслово-та-підмет) | 01.07 · Урок 0 |
 | **Today is** very cold | **It's** very cold today | погода → порожнє `it` → [§1](rules.md#1-дієслово-та-підмет) | 01.07 · Урок 0 |
+| **A** stress contributes… | **Stress** contributes… | незлічуване (abstract) → без артикля → [§5](rules.md#5-артиклі-та-присвійні) | 01.07 · Урок 5 |
+| play **the** computer games | play **computer games** | загальна множина → без артикля → [§5](rules.md#5-артиклі-та-присвійні) | 01.07 · Урок 5 |
+| spends time **do** research | spends time **doing** research | spend time + V-ing → [§12](rules.md#12-схеми-дієслів) | 01.07 · Урок 5+ |
+| **Now** he **develops** a game | **Now** he **is developing** a game | «now / зараз / today» → Present Continuous → [§18](rules.md#18-present-simple-vs-continuous) | 01.07 · Урок 9 |
+| doesn't like **to hard work** | doesn't like **hard work** / like **to work** hard | like + іменник (без to) АБО like + to + дієслово; `work hard`(дія) ≠ `hard work`(іменник) → [§12](rules.md#12-схеми-дієслів) | 01.07 · Урок 9 |

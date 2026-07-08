@@ -1,6 +1,6 @@
 # Урок 5 — Present Simple: 3-тя особа (-s) і do/does
 
-**Статус:** 🟡 в процесі · **Дата:** 2026-07-01
+**Статус:** ✅ пройдено (обидва цільові леаки закрито) · **Дата:** 2026-07-01
 **Чому саме цей урок:** діагностика (Урок 0) показала, що фундамент (be, займенники, артиклі, множина, прийменники) — solid. Головний системний леак — **-s у 3-й особі** та **do/does**. Плюс патчимо be-radar.
 
 ## Теорія
@@ -70,7 +70,12 @@
 12. Коли в реченні потрібен `be`, а коли ні? Дай свій приклад на кожен випадок.
 
 ## Відповіді учня
-_(вставлю після виконання)_
+**A (ENG→UKR):** усі 3 ✅ (розуміння — сильна сторона).
+**B (UKR→ENG):** 1. She develops games ✅ · 2. He doesn't participate in meetings ✅ · 3. Does your brother play chess? ✅ · 4. This player never misses ✅ · 5. ~~A~~ stress contributes to many illnesses ⚠️ (артикль).
+**C:** My colleague runs every morning ✅. He doesn't play ~~the~~ computer games ⚠️ (артикль). Does she play tennis? ✅
+**D:** 1. ✅ (does not для заперечення 3-ї особи; дрібниця: «особа», не «форма»; + головне дієслово → базове). 2. ✅ be-radar зрозумів ідеально (She is cute / They are noisy / I'm not smart).
 
 ## Розбір
-_(заповню після перевірки)_
+**Обидва цільові леаки закрито 🎯:** усі `-s`/do-does бездоганні (develops, doesn't participate, does…play, never misses, runs), be-radar пояснив і застосував правильно.
+
+**Нове (наступний фокус):** артиклі із **незлічуваними** (a stress → stress) та **загальною множиною** (the computer games → computer games). Додано в `rules.md` §5, патерн у `mistakes.md` C. → міні-дриль на закріплення.

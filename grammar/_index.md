@@ -8,5 +8,6 @@
 | Present Continuous | [present-continuous.md](present-continuous.md) | ✅ |
 | Модальні дієслова | [modal-verbs.md](modal-verbs.md) | 🟡 (can) |
 | Наказовий спосіб (Imperatives) | [imperatives.md](imperatives.md) | ✅ |
+| Артиклі (a / an / the / —) | [articles.md](articles.md) | ✅ |
 
 _Список росте по мірі проходження плану ([../plan.md](../plan.md))._

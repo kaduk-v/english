@@ -20,7 +20,7 @@
 ### Основа речення
 - ✅ **L1.** `to be` (am/is/are) — ствердження, заперечення, питання. *(be-radar: be лише коли нема іншого дієслова)*
 - ↻ **L2.** Займенники: особові (I/you/he…), присвійні (my/your…), присвійний `'s`; this/that/these/those.
-- ↻ **L3.** `a / an`, професії; `there is / there are`.
+- 🟡 **L3.** Артиклі `a / an / the / —` + професії. *(there is/there are — окремо пізніше)* → [lesson](lessons/03-articles.md)
 
 ### Іменники та кількість
 - ✅ **L4.** Множина (правильна + неправильна: man→men, sheep); countable / uncountable.
@@ -33,7 +33,7 @@
 - ✅ **L9.** Present Simple vs Present Continuous; stative verbs. → [lesson](lessons/09-present-simple-vs-continuous.md)
 
 ### Опис, здатність, прохання
-- 🟡 **L10.** `can / can't` (вміння, дозвіл, прохання) + наказовий спосіб (imperatives). → [lesson](lessons/10-can-imperatives.md)
+- ✅ **L10.** `can / can't` (вміння, дозвіл, прохання) + наказовий спосіб (imperatives). → [lesson](lessons/10-can-imperatives.md)
 - ⬜ **L11.** Прикметники + порядок слів; very / really.
 - ⬜ **L12.** Прийменники місця й часу (in / on / at / under / next to…).
 - ⬜ **L13.** Об'єктні займенники (me/him/her…); like / love / hate (+ -ing).

@@ -1,46 +1,108 @@
 # Present Simple
 
-**Швидкі правила й твої помилки:** [`../rules.md` §2](../rules.md#2-present-simple).
-
 ## Навіщо (використання)
-- звички / регулярність: I **go** to the gym on Mondays.
-- факти / загальні істини: Water **boils** at 100 °C.
-- розклади: The train **leaves** at 7.
-- **Маркери:** usually, always, often, sometimes, never, every day, on Mondays.
+
+| Випадок | Приклад |
+|---|---|
+| звички, регулярні дії | I **go** to the gym on Mondays. |
+| факти, загальні істини | Water **boils** at 100 °C. |
+| постійні стани | She **lives** in Kyiv. · He **works** at Google. |
+| розклади (транспорт, кіно) | The train **leaves** at 7. |
+| інструкції, рецепти | You **press** Start, then you **choose** a level. |
+| дієслова стану (stative) | I **know** the answer. · She **likes** coffee. |
+| спортивні коментарі, сюжети | Messi **passes** the ball and **scores**! |
+
+**Маркери:** usually, always, often, sometimes, rarely, never, every day/week, on Mondays, twice a week.
+
+---
 
 ## Форма
 
-**Ствердження:** підмет + дієслово (для he/she/it → **+s**).
-- I / you / we / they **work** · he / she / it **works**.
+### Ствердження
 
-### -s у 3-й особі (he/she/it і все, що = «it»: Mary, the app, water)
-Правопис:
-- зазвичай `+s`: play→plays, read→reads
-- після -s/-sh/-ch/-x/-o → `+es`: watch→**watches**, go→**goes**, miss→**misses**, fix→**fixes**
-- приголосна + y → `ies`: study→**studies**, try→**tries**
-- голосна + y → `+s`: play→**plays**, buy→**buys**
-- виняток: have → **has**
+| Підмет | Форма | Приклад |
+|---|---|---|
+| I / you / we / they | base | I **work**. |
+| he / she / it | base **+ s** | He **works**. |
 
-> 💡 Аналогія: `-s` — обов'язковий суфікс, який «компілятор» вимагає для 3-ї особи однини. `he play` не компілюється → `he plays`.
+«he/she/it» = все, що замінюється на **it**: Mary, my brother, the app, water, this player.
 
-**Заперечення:** do/does + not + **базове** дієслово.
-- I/you/we/they **don't** work · he/she/it **doesn't** work _(does забирає -s: не «doesn't works»)_.
+### Правопис -s
 
-**Питання:** Do/Does + підмет + **базове** дієслово?
-- **Do** you work? · **Does** she work? — Yes, she **does** / No, she **doesn't**.
+| Правило | Приклад |
+|---|---|
+| зазвичай `+s` | play → play**s**, read → read**s** |
+| після -s, -sh, -ch, -x, -o → `+es` | watch → watch**es**, go → go**es**, miss → miss**es**, fix → fix**es** |
+| приголосна + y → `ies` | study → stud**ies**, try → tr**ies** |
+| голосна + y → `+s` | play → play**s**, buy → buy**s** |
+| винятки | have → **has** · be → **is** · do → **does** |
 
-> 🔑 `-s` з'являється РІВНО один раз: або на дієслові (he work**s**), або на does (**does** he work?). Ніколи двічі.
+### 🔊 Вимова -s (три варіанти)
 
-## Прислівники частоти (позиція)
-- перед смисловим дієсловом: I **always** train. · He **never** misses.
-- після be: She **is often** late.
+| Звук | Коли | Приклад |
+|---|---|---|
+| /s/ | після глухих: p, t, k, f | works, stops, laughs |
+| /z/ | після дзвінких і голосних | plays, runs, reads, goes |
+| /ɪz/ | після шиплячих: s, sh, ch, x, ge | watches, misses, fixes, uses |
+
+### Заперечення
+
+| Підмет | Форма | Приклад |
+|---|---|---|
+| I / you / we / they | **don't** + base | They **don't play**. |
+| he / she / it | **doesn't** + base | He **doesn't play**. |
+
+`does` забирає `-s` собі → головне дієслово **базове**.
+
+### Питання
+
+| Форма | Приклад |
+|---|---|
+| **Do** + I/you/we/they + base? | **Do** you work? |
+| **Does** + he/she/it + base? | **Does** she work? |
+
+### Короткі відповіді
+- **Do** you work? — Yes, I **do**. / No, I **don't**.
+- **Does** she work? — Yes, she **does**. / No, she **doesn't**.
+
+> 🔑 `-s` з'являється **рівно один раз**: або на дієслові (he work**s**), або на помічнику (**does** he work?).
+
+---
+
+## Прислівники частоти
+
+**Шкала:** always (100%) → usually → often → sometimes → rarely → never (0%)
+
+**Позиція:**
+- **перед** смисловим дієсловом: I **always** train. · He **never** misses.
+- **після** be: She **is often** late.
+- **між** помічником і дієсловом: I **don't usually** work on Sundays.
+- `sometimes` / `usually` можуть стояти й на початку речення: **Sometimes** I work late.
+
+**Частота-вирази** (в кінці речення): every day, once a week, twice a month, three times a year.
+
+---
 
 ## Питання до підмета
-Коли Who / What / How many + noun — це **підмет** → без do/does, дієслово з `-s`:
-- **Who lives** here? · **What happens**? · **How many players train** here?
 
-## Типові помилки
-- ❌ She listen → ✅ She **listens** (3-тя особа -s)
-- ❌ He don't play → ✅ He **doesn't** play
-- ❌ Usually he is working → ✅ Usually he **works** (звичка = Simple, не Continuous → [present-continuous.md](present-continuous.md))
-- ❌ Who does live → ✅ Who **lives** (питання до підмета)
+Коли **Who / What / Which / How many + noun** саме є **підметом** — do/does **не потрібен**, дієслово одразу з `-s`:
+
+| Питання до підмета (без do) | Звичайне питання (з do) |
+|---|---|
+| **Who lives** here? | **Where do** you live? |
+| **What happens** next? | **What do** you want? |
+| **How many players train** here? | **Where do** these players train? |
+| **Which book is** yours? | **Which book do** you want? |
+
+---
+
+## Дієслова стану (stative verbs)
+
+Не вживаються в Continuous — тільки Present Simple:
+- **думка/знання:** know, understand, believe, remember, forget, think *(=вважати)*
+- **почуття:** like, love, hate, want, need, prefer
+- **чуття:** see, hear, smell, taste
+- **належність:** have *(=мати)*, own, belong
+- **буття:** be, seem, look *(=виглядати)*, cost, mean
+
+- ✅ I **know** the answer. *(не «am knowing»)*

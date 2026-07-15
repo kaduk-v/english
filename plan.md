@@ -18,18 +18,18 @@
 # 🟢 Рівень A1
 
 ### Основа речення
-- ✅ **L1.** `to be` (am/is/are) — ствердження, заперечення, питання. *(be-radar: be лише коли нема іншого дієслова)*
-- ↻ **L2.** Займенники: особові (I/you/he…), присвійні (my/your…), присвійний `'s`; this/that/these/those.
+- ✅ **L1.** `to be` (am/is/are) — ствердження, заперечення, питання; there is/are. → [lesson](lessons/01-to-be.md) · [grammar](grammar/to-be.md)
+- ↻ **L2.** Займенники: особові (I/you/he…), присвійні (my/your…), присвійний `'s`; this/that/these/those. → [lesson](lessons/02-pronouns.md) · [grammar](grammar/pronouns.md)
 - 🟡 **L3.** Артиклі `a / an / the / —` + професії. *(there is/there are — окремо пізніше)* → [lesson](lessons/03-articles.md)
 
 ### Іменники та кількість
-- ✅ **L4.** Множина (правильна + неправильна: man→men, sheep); countable / uncountable.
+- ✅ **L4.** Множина (правильна + неправильна: man→men, sheep); countable / uncountable. → [lesson](lessons/04-nouns-plural-countable.md) · [grammar](grammar/nouns-plural-countable.md)
 
 ### Теперішній час
 - ✅ **L5.** Present Simple — ствердження (`he works` ← -s). → [lesson](lessons/05-present-simple-3rd-person.md)
-- ✅ **L6.** Present Simple — заперечення/питання (do/does), частота (always/usually/never), питання до підмета (Who…).
-- ↻ **L7.** `have / have got`.
-- ✅ **L8.** Present Continuous (`am/is/are + -ing`).
+- ✅ **L6.** Present Simple — заперечення/питання (do/does), частота (always/usually/never), питання до підмета (Who…). → [lesson](lessons/06-present-simple-questions.md) · [grammar](grammar/present-simple.md)
+- ↻ **L7.** `have / have got`. → [lesson](lessons/07-have-have-got.md) · [grammar](grammar/have-have-got.md)
+- ✅ **L8.** Present Continuous (`am/is/are + -ing`). → [lesson](lessons/08-present-continuous.md) · [grammar](grammar/present-continuous.md)
 - ✅ **L9.** Present Simple vs Present Continuous; stative verbs. → [lesson](lessons/09-present-simple-vs-continuous.md)
 
 ### Опис, здатність, прохання

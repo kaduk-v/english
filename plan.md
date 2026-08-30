@@ -1,92 +1,117 @@
-# План навчання: English A1 → A2 (повне покриття)
+# План навчання: A2 → впевнений B1+ (Job-Ready English)
 
-**Мета:** впевнений A1–A2 — вільно **продукувати** (говорити/писати), а не лише впізнавати.
+**Ціль:** впевнений **B1+** — вимога роботи мрії. Не «пробігти теми», а закріпити до автоматизму.
+**Результат на виході:** значно більший активний словник · вільне читання · впевнене письмо (повідомлення, листи, есе, dev-комунікація) · готовність пройти співбесіду англійською.
 
-## Як працює навчання
+## Як працює навчання (оновлено 14.08 під інтенсив)
 
-1. **Кожен урок починається з Теорії** — живої, з аналогіями, самодостатньої (зберігай собі в нотатки). Теорія лежить у файлі уроку `lessons/NN-*.md`.
-2. Далі — **раунди завдань**. **Правило переходу: 5 раундів на 100%.** Раунд із помилкою не зараховується — розбираємо помилку й даємо новий раунд, доки не набереться 5 чистих. Тоді → наступний урок.
-3. **Кожен раунд** живий і різноманітний: слова зі словника, питання, заперечення, побудова речень/тексту, UA→EN, EN→UA, пояснення граматики, і **мікс попередніх тем**. Враховує типові помилки україномовних + твої особисті (`mistakes.md`).
-4. **Розбір:** для кожної помилки — де вона, як правильно, і яке правило порушено (посилання на `rules.md §…`).
+1. **Теорія** кожної теми — вичерпний конспект у `grammar/` (самодостатній). Урок лінкує теми через «Теми уроку».
+2. **Раунди завдань** — тепер більші: **8–12 пунктів + міні-текст (3–6 речень) у кожному**.
+3. **Правило переходу:**
+   - тема **знайома з практики** (позначка 🔁 «підтвердження») → **3 раунди × 100%**;
+   - тема **нова** → **5 раундів × 100%** (як раніше).
+   Помилка граматики/лексики зриває раунд; друкарські/пунктуація — ні (але нотуються).
+4. **Щосесії — словниковий спринт:** 10 слів (UA→EN + вжити у власному реченні). Черга йде хвилями по новій партії ~290 слів; забуте слово повертається в чергу.
+5. **Щотижня:**
+   - 📝 **письмова робота** 120–180 слів (теми — в модулях нижче) з повним розбором;
+   - 📖 **читання з розбором** (трек читання нижче);
+   - 💬 **жива сесія з Sam** (DM) — вільне продукування без «підготовки».
+6. **Розбір помилок:** для кожної — де, як правильно, яке правило (лінк на `rules.md §…` / `grammar/`).
 
-**Легенда:** ✅ пройдено · 🟡 в процесі · ↻ частково показано (швидко підтвердимо) · ⬜ попереду
+## 🎯 Наскрізні цілі — війна з леаками (перевіряються в КОЖНОМУ раунді)
 
-> **Діагностика (01.07):** фундамент solid; закрито Present Simple (-s, do/does), be-radar, артиклі з незлічуваними, Present Simple vs Continuous, перше вільне письмо. **Далі по порядку з Уроку 10.**
-
----
-
-# 🟢 Рівень A1
-
-### Основа речення
-- ✅ **L1.** `to be` (am/is/are) — ствердження, заперечення, питання; there is/are. → [lesson](lessons/01-to-be.md) · [grammar](grammar/to-be.md)
-- ↻ **L2.** Займенники: особові (I/you/he…), присвійні (my/your…), присвійний `'s`; this/that/these/those. → [lesson](lessons/02-pronouns.md) · [grammar](grammar/pronouns.md)
-- 🟡 **L3.** Артиклі `a / an / the / —` + професії. *(there is/there are — окремо пізніше)* → [lesson](lessons/03-articles.md)
-
-### Іменники та кількість
-- ✅ **L4.** Множина (правильна + неправильна: man→men, sheep); countable / uncountable. → [lesson](lessons/04-nouns-plural-countable.md) · [grammar](grammar/nouns-plural-countable.md)
-
-### Теперішній час
-- ✅ **L5.** Present Simple — ствердження (`he works` ← -s). → [lesson](lessons/05-present-simple-3rd-person.md)
-- ✅ **L6.** Present Simple — заперечення/питання (do/does), частота (always/usually/never), питання до підмета (Who…). → [lesson](lessons/06-present-simple-questions.md) · [grammar](grammar/present-simple.md)
-- ↻ **L7.** `have / have got`. → [lesson](lessons/07-have-have-got.md) · [grammar](grammar/have-have-got.md)
-- ✅ **L8.** Present Continuous (`am/is/are + -ing`). → [lesson](lessons/08-present-continuous.md) · [grammar](grammar/present-continuous.md)
-- ✅ **L9.** Present Simple vs Present Continuous; stative verbs. → [lesson](lessons/09-present-simple-vs-continuous.md)
-
-### Опис, здатність, прохання
-- ✅ **L10.** `can / can't` (вміння, дозвіл, прохання) + наказовий спосіб (imperatives). → [lesson](lessons/10-can-imperatives.md)
-- ⬜ **L11.** Прикметники + порядок слів; very / really.
-- ⬜ **L12.** Прийменники місця й часу (in / on / at / under / next to…).
-- ⬜ **L13.** Об'єктні займенники (me/him/her…); like / love / hate (+ -ing).
-- ⬜ **L14.** `some / any`; `much / many / a lot of`; How much / How many.
-
-### Минулий час
-- ⬜ **L15.** `was / were`; there was / were.
-- ⬜ **L16.** Past Simple — правильні дієслова (-ed: правопис + вимова).
-- ⬜ **L17.** Past Simple — неправильні дієслова.
-- ⬜ **L18.** Past Simple — заперечення/питання (did/didn't); маркери (ago, last, yesterday).
-
-### Підсумок A1
-- ⬜ **L19.** Закріплення A1 (великий мікс + власний текст).
+| # | Леак | Тест-запитання |
+|---|---|---|
+| 1 | 🔴 **be-omission** («I think **is** better…») | «Де в цьому реченні дієслово?» — для кожного речення |
+| 2 | Артиклі у вільному продукуванні | «Однина злічуваного без визначника — заборонена» |
+| 3 | Прийменники дієслів (depend **on**, listen **to**, regarding ∅) | колокація зі словника |
+| 4 | False friends (couch/coach, serial/series, actually, eventually…) | 💡-картки словника |
+| 5 | Порядок слів: прислівники (can **also**), phrasal + it (turn **it** off) | §-правила |
 
 ---
 
-# 🔵 Рівень A2
+## Фаза 0 — 🩺 Діагностика 2.0 (1 сесія)
 
-### Минуле та розповідь
-- ⬜ **L20.** Past Continuous; Past Simple vs Continuous (while / when).
-- ⬜ **L21.** `used to` (минулі звички/стани).
-- ⬜ **L22.** Послідовність подій / storytelling (first / then / after that / finally).
-
-### Майбутнє
-- ⬜ **L23.** `be going to` (плани, передбачення).
-- ⬜ **L24.** `will`; will vs going to.
-- ⬜ **L25.** Present Continuous про майбутнє; Present Simple для розкладів.
-
-### Порівняння та кількість
-- ⬜ **L26.** Comparatives (`-er / more … than`).
-- ⬜ **L27.** Superlatives (`the -est / the most`); as … as.
-- ⬜ **L28.** too / enough; a few / a little / too much / too many.
-
-### Модальні та функції
-- ⬜ **L29.** should / shouldn't; had better (поради).
-- ⬜ **L30.** must / mustn't; have to / don't have to (обов'язок, заборона).
-- ⬜ **L31.** could / may / might (ймовірність, дозвіл); would like.
-
-### Дії, герундій, умови
-- ⬜ **L32.** Gerund vs Infinitive (like doing / want to do / stop doing).
-- ⬜ **L33.** Zero + First Conditional (if / when / unless).
-
-### Present Perfect
-- ⬜ **L34.** Present Perfect — вступ (have/has + V3; ever/never/just/already/yet).
-- ⬜ **L35.** Present Perfect vs Past Simple; for / since; been / gone.
-
-### Зв'язки та фінал
-- ⬜ **L36.** Relative clauses (who / which / that / where).
-- ⬜ **L37.** Adverbs of manner; so / such.
-- ⬜ **L38.** Phrasal verbs; дієслово + прийменник (огляд).
-- ⬜ **L39.** Question tags; непрямі питання (I don't know if…).
-- ⬜ **L40.** Закріплення A2 (мікс + довший текст).
+Калібрування перед стартом: past / future / perfect / conditionals / passive / linking words. Визначає, які уроки йдуть у режимі 🔁 підтвердження (3×100%), а які — повні (5×100%). Статуси нижче уточнюються після неї.
 
 ---
 
-**Наскрізь у кожному уроці:** вимова/транскрипція, поповнення словника, правопис, прийменники, і постійна робота над `mistakes.md`.
+# Модуль 1 — Бліц: хвости A1 (≈1 тиждень)
+
+- ⬜ **L11.** 🔁 Прикметники і прислівники: -ly, позиція в реченні; підсилювачі very / really / quite / pretty / so / such; пари -ed vs -ing (excited/exciting, disappointed/disappointing). *(Відкриває ~25 прислівників нової партії: actually, definitely, hardly, rarely, eventually, deliberately…)*
+- ⬜ **L12.** 🔁 Прийменники місця й часу (in/on/at, by/until, for/during, towards) + об'єктні займенники (me/him/her/us).
+- ⬜ **L13.** 🔁 Кількість: some/any, much/many/a lot of, a few/a little, plenty of, too/enough.
+
+# Модуль 2 — Минуле: розповідь
+
+- ⬜ **L14.** 🔁 Past Simple повний: правильні/неправильні, did/didn't, маркери (ago, last, yesterday), there was/were. → [grammar](grammar/past-simple.md)
+- ⬜ **L15.** Past Continuous; Past Simple vs Continuous (while/when).
+- ⬜ **L16.** used to / would (минулі звички) + storytelling-зв'язки (first, then, afterwards, suddenly, eventually, finally).
+- 📝 **Письмо №1:** розповідь «Як я став розробником» (минулі часи + зв'язки).
+
+# Модуль 3 — Майбутнє й умови
+
+- ⬜ **L17.** 🔁 going to vs will vs Present Continuous про майбутнє (план / обіцянка / домовленість); Present Simple для розкладів.
+- ⬜ **L18.** Zero + First Conditional (if / when / unless / as soon as).
+- ⬜ **L19.** Second Conditional (would + гіпотетичне).
+- 📝 **Письмо №2:** «Плани на Everyday Tools на рік уперед» (future forms + conditionals).
+
+# Модуль 4 — Present Perfect (ядро B1)
+
+- ⬜ **L20.** Present Perfect I: have/has + V3; ever / never / just / already / yet.
+- ⬜ **L21.** Present Perfect vs Past Simple; for / since; been / gone. ← найважчий стик для українців
+- ⬜ **L22.** Present Perfect Continuous (I've been learning English for two months).
+- ⬜ **L23.** Past Perfect (by the time…, after I had…).
+- 📝 **Письмо №3:** «Мій досвід у Node.js» (Perfect-часи; заготовка для співбесіди!).
+
+# Модуль 5 — Структури B1
+
+- ⬜ **L24.** 🔁 Passive: present / past / future (the app **is being verified** — ти це вже намацав сам).
+- ⬜ **L25.** Gerund vs Infinitive (like doing / want to do / stop doing / spend time doing). ← твій повторюваний леак
+- ⬜ **L26.** Модальні: should/shouldn't, must/mustn't, have to/don't have to; would like.
+- ⬜ **L27.** Модальні-припущення (deduction): might / could / must be / can't be.
+- ⬜ **L28.** Relative clauses (who/which/that/where; defining vs non-defining).
+- ⬜ **L29.** Порівняння повні: -er / more…than, the -est, as…as, the more…the better.
+- 📝 **Письмо №4:** порівняльний огляд «Todo Space vs конкурент» (порівняння + relative clauses + passive).
+
+# Модуль 6 — Зв'язність і природність
+
+- ⬜ **L30.** Linking words: although/though/despite/in spite of; however/whereas/nonetheless; whether/if. ← прямо з нової партії слів
+- ⬜ **L31.** Reported speech I (he said (that)…; backshift часів).
+- ⬜ **L32.** Indirect questions (Could you tell me where…?) + question tags.
+- ⬜ **L33.** Phrasal verbs I (turn/put/get/take + off/on/up/out) + порядок із займенником (turn **it** off).
+- ⬜ **L34.** Phrasal verbs II + колокації make/do/take/get + word families (negotiate → negotiation → non-negotiable).
+- 📝 **Письмо №5:** opinion-текст «Lifetime vs subscription» (linking words + структурована аргументація).
+
+# Модуль 7 — Job-Ready B1+ (фінішна пряма)
+
+- ⬜ **L35.** Dev-комунікація: bug report, PR description, standup update, коментарі в code review.
+- ⬜ **L36.** Ділове письмо: email / Slack — запит, відповідь, відмова, follow-up; тон і ввічливість.
+- ⬜ **L37.** Есе / структурований аргумент (intro → arguments → conclusion).
+- ⬜ **L38.** 💬 Interview English I: self-presentation, experience, strengths & weaknesses (mock-співбесіда з Sam).
+- ⬜ **L39.** 💬 Interview English II: розповідь про проєкти, технічні питання, small talk.
+- ⬜ **L40.** 🏁 Фінальна симуляція B1+: читання + письмо + вільне продукування + «співбесіда». Чесний вердикт готовності.
+
+---
+
+## 📖 Трек читання (паралельно з модулями — до вільного читання)
+
+| Етап | Що читаємо | Коли |
+|---|---|---|
+| 1 | Адаптовані тексти B1 (graded readers) + короткі dev-статті | Модулі 1–3 |
+| 2 | Справжні статті (dev.to, блоги), README і доки бібліотек | Модулі 4–5 |
+| 3 | Художка в оригіналі (фентезі — твоя нова партія слів кричить, що воно твоє 🙂) + технічні доки без словника | Модулі 6–7 |
+
+Щосесії 10–15 хв; 3–5 нових слів із прочитаного → у словник.
+
+## 🗓 Реалістичний таймлайн (чесно)
+
+При **5–6 сесіях на тиждень по ~1–1.5 год**: Модуль 1 ≈ 1 тиждень · Модулі 2–3 ≈ 3 тижні · Модуль 4 ≈ 2–3 тижні · Модуль 5 ≈ 3 тижні · Модуль 6 ≈ 2–3 тижні · Модуль 7 ≈ 2 тижні → **≈ 3–3.5 місяці до впевненого B1+**. Швидше досягається більшою кількістю сесій, а не меншою глибиною. Якщо співбесіда раніше — Модуль 7 (interview) піднімаємо наперед і ведемо паралельно.
+
+---
+
+## ✅ Архів: A1-ядро (закрито, липень 2026)
+
+L1 to be · L2 займенники (↻ добито в практиці) · L3 артиклі · L4 множина / countable · L5–L6 Present Simple · L7 have / have got (↻) · L8 Present Continuous · L9 PS vs PC · L10 can + imperatives. Матеріали для повторення: [lessons/](lessons/) + [grammar/](grammar/).
+
+**Наскрізь у кожному уроці:** вимова/транскрипція, поповнення словника, правопис, прийменники, робота над `mistakes.md`.

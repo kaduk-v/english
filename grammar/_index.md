@@ -11,6 +11,7 @@
 | Present Simple | [present-simple.md](present-simple.md) | L5, L6, L9 |
 | `have` / `have got` | [have-have-got.md](have-have-got.md) | L7 |
 | Present Continuous | [present-continuous.md](present-continuous.md) | L8, L9 |
+| Past Simple (+ неправильні дієслова) | [past-simple.md](past-simple.md) | L15–L18 |
 | Модальні дієслова (can, could…) | [modal-verbs.md](modal-verbs.md) | L10, L29–L31 |
 | Наказовий спосіб (Imperatives) | [imperatives.md](imperatives.md) | L10 |
 

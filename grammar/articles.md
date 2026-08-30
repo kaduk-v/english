@@ -53,6 +53,10 @@
 - I read **the** book **you gave me**.
 - **The** man **who called** is my boss.
 
+## Конструкція «the + іменник + of» (основа/частина ЧОГОСЬ)
+- **the** foundation **of** the language · **the** name **of** the app · **the** end **of** the film · **the** top **of** the page
+> `of` робить іменник конкретним («чого саме?») → майже завжди `the`.
+
 ## Superlative та ordinal
 - **the** best, **the** worst, **the** most expensive
 - **the** first, **the** second, **the** last
@@ -100,6 +104,10 @@
 ## Сталі вирази з місцем і транспортом
 - at **home**, at **work**, at **school**, in **bed**, at **night**
 - by **car**, by **bus**, by **train**, by **plane**, on **foot**
+
+## Вулиці, площі, парки, вокзали, аеропорти
+- **Oxford Street**, **Times Square**, **Central Park**, **Heathrow Airport**, **Kyiv Station**
+> ⚠️ Порівняй: назви-місця → ∅, але **будівлі/заклади** → `the`: **the** British Museum, **the** Hilton, **the** Eiffel Tower.
 
 ---
 

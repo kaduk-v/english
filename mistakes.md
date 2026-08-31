@@ -32,6 +32,12 @@
 
 ## C. Нові помилки з уроків
 
+**✅ be-omission ЗАКРИТО (14.08, Діагностика 2.0):** у 13 реченнях поспіль — жодного пропущеного дієслова. Леак №1 знято з активного списку; лишається у фоновому чек-листі.
+
+**🔴 НОВИЙ ЛЕАК №1 — ПРИЙМЕННИКИ:** `during`→`for`, `on English`→`in`, `on previous work`→`at my previous job`, `on vacancy description`→`in the job description`. Тест: «це стала пара дієслово+прийменник чи я перекладаю з української?»
+
+**🪤 НОВИЙ ЛЕАК №2 — професійні false friends** (найнебезпечніші на співбесіді): functional→functionality · perspectives→prospects · increase→grow · actually · eventually · realize.
+
 **🎯 be-radar (з Уроку 0) — твій ключовий фікс:** став `be` (am/is/are) перед прикметником / іменником / місцем (It **is** cold) або в `be + -ing` (she **is** running). НЕ став `be` перед звичайним дієсловом у простому часі (не «we **are** went», не «she **is** plays»).
 
 | ❌ | ✅ | Правило / нотатка | Дата · урок |
@@ -81,3 +87,19 @@
 | the app **is verifying** by Google | the app **is being verified** by Google | пасив: додаток не перевіряє сам — його перевіряють → `be + being + V3` (або активно: Google **is verifying** the app) | 01.07 · Reddit |
 | can't **drive** a bicycle | can't **ride** a bicycle | `drive` — авто/автобус/вантажівка (кермо + мотор); `ride` — велосипед/мотоцикл/кінь (сидиш верхи). Пор. `ride a horse` | 01.07 · Урок 10 |
 | watch YouTube **entire day** | watch YouTube **the entire day** / **all day** | `entire / whole` вимагають визначника: **the** entire day, **an** entire day → [articles](grammar/articles.md) | 01.07 · Урок 10 |
+| I work with Node.js **during** five years | I **have worked** with Node.js **for** five years | 🔴 «вже N років» → Present Perfect + `for` (тривалість). `during` + назва періоду (during the summer) | 14.08 · Діагн. 2.0 |
+| I **never work** in a team | I **have never worked** | досвід за все життя, без конкретного часу → Present Perfect | 14.08 · Діагн. 2.0 |
+| interviews **on** English | interviews **in** English | ⚠️ **ПОВТОР** (Урок 0: «speak on English») — мова → `in English` → [§8](rules.md#8-прийменники-з-дієсловами) | 14.08 · Діагн. 2.0 |
+| the new **functional** | the new **functionality** / **features** | 🪤 false friend: «функціонал» ≠ `functional` (це прикметник «функціональний») | 14.08 · Діагн. 2.0 |
+| functionality **are testing** now | **is being tested** now | 🔴 **ПОВТОР ×3** (Урок 3 → Reddit → діагн.) — пасив тривалий: `be + being + V3`; + uncountable → `is` | 14.08 · Діагн. 2.0 |
+| **the** Google | **Google** | назви компаній — без артикля (Google, Apple, Microsoft) → [articles](grammar/articles.md) | 14.08 · Діагн. 2.0 |
+| more popular than **first** one | than **the first** one | порядковий числівник ЗАВЖДИ з `the` (the first, the second) | 14.08 · Діагн. 2.0 |
+| now I play **rarely** | now I **rarely** play | прислівник частоти — ПЕРЕД смисловим дієсловом → [§16](rules.md#16-прислівники) | 14.08 · Діагн. 2.0 |
+| Google **canceled** the app | Google **rejected** the app | `cancel` = скасувати (подію, підписку); `reject` = відхилити (заявку, застосунок) | 14.08 · Діагн. 2.0 |
+| If the company **make offer me** | If the company **offers me** the job / **makes me an offer** | 3 помилки: -s 3-ї особи + артикль + порядок слів (make **sb** an offer) | 14.08 · Діагн. 2.0 |
+| I will **agree with it** | I will **accept it** | `accept` an offer = прийняти пропозицію; `agree with` = погоджуватися з думкою | 14.08 · Діагн. 2.0 |
+| **On** previous work | **At** my previous **job** | `at` + місце роботи; `job` = посада (злічуване), `work` = робота взагалі (незлічуване) | 14.08 · Діагн. 2.0 |
+| I don't see any **perspectives** | I didn't see any **prospects** | 🪤 false friend: «перспективи» = `prospects`; `perspective` = точка зору | 14.08 · Діагн. 2.0 |
+| **On** vacancy description | **In** the job description | `in` + документ/текст (in the article, in the description) | 14.08 · Діагн. 2.0 |
+| I read a few **technologies** | I read **about** a few technologies | `read about` sth — технології не «читають» | 14.08 · Діагн. 2.0 |
+| **increase** together with you | **grow** together with you | `increase` = зростати (про числа/обсяг); `grow` = розвиватися (про людину, компанію) | 14.08 · Діагн. 2.0 |

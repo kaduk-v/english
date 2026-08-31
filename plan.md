@@ -22,43 +22,48 @@
 
 | # | Леак | Тест-запитання |
 |---|---|---|
-| 1 | 🔴 **be-omission** («I think **is** better…») | «Де в цьому реченні дієслово?» — для кожного речення |
-| 2 | Артиклі у вільному продукуванні | «Однина злічуваного без визначника — заборонена» |
-| 3 | Прийменники дієслів (depend **on**, listen **to**, regarding ∅) | колокація зі словника |
-| 4 | False friends (couch/coach, serial/series, actually, eventually…) | 💡-картки словника |
-| 5 | Порядок слів: прислівники (can **also**), phrasal + it (turn **it** off) | §-правила |
+| 1 | 🔴 **Прийменники** (`during`→for, `on English`→in, `on work`→at my job) | «це стала пара, чи я перекладаю з української?» |
+| 2 | 🪤 **Професійні false friends** (functional, perspectives, increase) | 💡-картки словника — б'ють саме на співбесіді |
+| 3 | Артиклі у вільному продукуванні (the Google, than first one) | «Однина злічуваного без визначника — заборонена» |
+| 4 | Пасив тривалий (`are testing` → `is being tested`) | «предмет сам це робить чи з ним роблять?» |
+| 5 | Порядок слів: прислівники частоти (I **rarely** play), can **also** | §-правила |
+| ✅ | ~~be-omission~~ — **закрито 14.08** (13 речень поспіль чисто) | лишається у фоновому чек-листі |
 
 ---
 
-## Фаза 0 — 🩺 Діагностика 2.0 (1 сесія)
+## Фаза 0 — 🩺 Діагностика 2.0 — ✅ ПРОЙДЕНО 14.08
 
-Калібрування перед стартом: past / future / perfect / conditionals / passive / linking words. Визначає, які уроки йдуть у режимі 🔁 підтвердження (3×100%), а які — повні (5×100%). Статуси нижче уточнюються після неї.
+[Результати](lessons/00b-diagnostic-2.md). Робочий діапазон: **A2+ / B1-**, з рваним профілем.
+
+**Сильне (→ 🔁 3×100%):** Past Simple · Past Continuous (while/when) · used to · going to / will · First Conditional · пасив у минулому · should / have to · comparatives. Каркас речення тримається, be-omission закрито.
+
+**Пробіли (→ повні 5×100%):** 🔴 **Present Perfect — нуль** (уся група L20–L23) · 🔴 **прийменники** (L12 підняв у пріоритет) · professional false friends · пасив тривалий · позиція прислівників частоти · linking words лише в пасиві.
 
 ---
 
 # Модуль 1 — Бліц: хвости A1 (≈1 тиждень)
 
 - ⬜ **L11.** 🔁 Прикметники і прислівники: -ly, позиція в реченні; підсилювачі very / really / quite / pretty / so / such; пари -ed vs -ing (excited/exciting, disappointed/disappointing). *(Відкриває ~25 прислівників нової партії: actually, definitely, hardly, rarely, eventually, deliberately…)*
-- ⬜ **L12.** 🔁 Прийменники місця й часу (in/on/at, by/until, for/during, towards) + об'єктні займенники (me/him/her/us).
+- 🔴 **L12.** **ПРІОРИТЕТ** — Прийменники місця й часу (in/on/at, by/until, for/during, towards) + об'єктні займенники (me/him/her/us).
 - ⬜ **L13.** 🔁 Кількість: some/any, much/many/a lot of, a few/a little, plenty of, too/enough.
 
 # Модуль 2 — Минуле: розповідь
 
-- ⬜ **L14.** 🔁 Past Simple повний: правильні/неправильні, did/didn't, маркери (ago, last, yesterday), there was/were. → [grammar](grammar/past-simple.md)
-- ⬜ **L15.** Past Continuous; Past Simple vs Continuous (while/when).
-- ⬜ **L16.** used to / would (минулі звички) + storytelling-зв'язки (first, then, afterwards, suddenly, eventually, finally).
+- ⬜ **L14.** 🔁 *(діагн.: чисто)* Past Simple повний: правильні/неправильні, did/didn't, маркери (ago, last, yesterday), there was/were. → [grammar](grammar/past-simple.md)
+- ⬜ **L15.** 🔁 *(діагн.: чисто)* Past Continuous; Past Simple vs Continuous (while/when).
+- ⬜ **L16.** 🔁 *(діагн.: чисто)* used to / would (минулі звички) + storytelling-зв'язки (first, then, afterwards, suddenly, eventually, finally).
 - 📝 **Письмо №1:** розповідь «Як я став розробником» (минулі часи + зв'язки).
 
 # Модуль 3 — Майбутнє й умови
 
-- ⬜ **L17.** 🔁 going to vs will vs Present Continuous про майбутнє (план / обіцянка / домовленість); Present Simple для розкладів.
-- ⬜ **L18.** Zero + First Conditional (if / when / unless / as soon as).
+- ⬜ **L17.** 🔁 *(діагн.: чисто)* going to vs will vs Present Continuous про майбутнє (план / обіцянка / домовленість); Present Simple для розкладів.
+- ⬜ **L18.** 🔁 *(діагн.: структура чиста)* Zero + First Conditional (if / when / unless / as soon as).
 - ⬜ **L19.** Second Conditional (would + гіпотетичне).
 - 📝 **Письмо №2:** «Плани на Everyday Tools на рік уперед» (future forms + conditionals).
 
 # Модуль 4 — Present Perfect (ядро B1)
 
-- ⬜ **L20.** Present Perfect I: have/has + V3; ever / never / just / already / yet.
+- 🔴 **L20.** **ГОЛОВНИЙ ПРОБІЛ** — Present Perfect I: have/has + V3; ever / never / just / already / yet.
 - ⬜ **L21.** Present Perfect vs Past Simple; for / since; been / gone. ← найважчий стик для українців
 - ⬜ **L22.** Present Perfect Continuous (I've been learning English for two months).
 - ⬜ **L23.** Past Perfect (by the time…, after I had…).
@@ -66,12 +71,12 @@
 
 # Модуль 5 — Структури B1
 
-- ⬜ **L24.** 🔁 Passive: present / past / future (the app **is being verified** — ти це вже намацав сам).
+- ⬜ **L24.** 🔁 *(діагн.: past passive чисто, тривалий — ні)* Passive: present / past / future (the app **is being verified** — ти це вже намацав сам).
 - ⬜ **L25.** Gerund vs Infinitive (like doing / want to do / stop doing / spend time doing). ← твій повторюваний леак
-- ⬜ **L26.** Модальні: should/shouldn't, must/mustn't, have to/don't have to; would like.
+- ⬜ **L26.** 🔁 *(діагн.: чисто)* Модальні: should/shouldn't, must/mustn't, have to/don't have to; would like.
 - ⬜ **L27.** Модальні-припущення (deduction): might / could / must be / can't be.
 - ⬜ **L28.** Relative clauses (who/which/that/where; defining vs non-defining).
-- ⬜ **L29.** Порівняння повні: -er / more…than, the -est, as…as, the more…the better.
+- ⬜ **L29.** 🔁 *(діагн.: чисто)* Порівняння повні: -er / more…than, the -est, as…as, the more…the better.
 - 📝 **Письмо №4:** порівняльний огляд «Todo Space vs конкурент» (порівняння + relative clauses + passive).
 
 # Модуль 6 — Зв'язність і природність

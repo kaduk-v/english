@@ -35,6 +35,36 @@
 
 ---
 
-## Результати
+## Результати (перевірено 14.08.2026)
 
-_Заповнюється після перевірки: мапа «тема → 🔁 3×100% чи повна 5×100%» + оновлення статусів у plan.md._
+**Робочий діапазон: A2+ / B1-** — профіль рваний: каркас речення міцний, але Present Perfect відсутній як клас, а прийменники течуть.
+
+### 🏆 Головне досягнення
+**be-omission ЗАКРИТО.** 13 речень поспіль — у кожному є дієслово. Леак №1, який тягнувся з Уроку 0 і зривав раунди 5 разів, більше не спрацьовує навіть під навантаженням незнайомої граматики.
+
+### ✅ Тримає (→ режим 🔁, 3×100%)
+
+| Тема | Доказ |
+|---|---|
+| Past Simple | *Last month I released my first app* |
+| Past Continuous + when | *I was watching TV when a friend called* — ідеально |
+| used to | *I used to play football every day* |
+| going to / will | *I'm going to release… it will be more popular* |
+| First Conditional | *If …, I will …* — структура чиста |
+| Passive (past) | *This app was created by one person* |
+| should / had to | обидва правильні |
+| Comparatives | *more popular than* |
+
+### 🔴 Пробіли (→ повні 5×100%)
+
+1. **Present Perfect — нуль.** «Працюю 5 років» → `I work … during five years`. Сам це визнав у п.12. → Модуль 4 у повному обсязі.
+2. **Прийменники — новий леак №1.** `during`→for · `on English`→in · `on previous work`→at my job · `on vacancy description`→in the job description. L12 піднято в пріоритет.
+3. **Професійні false friends** — найдорожчі на співбесіді: `functional`→functionality · `perspectives`→prospects · `increase`→grow · `cancel`→reject · `agree with`→accept.
+4. **Пасив тривалий** — `are testing` замість `is being tested` (повтор ×3).
+5. **Артиклі** — точково: *the Google*, *than first one*, *the friend*, *the international team*.
+6. **Позиція прислівників частоти** — *I play rarely* → *I rarely play*.
+7. **Linking words — лише пасивно.** Частину B перекладено не повністю: речення з `whereas` / `eventually` / `fluency` пропущено. → Модуль 6.
+
+### Не виконано в завданні
+- п.10 — перекладено 1 речення з 3.
+- п.11 — 4 речення замість 5–7; немає речення з порівнянням.

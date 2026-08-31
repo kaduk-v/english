@@ -14,5 +14,6 @@
 | Past Simple (+ неправильні дієслова) | [past-simple.md](past-simple.md) | L15–L18 |
 | Модальні дієслова (can, could…) | [modal-verbs.md](modal-verbs.md) | L10, L29–L31 |
 | Наказовий спосіб (Imperatives) | [imperatives.md](imperatives.md) | L10 |
+| Прикметники та прислівники (+ -ed/-ing, підсилювачі) | [adjectives-adverbs.md](adjectives-adverbs.md) | L11 |
 
-_Список росте по мірі проходження [плану](../plan.md). Наступні: Past Simple (L16–L18), прийменники (L12), quantifiers (L14)._
+_Список росте по мірі проходження [плану](../plan.md). Наступні: прийменники (L12), quantifiers (L13), Present Perfect (L20–L23)._

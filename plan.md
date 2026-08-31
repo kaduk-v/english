@@ -43,7 +43,7 @@
 
 # Модуль 1 — Бліц: хвости A1 (≈1 тиждень)
 
-- ⬜ **L11.** 🔁 Прикметники і прислівники: -ly, позиція в реченні; підсилювачі very / really / quite / pretty / so / such; пари -ed vs -ing (excited/exciting, disappointed/disappointing). *(Відкриває ~25 прислівників нової партії: actually, definitely, hardly, rarely, eventually, deliberately…)*
+- 🟡 **L11.** 🔁 Прикметники і прислівники: -ly, позиція в реченні; підсилювачі very / really / quite / pretty / so / such; пари -ed vs -ing (excited/exciting, disappointed/disappointing). → [lesson](lessons/11-adjectives-adverbs.md) · [grammar](grammar/adjectives-adverbs.md) *(Відкриває ~25 прислівників нової партії: actually, definitely, hardly, rarely, eventually, deliberately…)*
 - 🔴 **L12.** **ПРІОРИТЕТ** — Прийменники місця й часу (in/on/at, by/until, for/during, towards) + об'єктні займенники (me/him/her/us).
 - ⬜ **L13.** 🔁 Кількість: some/any, much/many/a lot of, a few/a little, plenty of, too/enough.
 

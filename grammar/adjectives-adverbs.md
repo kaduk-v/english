@@ -4,243 +4,394 @@
 
 | | Описує | Питання | Приклад |
 |---|---|---|---|
-| **Прикметник** (adjective) | **іменник** | який? | a **fast** developer |
-| **Прислівник** (adverb) | **дієслово**, прикметник, інший прислівник, усе речення | як? наскільки? | he codes **fast** |
+| **Прикметник** (adjective) | **іменник** | який? яка? яке? | a **fast** developer — швидкий розробник |
+| **Прислівник** (adverb) | **дієслово**, прикметник, інший прислівник, усе речення | як? наскільки? | he codes **fast** — він кодить швидко |
+
+### 🇺🇦 Українська опора
+
+В українській ти цю різницю чуєш **на слух, за закінченням**:
+
+| Українською | Англійською | Що описує |
+|---|---|---|
+| швидк**ий** код (який?) | **fast** code | іменник → прикметник |
+| він пише швидк**о** (як?) | he writes **fast** | дієслово → прислівник |
+| уважн**ий** розробник | a **careful** developer | іменник → прикметник |
+| він читає уважн**о** | he reads **carefully** | дієслово → прислівник |
+
+**Ключ:** український прислівник майже завжди закінчується на **-о / -е** (швидко, добре, уважно, рідко). Англійський — здебільшого на **-ly**. Тобто:
+
+> **-о (укр.) ≈ -ly (англ.)**
+
+Тому: `уважно` → `carefully`, `тихо` → `quietly`, `рідко` → `rarely`.
+
+### Тест на 2 секунди
+
+Постав питання до слова:
+- **який / яка / яке / які?** → прикметник (без -ly)
+- **як / наскільки / коли / як часто?** → прислівник (зазвичай з -ly)
 
 > Node-аналогія: прикметник — це властивість об'єкта (`user.active`), прислівник — модифікатор виклику функції (`run(fn, { fast: true })`).
 
 ---
 
-## 1. Утворення прислівника: + ly
+## 1. Типи прислівників (щоб бачити картину цілком)
+
+| Тип | Питання | Приклади (з перекладом) | Типова позиція |
+|---|---|---|---|
+| **способу дії** (manner) | як? | carefully — уважно · quickly — швидко · badly — погано · fluently — вільно (про мову) | кінець речення |
+| **частоти** (frequency) | як часто? | always — завжди · often — часто · rarely — рідко · never — ніколи | середина |
+| **часу** (time) | коли? | yesterday — учора · now — зараз · soon — скоро · eventually — врешті-решт | кінець (або початок) |
+| **місця** (place) | де? куди? | here — тут · abroad — за кордоном · upstairs — нагорі · everywhere — всюди | кінець |
+| **міри / ступеня** (degree) | наскільки? | very — дуже · quite — досить · absolutely — абсолютно · hardly — ледве | перед словом, яке підсилює |
+| **коментаря** (comment / sentence) | оцінка всього речення | honestly — чесно кажучи · obviously — очевидно · luckily — на щастя · definitely — точно | початок (кома) або середина |
+
+**Прислівники коментаря** — вони описують не дієслово, а **все речення**. Це «голос автора»:
+
+- **Honestly**, the release was smooth. — Чесно кажучи, реліз пройшов гладко.
+- **Obviously**, we need more tests. — Очевидно, нам потрібно більше тестів.
+- **Luckily**, nobody noticed the bug. — На щастя, ніхто не помітив баг.
+- **Unfortunately**, the server crashed. — На жаль, сервер упав.
+
+Такі прислівники можуть стояти й у середині: The build **obviously** failed. — Білд, очевидно, впав.
+
+---
+
+## 2. Утворення прислівника: + ly
 
 ### Правопис
 
-| Правило | Приклад |
-|---|---|
-| зазвичай `+ly` | quick → quick**ly**, careful → careful**ly** |
-| приголосна + `y` → `ily` | easy → eas**ily**, happy → happ**ily**, angry → angr**ily** |
-| закінчується на `-le` → `le` стає `ly` | possible → possib**ly**, gentle → gent**ly**, simple → simp**ly** |
-| закінчується на `-ic` → `ically` | basic → bas**ically**, automatic → automat**ically**, tragic → trag**ically** |
-| закінчується на `-ue` → `e` зникає | true → tr**uly**, due → d**uly** |
-| закінчується на `-ll` → просто `+y` | full → ful**ly**, dull → dul**ly** |
-
-> ⚠️ Виняток: **public → publicly** (не «publically»).
-
-### Прикметники, які САМІ закінчуються на -ly
-
-`friendly`, `lovely`, `silly`, `lonely`, `ugly`, `likely`, `daily`, `weekly`, `costly` — це **прикметники**. Прислівника від них немає; замість нього — конструкція:
-
-- ❌ ~~He answered friendly.~~ → ✅ He answered **in a friendly way**.
-- ❌ ~~She smiled lovelily.~~ → ✅ She smiled **in a lovely way**.
-
----
-
-## 2. Прислівники БЕЗ -ly (форма збігається з прикметником)
-
-| Слово | Як прикметник | Як прислівник |
+| Правило | Приклад | Переклад |
 |---|---|---|
-| **fast** | a fast car | he drives fast |
-| **hard** | hard work | he works hard |
-| **late** | a late release | he arrived late |
-| **early** | an early build | she came early |
-| **high** | a high tower | the bird flew high |
-| **low** | a low price | the plane flew low |
-| **near** | the near future | come near |
-| **straight** | a straight line | go straight |
-| **wrong** | the wrong file | you did it wrong |
-| **daily / weekly / monthly** | a daily build | we deploy daily |
-| **long** | a long day | I waited long |
+| зазвичай `+ly` | quick → quick**ly** | швидкий → швидко |
+| | careful → careful**ly** | уважний → уважно |
+| приголосна + `y` → `ily` | easy → eas**ily** | легкий → легко |
+| | happy → happ**ily** | щасливий → щасливо |
+| | angry → angr**ily** | сердитий → сердито |
+| закінчується на `-le` → `le` стає `ly` | possible → possib**ly** | можливий → можливо |
+| | gentle → gent**ly** | м'який → м'яко, обережно |
+| | simple → simp**ly** | простий → просто |
+| закінчується на `-ic` → `ically` | basic → bas**ically** | базовий → загалом, по суті |
+| | automatic → automat**ically** | автоматичний → автоматично |
+| | tragic → trag**ically** | трагічний → трагічно |
+| закінчується на `-ue` → `e` зникає | true → tr**uly** | правдивий → справді |
+| | due → d**uly** | належний → належним чином |
+| закінчується на `-ll` → просто `+y` | full → ful**ly** | повний → повністю |
+| | dull → dul**ly** | тьмяний → мляво |
+
+> ⚠️ Виняток: **public → publicly** /ˈpʌblɪkli/ (не «publically») — публічний → публічно.
+
+### Прикметники, які САМІ закінчуються на -ly (пастка!)
+
+Ці слова виглядають як прислівники, але це **прикметники**:
+
+| Слово | Переклад | Приклад |
+|---|---|---|
+| **friendly** /ˈfrendli/ | дружній, привітний | a friendly team — дружня команда |
+| **lovely** /ˈlʌvli/ | милий, чудовий | a lovely day — чудовий день |
+| **silly** /ˈsɪli/ | дурний, безглуздий | a silly mistake — дурна помилка |
+| **lonely** /ˈləʊnli/ | самотній | a lonely developer — самотній розробник |
+| **ugly** /ˈʌɡli/ | потворний | ugly code — потворний код |
+| **likely** /ˈlaɪkli/ | ймовірний | a likely cause — ймовірна причина |
+| **daily / weekly / monthly** | щоденний / щотижневий / щомісячний | a daily build — щоденний білд |
+| **costly** /ˈkɒstli/ | дорогий, витратний | a costly bug — дорогий (в наслідках) баг |
+
+Прислівника від них немає; замість нього — конструкція **in a … way** («у … спосіб»):
+
+- ❌ ~~He answered friendly.~~ → ✅ He answered **in a friendly way**. — Він відповів привітно.
+- ❌ ~~She smiled lovelily.~~ → ✅ She smiled **in a lovely way**. — Вона мило усміхнулася.
+
+> Виняток: `daily / weekly / monthly` працюють і як прислівники: We deploy **daily**. — Ми деплоїмо щодня.
 
 ---
 
-## 3. 🎭 Пари, де -ly МІНЯЄ значення
+## 3. Прислівники БЕЗ -ly (форма збігається з прикметником)
 
-Найважливіший розділ теми — ці пари не синоніми, а різні слова.
+Тут англійська «економить»: одне слово працює і як прикметник, і як прислівник. Різницю показує **позиція в реченні**, а не форма.
+
+| Слово | Переклад | Як прикметник (який?) | Як прислівник (як?) |
+|---|---|---|---|
+| **fast** /fɑːst/ | швидкий / швидко | a fast car — швидка машина | he drives fast — він їздить швидко |
+| **hard** /hɑːd/ | важкий, наполегливий / наполегливо | hard work — важка робота | he works hard — він багато працює |
+| **late** /leɪt/ | пізній / пізно | a late release — пізній реліз | he arrived late — він прийшов пізно |
+| **early** /ˈɜːli/ | ранній / рано | an early build — ранній білд | she came early — вона прийшла рано |
+| **high** /haɪ/ | високий / високо | a high tower — висока вежа | the bird flew high — птах летів високо |
+| **low** /ləʊ/ | низький / низько | a low price — низька ціна | the plane flew low — літак летів низько |
+| **near** /nɪə/ | близький / близько | the near future — найближче майбутнє | come near — підійди ближче |
+| **straight** /streɪt/ | прямий / прямо | a straight line — пряма лінія | go straight — іди прямо |
+| **wrong** /rɒŋ/ | неправильний / неправильно | the wrong file — не той файл | you did it wrong — ти зробив це неправильно |
+| **long** /lɒŋ/ | довгий / довго | a long day — довгий день | I waited long — я чекав довго |
+| **daily / weekly / monthly** | щоденний / щодня | a daily build — щоденний білд | we deploy daily — ми деплоїмо щодня |
+
+> 🔑 Як не заплутатися: дивись, **що стоїть поруч**. Перед іменником (`a fast car`) — прикметник. Після дієслова (`he drives fast`) — прислівник.
+
+---
+
+## 4. 🎭 Пари, де -ly МІНЯЄ значення
+
+Найважливіший розділ теми — ці пари **не синоніми, а різні слова**. Додавання `-ly` тут не «робить прислівник», а створює нове значення.
 
 | Без -ly | Значення | З -ly | Значення |
 |---|---|---|---|
-| **hard** | наполегливо, важко | **hardly** | ледве, майже не |
-| **late** | пізно | **lately** | останнім часом |
-| **near** | близько | **nearly** | майже |
-| **high** | високо (фізично) | **highly** | дуже, високо (оцінка) |
-| **most** | найбільше | **mostly** | здебільшого |
-| **free** | безкоштовно | **freely** | вільно, без обмежень |
-| **right** | правильно; одразу | **rightly** | справедливо, слушно |
-| **short** | різко (stop short) | **shortly** | невдовзі |
-| **wide** | широко (open wide) | **widely** | широко (розповсюджено) |
-| **deep** | глибоко (фізично) | **deeply** | глибоко (емоційно) |
+| **hard** /hɑːd/ | наполегливо, важко | **hardly** /ˈhɑːdli/ | ледве, майже не |
+| **late** /leɪt/ | пізно | **lately** /ˈleɪtli/ | останнім часом |
+| **near** /nɪə/ | близько | **nearly** /ˈnɪəli/ | майже |
+| **high** /haɪ/ | високо (фізично) | **highly** /ˈhaɪli/ | дуже, високо (оцінка) |
+| **most** /məʊst/ | найбільше | **mostly** /ˈməʊstli/ | здебільшого |
+| **free** /friː/ | безкоштовно | **freely** /ˈfriːli/ | вільно, без обмежень |
+| **right** /raɪt/ | правильно; одразу | **rightly** /ˈraɪtli/ | справедливо, слушно |
+| **short** /ʃɔːt/ | різко (stop short — різко спинитися) | **shortly** /ˈʃɔːtli/ | невдовзі |
+| **wide** /waɪd/ | широко (open wide — широко відкрити) | **widely** /ˈwaɪdli/ | широко (розповсюджено) |
+| **deep** /diːp/ | глибоко (фізично) | **deeply** /ˈdiːpli/ | глибоко (емоційно) |
 
 **Контрастні приклади:**
+
 - He works **hard**. — Він багато працює. ↔ He **hardly** works. — Він майже не працює. *(протилежний зміст!)*
 - The build finished **late**. — Білд завершився пізно. ↔ I haven't slept much **lately**. — Останнім часом я мало сплю.
 - We're **near** the office. — Ми біля офісу. ↔ It's **nearly** done. — Майже готово.
-- The drone flew **high**. ↔ A **highly** experienced developer. — Дуже досвідчений розробник.
+- The drone flew **high**. — Дрон летів високо. ↔ A **highly** experienced developer. — Дуже досвідчений розробник.
+- The app is **free**. — Застосунок безкоштовний. ↔ You can speak **freely**. — Можеш говорити вільно.
+
+### Окремо про `hardly` — слово-заперечення
+
+`hardly` вже містить «не», тому друге заперечення не ставимо:
+
+- ❌ ~~I don't hardly know him.~~ → ✅ I **hardly** know him. — Я його майже не знаю.
+- Ті самі за логікою: **scarcely** — ледве · **barely** — ледь-ледь · **rarely / seldom** — рідко.
+- Сталі: **hardly ever** — майже ніколи · **hardly any** — майже жодного (We had **hardly any** bugs. — У нас майже не було багів.)
 
 ### good / well
 
-- **good** — прикметник: a **good** app · The code is **good**.
-- **well** — прислівник до `good`: The app works **well**. *(не «works good»)*
-- **well** — ще й прикметник «здоровий»: I don't feel **well** today. — Мені сьогодні недобре.
+| Слово | Частина мови | Переклад | Приклад |
+|---|---|---|---|
+| **good** /ɡʊd/ | прикметник | хороший | a **good** app — хороший застосунок · The code is **good**. — Код хороший. |
+| **well** /wel/ | прислівник (до good) | добре | The app works **well**. — Застосунок працює добре. *(не «works good»)* |
+| **well** /wel/ | прикметник | здоровий, у нормі | I don't feel **well** today. — Мені сьогодні недобре. |
 
 ---
 
-## 4. Позиція прислівника в реченні
+## 5. Позиція прислівника в реченні
 
 Три позиції: **front** (початок), **mid** (середина), **end** (кінець).
 
-### 4.1 Прислівники частоти — позиція MID (найважливіше правило)
+### 5.1 Прислівники частоти — позиція MID (найважливіше правило)
 
-`always · usually · often · frequently · sometimes · occasionally · rarely · seldom · hardly ever · never`
+| Слово | Транскрипція | Переклад |
+|---|---|---|
+| **always** | /ˈɔːlweɪz/ | завжди |
+| **usually** | /ˈjuːʒuəli/ | зазвичай |
+| **often** | /ˈɒf(t)ən/ | часто |
+| **frequently** | /ˈfriːkwəntli/ | часто, регулярно |
+| **sometimes** | /ˈsʌmtaɪmz/ | іноді |
+| **occasionally** | /əˈkeɪʒnəli/ | час від часу |
+| **rarely** | /ˈreəli/ | рідко |
+| **seldom** | /ˈseldəm/ | рідко (книжніше) |
+| **hardly ever** | /ˈhɑːdli ˈevə/ | майже ніколи |
+| **never** | /ˈnevə/ | ніколи |
 
 | Тип присудка | Правило | Приклад |
 |---|---|---|
-| смислове дієслово | **ПЕРЕД** ним | I **rarely** play football. |
-| дієслово `be` | **ПІСЛЯ** нього | He **is always** late. |
-| допоміжне / модальне | **ПІСЛЯ** першого | I have **never** worked there. · You can **also** install it. · She doesn't **usually** reply. |
+| смислове дієслово | **ПЕРЕД** ним | I **rarely** play football. — Я рідко граю у футбол. |
+| дієслово `be` | **ПІСЛЯ** нього | He **is always** late. — Він завжди спізнюється. |
+| допоміжне / модальне | **ПІСЛЯ** першого | I have **never** worked there. — Я ніколи там не працював. · You can **also** install it. — Ти можеш також це встановити. · She doesn't **usually** reply. — Вона зазвичай не відповідає. |
 
 > 🔑 Одне правило на всі три рядки: прислівник стає **після ПЕРШОГО допоміжного**, а якщо допоміжного немає — **перед смисловим дієсловом**. `be` поводиться як допоміжне.
 
-- ❌ ~~Now I play rarely.~~ → ✅ Now I **rarely** play.
+- ❌ ~~Now I play rarely.~~ → ✅ Now I **rarely** play. — Тепер я рідко граю.
 - ❌ ~~You also can install it.~~ → ✅ You can **also** install it.
 
-`sometimes`, `usually`, `often`, `occasionally` можуть також стояти на початку речення для акценту: **Sometimes** I work at night.
-`always` і `never` на початку — **лише** в наказовому: **Never** push to main on Friday.
+**Чому це важко для нас:** в українській прислівник вільно гуляє реченням («я рідко граю» = «граю я рідко» = «рідко я граю»). В англійській порядок слів жорсткий — для частоти є **одне** місце.
 
-### 4.2 Прислівники способу дії (як?) — позиція END
+`sometimes`, `usually`, `often`, `occasionally` можуть також стояти на початку речення для акценту: **Sometimes** I work at night. — Іноді я працюю вночі.
+`always` і `never` на початку — **лише** в наказовому: **Never** push to main on Friday. — Ніколи не пуш у main у п'ятницю.
 
-`carefully · quickly · quietly · well · badly · fluently`
+### 5.2 Ті самі правила — для `probably / definitely / certainly`
 
-- She explained the bug **carefully**.
-- He speaks English **fluently**.
+Прислівники впевненості теж живуть у MID-позиції:
+
+- I'll **probably** finish it today. — Я, мабуть, закінчу це сьогодні.
+- She's **definitely** right. — Вона точно має рацію.
+- ⚠️ У запереченні вони йдуть **ПЕРЕД** `not`: I **definitely** won't do that. — Я точно цього не робитиму. (не ~~won't definitely~~)
+
+### 5.3 Прислівники способу дії (як?) — позиція END
+
+`carefully` — уважно · `quickly` — швидко · `quietly` — тихо · `well` — добре · `badly` — погано · `fluently` — вільно
+
+- She explained the bug **carefully**. — Вона уважно пояснила баг.
+- He speaks English **fluently**. — Він вільно говорить англійською.
 
 ⚠️ **Ніколи не став прислівник між дієсловом і прямим додатком:**
+
 - ❌ ~~I speak fluently English.~~ → ✅ I speak English **fluently**.
 - ❌ ~~He writes carefully the code.~~ → ✅ He writes the code **carefully**.
 
-### 4.3 Порядок кількох прислівників у кінці: **M–P–T**
+> Правило-схема: **дієслово + додаток + прислівник**. Додаток «приклеєний» до дієслова, розбивати не можна.
+
+### 5.4 Порядок кількох прислівників у кінці: **M–P–T**
 
 **Manner → Place → Time** (як → де → коли)
 
-- I worked **hard** (M) **at the office** (P) **yesterday** (T).
-- She sang **beautifully** (M) **on stage** (P) **last night** (T).
+- I worked **hard** (M) **at the office** (P) **yesterday** (T). — Учора я багато працював в офісі.
+- She sang **beautifully** (M) **on stage** (P) **last night** (T). — Вона чудово співала на сцені вчора ввечері.
 
 Час можна винести на початок для акценту: **Yesterday** I worked hard at the office.
 
-### 4.4 Підсилювачі — ПЕРЕД словом, яке підсилюють
+### 5.5 Підсилювачі — ПЕРЕД словом, яке підсилюють
 
-- It's **very** fast. · She's **really** talented. · He speaks **quite** well.
+- It's **very** fast. — Це дуже швидко.
+- She's **really** talented. — Вона справді талановита.
+- He speaks **quite** well. — Він говорить досить добре.
 
 ---
 
-## 5. Порядок прикметників перед іменником
+## 6. Порядок прикметників перед іменником
 
 Коли прикметників кілька, порядок фіксований — **OSASCOMP**:
 
-| # | Категорія | Приклади |
+| # | Категорія | Приклади з перекладом |
 |---|---|---|
-| 1 | **O**pinion (оцінка) | beautiful, terrible, useful, boring |
-| 2 | **S**ize (розмір) | big, small, tiny, huge |
-| 3 | **A**ge (вік) | old, new, ancient, young |
-| 4 | **S**hape (форма) | round, square, flat, narrow |
-| 5 | **C**olour (колір) | red, dark, blue |
-| 6 | **O**rigin (походження) | Ukrainian, French, Japanese |
-| 7 | **M**aterial (матеріал) | wooden, plastic, metal |
-| 8 | **P**urpose (призначення) | running (shoes), gaming (chair) |
+| 1 | **O**pinion (оцінка) | beautiful — гарний · terrible — жахливий · useful — корисний · boring — нудний |
+| 2 | **S**ize (розмір) | big — великий · small — малий · tiny — крихітний · huge — величезний |
+| 3 | **A**ge (вік) | old — старий · new — новий · ancient — древній · young — молодий |
+| 4 | **S**hape (форма) | round — круглий · square — квадратний · flat — плоский · narrow — вузький |
+| 5 | **C**olour (колір) | red — червоний · dark — темний · blue — синій |
+| 6 | **O**rigin (походження) | Ukrainian — український · French — французький · Japanese — японський |
+| 7 | **M**aterial (матеріал) | wooden — дерев'яний · plastic — пластиковий · metal — металевий |
+| 8 | **P**urpose (призначення) | running (shoes) — бігові (кросівки) · gaming (chair) — ігрове (крісло) |
 
-- a **lovely small old round black Italian leather** bag
-- a **great new gaming** laptop
-- an **ugly big plastic** case
+- a **lovely small old round black Italian leather** bag — гарна маленька стара кругла чорна італійська шкіряна сумка
+- a **great new gaming** laptop — чудовий новий ігровий ноутбук
+- an **ugly big plastic** case — потворний великий пластиковий корпус
 
-> Практично: більше 3 прикметників поспіль у живій мові майже не буває. Коми між прикметниками одного типу: a **cheap, unreliable** service.
+> 🔑 Логіка порядку: що **суб'єктивніше** — те далі від іменника; що **невіддільніше** від речі — те ближче до неї. `leather bag` — це майже одне слово, а `lovely` — просто твоя думка.
+
+> Практично: більше 3 прикметників поспіль у живій мові майже не буває. Коми між прикметниками одного типу: a **cheap, unreliable** service — дешевий, ненадійний сервіс.
 
 ---
 
-## 6. Дієслова стану (linking verbs) → після них ПРИКМЕТНИК
+## 7. Дієслова стану (linking verbs) → після них ПРИКМЕТНИК
 
 Після цих дієслів іде **прикметник**, бо він описує підмет, а не дію:
 
-`be · seem · appear · look · feel · sound · taste · smell · become · get · turn · stay · remain`
+| Дієслово | Переклад |
+|---|---|
+| **be** | бути |
+| **seem / appear** | здаватися |
+| **look** | виглядати |
+| **feel** | почуватися |
+| **sound** | звучати |
+| **taste** | смакувати, бути на смак |
+| **smell** | пахнути |
+| **become / get / turn** | ставати |
+| **stay / remain** | залишатися |
 
-- The code looks **clean**. *(не «cleanly»)*
-- This coffee tastes **awful**. *(не «awfully»)*
-- I feel **tired**. · He became **famous**. · It's getting **dark**.
+- The code looks **clean**. — Код виглядає чистим. *(не «cleanly»)*
+- This coffee tastes **awful**. — Ця кава жахлива на смак. *(не «awfully»)*
+- I feel **tired**. — Я почуваюся втомленим.
+- He became **famous**. — Він став відомим.
+- It's getting **dark**. — Темніє.
+- Your idea sounds **great**. — Твоя ідея звучить чудово.
 
-**Порівняй:**
-- He looks **careful**. — Він виглядає обережним. *(яким він є)*
-- He looks **carefully** at the logs. — Він уважно дивиться в логи. *(як він дивиться)*
+**Порівняй** — те саме дієслово `look` у двох ролях:
+
+- He looks **careful**. — Він виглядає обережним. *(яким він є → прикметник)*
+- He looks **carefully** at the logs. — Він уважно дивиться в логи. *(як він дивиться → прислівник)*
+
+> 🔑 Тест: якщо дієслово можна замінити на **be** і сенс збережеться — це linking verb, ставимо прикметник. *The code looks clean → The code is clean.* ✅
 
 ---
 
-## 7. Підсилювачі (intensifiers)
+## 8. Підсилювачі (intensifiers)
 
-### 7.1 Шкала сили
+### 8.1 Шкала сили
 
-| Слабко → сильно | Приклад |
-|---|---|
-| a bit / a little | It's **a bit** slow. |
-| fairly | The task was **fairly** easy. |
-| quite | She's **quite** experienced. |
-| rather | It's **rather** expensive. |
-| pretty *(розмовне)* | The app is **pretty** good. |
-| very / really | It's **very** fast. |
-| extremely | **Extremely** useful. |
-| absolutely / totally / completely | **Absolutely** brilliant. |
-
-### 7.2 Градуальні vs неградуальні прикметники ⚠️
-
-| | Градуальні (можна «більш/менш») | Неградуальні / екстремальні |
+| Слабко → сильно | Переклад | Приклад |
 |---|---|---|
-| Приклади | hot, cold, big, good, tired, interesting | boiling, freezing, huge, perfect, exhausted, amazing |
+| a bit / a little | трохи | It's **a bit** slow. — Трохи повільно. |
+| fairly | доволі | The task was **fairly** easy. — Завдання було доволі легке. |
+| quite | досить | She's **quite** experienced. — Вона досить досвідчена. |
+| rather | радше, доволі (з відтінком «більше, ніж хотілось») | It's **rather** expensive. — Це доволі дорого. |
+| pretty *(розмовне)* | досить, вельми | The app is **pretty** good. — Застосунок досить непоганий. |
+| very / really | дуже / справді | It's **very** fast. — Це дуже швидко. |
+| extremely | надзвичайно | **Extremely** useful. — Надзвичайно корисно. |
+| absolutely / totally / completely | абсолютно / цілком / повністю | **Absolutely** brilliant. — Просто блискуче. |
+
+### 8.2 Градуальні vs неградуальні прикметники ⚠️
+
+| | Градуальні (можна «більш/менш») | Неградуальні / екстремальні (уже «на максимумі») |
+|---|---|---|
+| Приклади | hot — гарячий · cold — холодний · big — великий · good — хороший · tired — втомлений · interesting — цікавий | boiling — киплячий · freezing — крижаний · huge — величезний · perfect — ідеальний · exhausted — виснажений · amazing — приголомшливий |
 | Підсилювач | **very**, quite, extremely | **absolutely**, totally, completely |
-| ✅ | very hot · very tired | absolutely boiling · absolutely exhausted |
+| ✅ | very hot — дуже гарячий · very tired — дуже втомлений | absolutely boiling — просто окріп · absolutely exhausted — цілком виснажений |
 | ❌ | ~~absolutely hot~~ | ~~very boiling~~ · ~~very perfect~~ |
 
-### 7.3 so vs such (граматична пара)
+> 🔑 Логіка: `exhausted` — це вже «втомлений до межі». Сказати «very exhausted» — те саме, що українською «дуже виснажений вщент». Максимум не підсилюють — його **підтверджують**: `absolutely`.
+
+### 8.3 so vs such (граматична пара)
 
 | | Схема | Приклад |
 |---|---|---|
-| **so** | so + **прикметник / прислівник** | The app is **so fast**. · He types **so quickly**. |
-| **such** | such + (a/an) + (прикметник) + **іменник** | It's **such a fast app**. · **Such** great news! |
+| **so** | so + **прикметник / прислівник** | The app is **so fast**. — Застосунок такий швидкий. · He types **so quickly**. — Він друкує так швидко. |
+| **such** | such + (a/an) + (прикметник) + **іменник** | It's **such a fast app**. — Це такий швидкий застосунок. · **Such** great news! — Такі чудові новини! |
 
-- so + much/many/few/little: There were **so many** bugs.
-- Наслідок через `that`: It was **so late that** I went home. · It was **such a long day that** I fell asleep.
+- so + much/many/few/little: There were **so many** bugs. — Було так багато багів.
+- Наслідок через `that` (такий…, що…): It was **so late that** I went home. — Було так пізно, що я пішов додому. · It was **such a long day that** I fell asleep. — Це був такий довгий день, що я заснув.
 
-### 7.4 quite — два значення
+> 🔑 Маркер: за **so** іменника НЕМАЄ, за **such** іменник Є. Якщо в реченні є іменник — потрібен `such`.
 
-- + градуальний прикметник = «досить, доволі»: It's **quite** good. *(непогано, але не супер)*
-- + неградуальний = «повністю»: You're **quite right**. · **Quite** impossible.
-- `quite a` + іменник: That was **quite a** release. — Оце був реліз.
+### 8.4 quite — два значення
 
-### 7.5 too vs very vs enough
+- + градуальний прикметник = «досить, доволі»: It's **quite** good. — Досить непогано *(але не супер)*.
+- + неградуальний = «повністю, цілком»: You're **quite right**. — Ти цілком маєш рацію. · **Quite** impossible. — Цілком неможливо.
+- `quite a` + іменник = підсилення: That was **quite a** release. — Оце був реліз.
 
-- **very** — просто сила: It's **very** hot. *(факт)*
-- **too** — забагато, це проблема: It's **too** hot to work. *(негативна оцінка)*
-- **enough** — достатньо; іде **ПІСЛЯ** прикметника, але **ПЕРЕД** іменником: fast **enough** · **enough** time
+### 8.5 too vs very vs enough
+
+| Слово | Переклад | Суть | Приклад |
+|---|---|---|---|
+| **very** | дуже | просто сила, нейтрально | It's **very** hot. — Дуже спекотно. *(факт)* |
+| **too** | занадто | забагато, це **проблема** | It's **too** hot to work. — Занадто спекотно, щоб працювати. *(негативна оцінка)* |
+| **enough** | достатньо | достатньо для мети | fast **enough** — достатньо швидко · **enough** time — достатньо часу |
+
+⚠️ Позиція `enough`: **ПІСЛЯ** прикметника/прислівника, але **ПЕРЕД** іменником.
+- ✅ The server is fast **enough**. — Сервер достатньо швидкий.
+- ✅ We don't have **enough** time. — У нас недостатньо часу.
 
 ---
 
-## 8. Пари -ed / -ing 🎯
+## 9. Пари -ed / -ing 🎯
 
 | -ed = ЩО ВІДЧУВАЮ Я | -ing = ЯКЕ ВОНО (причина) |
 |---|---|
 | I'm **bored**. — Мені нудно. | The lecture is **boring**. — Лекція нудна. |
-| I'm **interested** in Node.js. | Node.js is **interesting**. |
-| I was **excited**. — Я був у захваті. | The news was **exciting**. |
-| I'm **tired**. | The trip was **tiring**. |
-| I'm **confused**. | The docs are **confusing**. |
-| I was **disappointed**. | The result was **disappointing**. |
-| I'm **surprised**. | The bug was **surprising**. |
-| I'm **exhausted**. | The week was **exhausting**. |
-| I'm **frustrated**. | The API is **frustrating**. |
-| I'm **satisfied**. | The outcome is **satisfying**. |
+| I'm **interested** in Node.js. — Мені цікавий Node.js. | Node.js is **interesting**. — Node.js цікавий. |
+| I was **excited**. — Я був у захваті. | The news was **exciting**. — Новина була захоплива. |
+| I'm **tired**. — Я втомлений. | The trip was **tiring**. — Подорож була виснажлива. |
+| I'm **confused**. — Я спантеличений. | The docs are **confusing**. — Документація заплутана. |
+| I was **disappointed**. — Я був розчарований. | The result was **disappointing**. — Результат був розчарувальний. |
+| I'm **surprised**. — Я здивований. | The bug was **surprising**. — Баг був дивовижний. |
+| I'm **exhausted**. — Я виснажений. | The week was **exhausting**. — Тиждень був виснажливий. |
+| I'm **frustrated**. — Я роздратований / у розпачі. | The API is **frustrating**. — Цей API дратує. |
+| I'm **satisfied**. — Я задоволений. | The outcome is **satisfying**. — Результат приємний. |
 
-> 🔑 Тест: **-ed** — це стан живої істоти (людина відчуває). **-ing** — це властивість джерела (річ викликає). Тому *«I am boring»* = «я нудна людина», а не «мені нудно».
+> 🔑 Тест: **-ed** — це стан живої істоти (людина **відчуває**). **-ing** — це властивість джерела (річ **викликає** відчуття). Тому *«I am boring»* = «я нудна людина», а не «мені нудно».
 
-**Прийменники після -ed:** interested **in** · surprised **at/by** · excited **about** · worried **about** · disappointed **with/in** · tired **of** *(набридло)* · bored **with/of**
+> 🇺🇦 Українська опора: **-ed** ≈ дієприкметник на **-ений/-ний** (втомл**ений**, спантелич**ений**); **-ing** ≈ прикметник на **-ливий/-ний** (виснаж**ливий**, нуд**ний**).
+
+**Прийменники після -ed** (стала пара — вчити разом зі словом):
+
+| Вираз | Переклад |
+|---|---|
+| interested **in** | цікавитися чимось |
+| surprised **at / by** | здивований чимось |
+| excited **about** | у захваті від |
+| worried **about** | стурбований чимось |
+| disappointed **with / in** | розчарований у |
+| tired **of** | втомитися від, набридло |
+| bored **with / of** | нудно від |
 
 ---
 
-## 9. Дерево рішень
+## 10. Дерево рішень
 
 ```
 Що описую?
@@ -251,6 +402,7 @@
     ├── частота (always…never)? → MID: після be / після 1-го допоміжного / перед смисловим
     ├── спосіб дії (як?) → END, і НІКОЛИ між дієсловом і додатком
     ├── кілька в кінці? → Manner → Place → Time
+    ├── оцінка всього речення (honestly, obviously)? → початок + кома
     └── підсилювач? → одразу перед словом
         ├── градуальний прикметник → very / quite / really
         └── екстремальний → absolutely / totally

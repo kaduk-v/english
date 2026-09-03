@@ -10,8 +10,8 @@
 **Пояснення:** той, хто дуже хоче щось зробити чи отримати й не може дочекатися.
 
 **💡 Конструкції:**
-- **eager to** do sth — She's **eager to** learn.
-- **eager for** sth — fans **eager for** the update.
+- **eager to** do sth — не сидиться зробити щось, рветься: She's **eager to** learn.
+- **eager for** sth — жадає чогось (іменника): fans **eager for** the update.
 
 **Приклади:**
 - Junior devs are often **eager to** take on hard tasks. — Джуни часто рвуться братися за складні задачі.
@@ -217,7 +217,12 @@
 ## essential
 **essential** /ɪˈsenʃl/ — **adjective** (прикметник) — необхідний, найважливіший, ключовий
 
-**Пояснення:** те, без чого не можна обійтися; сильніше за important. Конструкції: essential **for/to** sth; it is essential **to do** sth.
+**Пояснення:** те, без чого не можна обійтися; сильніше за important.
+
+**💡 Конструкції:**
+- **essential for** sth — необхідний для чогось (наслідок/мета): Water is **essential for** survival.
+- **essential to** sth — необхідний, невіддільний від чогось (частина суті): Trust is **essential to** any team.
+- **it is essential to** do sth — конче потрібно щось зробити: It's **essential to** back up your data.
 
 **Приклади:**
 - Backups are **essential** — do them daily. — Бекапи життєво необхідні — роби їх щодня.
@@ -257,7 +262,8 @@
 **💡 Незлічуване:**
 - ~~evidences~~, ~~an evidence~~ → some **evidence**, strong **evidence**.
 - Один доказ = **a piece of evidence**.
-- Конструкції: evidence **of** sth / evidence **that** + речення.
+- **evidence of** sth — доказ (наявності) чогось: evidence **of** a leak.
+- **evidence that** + речення — доказ того, що…: evidence **that** the leak exists.
 
 **Приклади:**
 - The logs show no **evidence of** a memory leak. — У логах немає ознак витоку пам'яті.
@@ -295,7 +301,11 @@
 ## excited
 **excited** /ɪkˈsaɪtɪd/ — **adjective** (прикметник) — у захваті, радісно схвильований
 
-**Пояснення:** про людину, яка відчуває захват. Конструкції: excited **about** sth, excited **to** do sth.
+**Пояснення:** про людину, яка відчуває захват.
+
+**💡 Конструкції:**
+- **excited about** sth — у захваті від чогось (іменника): excited **about** the new season.
+- **excited to** do sth — не може дочекатися зробити щось: excited **to** start.
 
 **Приклади:**
 - I'm **excited about** the new season of our favourite series. — Я в захваті від нового сезону нашого улюбленого серіалу.

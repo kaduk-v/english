@@ -1,0 +1,20 @@
+{
+  "name": "english",
+  "version": "1.0.0",
+  "description": "Персональна система вивчення англійської — B1+ CEFR: граматика, словник, уроки.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev . --port 5173",
+    "docs:build": "vitepress build .",
+    "docs:preview": "vitepress preview . --port 5174"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:kaduk-v/english.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

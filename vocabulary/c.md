@@ -83,7 +83,7 @@
 
 **💡 Конструкції:**
 - **certain of/about** + щось — упевнений **у** чомусь: Are you **certain of** the result?
-- **certain that** + речення: I'm **certain that** it will work.
+- **certain that** + речення — упевнений, що…: I'm **certain that** it will work.
 - **for certain** — напевно, точно: I don't know **for certain**. — Я не знаю напевно.
 
 **Приклади:**

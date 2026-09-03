@@ -117,6 +117,6 @@
 
 ## ✅ Архів: A1-ядро (закрито, липень 2026)
 
-L1 to be · L2 займенники (↻ добито в практиці) · L3 артиклі · L4 множина / countable · L5–L6 Present Simple · L7 have / have got (↻) · L8 Present Continuous · L9 PS vs PC · L10 can + imperatives. Матеріали для повторення: [lessons/](lessons/) + [grammar/](grammar/).
+L1 to be · L2 займенники (↻ добито в практиці) · L3 артиклі · L4 множина / countable · L5–L6 Present Simple · L7 have / have got (↻) · L8 Present Continuous · L9 PS vs PC · L10 can + imperatives. Матеріали для повторення: [lessons/](lessons/00-diagnostic) + [grammar/](grammar/_index).
 
 **Наскрізь у кожному уроці:** вимова/транскрипція, поповнення словника, правопис, прийменники, робота над `mistakes.md`.

@@ -2,20 +2,9 @@
 
 **Рівень:** A1–A2
 
-## Зміст
-
-- [Спільні властивості всіх модальних](#спільні-властивості-всіх-модальних)
-- [Форми](#форми)
-- [Значення](#значення)
-- [🔊 Вимова](#-вимова)
-- [can vs be able to](#can-vs-be-able-to)
-- [could](#could)
-
----
-
 Модальні: **can, could, may, might, must, should, will, would, shall**.
 
-## Спільні властивості всіх модальних
+### Спільні властивості всіх модальних
 
 | Властивість | Приклад |
 |---|---|
@@ -29,9 +18,9 @@
 
 ---
 
-# can
+## can
 
-## Форми
+### Форми
 
 | | Форма | Приклад |
 |---|---|---|
@@ -40,7 +29,7 @@
 | питання | Can + підмет + base? | **Can** you help? |
 | короткі відповіді | Yes, … **can** / No, … **can't** | — Can she cook? — Yes, she **can**. |
 
-## Значення
+### Значення
 
 | Значення | Приклад |
 |---|---|
@@ -52,18 +41,18 @@
 | **заборона** *(can't)* | You **can't** smoke inside. |
 | **впевненість, що ні** *(can't)* | That **can't** be true! |
 
-## 🔊 Вимова
+### 🔊 Вимова
 - `can` у ствердженні — слабка форма /kən/: I can /kən/ swim.
 - `can` під наголосом (у відповіді) — /kæn/: Yes, I **can** /kæn/.
 - `can't` — /kɑːnt/ (BrE), /kænt/ (AmE) — завжди чітко.
 
-## can vs be able to
+### can vs be able to
 `can` не має всіх часів — тоді виручає **be able to**:
 - теперішній: I **can** swim. = I **am able to** swim.
 - майбутнє: I **will be able to** swim. *(не «will can»)*
 - present perfect: I **have been able to** … *(не «have could»)*
 
-## could
+### could
 - **минуле вміння:** When I was five, I **could** swim.
 - **ввічливе прохання** (м'якше за can): **Could** you help me, please?
 - **можливість / припущення:** It **could** rain later.

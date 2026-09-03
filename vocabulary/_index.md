@@ -125,13 +125,13 @@
 | [ensure](e.md#ensure) | v | гарантувати, забезпечувати; подбати, щоб… | 💡 ensure vs insure vs assure |
 | [entire](e.md#entire) | adj | цілий, весь (= whole) | — |
 | [equipment](e.md#equipment) | n | обладнання; спорядження, екіпірування | 💡 Незлічуване |
-| [essential](e.md#essential) | adj | необхідний, найважливіший, ключовий | — |
+| [essential](e.md#essential) | adj | необхідний, найважливіший, ключовий | 💡 Конструкції |
 | [evaluate](e.md#evaluate) | v | оцінювати (якість, значення, варіанти) | — |
 | [eventually](e.md#eventually) | adv | врешті-решт, зрештою | 💡 False friend |
 | [evidence](e.md#evidence) | n | доказ(и), свідчення | 💡 Незлічуване |
 | [exactly](e.md#exactly) | adv | точно, саме, рівно | — |
 | [excite](e.md#excite) | v | захоплювати, викликати захват; збуджувати… | 💡 Правило -ed / -ing (працює… |
-| [excited](e.md#excited) | adj | у захваті, радісно схвильований | — |
+| [excited](e.md#excited) | adj | у захваті, радісно схвильований | 💡 Конструкції |
 | [exciting](e.md#exciting) | adj | захопливий | — |
 | [exhausted](e.md#exhausted) | adj | виснажений, украй втомлений | — |
 | [explode](e.md#explode) | v | вибухати; різко зростати | — |
@@ -243,7 +243,7 @@
 | [pretty](p.md#pretty) | adj / adv | гарненький, симпатичний; досить, доволі | 💡 Друге значення важливіше |
 | [projectile](p.md#projectile) | n | снаряд (усе, що летить: куля, стріла, фаєрбол) | — |
 | [proper](p.md#proper) | adj | належний, правильний, як слід | 💡 У роботі |
-| [punish](p.md#punish) | v | карати | — |
+| [punish](p.md#punish) | v | карати | 💡 Конструкція |
 | [punishment](p.md#punishment) | n | покарання | — |
 | [purpose](p.md#purpose) | n | мета, призначення | 💡 Ключові фрази |
 | [quiet](q.md#quiet) | adj / n | тихий, спокійний; тиша, спокій | 💡 quiet vs [quite](#quite) —… |

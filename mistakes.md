@@ -138,3 +138,8 @@
 | this is **urgent task** | this is **an urgent task** | 🔴 leak #3: однина злічуваного без артикля | 03.09 · Урок 11 Р3 |
 | do it **closely** | do it **urgently** / **right away** | невірне слово: `closely` = уважно/пильно (closely watch), не «терміново» | 03.09 · Урок 11 Р3 |
 | approach **more efficient** | approach **is more efficient** | 🎯 be-omission — леак був закритий 14.08, зараз одна ластівка; тримати в фокусі → [§1](rules.md#1-дієслово-та-підмет) | 03.09 · Урок 11 Р3 |
+| everything went surprisingly **smooth** | went surprisingly **smoothly** | 🔴 **ПОВТОР ×3 поспіль** (Р2, Р3, тепер Р4) — `smooth` NOT у списку fast/hard/late; ти, ймовірно, за аналогією підтягуєш його туди помилково → [adjectives-adverbs §3](grammar/b1/adjectives-adverbs.md) | 03.09 · Урок 11 Р4 |
+| a short **clarity** answer | a short, **clear** answer | ⚠️ **ПОВТОР** (Р3: «a clarity documentation») — перед іменником потрібен ПРИКМЕТНИК (`clear`), `clarity` це іменник | 03.09 · Урок 11 Р4 |
+| gave me **an advice** | gave me **advice** / **a piece of advice** | 🔴 **ПОВТОР ×3** (Р2 «advices», Р3 «advices», тепер «an advice») — `advice` незлічуване НАВІТЬ з `a`/`one`; конкретний випадок = `a piece of advice` → [§5](rules.md#5-артиклі-та-присвійні) | 03.09 · Урок 11 Р4 |
+| just **one** stupid advice | just **one piece of** stupid advice | те саме: `one` теж не можна прямо перед uncountable | 03.09 · Урок 11 Р4 |
+| returned changes to **last working state** | returned changes to **the last working state** | leak #3: `last` тут виділяє ОДИН конкретний (найостанніший) стан із багатьох → як ordinal, завжди з `the` (пор. «than the first one») | 03.09 · Урок 11 Р4 |

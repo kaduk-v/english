@@ -308,4 +308,91 @@
     - **`enough` або `too`**;
     - **рівно один** linking verb — **look**, **sound** або **feel** (не `be`, не `works`) + прикметник після нього.
 
+### Відповіді учня
+
+1. We delivered a feature in three days and everything went surprisingly smooth.
+2. I need a short clarity answer but not advice in general.
+3. He answers so rarely that I don't expect anything.
+4. It's not urgent - do it carefully, not quickly.
+5. She agreed to new conditions without any objections.
+6. Do you ever work at night?
+7. She definitely won't agree to this proposition.
+8. _(пропущено)_
+9. by із часом вказує на дедлайн «до якого часу потрібно зробити», by two days — не правильно, бо тут мова йшла про проміжок часу, витрачений на завдання.
+10. I don't want the immense treasure, just a bag of gold. His behaviour is awful. Eventually, we got an answer from app support. She rarely walks alone.
+11. I usually trust older colleagues. In the morning meeting one of them gave me an advice how to improve my app. It was the worst advice in my life. I'm frustrated. I returned all changes in my app to last working state and only after it the app is satisfying. It was enough just one stupid advice to break the entire app.
+
+### Перевірка Раунду 4 — ❌ (5 повноцінних помилок + недовиконаний п.11)
+
+**Коротко:** реальний прогрес у кількох місцях (нарешті `in three days` замість `by`, словник у п.10 — усі 4 слова чисто, `agree to` застосовано двічі правильно), але `smooth`→`smoothly` та `advice`-uncountable й далі проривають — обидва вже втретє. У міні-тексті знову не вистачило linking verb і повноцінної -ed/-ing пари, попри явну підказку в завданні.
+
+| № | ❌ Було | ✅ Правильно | Пояснення |
+|---|---|---|---|
+| 1 | — | ✅ `in three days` — нарешті чисто! | Порівняй з Р3 («by two days») і Р2 («by an hour») — тепер правильно застосовано `in` для тривалості. Це реальний прогрес, тримай цю модель. |
+| 1 | went surprisingly **smooth** | went surprisingly **smoothly** | 🔴 **ПОВТОР ×3 поспіль** — Р2, Р3 і тепер Р4. `smooth` описує ЯКЕ щось (adjective: a smooth surface), а тут ти описуєш ЯК щось відбулося (adverb, бо модифікує дієслово `went`). Ймовірна причина повтору: `smooth` схоже за формою на слова-винятки з §3 (fast, hard, late…), які справді працюють БЕЗ `-ly`. Але `smooth` у цей список НЕ входить — його прислівник завжди `smoothly`. Свідомо запам'ятай саме цю пару як виняток із «виглядає схоже на виняток, але ним не є». |
+| 2 | a short **clarity** answer | a short, **clear** answer | ⚠️ **ПОВТОР** з Р3 («a clarity documentation»). `clarity` — іменник («ясність» як абстрактне поняття: achieve clarity). Перед іншим іменником (`answer`) потрібен ПРИКМЕТНИК — тобто `clear` («чіткий, зрозумілий»). Тест: постав слово після `be` — «the answer is clarity» звучить дивно, «the answer is clear» звучить природно → отже прикметник. |
+| 2 | — | ✅ `advice` без `-s` тут — виправлено! | У п.2 ти вже НЕ додав `-s` до advice (на відміну від Р2/Р3) — це показує, що правило відкладається, просто повільно, і в п.11 воно ще зісковзнуло (дивись нижче). |
+| 3 | — | ✅ чисто, гарна конструкція | `so rarely that` — прислівник у кінці речення разом із наслідком через `that`, природно й правильно. |
+| 4 | — | ✅ чисто | `carefully` / `quickly` — обидва прислівники з `-ly` на своєму місці, жодного зісковзування в `smooth`-пастку тут не було. |
+| 5 | — | ✅ чисто, і бездоганне застосування нової конструкції | `agreed to new conditions` — саме та схема (`agree to` sth), яку щойно додали в словник. |
+| 6 | — | ✅ чисто | Правильно обрав простіший варіант замість Present Perfect — саме так і треба, поки цю тему не вивчали. |
+| 7 | — | ✅ граматично бездоганно; `agree to` знову правильно | ⚠️ Дрібний нюанс слова: `proposition` частіше означає ділову/формальну пропозицію (a business proposition) або навіть має розмовний відтінок (яку краще уникати). Для «пропозиції» в звичайному сенсі природніше `proposal`: **She definitely won't agree to this proposal.** Це не помилка, радше вибір точнішого слова — заносжу до словника цінних нюансів. |
+| 8 | — (пропущено) | — | Нічого страшного, але спробуй повернутись і зробити цей пункт, коли будеш готовий/-а — переклад тренує читання пасивних конструкцій, які тобі вже траплялися. |
+| 9 | — | ✅ чисто, пояснення точне | Формулювання показує, що різниця `by` (дедлайн) vs `in/within` (тривалість) справді засвоєна — тепер це підтвердив і практикою в п.1. |
+| 10 | — | ✅ усі 4 слова (**immense**, **awful**, **eventually**, **rarely**) використано правильно й природно | Найчистіший словниковий пункт за всі 4 раунди. 👏 |
+| 11 | gave me **an advice** | gave me **advice** / **a piece of advice** | 🔴 **ПОВТОР ×3** — Р2 («advices»), Р3 («advices»), тепер «an advice». Різні форми помилки (то `-s`, то `a/an`), але корінь один: `advice` НІКОЛИ не бере злічувальних маркерів (`a`, `an`, `-s`, `many`) — воно як `water` чи `information`. Коли треба сказати «одна порада» — використовуй **a piece of advice**. |
+| 11 | just **one** stupid advice | just **one piece of** stupid advice | Той самий принцип: `one` теж злічувальний маркер, перед uncountable теж не можна напряму. |
+| 11 | returned changes to **last working state** | returned changes to **the last working state** | `last` тут виділяє ОДИН конкретний (найостанніший) стан із багатьох можливих — це працює як порядковий числівник (пор. вже знайоме тобі «than **the** first one»), тому завжди йде з `the`. |
+| 11 | 1 прислівник частоти (треба 2) | `usually` є, другого немає | Умова виконана лише наполовину. |
+| 11 | `frustrated` + `satisfying` (РІЗНІ корені) | потрібна пара З ОДНОГО кореня | Це вже третій раунд, де умова -ed/-ing не виконана — тут узагалі немає жодної реальної пари (два різних слова, кожне саме по собі). Приклад правильної пари: `I was frustrated` + `the situation was frustrating` (одне слово `frustrate`, дві форми). |
+| 11 | немає жодного look/sound/feel | — | Третій раунд поспіль ця умова пропущена, попри жирне нагадування в тексті завдання. У Раунді 5 додав ще конкретніший приклад-шаблон нижче — постав саме таке речення. |
+
+**Правильні варіанти повністю:**
+1. We delivered a feature in three days, and everything went surprisingly **smoothly**.
+2. I need a short, **clear** answer, not advice in general.
+3. He answers so rarely that I don't expect anything. ✅
+4. It's not urgent — do it carefully, not quickly. ✅
+5. She agreed to new conditions without any objections. ✅
+6. Do you ever work at night? ✅
+7. She definitely won't agree to this **proposal**. *(або лишити proposition — не помилка, лише нюанс)*
+
+---
+
+## Раунд 5
+
+Фокус — три найстійкіші повтори (`smooth`→`smoothly`, `advice` uncountable, `the last X`) + чіткіше виконання умов міні-тексту з конкретними прикладами-шаблонами. Також практика нових слів словника (agree, objection, turn out, surprisingly).
+
+### Частина 1 — UA → EN
+
+1. Все пройшло на диво гладко, і жодних заперечень не було.
+2. Мені не потрібна ще одна порада — мені потрібен чіткий план.
+3. Це була остання версія, яку ми тестували перед релізом.
+4. Вона погодилась на цю пропозицію без вагань.
+5. Він так акуратно все пояснив, що навіть новачок зрозумів.
+
+### Частина 2 — питання і заперечення
+
+6. Спитай: «Ти зазвичай перевіряєш логи перед релізом?»
+7. Постав у заперечення: «Вона точно не погодиться без пояснень.»
+
+### Частина 3 — EN → UA
+
+8. > Honestly, the plan sounds risky, but it's clear enough to try. We rarely get a second chance like this.
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: чому не можна сказати `an advice` чи `one advice`? Наведи 2 приклади зі словом advice — один правильний, один із типовою помилкою (яку ти сам робив).
+
+### Частина 5 — словник
+
+10. По одному реченню з кожним (це слова, які ти щойно отримав): **agree** · **objection** · **turn out** · **surprisingly**.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, будь-яка тема з роботи/життя. Перевір КОЖЕН пункт окремо перед тим, як здати:
+    - **2 прислівники частоти** (напр. `usually`, `rarely`, `often`) у правильній позиції;
+    - **одна пара -ed/-ing з ОДНОГО кореня** — встав ОБИДВА слова десь у тексті. Обери одну пару: `excited/exciting` · `tired/tiring` · `confused/confusing` · `bored/boring` · `interested/interesting`;
+    - **`enough` або `too`**;
+    - **рівно одне окреме речення** зі структурою **[підмет] + sound/look/feel + прикметник** — наприклад `This idea sounds risky.` / `She looks tired.` / `It feels weird.` Постав саме таке речення, щоб не забути.
+
 **Відповіді учня:** _(нижче)_

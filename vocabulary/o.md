@@ -1,6 +1,23 @@
 # O
 
-**Зміст:** [obstacle](#obstacle) · [obviously](#obviously) · [occupancy](#occupancy) · [occupied](#occupied) · [occupy](#occupy) · [occur](#occur) · [offend](#offend) · [on purpose](#on-purpose) · [opposed](#opposed) · [ordinary](#ordinary) · [outlive](#outlive) · [overhaul](#overhaul) · [overlap](#overlap)
+**Зміст:** [objection](#objection) · [obstacle](#obstacle) · [obviously](#obviously) · [occupancy](#occupancy) · [occupied](#occupied) · [occupy](#occupy) · [occur](#occur) · [offend](#offend) · [on purpose](#on-purpose) · [opposed](#opposed) · [ordinary](#ordinary) · [outlive](#outlive) · [overhaul](#overhaul) · [overlap](#overlap)
+
+---
+
+## objection
+**objection** /əbˈdʒekʃn/ — <code>noun</code> (іменник) — заперечення, протест (проти чогось конкретного)
+
+**Пояснення:** конкретна причина, чому ти НЕ погоджуєшся з чимось. Найчастіше — у множині, у сталому виразі `without any objections`.
+
+**💡 Конструкція:**
+- **objection to** sth — заперечення проти чогось: I have no **objection to** the plan.
+- **raise an objection** — висловити заперечення (офіційно, напр. у зборах, суді).
+
+**Приклади:**
+- She agreed to the new terms **without any objections**. — Вона погодилась на нові умови без жодних заперечень.
+- Does anyone have an **objection to** this decision? — У когось є заперечення проти цього рішення?
+
+🔗 **Пов'язане:** [agree](a.md#agree) — часто йдуть поруч у реченні (agreed... without objections).
 
 ---
 

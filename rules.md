@@ -209,6 +209,7 @@
 - **get** у значенні «отримати/дістати» — перехідне, потребує об'єкта: ✅ **get a ticket**.
 - **were at** (стан: «були в») vs **went to** (дія: «ходили в»): ✅ We **were at** the cinema. / We **went to** the cinema.
 - **meet** розмовно без «with» (with — для офіційних/бізнес-зустрічей): ✅ Let's **meet** at 6.
+- **hesitation** («вагання» — не наважуватись, зволікати) vs **doubt** («сумнів» — не вірити, що це правда): ✅ She agreed **without hesitation**. (одразу погодилась) / I have **doubts about** this plan. (не впевнена, що план правильний)
 
 ## 18. Present Simple vs Continuous
 

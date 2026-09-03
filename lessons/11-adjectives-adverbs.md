@@ -395,4 +395,99 @@
     - **`enough` або `too`**;
     - **рівно одне окреме речення** зі структурою **[підмет] + sound/look/feel + прикметник** — наприклад `This idea sounds risky.` / `She looks tired.` / `It feels weird.` Постав саме таке речення, щоб не забути.
 
+### Відповіді учня
+
+1. Everything went surprisingly smoothly without any objections.
+2. I don't need another advice - I need a clear plan.
+3. It was the last version that we were testing before release.
+4. She agreed to this proposition without doubt.
+5. He explain all so clearly event newest understood.
+6. Do you usually check logs before a release?
+7. She definitely won't agreed without explanation.
+8. Чесно кажучи, план звучить ризиковано, але цього достатньо щоб спробувати. Ми рідко отримуємо другий шанс подібно цьому.
+9. advice - незлічувальний. Привильно - I need some advice. Неправильно - Her advices always inspire me.
+10. She agreed to apply for a new job. His objections may make sense. The morning meeting turn out to be very useful. Surprisingly, this boring book turn out very interesting.
+11.
+    1. Sometimes, she visits her grandma in another city.
+    2. Usually, I drink coffee in the morning.
+    3. Usually, I'm bored at the party, but today's party is boring.
+    4. I have enough money to by this car.
+    5. I'm feeling tired after hard day.
+
+### Перевірка Раунду 5 — ❌ (6 повноцінних помилок), але великий прогрес
+
+**Коротко:** три найстійкіші леаки нарешті закрито — `smooth`→`smoothly` чисто, `the last X` чисто, і **всі 4 умови міні-тексту виконано вперше за 5 раундів** 🎉. Але `advice` вигулькнув знову в НОВІЙ масці («another»), плюс дві свіжі помилки: `won't agreed` (форма після модального) і `turn out` без минулого часу.
+
+| № | Було | Правильно | Пояснення |
+|---|---|---|---|
+| 1 | — | ✅ повністю чисто | `smoothly`, `objections` — усе на місці. Це закріпилось. |
+| 2 | I don't need **another advice** | I don't need **more advice** | 🔴 **ПОВТОР ×4**, нова маска — вже було `-s` (Р2/Р3), `an` (Р4), тепер `another`. Причина одна: `advice` НЕ бере ЖОДНОГО злічувального слова (a, an, one, another, many, -s) — воно як `water` чи `furniture`. Коли треба «більше порад» — кажи `more advice`; коли треба «одна порада» — `a piece of advice`. |
+| 2 | — | ✅ `a clear plan` | Цього разу прикметник на місці, без сплутування з `clarity`. |
+| 3 | — | ✅ `the last version` — виправлено! | Правило з Раунду 4 засвоєно. ⚠️ Дрібний нюанс: `that we were testing` (Continuous) теж правильно, але `that we tested` (Simple) звучить трохи природніше для завершеної дії — не помилка, просто варіант. |
+| 4 | agreed **without doubt** | agreed **without hesitation** | Невірне слово: українське «вагання» = **hesitation** (не наважуватися, зволікати). **Doubt** — це «сумнів», тобто не вірити, що щось правда/спрацює (`I have doubts about this plan`). Різні поняття → [§17](../rules.md#17-часто-плутані-слова). |
+| 5 | He **explain** all so clearly | He **explained** everything so clearly | Пропущено `-ed` (Past Simple) — базове правило, але легко втратити в довгому реченні. Також `all` тут не працює як додаток дієслова — потрібне `everything`. |
+| 5 | even **newest** understood | even **the newest team member** understood | Найвищий ступінь (`newest`) не може стояти сам — йому завжди потрібні (а) артикль `the` і (б) іменник після себе. `newest` без нічого — це як сказати «найновіший» без «хто/що». |
+| 6 | — | ✅ чисто | `usually` у правильній позиції в питанні. |
+| 7 | she **won't agreed** | she **won't agree** | 🎯 **Нова помилка, важлива:** після модального дієслова (`will/won't/can/must…`) — ЗАВЖДИ базова форма, без `-ed`/`-s`. Тут ти на автоматі додав `-ed`, ніби це звичайний Past Simple. Тест: модальне + `not` + дієслово БЕЗ жодних закінчень. |
+| 8 | «цього достатньо щоб спробувати» | «він досить **чіткий**, щоб спробувати» | У перекладі загубилось слово `clear` — саме воно тут головне (план звучить ризиковано, АЛЕ він зрозумілий). `enough` саме по собі перенеслося, а прикметник, який воно підсилює, — ні. |
+| 9 | — | ✅ чисто, і це показник прогресу | Обидва приклади (правильний і помилковий) точні — сам факт, що ти зміг навести приклад ТИПОВОЇ ПОМИЛКИ, каже, що правило вже усвідомлене, лишається закріпити руками (див. п.2 вище — усе ще зісковзує). |
+| 10 | The morning meeting **turn out** to be useful | The morning meeting **turned out** to be useful | Це вже конкретна подія в минулому (означений артикль `the meeting` = та сама, вже відома зустріч) → потрібен минулий час `turned`, не базова форма. |
+| 10 | this boring book **turn out** very interesting | this boring book **turned out** very interesting | Та сама причина — конкретна книжка, конкретна вже відома ситуація → `turned out`. (Конструкція `turn out` + прикметник без `to be` — правильна, я саме так її й давав у словнику.) |
+| 10 | — | ✅ **agree to apply**, **objections may make sense** | Обидва застосовані природно й правильно — гарне практичне використання нових слів. |
+| 11.1–2 | — | ✅ **2 прислівники частоти виконано** (`Sometimes`, `Usually` — обидва на початку, це дозволена позиція) | Умова міні-тексту виконана вперше! |
+| 11.3 | — | ✅ **пара -ed/-ing виконана**: `bored` / `boring`, одне слово | Теж уперше повністю правильно! ⚠️ Логічний нюанс: «Usually I'm bored, **but** today's party is boring» — `but` тут обіцяє контраст, а «сьогодні теж нудно» не контрастує з «зазвичай нудно». Для контрасту мало б бути щось на кшталт «…but today's party is exciting» (сьогодні — виняток). Граматика правильна, сенс — трохи суперечливий. |
+| 11.4 | to **by** this car | to **buy** this car | Друкарська помилка (не зриває раунд, просто познач) — пропущена `u`. `enough` тут використано правильно: `enough money to do sth`. |
+| 11.5 | — | ✅ **linking verb виконано**: `I'm feeling tired` | Уперше за 5 раундів! `feel` + прикметник — саме та структура, яку просили. |
+| 11.5 | after **hard** day | after **a hard** day | 🔴 leak #3: однина злічуваного без артикля. |
+
+**Головне:** попри ❌, це найсильніший раунд за темою уроку. `smooth`, `the last X` і всі 4 умови міні-тексту — закрито. Що лишається битись: `advice` (у черговій масці), і дві нові дрібниці (`won't agreed`, `turn out` без минулого часу), які легко закріпити.
+
+**Правильні варіанти повністю:**
+1. Everything went surprisingly smoothly without any objections. ✅
+2. I don't need **more** advice — I need a clear plan.
+3. It was the last version that we tested before release. ✅ *(або were testing — теж прийнятно)*
+4. She agreed to this proposal without **hesitation**.
+5. He **explained everything** so clearly that even **the newest team member** understood.
+6. Do you usually check logs before a release? ✅
+7. She definitely won't **agree** without explanation.
+
+---
+
+## Раунд 6
+
+Фокус — цілеспрямований мікро-дрил на `advice` (вбити цю помилку остаточно, у всіх формах), плюс закріпити `won't + base form` і `turn out` у минулому часі.
+
+### Частина 1 — UA → EN
+
+1. Мені не потрібна ще одна порада — мені потрібно ще трохи інформації.
+2. Вона погодилась спробувати без жодних вагань.
+3. Він точно не погодиться, поки не отримає більше деталей.
+4. Зустріч виявилась довшою, ніж очікувалось.
+5. Найновіший учасник команди все одно зрозумів усе правильно.
+
+### Частина 2 — питання і заперечення
+
+6. Спитай: «Ти колись даєш поради, коли тебе не питають?» *(просто Present Simple: Do you ever give advice…)*
+7. Постав у заперечення: «Вона точно погодиться без вагань.» *(→ won't + базова форма)*
+
+### Частина 3 — EN → UA
+
+8. > Everyone thought the plan was risky, but it turned out fine. Honestly, I didn't expect it to work so smoothly.
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: чому після `will` / `won't` / `can` / `must` завжди йде дієслово в базовій формі? Наведи 2 власні приклади: один — правильно, один — типова помилка (яку сам щойно робив).
+
+### Частина 5 — словник: мікро-дрил на `advice`
+
+10. По одному реченню на кожен варіант — **обов'язково зі словом `advice`**, кожен раз з іншим означником: **some advice** · **no advice** · **a lot of advice** · **a piece of advice**.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ті самі 4 умови (ти щойно довів, що можеш усі виконати — закріпи це):
+    - 2 прислівники частоти в правильній позиції;
+    - одна пара -ed/-ing з одного кореня;
+    - `enough` або `too`;
+    - окреме речення **[підмет] + sound/look/feel + прикметник**.
+
 **Відповіді учня:** _(нижче)_

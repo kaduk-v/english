@@ -143,3 +143,10 @@
 | gave me **an advice** | gave me **advice** / **a piece of advice** | 🔴 **ПОВТОР ×3** (Р2 «advices», Р3 «advices», тепер «an advice») — `advice` незлічуване НАВІТЬ з `a`/`one`; конкретний випадок = `a piece of advice` → [§5](rules.md#5-артиклі-та-присвійні) | 03.09 · Урок 11 Р4 |
 | just **one** stupid advice | just **one piece of** stupid advice | те саме: `one` теж не можна прямо перед uncountable | 03.09 · Урок 11 Р4 |
 | returned changes to **last working state** | returned changes to **the last working state** | leak #3: `last` тут виділяє ОДИН конкретний (найостанніший) стан із багатьох → як ordinal, завжди з `the` (пор. «than the first one») | 03.09 · Урок 11 Р4 |
+| I don't need **another advice** | I don't need **more advice** | 🔴 **ПОВТОР ×4** (Р2 «advices», Р3 «advices», Р4 «an advice», тепер «another advice») — вже 4-та маска того самого правила: `advice` не бере ЖОДНОГО злічувального маркера (a/an/one/another/-s) | 03.09 · Урок 11 Р5 |
+| agreed **without doubt** | agreed **without hesitation** | невірне слово: «вагання» = hesitation (не наважуватись), а `doubt` = сумнів (не вірити, що правда) → [§17](rules.md#17-часто-плутані-слова) | 03.09 · Урок 11 Р5 |
+| He **explain** all so clearly | He **explained** everything so clearly | пропущено `-ed` (Past Simple) + `all`→`everything` як додаток дієслова | 03.09 · Урок 11 Р5 |
+| even **newest** understood | even **the newest team member** understood | найвищий ступінь завжди з `the` + потрібен іменник після нього (не може стояти саме) | 03.09 · Урок 11 Р5 |
+| she **won't agreed** | she **won't agree** | 🎯 після модального (won't/will/can…) — ЗАВЖДИ базова форма дієслова, без `-ed`/`-s` → [modal-verbs](grammar/a1-a2/modal-verbs.md) |03.09 · Урок 11 Р5 |
+| the meeting **turn out** to be useful / book **turn out** interesting | the meeting **turned out** to be useful / book **turned out** interesting | конкретна, вже завершена подія → минулий час; тут не 3-тя особа теперішнього (`turns`), а `turned` | 03.09 · Урок 11 Р5 |
+| feeling tired after **hard day** | feeling tired after **a hard day** | 🔴 leak #3: однина злічуваного без артикля | 03.09 · Урок 11 Р5 |

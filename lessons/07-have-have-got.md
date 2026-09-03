@@ -1,9 +1,9 @@
 # Урок 7 — have / have got
 
-**Теми уроку:** [have / have got](../grammar/have-have-got.md)
+**Теми уроку:** [have / have got](../grammar/a1-a2/have-have-got.md)
 **Статус:** ↻ частково показано *(«I have a good colleague» ✅; `have got` формально не проходили)* · **матеріал для повторення**
 
-> 📗 Теорія-конспект: [grammar/have-have-got.md](../grammar/have-have-got.md)
+> 📗 Теорія-конспект: [grammar/a1-a2/have-have-got.md](../grammar/a1-a2/have-have-got.md)
 
 ## Живі приклади
 - I**'ve got** a new headset, but I **don't have** time to test it. — Маю нові навушники, але не маю часу їх протестувати.

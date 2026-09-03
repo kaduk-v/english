@@ -5,7 +5,7 @@
 
 ## Як працює навчання (оновлено 14.08 під інтенсив)
 
-1. **Теорія** кожної теми — вичерпний конспект у `grammar/` (самодостатній). Урок лінкує теми через «Теми уроку».
+1. **Теорія** кожної теми — вичерпний конспект у `grammar/` (самодостатній, з рівнем і Змістом у шапці, без прив'язки до професії). Теки за рівнями: `a1-a2/` · `b1/` · `b1-plus/` · `b2/`. Урок лінкує теми через «Теми уроку».
 2. **Раунди завдань** — тепер більші: **8–12 пунктів + міні-текст (3–6 речень) у кожному**.
 3. **Правило переходу:**
    - тема **знайома з практики** (позначка 🔁 «підтвердження») → **3 раунди × 100%**;
@@ -43,13 +43,13 @@
 
 # Модуль 1 — Бліц: хвости A1 (≈1 тиждень)
 
-- 🟡 **L11.** 🔁 Прикметники і прислівники: -ly, позиція в реченні; підсилювачі very / really / quite / pretty / so / such; пари -ed vs -ing (excited/exciting, disappointed/disappointing). → [lesson](lessons/11-adjectives-adverbs.md) · [grammar](grammar/adjectives-adverbs.md) *(Відкриває ~25 прислівників нової партії: actually, definitely, hardly, rarely, eventually, deliberately…)*
+- 🟡 **L11.** 🔁 Прикметники і прислівники: -ly, позиція в реченні; підсилювачі very / really / quite / pretty / so / such; пари -ed vs -ing (excited/exciting, disappointed/disappointing). → [lesson](lessons/11-adjectives-adverbs.md) · [grammar](grammar/b1/adjectives-adverbs.md) *(Відкриває ~25 прислівників нової партії: actually, definitely, hardly, rarely, eventually, deliberately…)*
 - 🔴 **L12.** **ПРІОРИТЕТ** — Прийменники місця й часу (in/on/at, by/until, for/during, towards) + об'єктні займенники (me/him/her/us).
 - ⬜ **L13.** 🔁 Кількість: some/any, much/many/a lot of, a few/a little, plenty of, too/enough.
 
 # Модуль 2 — Минуле: розповідь
 
-- ⬜ **L14.** 🔁 *(діагн.: чисто)* Past Simple повний: правильні/неправильні, did/didn't, маркери (ago, last, yesterday), there was/were. → [grammar](grammar/past-simple.md)
+- ⬜ **L14.** 🔁 *(діагн.: чисто)* Past Simple повний: правильні/неправильні, did/didn't, маркери (ago, last, yesterday), there was/were. → [grammar](grammar/a1-a2/past-simple.md)
 - ⬜ **L15.** 🔁 *(діагн.: чисто)* Past Continuous; Past Simple vs Continuous (while/when).
 - ⬜ **L16.** 🔁 *(діагн.: чисто)* used to / would (минулі звички) + storytelling-зв'язки (first, then, afterwards, suddenly, eventually, finally).
 - 📝 **Письмо №1:** розповідь «Як я став розробником» (минулі часи + зв'язки).

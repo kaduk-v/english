@@ -1,6 +1,6 @@
 # Урок 10 — can / can't + наказовий спосіб
 
-**Теми уроку:** [Модальні дієслова → can](../grammar/modal-verbs.md#can) · [Наказовий спосіб (Imperatives)](../grammar/imperatives.md)
+**Теми уроку:** [Модальні дієслова → can](../grammar/a1-a2/modal-verbs.md#can) · [Наказовий спосіб (Imperatives)](../grammar/a1-a2/imperatives.md)
 **Статус:** ✅ **пройдено** — тему засвоєно (формально 4/5; закрито за майстерністю: ~10 раундів поспіль без жодної помилки по темі уроку). Блокер — артиклі — винесено в окремий [Урок 3](03-articles.md). · **Дата:** 2026-07-01
 
 > 📗 Теорію-конспект читай у граматиці за посиланнями вище. Нижче — приклади й раунди.
@@ -161,7 +161,7 @@ g) Чому «She can plays» — неправильно?
 - **Раунд 7 — ✅ 100%** (0 грам./лекс. помилок; `am` на місці; `contribute to` ✅). Нотатка: #3 без короткої відповіді.
 - **Раунд 8 — ❌ (2 змістові):** #2 лекс. `a serial`→**a series** (false friend); #4 грам. `this an opportunity`→**this opportunity** (2 визначники).
 - **Раунд 9 — ❌ (1 грам., 5/6):** #5 `in cozy kitchen`→**in a cozy kitchen** (артикль). ✅ виправив `series`, `this opportunity`.
-- **Раунд 10 — ❌ (1 грам., 5/6):** #2 `the small office`→**a small office** (перша згадка → a). ✅ `ride a horse`, `complain about`. Артиклі → нова [grammar/articles.md](../grammar/articles.md).
+- **Раунд 10 — ❌ (1 грам., 5/6):** #2 `the small office`→**a small office** (перша згадка → a). ✅ `ride a horse`, `complain about`. Артиклі → нова [grammar/a1-a2/articles.md](../grammar/a1-a2/articles.md).
 - **Раунд 11 — ❌ (4 змістові — втома):** #2 `village`→town (лекс.); #3 word order `turn it off`; #4 `harms to`→harms; #5 `usually play`→**plays** (-s!) + `write the music`→write music. ✅ the music, zero-article пояснення.
 - **Раунд 12 — ✅ 100%** (після паузи; виправив УСІ 4: city, turn it off, harms, runs -s). Нотатка (орфо): `everyday`→every day — вдруге.
 - **Раунд 13 — ✅ 100%** (`every day` виправлено; 2 словникові слова: mindset + research; у #6 бонус — Present Continuous для запланованого майбутнього).

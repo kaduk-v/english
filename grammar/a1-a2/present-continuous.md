@@ -1,5 +1,17 @@
 # Present Continuous
 
+**Рівень:** A1–A2
+
+## Зміст
+
+- [Навіщо (використання)](#навіщо-використання)
+- [Форма](#форма)
+- [Правопис -ing](#правопис--ing)
+- [Present Simple vs Present Continuous](#present-simple-vs-present-continuous)
+- [Stative verbs — у Continuous не вживаються](#stative-verbs--у-continuous-не-вживаються)
+
+---
+
 ## Навіщо (використання)
 
 | Випадок | Приклад |

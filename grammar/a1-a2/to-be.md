@@ -1,5 +1,17 @@
 # Дієслово to be (am / is / are / was / were)
 
+**Рівень:** A1–A2
+
+## Зміст
+
+- [Навіщо](#навіщо)
+- [Ствердження](#ствердження)
+- [Заперечення](#заперечення)
+- [Питання — інверсія (be виходить наперед)](#питання--інверсія-be-виходить-наперед)
+- [Короткі відповіді](#короткі-відповіді)
+
+---
+
 Найважливіше дієслово англійської. Воно **єдине**, що змінюється за особами по-справжньому.
 
 ## Навіщо
@@ -78,7 +90,7 @@
 
 | | Форма | Приклад |
 |---|---|---|
-| однина / uncountable | **There is** (There's) | **There is** a bug in the code. · **There's** milk in the fridge. |
+| однина / uncountable | **There is** (There's) | **There is** a problem. · **There's** milk in the fridge. |
 | множина | **There are** | **There are** two players online. |
 | заперечення | There isn't / There aren't | **There aren't** any tickets. |
 | питання | Is there …? / Are there …? | **Is there** a problem? — Yes, there **is**. |

@@ -1,9 +1,9 @@
 # Урок 4 — Множина + countable / uncountable
 
-**Теми уроку:** [Іменники: множина та countable/uncountable](../grammar/nouns-plural-countable.md)
+**Теми уроку:** [Іменники: множина та countable/uncountable](../grammar/a1-a2/nouns-plural-countable.md)
 **Статус:** ✅ пройдено *(діагностика: «My jeans are new» ✅; незлічувані відпрацьовано в Уроці 5+)* · **матеріал для повторення**
 
-> 📗 Теорія-конспект: [grammar/nouns-plural-countable.md](../grammar/nouns-plural-countable.md)
+> 📗 Теорія-конспект: [grammar/a1-a2/nouns-plural-countable.md](../grammar/a1-a2/nouns-plural-countable.md)
 
 ## Живі приклади
 - My **jeans are** new, but my **glasses are** broken. — Мої джинси нові, але окуляри зламані.

@@ -1,9 +1,9 @@
 # Урок 1 — Дієслово to be (am / is / are)
 
-**Теми уроку:** [to be](../grammar/to-be.md)
+**Теми уроку:** [to be](../grammar/a1-a2/to-be.md)
 **Статус:** ✅ пройдено *(перевірено діагностикою — Урок 0; be-radar відпрацьовано)* · **матеріал для повторення**
 
-> 📗 Теорія-конспект: [grammar/to-be.md](../grammar/to-be.md)
+> 📗 Теорія-конспект: [grammar/a1-a2/to-be.md](../grammar/a1-a2/to-be.md)
 
 ## Живі приклади
 - I**'m** a backend developer, and this **is** my first mobile app. — Я бекенд-розробник, і це мій перший мобільний застосунок.

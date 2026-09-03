@@ -1,9 +1,9 @@
 # Урок 8 — Present Continuous (am / is / are + -ing)
 
-**Теми уроку:** [Present Continuous](../grammar/present-continuous.md)
+**Теми уроку:** [Present Continuous](../grammar/a1-a2/present-continuous.md)
 **Статус:** ✅ пройдено *(діагностика «Look! She is running» ✅; відпрацьовано в Уроці 9 та раундах)* · **матеріал для повторення**
 
-> 📗 Теорія-конспект: [grammar/present-continuous.md](../grammar/present-continuous.md)
+> 📗 Теорія-конспект: [grammar/a1-a2/present-continuous.md](../grammar/a1-a2/present-continuous.md)
 
 ## Живі приклади
 - Look! She **is streaming** right now. — Дивись! Вона стрімить прямо зараз.

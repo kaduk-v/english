@@ -1,9 +1,9 @@
 # Урок 2 — Займенники + присвійний 's + this/that
 
-**Теми уроку:** [Займенники](../grammar/pronouns.md)
+**Теми уроку:** [Займенники](../grammar/a1-a2/pronouns.md)
 **Статус:** ↻ частково показано *(діагностика: he/his/it, присвійні — чисто)* · **матеріал для повторення**
 
-> 📗 Теорія-конспект: [grammar/pronouns.md](../grammar/pronouns.md)
+> 📗 Теорія-конспект: [grammar/a1-a2/pronouns.md](../grammar/a1-a2/pronouns.md)
 
 ## Живі приклади
 - **He** sent **me** **his** repo, but **mine** is better. — Він скинув мені свій репозиторій, але мій кращий.

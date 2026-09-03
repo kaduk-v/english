@@ -1,9 +1,9 @@
 # Урок 6 — Present Simple: заперечення, питання, частота, питання до підмета
 
-**Теми уроку:** [Present Simple](../grammar/present-simple.md)
+**Теми уроку:** [Present Simple](../grammar/a1-a2/present-simple.md)
 **Статус:** ✅ пройдено *(продемонстровано в Уроці 5 та раундах: do/does, короткі відповіді, usually/never, «Who lives here?»)* · **матеріал для повторення**
 
-> 📗 Теорія-конспект: [grammar/present-simple.md](../grammar/present-simple.md)
+> 📗 Теорія-конспект: [grammar/a1-a2/present-simple.md](../grammar/a1-a2/present-simple.md)
 
 ## Живі приклади
 - **Does** your team **use** TypeScript? — Yes, they **do**. — Твоя команда використовує TypeScript? — Так.

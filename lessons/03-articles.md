@@ -1,11 +1,11 @@
 # Урок 3 — Артиклі (a / an / the / —)
 
-**Теми уроку:** [Артиклі (a / an / the / —)](../grammar/articles.md)
+**Теми уроку:** [Артиклі (a / an / the / —)](../grammar/a1-a2/articles.md)
 **Статус:** 🟡 в процесі — **0/5 чистих раундів** · **Дата:** 2026-07-01
 
 **Чому цей урок:** артиклі — єдиний блокер, що зривав раунди Уроку 10 (`a stress`, `the computer games`, `in a cozy kitchen`, `a small office`, `turn off the music`, `entire day`). Правило учень **пояснює ідеально**, але в момент продукування пропускає → б'ємо прицільно.
 
-> 📗 **Теорія-конспект із деревом рішень:** [grammar/articles.md](../grammar/articles.md)
+> 📗 **Теорія-конспект із деревом рішень:** [grammar/a1-a2/articles.md](../grammar/a1-a2/articles.md)
 
 ## Живі приклади (контраст — головне)
 - I love **music**. → Please turn off **the** music. *(взагалі vs конкретна, що грає)*

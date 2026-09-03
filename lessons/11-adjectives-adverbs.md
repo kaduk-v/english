@@ -223,4 +223,89 @@
 
 11. **4–6 речень:** «Мій ідеальний робочий процес». Обов'язково: 2 прислівники частоти в правильній позиції · **одна пара -ed/-ing З ОДНОГО КОРЕНЯ** (напр. excited/exciting, а не два різних слова) · `enough` або `too` · один linking verb (**look / sound / feel** — саме один із цих трьох, не `be`).
 
+### Відповіді учня
+
+1. Though a meeting was short, it turned out very useful
+2. It was such a difficult project that we needed an entire month.
+3. We finished testing by two days.
+4. Everything passed smooth.
+5. I need a clarity documentation, but not advices in general.
+6. Do you often update dependencies?
+7. He definitely won't agree on it.
+8. Баг виправляється прямо зараз, тому будь ласка не пуште ніяких змін. Це така складна проблема що вся команда залучена.
+9. Не можна прибрати he тому що в реченні повинен бути підмет. She always comes late, but she never works bad.
+10. This is urgent task, do it closely. Be brief when you explain a new topic. Your new approach more efficient than my previous one. I'm curious about how many people will download our app.
+11. The work is interesting when the result is useful for people. I'm satisfied when the app works quickly. The app's interface is satisfying.
+
+### Перевірка Раунду 3 — ❌ (8 повноцінних помилок) · ✅ 0/3
+
+| № | ❌ Було | ✅ Правильно | Правило |
+|---|---|---|---|
+| 1 | **a** meeting was short | **the** meeting was short | 🔴 leak #3: конкретна, відома обом зустріч → `the` |
+| 2 | — | ✅ чисто, підручниковий приклад | `such a … that`, `an entire month` |
+| 3 | finished testing **by two days** | finished testing **in / within two days** | 🔴 **ПОВТОР одразу** (щойно розібрали в Р2) → [§9](../rules.md#9-прийменники-часу-і-дедлайнів) |
+| 4 | everything passed **smooth** | everything went **smoothly** | 🔴 **ПОВТОР одразу** (щойно розібрали в Р2) — і загубилось «на диво» (surprisingly) |
+| 5 | a **clarity** documentation | **clear** documentation | іменник замість прикметника перед іменником; + `documentation` незлічуване → без `a` |
+| 5 | not **advices** | not **advice** | 🔴 **ПОВТОР** (Р2: «such weird advices») |
+| 6 | — | ✅ чисто | `do you often` — ідеальна позиція |
+| 7 | agree **on** it | agree **to** it | `agree to` = погодитись/прийняти пропозицію; `agree on` = дійти згоди ПРО щось РАЗОМ → [§8](../rules.md#8-прийменники-з-дієсловами) |
+| 8 | — | ✅ чисто — **перший вдалий переклад `is being + V3` за 3 раунди!** 🎉 | Present Continuous Passive нарешті прочитано правильно |
+| 9 | пояснення — чисто; she never works **bad** | she never works **badly** | 🎯 та сама пастка, що й smooth→smoothly (п.4) — прикметник замість прислівника |
+| 10 | this is **urgent task** | this is **an urgent task** | 🔴 leak #3: однина злічуваного без артикля |
+| 10 | do it **closely** | do it **urgently** / **right away** | невірне слово — `closely` = уважно/пильно, не «терміново» |
+| 10 | Your new approach **more efficient** | Your new approach **is more efficient** | 🎯 be-omission — леак закритий 14.08, зараз одна ластівка, тримаємо в фокусі |
+| 10 | — | ✅ **brief** і **curious** — чисто | — |
+| 11 | 0 прислівників частоти (треба 2) · немає `enough`/`too` · немає linking verb (look/sound/feel) | — | 3 з 4 умов НЕ виконано, попри явне нагадування в завданні жирним |
+| 11 | `satisfied` + `satisfying` | ✅ пара з ОДНОГО кореня — нарешті правильно! | -ed/-ing умова виконана |
+
+**Головне за цей раунд:** пункт 8 — це перший чистий переклад continuous passive за три раунди, справжній прогрес, тримайся цього. Але водночас двічі поспіль повторились помилки, розібрані буквально в попередньому раунді (`by`→`in/within`, `smooth`→`smoothly`), і саме там, де вимога стояла жирним текстом (linking verb у міні-тексті) — умову знову не виконано. Це означає: читай завдання і свіжий розбір ще раз перед тим, як писати відповідь — паттерн уже пояснено, лишається його застосувати.
+
+**Правильні варіанти повністю:**
+1. Though **the** meeting was short, it turned out very useful.
+2. It was such a difficult project that we needed an entire month. ✅
+3. We finished testing **within two days**.
+4. Everything went **surprisingly smoothly**.
+5. I need **clear documentation**, not **advice** in general.
+6. Do you often update dependencies? ✅
+7. He definitely won't agree **to** it.
+
+---
+
+## Раунд 4
+
+Фокус — саме ті леаки, що повторюються (by/in-within, smooth/smoothly, adj замість adv, advice/documentation, артиклі), і чіткіше виконання умов міні-тексту.
+
+### Частина 1 — UA → EN
+
+1. Ми доставили фічу за три дні, і все пройшло навдивовижу гладко.
+2. Мені потрібна коротка, чітка відповідь, а не порада загалом.
+3. Він так рідко відповідає, що я вже не чекаю нічого.
+4. Це не терміново — зроби це акуратно, а не швидко.
+5. Вона погодилась на нові умови без жодних заперечень.
+
+### Частина 2 — питання і заперечення
+
+6. Спитай: «Ти коли-небудь працював вночі?» *(ever + Present Perfect — увага, це складніше, спробуй; якщо не певен — просто «Do you ever work at night?»)*
+7. Постав у заперечення: «Вона точно не погодиться на цю пропозицію.» (definitely + won't + agree to)
+
+### Частина 3 — EN → UA
+
+8. > The report is being reviewed right now. Honestly, it reads badly in a few places, but overall it looks pretty solid.
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: чому `by two days` — неправильно для «зробили за два дні», а `by Friday` — правильно для «зробити до п'ятниці»? У чому різниця в самій ідеї (дедлайн vs тривалість)?
+
+### Частина 5 — словник
+
+10. По одному реченню з кожним: **immense** · **awful** · **eventually** · **rarely**.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень:** «Найгірша порада, яку я колись отримав/-ла». Обов'язково (перечитай перед тим, як писати!):
+    - **2 прислівники частоти** в правильній позиції;
+    - **одна пара -ed/-ing з одного кореня**;
+    - **`enough` або `too`**;
+    - **рівно один** linking verb — **look**, **sound** або **feel** (не `be`, не `works`) + прикметник після нього.
+
 **Відповіді учня:** _(нижче)_

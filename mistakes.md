@@ -128,3 +128,13 @@
 | **the** clean code / **the** precise **advice** | clean code / precise **advice** (без артикля) | 🔴 leak #3: загальне поняття / незлічуване без визначника → без `the` → [articles](grammar/a1-a2/articles.md) | 03.09 · Урок 11 Р2 |
 | such weird **advices** | such weird **advice** | незлічуване (як documentation) → без `-s` → [§5](rules.md#5-артиклі-та-присвійні) | 03.09 · Урок 11 Р2 |
 | essential **to support** project | essential **for the** project | `essential to/for` + іменник/gerund, не інфінітив; + артикль перед project | 03.09 · Урок 11 Р2 |
+| **a** meeting was short | **the** meeting was short | 🔴 leak #3: конкретна, відома обом зустріч → `the`, не `a` | 03.09 · Урок 11 Р3 |
+| finished testing **by two days** | finished testing **in/within two days** | 🔴 **ПОВТОР одразу** (щойно розібрали в Р2) — `by` = дедлайн, `in/within` = тривалість → [§9](rules.md#9-прийменники-часу-і-дедлайнів) | 03.09 · Урок 11 Р3 |
+| everything passed **smooth** | everything went **smoothly** | 🔴 **ПОВТОР одразу** (щойно розібрали в Р2) — `smooth` не в списку винятків без `-ly` → [adjectives-adverbs §3](grammar/b1/adjectives-adverbs.md) | 03.09 · Урок 11 Р3 |
+| a **clarity** documentation | **clear** documentation | іменник (`clarity`) замість прикметника — перед іменником треба ПРИКМЕТНИК (`clear`); + `documentation` незлічуване → без `a` | 03.09 · Урок 11 Р3 |
+| not **advices** | not **advice** | 🔴 **ПОВТОР** (Р2: «such weird advices») — незлічуване, без `-s` | 03.09 · Урок 11 Р3 |
+| agree **on** it | agree **to** it | `agree to` sth = погодитись, прийняти пропозицію; `agree on` sth = дійти спільної згоди ПРО щось → [§8](rules.md#8-прийменники-з-дієсловами) | 03.09 · Урок 11 Р3 |
+| she never works **bad** | she never works **badly** | 🎯 та сама пастка, що й smooth→smoothly — прикметник замість прислівника після дієслова дії | 03.09 · Урок 11 Р3 |
+| this is **urgent task** | this is **an urgent task** | 🔴 leak #3: однина злічуваного без артикля | 03.09 · Урок 11 Р3 |
+| do it **closely** | do it **urgently** / **right away** | невірне слово: `closely` = уважно/пильно (closely watch), не «терміново» | 03.09 · Урок 11 Р3 |
+| approach **more efficient** | approach **is more efficient** | 🎯 be-omission — леак був закритий 14.08, зараз одна ластівка; тримати в фокусі → [§1](rules.md#1-дієслово-та-підмет) | 03.09 · Урок 11 Р3 |

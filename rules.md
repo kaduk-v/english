@@ -119,6 +119,7 @@
 | think **about** sth | думати про | think on |
 | talk **about** sth | говорити про | talk on |
 | depend **on** sth | залежати від | depend from |
+| agree **to** sth | погодитися на щось (прийняти пропозицію/умову) | agree on *(це радше «домовитись/дійти згоди ПРО щось» разом з кимось)* |
 
 > Деталі по `complain about` vs `complain to` — у `vocabulary/c.md`.
 > Окремо: **speak English** — «розмовляти англійською» БЕЗ прийменника: ❌ speak **on** English → ✅ speak English.

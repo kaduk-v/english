@@ -290,7 +290,7 @@
 
 ### Частина 3 — EN → UA
 
-8. > The report is being reviewed right now. Honestly, it reads badly in a few places, but overall it looks pretty solid.
+8. > Honestly, the report reads badly in a few places, but it's solid enough overall. The team reviewed it twice and rarely found real issues.
 
 ### Частина 4 — граматика своїми словами
 

@@ -1,6 +1,6 @@
 # S
 
-**Зміст:** [safety](#safety) · [scratch](#scratch) · [sequence](#sequence) · [series](#series) · [serve](#serve) · [settle](#settle) · [shape](#shape) · [shout](#shout) · [sketch](#sketch) · [slam](#slam) · [slay](#slay) · [slide](#slide) · [smooth](#smooth) · [smoothness](#smoothness) · [so](#so) · [soft](#soft) · [solve](#solve) · [sore](#sore) · [spark](#spark) · [spawn](#spawn) · [spear](#spear) · [spell](#spell) · [spend](#spend) · [spire](#spire) · [spot](#spot) · [standalone](#standalone) · [strength](#strength) · [strip](#strip) · [strive](#strive) · [struggle](#struggle) · [subdivision](#subdivision) · [success](#success) · [successful](#successful) · [such](#such) · [suffer](#suffer) · [supply](#supply) · [suspend](#suspend) · [swing](#swing)
+**Зміст:** [safety](#safety) · [scratch](#scratch) · [sequence](#sequence) · [series](#series) · [serve](#serve) · [settle](#settle) · [shape](#shape) · [shout](#shout) · [sketch](#sketch) · [slam](#slam) · [slay](#slay) · [slide](#slide) · [smooth](#smooth) · [smoothness](#smoothness) · [so](#so) · [soft](#soft) · [solve](#solve) · [sore](#sore) · [spark](#spark) · [spawn](#spawn) · [spear](#spear) · [spell](#spell) · [spend](#spend) · [spire](#spire) · [spot](#spot) · [standalone](#standalone) · [strength](#strength) · [strip](#strip) · [strive](#strive) · [struggle](#struggle) · [subdivision](#subdivision) · [success](#success) · [successful](#successful) · [such](#such) · [suffer](#suffer) · [supply](#supply) · [surprisingly](#surprisingly) · [suspend](#suspend) · [swing](#swing)
 
 ---
 
@@ -472,6 +472,19 @@
 - noun: The fortress has a month's **supply** of food. — У фортеці місячний запас їжі. _(гра)_
 - noun: My PC's **power supply** died yesterday. — Учора в мого ПК згорів блок живлення.
 - verb: This module **supplies** data to all screens. — Цей модуль постачає дані всім екранам.
+
+---
+
+## surprisingly
+**surprisingly** /səˈpraɪzɪŋli/ — <code>adverb</code> (прислівник) — на диво, несподівано
+
+**Пояснення:** прислівник-коментар (як `honestly`, `obviously`) — оцінює ВСЕ речення, а не окреме дієслово; часто на початку з комою. Показує, що результат не такий, як очікувалось.
+
+**Приклади:**
+- **Surprisingly**, the deploy went smoothly. — На диво, деплой пройшов гладко.
+- The test was **surprisingly** easy. — Тест виявився на диво легким.
+
+🔗 **Пов'язане:** [surprised / surprising](../grammar/b1/adjectives-adverbs.md) — пара -ed/-ing.
 
 ---
 

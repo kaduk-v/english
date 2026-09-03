@@ -1,6 +1,6 @@
 # T
 
-**Зміст:** [take](#take) · [tend](#tend) · [thirsty](#thirsty) · [though](#though) · [thought](#thought) · [threat](#threat) · [towards](#towards) · [town](#town) · [traitor](#traitor) · [treat](#treat) · [tremors](#tremors) · [trick](#trick) · [tweak](#tweak) · [typically](#typically)
+**Зміст:** [take](#take) · [tend](#tend) · [thirsty](#thirsty) · [though](#though) · [thought](#thought) · [threat](#threat) · [towards](#towards) · [town](#town) · [traitor](#traitor) · [treat](#treat) · [tremors](#tremors) · [trick](#trick) · [tweak](#tweak) · [turn out](#turn-out) · [typically](#typically)
 
 ---
 
@@ -167,6 +167,23 @@
 **Приклади:**
 - I **tweaked** the animation timing and now it feels smooth. — Я підкрутив тайминг анімації, і тепер вона плавна.
 - The release includes a few small UI **tweaks**. — У релізі кілька дрібних UI-правок.
+
+---
+
+## turn out
+**turn out** /tɜːn aʊt/ — <code>verb</code> (дієслово, фразове) — виявитися, обернутися (певним чином)
+
+**Пояснення:** результат стає відомим тільки в кінці — на початку ти не був певен, як усе обернеться. Часто перекладається як «виявилось, що…».
+
+**💡 Конструкції:**
+- **turn out to be** sth/adj — виявитися кимось/чимось: The plan **turned out to be** brilliant.
+- **turn out** + adj — те саме, коротший варіант: It **turned out** great.
+- **it turns out that** + речення — виявилося, що…: **It turned out that** she was right all along.
+
+**Приклади:**
+- The meeting **turned out** to be very useful. — Зустріч виявилась дуже корисною.
+- Everything **turned out** fine in the end. — Врешті все обернулося добре.
+- It **turned out that** the bug was in the config, not the code. — Виявилося, що баг був у конфігу, а не в коді.
 
 ---
 

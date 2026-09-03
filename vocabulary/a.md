@@ -1,6 +1,6 @@
 # A
 
-**Зміст:** [accidentally](#accidentally) · [accrue](#accrue) · [accuracy](#accuracy) · [across](#across) · [actually](#actually) · [addict](#addict) · [addition](#addition) · [adjust](#adjust) · [admit](#admit) · [advantage](#advantage) · [affect](#affect) · [affirm](#affirm) · [afterwards](#afterwards) · [against](#against) · [aid](#aid) · [ally](#ally) · [ammo](#ammo) · [among](#among) · [ancient](#ancient) · [apart](#apart) · [apply](#apply) · [appreciate](#appreciate) · [appropriately](#appropriately) · [approximate](#approximate) · [approximation](#approximation) · [arbitrary](#arbitrary) · [arise](#arise) · [arrange](#arrange) · [assign](#assign) · [assignment](#assignment) · [attic](#attic) · [attitude](#attitude) · [aware](#aware) · [awful](#awful)
+**Зміст:** [accidentally](#accidentally) · [accrue](#accrue) · [accuracy](#accuracy) · [across](#across) · [actually](#actually) · [addict](#addict) · [addition](#addition) · [adjust](#adjust) · [admit](#admit) · [advantage](#advantage) · [affect](#affect) · [affirm](#affirm) · [afterwards](#afterwards) · [against](#against) · [agree](#agree) · [aid](#aid) · [ally](#ally) · [ammo](#ammo) · [among](#among) · [ancient](#ancient) · [apart](#apart) · [apply](#apply) · [appreciate](#appreciate) · [appropriately](#appropriately) · [approximate](#approximate) · [approximation](#approximation) · [arbitrary](#arbitrary) · [arise](#arise) · [arrange](#arrange) · [assign](#assign) · [assignment](#assignment) · [attic](#attic) · [attitude](#attitude) · [aware](#aware) · [awful](#awful)
 
 ---
 
@@ -196,6 +196,24 @@
 - Tonight we're playing **against** a top-ranked clan. — Сьогодні ми граємо проти клану з топу рейтингу. _(гра)_
 - Validate user input **against** the schema. — Перевіряй користувацький ввід за схемою.
 - Sharing your account is **against** the rules. — Ділитися акаунтом — проти правил.
+
+---
+
+## agree
+**agree** /əˈɡriː/ — <code>verb</code> (дієслово) — погоджуватися
+
+**Пояснення:** три різних прийменники — три різних значення. Плутати їх легко, тому вчи кожну схему окремо.
+
+**💡 Конструкції:**
+- **agree to** sth — погодитись, прийняти пропозицію/умову (одна сторона каже «так»): She **agreed to** the new terms.
+- **agree with** sb/sth — поділяти чиюсь думку, бути згодним із твердженням: I **agree with** you.
+- **agree on** sth — дійти СПІЛЬНОЇ згоди про щось (обидві сторони домовляються): We **agreed on** a price.
+- **agree that** + речення — погоджуватися, що…: We all **agree that** the deadline is unrealistic.
+
+**Приклади:**
+- He **definitely won't agree to** working on Friday. — Він точно не погодиться працювати в п'ятницю.
+- I **agree with** your point about testing. — Я згоден із твоєю думкою щодо тестування.
+- They finally **agreed on** a release date. — Вони нарешті домовились про дату релізу.
 
 ---
 

@@ -139,4 +139,88 @@
 
 11. **4–6 речень:** «Мій типовий робочий день». Обов'язково: 2 прислівники частоти в правильній позиції · одна пара -ed/-ing · `enough` або `too` · один linking verb (look / sound / feel).
 
+### Відповіді учня
+
+1. He hardly reads documentations, although works hard.
+2. This API is so confusing, that I'm always frustrated.
+3. She doesn't usually respond to letters in the evening.
+4. It was so urgent bug that we fixed it by an hour.
+5. Lately, the deploy is running pretty smooth.
+6. How often do you use React Native?
+7. I definitely won't release it on Friday.
+8. пасивний стан у часі Present Continuous - ми це не вчили
+9. so + прикметник / прислівник - підкреслює "настільки/дуже". such + прикметник + іменник - вказує "такий/така". She runs so fast. They are such good students.
+10. I'm eager to learn English. Write the clean code is essential to support project. You shouldn't give me such weird advices. Give me the precise advice to avoid this bug.
+11. Usually, I hardly write a lot of code. I'm interested in quality code. I'm confused when code is bad. The outcome is satisfying. It is enough to feel good.
+
+### Перевірка Раунду 2 — ❌ (6 повноцінних помилок) · ✅ 0/3
+
+| № | ❌ Було | ✅ Правильно | Правило |
+|---|---|---|---|
+| 1 | reads **documentations** | reads **documentation** | незлічуване (як advice, information) → без `-s` |
+| 1 | although **works** hard | although **he works** hard | 🎯 підмет пропущено в другій клаузі — англійська вимагає підмет у КОЖНІЙ клаузі → [§1](../rules.md#1-дієслово-та-підмет) |
+| 2 | — | ✅ чисто (кома перед `that` — лише пунктуація, не зриває) | `so + adj + that` |
+| 3 | — | ✅ чисто | `doesn't usually respond` — ідеальна позиція |
+| 4 | **so urgent bug** | **such an urgent bug** | ⚠️ **ПОВТОР** (Р1: «so long release») — є іменник → `such (a/an)` |
+| 4 | fixed it **by an hour** | fixed it **in / within an hour** | 🔴 leak #1: `by` = дедлайн-точка («до»), `in/within` = тривалість («за») → [§9](../rules.md#9-прийменники-часу-і-дедлайнів) |
+| 5 | running pretty **smooth** | running pretty **smoothly** | 🎯 `smooth` НЕ у списку винятків без `-ly` (fast/hard/late…) — тут потрібен прислівник |
+| 6 | — | ✅ прийнятно («How often…?» — трохи інше запитання, ніж «Do you often…?», але граматично бездоганне) | — |
+| 7 | — | ✅ чисто, підручниковий приклад | `definitely` ПЕРЕД `won't` |
+| 8 | «ми це не вчили» | (переклад не виконано) | 🔴 **ПОВТОР ×5** — саме це розбирали в Р1 (`is being tested`) з 4 повторами; дивись пояснення нижче |
+| 9 | — | ✅ чисто, правило й приклади правильні | `so` vs `such` |
+| 10 | **Write** the clean code is essential **to support** project | **Writing** clean code is essential **for the** project | підмет-дієслово в базовій формі неможливий (потрібен gerund); `essential to/for` + іменник, не `to + V`; +артикль |
+| 10 | such weird **advices** | such weird **advice** | незлічуване → без `-s` |
+| 10 | **the** precise **advice** | precise **advice** | 🔴 leak #3: загальна порада → без `the` |
+| 11 | `confused` + `satisfying` | потрібна пара З ОДНОГО КОРЕНЯ (напр. confused + confusing) | умова «одна пара -ed/-ing» не виконана — це різні слова |
+| 11 | — | відсутній linking verb (look/sound/feel) | умова не виконана |
+
+**Пункт 8 — окремо, це важливо.** Ти написав «ми це не вчили» — але ми якраз це розбирали в Раунді 1 (пункт 8, PS після), і там я явно пояснював різницю `is being tested` (Present Continuous Passive — дію роблять ЗАРАЗ) від `have been tested` (Perfect). Судячи з усього, пояснення не закріпилось — це нормально, повторимо ще раз, коротше:
+
+> **is/are + being + V3** = хтось **зараз** робить цю дію з предметом (пасив у Continuous).
+> `The dashboard **is being rebuilt**.` = Дашборд **зараз перебудовують**. *(не «буде перебудований», не Perfect)*
+
+Переклад п. 8 повністю: «Новий дашборд зараз перебудовують, і, чесно кажучи, він виглядає набагато охайніше. У нас останнім часом майже ніколи не буває скарг.»
+
+**Правильні варіанти повністю:**
+1. He **hardly reads documentation**, although **he works hard**.
+2. This API is **so confusing that** I'm always frustrated.
+3. She **doesn't usually respond** to letters in the evening. ✅
+4. It was **such an urgent bug that** we fixed it **within an hour**.
+5. Lately, the deploy has been running pretty **smoothly**.
+6. **How often do you use** React Native? ✅
+7. I **definitely won't release** it on Friday. ✅
+
+---
+
+## Раунд 3
+
+### Частина 1 — UA → EN
+
+1. Хоча зустріч була короткою, вона виявилась дуже корисною.
+2. Це був такий складний проект, що нам знадобився цілий місяць.
+3. Ми закінчили тестування за два дні.
+4. Усе пройшло на диво гладко.
+5. Мені потрібна чітка документація, а не поради загалом.
+
+### Частина 2 — питання і заперечення
+
+6. Спитай: «Ви часто оновлюєте залежності?»
+7. Постав у заперечення: «Він точно не погодиться на це.» (definitely + won't)
+
+### Частина 3 — EN → UA
+
+8. > The bug is being fixed right now, so please don't push any changes. It's such a tricky issue that the whole team is involved.
+
+### Частина 4 — граматика своїми словами
+
+9. Поясни своїми словами: чому в реченні *He hardly reads, although he works hard* не можна прибрати `he` з другої частини? Наведи власний приклад із двома клаузами (перша — «хоча/але», друга — свій підмет).
+
+### Частина 5 — словник
+
+10. По одному реченню з кожним: **urgent** · **brief** · **efficient** · **curious**.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень:** «Мій ідеальний робочий процес». Обов'язково: 2 прислівники частоти в правильній позиції · **одна пара -ed/-ing З ОДНОГО КОРЕНЯ** (напр. excited/exciting, а не два різних слова) · `enough` або `too` · один linking verb (**look / sound / feel** — саме один із цих трьох, не `be`).
+
 **Відповіді учня:** _(нижче)_

@@ -118,3 +118,13 @@
 | **essential** impact | **significant / major** impact | `essential` = необхідний, вкрай потрібний (≠ «суттєвий»). Правильно: tests are **essential** for a stable release | 02.09 · Урок 11 Р1 |
 | he is so **eager** | he is so eager **to learn** | `eager` вимагає продовження: eager **to** V / eager **for** sth → [vocabulary/e.md](vocabulary/e.md#eager) | 02.09 · Урок 11 Р1 |
 | **old people** | **older people** / **the elderly** | реєстр: `old people` звучить різко; нейтрально — `older people` | 02.09 · Урок 11 Р1 |
+| reads **documentations** | reads **documentation** | незлічуване (як advice, information) → БЕЗ `-s` → [§5](rules.md#5-артиклі-та-присвійні) | 03.09 · Урок 11 Р2 |
+| although **works** hard | although **he works** hard | 🎯 підмет пропущено в другій клаузі — українською можна, англійською КОЖНЕ речення потребує свій підмет → [§1](rules.md#1-дієслово-та-підмет) | 03.09 · Урок 11 Р2 |
+| **so urgent bug** | **such an urgent bug** | ⚠️ **ПОВТОР** (Р1: «so long release») — є іменник → `such (a/an)` → [adjectives-adverbs §8.3](grammar/b1/adjectives-adverbs.md) | 03.09 · Урок 11 Р2 |
+| fixed it **by an hour** | fixed it **in / within an hour** | 🔴 leak #1: `by` — дедлайн-точка («до»), `in/within` — тривалість («за») → [§9](rules.md#9-прийменники-часу-і-дедлайнів) | 03.09 · Урок 11 Р2 |
+| running pretty **smooth** | running pretty **smoothly** | 🎯 `smooth` НЕ входить у список слів-винятків без `-ly` (fast/hard/late…) — тут потрібен прислівник → [adjectives-adverbs §3](grammar/b1/adjectives-adverbs.md) | 03.09 · Урок 11 Р2 |
+| «is being rebuilt» = «ми це не вчили» | Present Continuous Passive: `be + being + V3` = дію роблять ЗАРАЗ | 🔴 **ПОВТОР ×5** — саме це розбирали в Р1 (is being tested) з 4 повторами; переклад пропущено, не виконано | 03.09 · Урок 11 Р2 |
+| **Write** the clean code is essential | **Writing** clean code is essential | підмет речення не може бути дієсловом у базовій формі → потрібен gerund (-ing); передвісник теми L25 | 03.09 · Урок 11 Р2 |
+| **the** clean code / **the** precise **advice** | clean code / precise **advice** (без артикля) | 🔴 leak #3: загальне поняття / незлічуване без визначника → без `the` → [articles](grammar/a1-a2/articles.md) | 03.09 · Урок 11 Р2 |
+| such weird **advices** | such weird **advice** | незлічуване (як documentation) → без `-s` → [§5](rules.md#5-артиклі-та-присвійні) | 03.09 · Урок 11 Р2 |
+| essential **to support** project | essential **for the** project | `essential to/for` + іменник/gerund, не інфінітив; + артикль перед project | 03.09 · Урок 11 Р2 |

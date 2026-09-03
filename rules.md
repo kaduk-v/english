@@ -33,6 +33,9 @@
 - Безособове речення → постав **it** (немає «порожнього» підмета):
   - ❌ Is cold. → ✅ **It** is cold. · ❌ Was late. → ✅ **It** was late.
   - Шаблон: **It is / It was + adj** (погода, час, оцінка): It is interesting. It was cold.
+- **Кожне окреме речення (клауза) має СВІЙ підмет** — навіть якщо в українській він і так зрозумілий з попереднього:
+  - ❌ He hardly reads, although works hard. → ✅ He hardly reads, although **he** works hard.
+  - Українською другий підмет можна пропустити («хоча працює наполегливо»); англійською — ні.
 
 > 💡 Аналогія: у JS не буває виразу без значення. Тут не буває речення без підмета й дієслова — «порожнє місце» треба заповнити (`it` / `be`), як заглушку.
 
@@ -87,7 +90,7 @@
 - ⚠️ **the last / next + період як ТРИВАЛІСТЬ**: over **the** next few weeks, for **the** last three years, **the** past month. АЛЕ прислівникові «last week / next year / last night» — **БЕЗ** the: ✅ I saw him **last week**.
 
 **Загальні твердження — БЕЗ артикля** (незлічувані та множинні у загальному сенсі):
-- незлічувані (абстрактні): ❌ **a** stress → ✅ **Stress** is bad. Так само: research, wisdom, success, advice, information, music, water.
+- незлічувані (абстрактні): ❌ **a** stress → ✅ **Stress** is bad. Так само: research, wisdom, success, advice, information, **documentation**, music, water.
 - множинні (загальна категорія): ❌ **the** computer games are fun → ✅ **Computer games** are fun. `the` — лише коли йдеться про конкретні, відомі речі.
 
 ## 6. Comparative vs Superlative
@@ -127,6 +130,7 @@
 | **by** + time | до (крайній термін) | Submit it **by** Monday. |
 | **before** + time | до (раніше за) | Call me **before** noon. |
 | **until** + time | до (тривалість дії) | I'll wait **until** 5 p.m. |
+| **in / within** + тривалість | за (проміжок, за який щось ЗАВЕРШИЛИ) | We fixed it **in / within an hour**. *(НЕ «by an hour» — `by` це дедлайн-точка, а не тривалість)* |
 
 **`before` + дія → `-ing`:** before **work** (noun) / before **buying** / before **starting**.
 - ✅ Explore the map **before starting** the level.

@@ -1,45 +1,43 @@
-# Граматика — покажчик тем
+# Граматика англійської — довідник
 
-Повна теорія по темах: **одна тема — один файл**, розкладені **по рівнях CEFR**. Це чиста граматика (без розбору помилок — вони в [`../mistakes.md`](../mistakes.md)). Уроки (`../lessons/`) посилаються сюди через блок «Теми уроку».
+Конспекти по темах: кожна тема — окремий файл із поясненнями українською, таблицями форм, вимовою, винятками й живими прикладами з перекладом.
 
-**Принципи:**
-- тека = рівень: [`a1-a2/`](a1-a2/) · [`b1/`](b1/) · [`b1-plus/`](b1-plus/) · [`b2/`](b2/);
-- на початку кожного файлу — **рівень** і **Зміст** (для файлів від 4 розділів);
-- приклади **нейтральні, побутові** — теорія має читатися без прив'язки до професії.
+Теми розкладені **за рівнями**: беріть той, на якому ви зараз, і йдіть згори вниз — теми всередині рівня впорядковані від базових до складніших.
 
----
-
-## A1–A2 — база
-
-| Тема | Файл | Уроки |
-|---|---|---|
-| Дієслово `to be` (+ there is/are, was/were) | [to-be.md](a1-a2/to-be.md) | L1, L15 |
-| Займенники (особові, присвійні, `'s`, this/that, reflexive) | [pronouns.md](a1-a2/pronouns.md) | L2, L13 |
-| Артиклі (a / an / the / —) | [articles.md](a1-a2/articles.md) | L3 |
-| Іменники: множина + countable/uncountable | [nouns-plural-countable.md](a1-a2/nouns-plural-countable.md) | L4, L14 |
-| Present Simple | [present-simple.md](a1-a2/present-simple.md) | L5, L6, L9 |
-| `have` / `have got` | [have-have-got.md](a1-a2/have-have-got.md) | L7 |
-| Present Continuous | [present-continuous.md](a1-a2/present-continuous.md) | L8, L9 |
-| Past Simple (+ неправильні дієслова) | [past-simple.md](a1-a2/past-simple.md) | L15–L18 |
-| Модальні дієслова (can, could…) | [modal-verbs.md](a1-a2/modal-verbs.md) | L10, L29–L31 |
-| Наказовий спосіб (Imperatives) | [imperatives.md](a1-a2/imperatives.md) | L10 |
-
-## B1 — ядро
-
-| Тема | Файл | Уроки |
-|---|---|---|
-| Прикметники та прислівники (+ -ed/-ing, підсилювачі, so/such) | [adjectives-adverbs.md](b1/adjectives-adverbs.md) | L11 |
-
-_Далі сюди: прийменники (L12) · quantifiers (L13) · Past Continuous (L15) · used to (L16) · future forms (L17) · conditionals (L18–L19) · Present Perfect (L20–L23) · passive (L24) · gerund vs infinitive (L25) · relative clauses (L28) · comparatives (L29)._
-
-## B1+ — вихід за межі ядра
-
-_Порожньо. Планується: [`_planned.md`](b1-plus/_planned.md) — linking words (L30) · reported speech (L31) · indirect questions (L32) · phrasal verbs (L33–L34) · колокації make/do/take/get._
-
-## B2 — на перспективу
-
-_Порожньо. Планується: [`_planned.md`](b2/_planned.md) — modals of deduction (L27) · Past Perfect Continuous · mixed conditionals · inversion · nuance-теми після досягнення B1+._
+| Рівень | Що це означає |
+|---|---|
+| **A1–A2** | каркас речення: часи теперішнього й простого минулого, артиклі, іменники, займенники, `can` |
+| **B1** | те, що робить мову природною: прикметники й прислівники, перфект, пасив, умовні |
+| **B1+** | зв'язність і відтінки: linking words, непряма мова, фразові дієслова |
+| **B2** | тонкощі: припущення, інверсія, складні умовні, стилістика |
 
 ---
 
-_Список росте по мірі проходження [плану](../plan.md)._
+## A1–A2
+
+| Тема | Що всередині |
+|---|---|
+| [Дієслово `to be`](a1-a2/to-be.md) | am / is / are, was / were, скорочення, `there is` / `there are`, сталі вирази з `be` |
+| [Займенники](a1-a2/pronouns.md) | особові, об'єктні, присвійні, присвійний `'s`, this / that / these / those, зворотні |
+| [Артиклі](a1-a2/articles.md) | a / an / the / нульовий: вибір за звуком, перша й друга згадка, географія, сталі вирази |
+| [Іменники: множина й злічуваність](a1-a2/nouns-plural-countable.md) | правопис множини, неправильні форми, countable / uncountable, much / many / a few |
+| [Present Simple](a1-a2/present-simple.md) | `-s` третьої особи, do / does, питання й заперечення, коли вживається |
+| [`have` / `have got`](a1-a2/have-have-got.md) | володіння, дві форми, різниця з `have to`, стійкі вирази |
+| [Present Continuous](a1-a2/present-continuous.md) | be + V-ing, правопис -ing, stative verbs, зараз vs узагалі |
+| [Past Simple](a1-a2/past-simple.md) | правильні й неправильні дієслова, did / didn't, маркери часу, was / were |
+| [Модальні дієслова](a1-a2/modal-verbs.md) | can / can't / could: вміння, дозвіл, прохання, можливість |
+| [Наказовий спосіб](a1-a2/imperatives.md) | форми наказу й заборони, `let's`, ввічливість і тон |
+
+## B1
+
+| Тема | Що всередині |
+|---|---|
+| [Прикметники та прислівники](b1/adjectives-adverbs.md) | -ly та винятки, позиція в реченні, порядок прикметників, підсилювачі, so / such, пари -ed / -ing |
+
+## B1+
+
+Розділ ще наповнюється — [що сюди піде](b1-plus/_planned.md).
+
+## B2
+
+Розділ ще наповнюється — [що сюди піде](b2/_planned.md).

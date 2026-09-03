@@ -116,4 +116,4 @@
 - **Present Perfect** — досвід / результат без конкретного часу: I**'ve built** three apps. *(колись)*
 - Маркер часу (yesterday, ago, last…) → **завжди Past Simple**.
 
-*(Детально — Урок 35.)*
+> Present Perfect — окрема велика тема рівня B1; тут лише межа між ним і Past Simple.

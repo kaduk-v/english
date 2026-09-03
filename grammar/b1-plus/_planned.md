@@ -1,12 +1,12 @@
-# B1+ — заплановані теми
+# B1+ — теми попереду
 
-Рівень поки порожній. Файли з'являються тут у міру проходження [плану](../../plan.md).
+Розділ ще наповнюється. Сюди підуть теми, які відрізняють «зрозуміло» від «звучить природно»:
 
-| Тема | Урок |
+| Тема | Про що |
 |---|---|
-| Linking words (although / despite / however / whereas) | L30 |
-| Reported speech (backshift часів) | L31 |
-| Indirect questions + question tags | L32 |
-| Phrasal verbs I–II + порядок із займенником | L33–L34 |
-| Колокації make / do / take / get + word families | L34 |
-| Реєстр і тон: ділове письмо, ввічливість | L36 |
+| Linking words | although / though / despite / in spite of · however / whereas · whether / if |
+| Непряма мова (reported speech) | he said (that)…, зсув часів, зміна займенників і обставин |
+| Непрямі питання + question tags | Could you tell me where…? · …, isn't it? |
+| Фразові дієслова | turn / put / get / take + off / on / up / out; порядок із займенником (turn **it** off) |
+| Колокації make / do / take / get | що з чим сполучається; word families (negotiate → negotiation → non-negotiable) |
+| Реєстр і тон | ввічливість, пом'якшення, формальне vs розмовне |

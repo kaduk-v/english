@@ -1,11 +1,11 @@
-# B2 — заплановані теми
+# B2 — теми попереду
 
-Рівень поки порожній: беремося за нього після впевненого B1+ (див. [план](../../plan.md)).
+Розділ ще наповнюється. Це рівень, на якому граматика вже не про правильність, а про точність відтінку:
 
-| Тема | Коментар |
+| Тема | Про що |
 |---|---|
-| Модальні припущення (might / must be / can't be) | частково вже в L27 |
-| Past Perfect Continuous | після L23 |
-| Mixed conditionals | після L19 |
-| Inversion (Never have I…, Not only…) | стилістика |
-| Nuance: cleft sentences, emphasis, hedging | письмо й співбесіда |
+| Модальні припущення (deduction) | might / could / must be / can't be — ступені впевненості |
+| Past Perfect Continuous | had been doing: тривала дія до моменту в минулому |
+| Mixed conditionals | коли умова й наслідок у різних часах |
+| Inversion | Never have I… · Not only… — емфаза через порядок слів |
+| Cleft sentences, hedging | What I mean is… · It seems that… — акцент і обережність формулювань |

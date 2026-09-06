@@ -490,4 +490,100 @@
     - `enough` або `too`;
     - окреме речення **[підмет] + sound/look/feel + прикметник**.
 
+### Відповіді учня
+
+1. I don't need another advice - I need more information.
+2. She agreed to try without any hesitation.
+3. He definitely won't agree while he will give more details.
+4. The meeting turn out to be longer than it was expected.
+5. The newest teammate anyway understood everything correct.
+6. Do you ever give some advice when anybody don't ask you?
+7. She won't agree without objections.
+8. Всі думали що план був ризиковий, але це виявилося чудовим. Чесно кажучи, я не очікував що це працюватиме так гладко.
+9. will/won't/can/must - модальні дієслова, після яких не використовується частка to та завжди йде дієслово в базовій формі. She will run with me. I can to swam.
+10. I need some advice about how to start my project without money. I need no advice from you. I got a lot of advice from this meeting. Can you give me a peace of advice how to review code?
+11.
+    1. She always drink coffee in the morning. Usually, I walk with my dog before work.
+    2. I was really exited about trip, but the long journey was exiting only in begin.
+    3. He speaks too fast.
+    4. This plan sounds too risky.
+
+### Перевірка Раунду 6 — ❌ (7 помилок), але дуже сильний рух уперед
+
+**Коротко:** `won't + базова форма` — виправлено, підтверджено двічі (п.2 і частково п.3/7). Мікро-дрил на `advice` (п.10) — 4/4 правильно за формою (одна лише описка piece→peace). Міні-текст — знову всі 4 умови виконано. Але `advice` в живому перекладі (п.1) і `turn out` (п.4) все ще зісковзують, і з'явилось нове слово в тій самій родині, що smooth/bad — тепер `correct`.
+
+| № | Було | Правильно | Пояснення |
+|---|---|---|---|
+| 1 | I don't need **another advice** | I don't need **more advice** | 🔴 **ПОВТОР ×5** — і водночас показовий контраст: у п.10, де `advice` було ЄДИНОЮ темою завдання, ти вжив його правильно 4/4 рази. Отже правило ти ЗНАЄШ — воно просто ще не спрацьовує автоматично, коли увага розподілена на весь переклад. Це нормальний етап, просто потребує ще практики в «бойових» умовах. |
+| 1 | — | ✅ `more information` | Тут із незлічуваним усе гаразд. |
+| 2 | — | ✅ повністю чисто | `agreed to try`, `without any hesitation` — обидві нові конструкції застосовано бездоганно. |
+| 3 | — | ⚠️ **моя провина, не рахую як помилку.** Я невдало сформулював завдання: «поки не отримає» вимагає граматики, якої ми ще не проходили (речення часу з `until`/`when` — там після них дієслово в ПРОСТОМУ часі, а не `will`, навіть коли йдеться про майбутнє: `until he gets`, не `until he will get`). Це саме те, про що ти просив мене не робити. Вибач, врахую надалі. | Твоя частина («definitely won't agree») — правильна. |
+| 4 | meeting **turn out** to be longer | meeting **turned out** to be longer | 🔴 **ПОВТОР одразу** — це саме те, що розбирали в Раунді 5. Конкретна подія в минулому → минулий час дієслова. |
+| 4 | — | *(дрібний нюанс, не помилка)* | «than it was expected» природніше як «than expected» — але це не помилка, лише коротший ідіоматичний варіант. |
+| 5 | — | ✅ **the newest teammate** — виправлено! | Артикль + іменник після найвищого ступеня тепер на місці. |
+| 5 | understood everything **correct** | understood everything **correctly** | Нове слово в тій самій родині, що smooth→smoothly (Р2-5) і bad→badly (Р3). Дивись 🎯 названий патерн у `mistakes.md` — це один і той самий механізм щоразу з іншим словом. |
+| 6 | anybody **don't** ask | nobody **asks** *(або: anybody doesn't ask)* | Два шари: (а) `anybody` — однина, тому `doesn't`, не `don't`; (б) природніше взагалі уникнути подвійного заперечення і сказати `when nobody asks you`. |
+| 7 | — | ⚠️ пропущено `definitely` | Джерело мало «точно» — воно мало перейти й у заперечення: `She definitely won't agree…` |
+| 7 | won't agree **without objections** | won't agree **without hesitation** | Переплутав два нових слова цього уроку — малось на увазі «без вагань» (hesitation), не «без заперечень» (objections). |
+| 8 | «виявилося **чудовим**» | «виявилося **fine**» = «виявилося непогано/нормально» | `fine` — скромне позитивне слово («нормально, непогано»), не «чудово». Переклад трохи прикрасив оригінал. |
+| 8 | — | ✅ решта чисто | «чесно кажучи… так гладко» — точно. |
+| 9 | — | ✅ правило сформульоване точно | — |
+| 9 | I can **to** swam | I can **swim** | Приклад показує ОДРАЗУ дві помилки в одному (зайве `to` І неправильна форма `swam` замість `swim`) — для чистої ілюстрації типової помилки краще показати ОДНУ проблему за раз. |
+| 10 | a **peace** of advice | a **piece** of advice | Омофони: `piece` (частина) ≠ `peace` (мир). Сама конструкція — правильна, тільки написання переплуталось. |
+| 10 | — | ✅ **some advice / no advice / a lot of advice** — усі три чисто | Це і є доказ, що правило засвоєно — просто йому потрібна свідома увага, поки не стане автоматичним. |
+| 11.1 | She always **drink** coffee | She always **drinks** coffee | 3-тя особа однини, базове правило Present Simple — зрідка все ще зісковзує в довших реченнях. |
+| 11.1 | — | ✅ 2 прислівники частоти на місці | `always` (MID) + `Usually` (front) — обидві позиції правильні. |
+| 11.2 | I was really **exited** / journey was **exiting** | I was really **excited** / journey was **exciting** | Два різних, лише схожих на вигляд корені: **excite** (викликати захват) і **exit** (виходити) — не плутай. Концептуально пара -ed/-ing побудована правильно (той самий корінь двічі), просто сам корінь написано неправильно. |
+| 11.2 | about **trip** | about **the trip** | Leak #3, конкретна подорож, про яку йде мова. |
+| 11.2 | only in **begin** | only at **the beginning** | `begin` — дієслово, а після прийменника потрібен ІМЕННИК: `beginning`. |
+| 11.3–4 | — | ✅ обидва речення чисті, і №4 елегантно об'єднує відразу `too` + linking verb (`sounds too risky`) | 👏 |
+
+**Правильні варіанти повністю:**
+1. I don't need **more** advice — I need more information.
+2. She agreed to try without any hesitation. ✅
+3. He definitely won't agree *(далі — моя провина, пропускаємо)*.
+4. The meeting **turned out** to be longer than expected.
+5. The newest teammate anyway understood everything **correctly**.
+6. Do you ever give advice **when nobody asks you**?
+7. She **definitely** won't agree without **hesitation**.
+
+---
+
+## Раунд 7
+
+Фокус — перенести `advice` та `turn out` з «розумію в ізоляції» у «застосовую під час вільного письма», плюс усвідомити 🎯-патерн adj-після-дієслова як ОДНЕ правило, а не список окремих слів.
+
+### Частина 1 — UA → EN
+
+1. Він дав мені кілька порад учора, і вони справді допомогли.
+2. Врешті-решт, план виявився кращим, ніж ми думали.
+3. Вона зрозуміла інструкцію правильно з першого разу.
+4. Я був у захваті від подорожі, хоча початок був нудним.
+5. Він завжди дає чесні поради, навіть коли це складно.
+
+### Частина 2 — питання і заперечення
+
+6. Спитай: «Ти завжди читаєш інструкції, перш ніж щось купити?»
+7. Постав у заперечення: «Вона точно дасть тобі якусь пораду.» *(→ definitely won't + give + any advice)*
+
+### Частина 3 — EN → UA
+
+8. > Eventually, the project turned out fine, but honestly, nobody expected it to go this smoothly. She gave us clear advice the whole time.
+
+### Частина 4 — граматика своїми словами
+
+9. Що спільного між помилками `smooth`→`smoothly`, `bad`→`badly`, `correct`→`correctly`? Сформулюй ОДНЕ загальне правило (не три окремих), яке допоможе самому ловити такі помилки в майбутньому.
+
+### Частина 5 — словник
+
+10. По одному реченню з кожним: **exhausted** · **hesitation** · **turn out** · **advice** *(без -s/an/one/another — тільки some/no/a lot of/enough)*.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень:** «Найкраща подорож у моєму житті». Ті самі 4 умови (ти вже двічі довів, що вмієш):
+    - 2 прислівники частоти в правильній позиції;
+    - одна пара -ed/-ing з одного кореня (перевір написання!);
+    - `enough` або `too`;
+    - окреме речення **[підмет] + sound/look/feel + прикметник**.
+
 **Відповіді учня:** _(нижче)_

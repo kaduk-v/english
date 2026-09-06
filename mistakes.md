@@ -40,6 +40,8 @@
 
 **🎯 be-radar (з Уроку 0) — твій ключовий фікс:** став `be` (am/is/are) перед прикметником / іменником / місцем (It **is** cold) або в `be + -ing` (she **is** running). НЕ став `be` перед звичайним дієсловом у простому часі (не «we **are** went», не «she **is** plays»).
 
+**🎯 adj-після-дієслова (Урок 11, з'являється щоразу з НОВИМ словом):** коли дієслово описує ДІЮ (не стан через `be`/linking verb), і ти хочеш сказати ЯК — потрібен прислівник (`-ly`), а не прикметник. Патерн ловив тебе вже тричі, щоразу з іншим словом: **smooth**→smoothly (Р2-Р5) · **bad**→badly (Р3) · **correct**→correctly (Р6). Це не три різні помилки — це ОДНА звичка мозку економити `-ly`, коли слово коротке. Тест перед тим, як здати: чи є в реченні дієслово ДІЇ (walk, work, understand, drive…)? Якщо так — перевір закінчення прислівника поруч із ним.
+
 | ❌ | ✅ | Правило / нотатка | Дата · урок |
 |----|----|----|----|
 | She **listen** to music | She **listens** | 3-тя особа Present Simple → +s → [§2](rules.md#2-present-simple) | 01.07 · Урок 0 |
@@ -150,3 +152,9 @@
 | she **won't agreed** | she **won't agree** | 🎯 після модального (won't/will/can…) — ЗАВЖДИ базова форма дієслова, без `-ed`/`-s` → [modal-verbs](grammar/a1-a2/modal-verbs.md) |03.09 · Урок 11 Р5 |
 | the meeting **turn out** to be useful / book **turn out** interesting | the meeting **turned out** to be useful / book **turned out** interesting | конкретна, вже завершена подія → минулий час; тут не 3-тя особа теперішнього (`turns`), а `turned` | 03.09 · Урок 11 Р5 |
 | feeling tired after **hard day** | feeling tired after **a hard day** | 🔴 leak #3: однина злічуваного без артикля | 03.09 · Урок 11 Р5 |
+| I don't need **another advice** | I don't need **more advice** | 🔴 **ПОВТОР ×5** — уже 5-й раз (Р2 -s, Р3 -s, Р4 an, Р5 another, тепер знову another) — але цікаво: у тому ж раунді, коли слово `advice` було ЄДИНОЮ темою завдання (мікро-дрил, п.10), ти вжив його правильно 4/4 рази. Висновок: правило ти ЗНАЄШ — проблема саме в спонтанному пригадуванні під час вільного перекладу, не в розумінні | 03.09 · Урок 11 Р6 |
+| meeting **turn out** to be longer | meeting **turned out** to be longer | 🔴 **ПОВТОР одразу** — це саме та помилка з минулого раунду (Р5), яку щойно розбирали | 03.09 · Урок 11 Р6 |
+| understood everything **correct** | understood everything **correctly** | нове слово в тій самій родині, що й smooth→smoothly, bad→badly — дивись 🎯 adj-після-дієслова вище | 03.09 · Урок 11 Р6 |
+| I was **exited** / journey was **exiting** | I was **excited** / journey was **exciting** | плутанина двох різних коренів: **excite** (викликати захват) vs **exit** (виходити) — не однокореневі слова, хоч і виглядають схоже; тут малось на увазі excite | 03.09 · Урок 11 Р6 |
+| a **peace** of advice | a **piece** of advice | омофони: `piece` (шматок/частина) ≠ `peace` (мир) — сама конструкція вжита правильно, тільки написання переплуталось | 03.09 · Урок 11 Р6 |
+| won't agree **without objections** | won't agree **without hesitation** | переплутав два нових слова цього уроку — тут малось на увазі «без вагань» (hesitation), а не «без заперечень» (objections) | 03.09 · Урок 11 Р6 |

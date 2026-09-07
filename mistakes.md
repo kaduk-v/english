@@ -40,7 +40,7 @@
 
 **🎯 be-radar (з Уроку 0) — твій ключовий фікс:** став `be` (am/is/are) перед прикметником / іменником / місцем (It **is** cold) або в `be + -ing` (she **is** running). НЕ став `be` перед звичайним дієсловом у простому часі (не «we **are** went», не «she **is** plays»).
 
-**🎯 adj-після-дієслова (Урок 11, з'являється щоразу з НОВИМ словом):** коли дієслово описує ДІЮ (не стан через `be`/linking verb), і ти хочеш сказати ЯК — потрібен прислівник (`-ly`), а не прикметник. Патерн ловив тебе вже тричі, щоразу з іншим словом: **smooth**→smoothly (Р2-Р5) · **bad**→badly (Р3) · **correct**→correctly (Р6). Це не три різні помилки — це ОДНА звичка мозку економити `-ly`, коли слово коротке. Тест перед тим, як здати: чи є в реченні дієслово ДІЇ (walk, work, understand, drive…)? Якщо так — перевір закінчення прислівника поруч із ним.
+**🎯 adj-після-дієслова (Урок 11, з'являється щоразу з НОВИМ словом):** коли дієслово описує ДІЮ (не стан через `be`/linking verb), і ти хочеш сказати ЯК — потрібен прислівник (`-ly`), а не прикметник. Патерн ловив тебе вже 4 рази, щоразу з іншим словом: **smooth**→smoothly (Р2-Р5) · **bad**→badly (Р3) · **correct**→correctly (Р6) · **loud**→loudly (Р9). Це не чотири різні помилки — це ОДНА звичка мозку економити `-ly`, коли слово коротке. Тест перед тим, як здати: чи є в реченні дієслово ДІЇ (walk, work, understand, drive, speak…)? Якщо так — перевір закінчення прислівника поруч із ним.
 
 | ❌ | ✅ | Правило / нотатка | Дата · урок |
 |----|----|----|----|
@@ -174,3 +174,15 @@
 | after while **hesitation** | after **a while of** hesitation / after **some** hesitation | `a while` — стала фраза (a + while, завжди з артиклем), і перед іменником після неї потрібен `of` | 03.09 · Урок 11 Р8 |
 | thanks to **it** beautiful design | thanks to **its** beautiful design | класична плутанина: `it` (він/вона/воно як підмет/додаток) ≠ `its` (присвійний, «його/її») | 03.09 · Урок 11 Р8 |
 | Your objections **sounds** like lie | Your objections **sound** like **a** lie | дзеркальна помилка: тут підмет МНОЖИНА (objections), тому дієслово БЕЗ `-s` (sound, не sounds) — навпаки звичного «забув -s»; плюс пропущений артикль перед `lie` | 03.09 · Урок 11 Р8 |
+| the decision **have to apply** | we **have to make** the decision | іменник `decision` не може сам «застосуватися» — потрібен підмет-виконавець (we/I) + правильне дієслово: колокація `make a decision`, не `apply` → [§11](rules.md#11-do--make--perform--carry-out) |03.09 · Урок 11 Р9 |
+| sounded **as** [виправдання] | sounded **like excuses** | `sound` завжди зі `like` перед іменником, не `as`; і слово — `excuse(s)` → [vocabulary/e.md](vocabulary/e.md#excuse) | 03.09 · Урок 11 Р9 |
+| sounded like…, **no** facts | sounded like…, **not** facts | `no` заперечує ІМЕННИК напряму (no facts = «жодних фактів»), `not` заперечує ПОРІВНЯННЯ/контраст («як X, не Y») — тут контраст, тому `not` | 03.09 · Урок 11 Р9 |
+| before **to go** | before **going** | 🔴 **ПОВТОР ×3** (Р7 «before to buy», Р8 «before sign», тепер знову «to go») — це вже третя форма тієї самої помилки. Схоже, мозок тягнеться до `to + дієслово`, бо це найзвичніший патерн (want to do, need to do) — але після ПРИЙМЕННИКА (`before/after/without`) працює лише `-ing`, ЗАВЖДИ | 03.09 · Урок 11 Р9 |
+| before **a** important decision | before **an** important decision | Базове правило A/AN — за ЗВУКОМ: `important` починається на голосний звук /ɪ/ → `an` → [articles §🔑 A чи AN](grammar/a1-a2/articles.md) | 03.09 · Урок 11 Р9 |
+| He **won't definitely** hesitate | He **definitely won't** hesitate | Порушено вже пройдене правило порядку слів: у запереченні `definitely` йде ПЕРЕД `won't/not`, а не після → [adjectives-adverbs §5.2](grammar/b1/adjectives-adverbs.md) |03.09 · Урок 11 Р9 |
+| «без будь-яких **вагань**» (переклад objections) | «без будь-яких **заперечень**» | 🔴 та сама плутанина objection/hesitation, але тепер у ЗВОРОТНЬОМУ напрямку — при читанні (EN→UA), не лише при письмі | 03.09 · Урок 11 Р9 |
+| the last **a** piece of advice | **the last** piece of advice / **a** piece of advice | Два визначники поруч (the + a) — обери ОДИН → [§5](rules.md#5-артиклі-та-присвійні) |03.09 · Урок 11 Р9 |
+| Her hesitation about this question **without** any foundation | Her hesitation about this question **is without** any foundation | 🎯 be-omission — пропущено дієслово `is`, речення без дієслова неможливе → [§1](rules.md#1-дієслово-та-підмет) | 03.09 · Урок 11 Р9 |
+| She always **speak** loud | She always **speaks loudly** | Дві помилки в одному слові: 3-тя особа без `-s`, і `loud`→`loudly` (нове слово в родині adj-після-дієслова: smooth/bad/correct/**loud**) | 03.09 · Урок 11 Р9 |
+| started **dance** | started **dancing** | після `start` — `-ing` (або `to dance`), не гола форма | 03.09 · Урок 11 Р9 |
+| I **fell** tired | I **felt** tired | 🎯 нове: `fell` — минулий час від `fall` (падати), а не від `feel` (почуватися)! Потрібне `felt` (feel→felt→felt) | 03.09 · Урок 11 Р9 |

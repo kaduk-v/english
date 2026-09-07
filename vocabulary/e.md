@@ -1,6 +1,6 @@
 # E
 
-**Зміст:** [eager](#eager) · [edge](#edge) · [effective](#effective) · [efficient](#efficient) · [effort](#effort) · [embrace](#embrace) · [emphasize](#emphasize) · [enclosed](#enclosed) · [encounter](#encounter) · [endless](#endless) · [endorse](#endorse) · [enforce](#enforce) · [engage](#engage) · [ensure](#ensure) · [entire](#entire) · [equipment](#equipment) · [essential](#essential) · [evaluate](#evaluate) · [eventually](#eventually) · [evidence](#evidence) · [exactly](#exactly) · [excite](#excite) · [excited](#excited) · [exciting](#exciting) · [exhausted](#exhausted) · [explode](#explode) · [exploit](#exploit) · [explore](#explore) · [expose](#expose) · [extremely](#extremely)
+**Зміст:** [eager](#eager) · [edge](#edge) · [effective](#effective) · [efficient](#efficient) · [effort](#effort) · [embrace](#embrace) · [emphasize](#emphasize) · [enclosed](#enclosed) · [encounter](#encounter) · [endless](#endless) · [endorse](#endorse) · [enforce](#enforce) · [engage](#engage) · [ensure](#ensure) · [entire](#entire) · [equipment](#equipment) · [essential](#essential) · [evaluate](#evaluate) · [eventually](#eventually) · [evidence](#evidence) · [exactly](#exactly) · [excite](#excite) · [excited](#excited) · [exciting](#exciting) · [excuse](#excuse) · [exhausted](#exhausted) · [explode](#explode) · [exploit](#exploit) · [explore](#explore) · [expose](#expose) · [extremely](#extremely)
 
 ---
 
@@ -325,6 +325,22 @@
 - It's an **exciting** time to be a backend developer. — Зараз захопливий час, щоб бути бекенд-розробником.
 
 🔗 Пов'язане: [excite](#excite)
+
+---
+
+## excuse
+**excuse** — 1. <code>noun</code> /ɪkˈskjuːs/ (іменник) — виправдання, привід 2. <code>verb</code> /ɪkˈskjuːz/ (дієслово) — вибачати, пробачати
+
+**Пояснення:** ⚠️ написання однакове, але вимова різна — іменник закінчується на глухий /s/, дієслово на дзвінкий /z/ (та сама пара, що й `advice`/`advise`). Іменник — причина, яку наводиш, щоб пояснити провину чи відмову; часто зі скепсисом («це просто відмазка»).
+
+**💡 Конструкції:**
+- **excuse for** sth — виправдання для/через щось: There's no **excuse for** being late.
+- **excuse** sb **for** doing sth — вибачати комусь за щось: **Excuse** me **for** interrupting.
+- **make excuses** — виправдовуватися (зазвичай негативно): Stop **making excuses** and just fix it.
+
+**Приклади:**
+- Her explanations sounded like **excuses**, not facts. — Її пояснення звучали як виправдання, а не факти.
+- "**Excuse** me, where's the exit?" — «Вибачте, де вихід?»
 
 ---
 

@@ -1,6 +1,6 @@
 # H
 
-**Зміст:** [hardly](#hardly) · [hardship](#hardship) · [health](#health) · [hermit](#hermit) · [hinge](#hinge) · [hoard](#hoard) · [hold](#hold) · [hurt](#hurt)
+**Зміст:** [hardly](#hardly) · [hardship](#hardship) · [health](#health) · [hermit](#hermit) · [hesitation](#hesitation) · [hinge](#hinge) · [hoard](#hoard) · [hold](#hold) · [hurt](#hurt)
 
 ---
 
@@ -54,6 +54,23 @@
 **Приклади:**
 - An old **hermit** in the mountains taught the hero his first spell. — Старий відлюдник у горах навчив героя першого закляття. _(фентезі)_
 - After the deadline I lived like a **hermit** for a week. — Після дедлайну я тиждень жив як відлюдник. _(розробка, жарт)_
+
+---
+
+## hesitation
+**hesitation** /ˌhezɪˈteɪʃn/ — <code>noun</code> (іменник) — вагання, нерішучість
+
+**Пояснення:** стан, коли не наважуєшся щось зробити чи сказати, зволікаєш перед дією. НЕ плутай із `doubt` (сумнів — не вірити, що щось правдиве чи спрацює): вагання — про дію, сумнів — про віру в результат.
+
+**💡 Конструкція:**
+- **without hesitation** — не вагаючись, одразу: She agreed **without hesitation**.
+- **hesitation about/in** doing sth — вагання щодо чогось: I had some **hesitation about** joining the call.
+
+**Приклади:**
+- He accepted the offer **without hesitation**. — Він прийняв пропозицію без жодних вагань.
+- There was a moment of **hesitation** before she answered. — Була мить вагання, перш ніж вона відповіла.
+
+🔗 **Пов'язане:** [agree](a.md#agree) — часто разом: agreed without hesitation.
 
 ---
 

@@ -23,6 +23,7 @@ export default defineConfig({
           { text: 'Прогрес', link: '/progress' },
           { text: 'Правила (чек-лист)', link: '/rules' },
           { text: 'Помилки (НЕ ЗАБУТИ)', link: '/mistakes' },
+          { text: 'Неправильні дієслова', link: '/irregular-verbs' },
         ],
       },
     ],
@@ -66,13 +67,13 @@ export default defineConfig({
       ],
 
       '/vocabulary/': [
-        { text: 'Покажчик (усі слова, 341)', link: '/vocabulary/_index' },
+        { text: 'Покажчик (усі слова, 342)', link: '/vocabulary/_index' },
         {
           text: 'За літерами',
           collapsed: false,
           items: [
             ['a', 35], ['b', 13], ['c', 33], ['d', 21], ['e', 30], ['f', 14],
-            ['g', 10], ['h', 8], ['i', 13], ['j', 1], ['l', 8], ['m', 10],
+            ['g', 10], ['h', 9], ['i', 13], ['j', 1], ['l', 8], ['m', 10],
             ['n', 9], ['o', 14], ['p', 21], ['q', 2], ['r', 21], ['s', 39],
             ['t', 15], ['u', 9], ['v', 3], ['w', 12],
           ].map(([l, count]) => ({

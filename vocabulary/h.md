@@ -1,6 +1,17 @@
 # H
 
-**Зміст:** [hardly](#hardly) · [hardship](#hardship) · [health](#health) · [hermit](#hermit) · [hesitation](#hesitation) · [hinge](#hinge) · [hoard](#hoard) · [hold](#hold) · [hurt](#hurt)
+**Зміст:** [handle](#handle) · [hardly](#hardly) · [hardship](#hardship) · [health](#health) · [hermit](#hermit) · [hesitation](#hesitation) · [hinge](#hinge) · [hoard](#hoard) · [hold](#hold) · [hurt](#hurt)
+
+---
+
+## handle
+**handle** /ˈhændl/ — 1. <code>verb</code> (дієслово) — впоратися з чимось, обробляти, розбиратися 2. <code>noun</code> (іменник) — ручка (дверей, чашки)
+
+**Пояснення:** дієслово — про здатність впоратись зі складною ситуацією, запитом, навантаженням («система обробляє 1000 запитів», «він упорався зі скаргою клієнта»). Часто в парі з `get` у розмовному пасиві: `it gets handled` — «з цим розбираються/це вирішується».
+
+**Приклади:**
+- This worker **handles** all payment transactions. — Цей воркер обробляє всі платіжні транзакції.
+- Don't worry, the support team will **handle** it. — Не хвилюйся, команда підтримки з цим розбереться.
 
 ---
 

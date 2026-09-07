@@ -17,6 +17,8 @@
 | leave | left | left | залишати(ся), йти геть | Урок 11 Р8 |
 | feel | felt | felt | почуватися | Урок 11 Р9 |
 | fall | fell | fallen | падати | Урок 11 Р9 |
+| drive | drove | driven | вести (машину); спонукати | HR-рольова гра, 03.09 |
+| write | wrote | written | писати | HR-рольова гра, 03.09 (write up) |
 
 > ⚠️ **feel/felt** ≠ **fall/fell** — виглядають схоже в минулому часі (felt / fell), але різні дієслова: `I felt tired` (почувався) ≠ `I fell` (впав).
 

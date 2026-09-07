@@ -1,6 +1,6 @@
 # R
 
-**Зміст:** [rapid](#rapid) · [rare](#rare) · [rarely](#rarely) · [rather](#rather) · [ray](#ray) · [realize](#realize) · [refer](#refer) · [regret](#regret) · [relatable](#relatable) · [rely](#rely) · [remain](#remain) · [rescue](#rescue) · [research](#research) · [respond](#respond) · [resume](#resume) · [reveal](#reveal) · [rid](#rid) · [roll](#roll) · [rope](#rope) · [royal](#royal) · [rush](#rush)
+**Зміст:** [rapid](#rapid) · [rare](#rare) · [rarely](#rarely) · [rather](#rather) · [ray](#ray) · [reach](#reach) · [realize](#realize) · [refer](#refer) · [regret](#regret) · [relatable](#relatable) · [rely](#rely) · [remain](#remain) · [rescue](#rescue) · [research](#research) · [respond](#respond) · [resume](#resume) · [reveal](#reveal) · [rid](#rid) · [roll](#roll) · [rope](#rope) · [rough](#rough) · [royal](#royal) · [rush](#rush)
 
 ---
 
@@ -75,6 +75,21 @@
 - A **ray** of sunlight broke through the clouds. — Промінь сонця пробився крізь хмари.
 - The mage hit the skeleton with a **ray** of frost. — Маг вдарив скелета крижаним променем.
 - **Ray** tracing makes reflections in games look real. — Трасування променів робить відображення в іграх реалістичними.
+
+---
+
+## reach
+**reach** /riːtʃ/ — <code>verb</code> (дієслово) — 1. дотягнутися, досягти 2. зв'язатися з кимось
+
+**Пояснення:** фізично («дотягнутися до верхньої полиці») або переносно — досягти мети/рівня, або зв'язатися з людиною (телефоном, поштою).
+
+**💡 Конструкція:**
+- **reach** sb — зв'язатися з кимось, БЕЗ прийменника: What's the best email to **reach** you at?
+- **reach out to** sb — теж «зв'язатися», трохи м'якше/неформальніше.
+
+**Приклади:**
+- What's the best email to **reach** you at? — На яку пошту краще з тобою зв'язатися?
+- We finally **reached** an agreement. — Ми нарешті досягли згоди.
 
 ---
 
@@ -266,6 +281,17 @@
 - We climbed down the tower on a **rope**. — Ми спустилися з вежі по мотузці.
 - Tie the boat to the pier with this **rope**. — Прив'яжи човен до пірса цією мотузкою.
 - My mentor **showed me the ropes** during the first sprint. — Ментор увів мене в курс справи за перший спринт.
+
+---
+
+## rough
+**rough** /rʌf/ — <code>adjective</code> (прикметник) — 1. грубий, шорсткий (поверхня) 2. важкий, суворий (про досвід/період)
+
+**Пояснення:** часто переносно про складний період чи досвід: **a rough week**, **a rough patch** (важкий період). ⚠️ Вимова закінчення `-ough` тут /ʌf/ — не плутай з `though` /əʊ/ чи `through` /uː/, вони римуються по-різному, хоч і пишуться схоже.
+
+**Приклади:**
+- Three days of debugging — that sounds **rough**. — Три дні дебагу — це, мабуть, важко.
+- We went through a **rough** patch, but the team pulled through. — Ми пройшли через важкий період, але команда впоралась.
 
 ---
 

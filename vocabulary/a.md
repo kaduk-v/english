@@ -1,6 +1,6 @@
 # A
 
-**Зміст:** [accidentally](#accidentally) · [accrue](#accrue) · [accuracy](#accuracy) · [across](#across) · [actually](#actually) · [addict](#addict) · [addition](#addition) · [adjust](#adjust) · [admit](#admit) · [advantage](#advantage) · [affect](#affect) · [affirm](#affirm) · [afterwards](#afterwards) · [against](#against) · [agree](#agree) · [aid](#aid) · [ally](#ally) · [ammo](#ammo) · [among](#among) · [ancient](#ancient) · [apart](#apart) · [apply](#apply) · [appreciate](#appreciate) · [appropriately](#appropriately) · [approximate](#approximate) · [approximation](#approximation) · [arbitrary](#arbitrary) · [arise](#arise) · [arrange](#arrange) · [assign](#assign) · [assignment](#assignment) · [attic](#attic) · [attitude](#attitude) · [aware](#aware) · [awful](#awful)
+**Зміст:** [accidentally](#accidentally) · [accrue](#accrue) · [accuracy](#accuracy) · [across](#across) · [actually](#actually) · [addict](#addict) · [addition](#addition) · [adjust](#adjust) · [admit](#admit) · [advantage](#advantage) · [affect](#affect) · [affirm](#affirm) · [afterwards](#afterwards) · [against](#against) · [agree](#agree) · [aid](#aid) · [ally](#ally) · [alongside](#alongside) · [ammo](#ammo) · [among](#among) · [ancient](#ancient) · [apart](#apart) · [apply](#apply) · [appreciate](#appreciate) · [appropriately](#appropriately) · [approximate](#approximate) · [approximation](#approximation) · [arbitrary](#arbitrary) · [arise](#arise) · [arrange](#arrange) · [assign](#assign) · [assignment](#assignment) · [attic](#attic) · [attitude](#attitude) · [aware](#aware) · [awful](#awful)
 
 ---
 
@@ -237,6 +237,17 @@
 **Приклади:**
 - noun: The elves are our oldest **allies**. — Ельфи — наші найдавніші союзники. _(фентезі)_
 - verb: The two guilds **allied with** each other against the dragon. — Дві гільдії об'єдналися в союз проти дракона.
+
+---
+
+## alongside
+**alongside** /əˌlɒŋˈsaɪd/ — <code>preposition</code> / <code>adverb</code> (прийменник / прислівник) — поруч (з), разом з
+
+**Пояснення:** буквально — фізично поруч (припаркувався поруч); переносно — паралельно, одночасно з кимось/чимось (working alongside a teammate).
+
+**Приклади:**
+- The bike was parked **alongside** the car. — Велосипед стояв поруч із машиною.
+- I worked **alongside** two backend engineers on this feature. — Я працював разом із двома бекенд-інженерами над цією фічею.
 
 ---
 

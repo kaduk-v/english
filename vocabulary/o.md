@@ -1,6 +1,6 @@
 # O
 
-**Зміст:** [objection](#objection) · [obstacle](#obstacle) · [obviously](#obviously) · [occupancy](#occupancy) · [occupied](#occupied) · [occupy](#occupy) · [occur](#occur) · [offend](#offend) · [on purpose](#on-purpose) · [opposed](#opposed) · [ordinary](#ordinary) · [outlive](#outlive) · [overhaul](#overhaul) · [overlap](#overlap)
+**Зміст:** [objection](#objection) · [obstacle](#obstacle) · [obviously](#obviously) · [occasional](#occasional) · [occupancy](#occupancy) · [occupied](#occupied) · [occupy](#occupy) · [occur](#occur) · [offend](#offend) · [on purpose](#on-purpose) · [opposed](#opposed) · [ordinary](#ordinary) · [outlive](#outlive) · [overhaul](#overhaul) · [overlap](#overlap)
 
 ---
 
@@ -40,6 +40,17 @@
 **Приклади:**
 - **Obviously**, the server is down again. — Очевидно, сервер знову лежить.
 - He was **obviously** tired after the raid. — Він був явно втомлений після рейду.
+
+---
+
+## occasional
+**occasional** /əˈkeɪʒənl/ — <code>adjective</code> (прикметник) — рідкісний, періодичний, час від часу
+
+**Пояснення:** щось трапляється не регулярно, зрідка. Прислівник **occasionally** — див. [grammar/b1/adjectives-adverbs.md](../grammar/b1/adjectives-adverbs.md) (прислівники частоти).
+
+**Приклади:**
+- We have **occasional** in-person meetings, but mostly work remotely. — У нас рідкісні особисті зустрічі, але переважно працюємо віддалено.
+- An **occasional** bug is normal; constant crashes aren't. — Зрідкачасний баг — це нормально; постійні збої — ні.
 
 ---
 

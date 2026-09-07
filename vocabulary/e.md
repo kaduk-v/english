@@ -1,6 +1,6 @@
 # E
 
-**Зміст:** [eager](#eager) · [edge](#edge) · [effective](#effective) · [efficient](#efficient) · [effort](#effort) · [embrace](#embrace) · [emphasize](#emphasize) · [enclosed](#enclosed) · [encounter](#encounter) · [endless](#endless) · [endorse](#endorse) · [enforce](#enforce) · [engage](#engage) · [ensure](#ensure) · [entire](#entire) · [equipment](#equipment) · [essential](#essential) · [evaluate](#evaluate) · [eventually](#eventually) · [evidence](#evidence) · [exactly](#exactly) · [excite](#excite) · [excited](#excited) · [exciting](#exciting) · [excuse](#excuse) · [exhausted](#exhausted) · [explode](#explode) · [exploit](#exploit) · [explore](#explore) · [expose](#expose) · [extremely](#extremely)
+**Зміст:** [eager](#eager) · [edge](#edge) · [effective](#effective) · [efficient](#efficient) · [effort](#effort) · [either way](#either-way) · [embrace](#embrace) · [emphasize](#emphasize) · [enclosed](#enclosed) · [encounter](#encounter) · [endless](#endless) · [endorse](#endorse) · [enforce](#enforce) · [engage](#engage) · [ensure](#ensure) · [entire](#entire) · [equipment](#equipment) · [essential](#essential) · [evaluate](#evaluate) · [eventually](#eventually) · [evidence](#evidence) · [exactly](#exactly) · [excite](#excite) · [excited](#excited) · [exciting](#exciting) · [excuse](#excuse) · [exhausted](#exhausted) · [explode](#explode) · [exploit](#exploit) · [explore](#explore) · [expose](#expose) · [extremely](#extremely)
 
 ---
 
@@ -71,6 +71,17 @@
 - Learning a language takes a lot of **effort**. — Вивчення мови вимагає багато зусиль.
 - He **made an effort** to speak only English. — Він доклав зусиль говорити лише англійською.
 - She **puts** a lot of **effort into** her training. — Вона вкладає багато зусиль у тренування.
+
+---
+
+## either way
+**either way** /ˈaɪðə weɪ/ — <code>phrase</code> (вираз) — у будь-якому разі, так чи інакше
+
+**Пояснення:** результат чи наслідок однаковий, незалежно від того, який із двох варіантів обрати.
+
+**Приклади:**
+- We'll get back to you by Friday, **either way**. — Ми зв'яжемось із вами до п'ятниці, у будь-якому разі.
+- I'm fine with tea or coffee — **either way** works for me. — Мені підійде чай чи кава — будь-який варіант.
 
 ---
 

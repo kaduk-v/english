@@ -1,6 +1,6 @@
 # M
 
-**Зміст:** [make](#make) · [martial](#martial) · [matter](#matter) · [meaningful](#meaningful) · [merely](#merely) · [mesh](#mesh) · [mind-blowing](#mind-blowing) · [mindset](#mindset) · [miss](#miss) · [missile](#missile)
+**Зміст:** [make](#make) · [martial](#martial) · [matter](#matter) · [mature](#mature) · [meaningful](#meaningful) · [merely](#merely) · [mesh](#mesh) · [mind-blowing](#mind-blowing) · [mindset](#mindset) · [miss](#miss) · [missile](#missile)
 
 ---
 
@@ -52,6 +52,17 @@
 - verb: It doesn't **matter** which branch you use. — Не має значення, яку гілку ти використовуєш.
 - noun: What's the **matter**? You look tired. — Що сталося? Ти виглядаєш утомленим.
 - noun: A crash in production is a serious **matter**. — Падіння на проді — серйозна справа.
+
+---
+
+## mature
+**mature** /məˈtʃʊə(r)/ — 1. <code>adjective</code> (прикметник) — зрілий 2. <code>verb</code> (дієслово) — дозрівати
+
+**Пояснення:** про людину — досвідчена, розсудлива; про технологію/продукт — усталена, добре відпрацьована (a **mature** ecosystem).
+
+**Приклади:**
+- That's a **mature** approach to handling conflict. — Це зрілий підхід до вирішення конфлікту.
+- Node.js has a **mature** ecosystem of libraries. — У Node.js зріла екосистема бібліотек.
 
 ---
 

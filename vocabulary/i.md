@@ -1,6 +1,6 @@
 # I
 
-**Зміст:** [immediately](#immediately) · [immense](#immense) · [indeed](#indeed) · [inn](#inn) · [inner](#inner) · [inspire](#inspire) · [insufficient](#insufficient) · [intend](#intend) · [intended](#intended) · [intention](#intention) · [into](#into) · [invoke](#invoke) · [involve](#involve)
+**Зміст:** [immediately](#immediately) · [immense](#immense) · [indeed](#indeed) · [inn](#inn) · [inner](#inner) · [in-person](#in-person) · [inspire](#inspire) · [instability](#instability) · [insufficient](#insufficient) · [intend](#intend) · [intended](#intended) · [intention](#intention) · [into](#into) · [invoke](#invoke) · [involve](#involve)
 
 ---
 
@@ -65,6 +65,17 @@
 
 ---
 
+## in-person
+**in-person** /ɪnˈpɜːsn/ — <code>adjective</code> (прикметник) — особистий, наживо (не онлайн)
+
+**Пояснення:** протилежність remote/online — зустріч чи подія, де люди фізично присутні разом.
+
+**Приклади:**
+- We have one **in-person** team day a month. — У нас один день наживо з командою на місяць.
+- The **in-person** interview went well. — Співбесіда наживо пройшла добре.
+
+---
+
 ## inspire
 **inspire** /ɪnˈspaɪə(r)/ — <code>verb</code> (дієслово) — надихати, спонукати
 
@@ -75,6 +86,17 @@
 **Приклади:**
 - The film **inspired** me **to** start running. — Фільм надихнув мене почати бігати.
 - The design was **inspired by** nature. — Дизайн був натхненний природою.
+
+---
+
+## instability
+**instability** /ˌɪnstəˈbɪləti/ — <code>noun</code> (іменник) — нестабільність, нестійкість
+
+**Пояснення:** протилежність `stability`. Часто про систему, ринок чи ситуацію.
+
+**Приклади:**
+- The old codebase suffered from constant **instability**. — Стара кодова база постійно страждала від нестабільності.
+- Political **instability** affected the market. — Політична нестабільність вплинула на ринок.
 
 ---
 

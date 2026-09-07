@@ -1,6 +1,6 @@
 # D
 
-**Зміст:** [damage](#damage) · [definitely](#definitely) · [deliberate](#deliberate) · [deliberately](#deliberately) · [deliver](#deliver) · [delve](#delve) · [derive](#derive) · [desert](#desert) · [despite](#despite) · [detailed](#detailed) · [develop](#develop) · [difference](#difference) · [different](#different) · [directly](#directly) · [disadvantage](#disadvantage) · [disappoint](#disappoint) · [distinguish](#distinguish) · [doubt](#doubt) · [dozen](#dozen) · [drain](#drain) · [dungeon](#dungeon)
+**Зміст:** [damage](#damage) · [definitely](#definitely) · [deliberate](#deliberate) · [deliberately](#deliberately) · [deliver](#deliver) · [delve](#delve) · [derive](#derive) · [desert](#desert) · [despite](#despite) · [detailed](#detailed) · [develop](#develop) · [difference](#difference) · [different](#different) · [directly](#directly) · [disadvantage](#disadvantage) · [disappoint](#disappoint) · [discourage](#discourage) · [distinguish](#distinguish) · [doubt](#doubt) · [dozen](#dozen) · [drain](#drain) · [drive](#drive) · [dungeon](#dungeon)
 
 ---
 
@@ -224,6 +224,19 @@
 
 ---
 
+## discourage
+**discourage** /dɪsˈkʌrɪdʒ/ — <code>verb</code> (дієслово) — відбивати бажання/охоту, демотивувати
+
+**Пояснення:** протилежність **encourage**. Та сама -ed/-ing пара, що й disappointed/disappointing: **discouraged** — про людину (втратила мотивацію), **discouraging** — про річ/ситуацію (демотивує).
+
+**Приклади:**
+- Don't let one bad review **discourage** you. — Не дозволяй одному поганому відгуку тебе демотивувати.
+- The results were **discouraging**, but we kept going. — Результати були обеcкуражливими, але ми продовжили.
+
+🔗 Пов'язане: [disappoint](#disappoint) — та сама -ed/-ing логіка.
+
+---
+
 ## distinguish
 **distinguish** /dɪˈstɪŋɡwɪʃ/ — <code>verb</code> (дієслово) — розрізняти, відрізняти
 
@@ -280,6 +293,18 @@
 - verb: This app **drains** the battery in two hours. — Цей застосунок висаджує батарею за дві години.
 - verb: The vampire's spell **drains** your mana. — Закляття вампіра висмоктує твою ману.
 - noun: The water went down the **drain**. — Вода стекла у злив.
+
+---
+
+## drive
+**drive** /draɪv/ — 1. <code>verb</code> (дієслово) — 1. вести (машину) 2. рухати, спонукати, бути причиною чогось 2. <code>noun</code> (іменник) — жага, потяг (до успіху, дії)
+
+**Пояснення:** переносне значення дієслова — щось «жене» рішення чи зміну вперед, є мотивацією чи причиною. Неправильне дієслово: **drive — drove — driven** (див. [irregular-verbs.md](../irregular-verbs.md)).
+
+**Приклади:**
+- What **drove** your decision to switch teams? — Що спонукало твоє рішення перейти в іншу команду?
+- Customer feedback **drives** our roadmap. — Відгуки клієнтів визначають наш план розробки.
+- noun: She has real **drive**. — У неї справжня жага до успіху.
 
 ---
 

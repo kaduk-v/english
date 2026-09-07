@@ -1,6 +1,6 @@
 # C
 
-**Зміст:** [capture](#capture) · [care](#care) · [carve](#carve) · [cast](#cast) · [cause](#cause) · [certain](#certain) · [certainly](#certainly) · [chip](#chip) · [clamp](#clamp) · [clarity](#clarity) · [cohesive](#cohesive) · [come](#come) · [commit](#commit) · [comparison](#comparison) · [complain](#complain) · [complaint](#complaint) · [complete](#complete) · [complicate](#complicate) · [comprehensive](#comprehensive) · [concern](#concern) · [confidence](#confidence) · [consequence](#consequence) · [consistency](#consistency) · [construction](#construction) · [contribute](#contribute) · [convenience](#convenience) · [correspond](#correspond) · [cosy](#cosy) · [creature](#creature) · [creepy](#creepy) · [crisp](#crisp) · [curious](#curious) · [curtain](#curtain)
+**Зміст:** [capture](#capture) · [care](#care) · [carve](#carve) · [cast](#cast) · [catch someone's eye](#catch-someones-eye) · [cause](#cause) · [certain](#certain) · [certainly](#certainly) · [chip](#chip) · [clamp](#clamp) · [clarity](#clarity) · [cohesive](#cohesive) · [come](#come) · [commit](#commit) · [comparison](#comparison) · [complain](#complain) · [complaint](#complaint) · [complete](#complete) · [complicate](#complicate) · [comprehensive](#comprehensive) · [concern](#concern) · [confidence](#confidence) · [consequence](#consequence) · [consistency](#consistency) · [construction](#construction) · [contribute](#contribute) · [convenience](#convenience) · [correspond](#correspond) · [cosy](#cosy) · [creature](#creature) · [creepy](#creepy) · [crisp](#crisp) · [curious](#curious) · [curtain](#curtain)
 
 ---
 
@@ -57,6 +57,17 @@
 - v: The mage **cast** a fireball and ran behind the wall. — Маг кинув фаєрбол і сховався за стіною. _(гра)_
 - v: TypeScript won't let you **cast** this type silently. — TypeScript не дасть тихо привести цей тип. _(розробка)_
 - n: The **cast** of the show is amazing. — Акторський склад серіалу неймовірний.
+
+---
+
+## catch someone's eye
+**catch someone's eye** /kætʃ ˈsʌmwʌnz aɪ/ — <code>phrase</code> (вираз) — привернути чиюсь увагу, впасти в око
+
+**Пояснення:** щось (об'єкт, ідея, вакансія) настільки цікаве чи помітне, що одразу привертає увагу. Конструкція: **sth catches sb's eye**.
+
+**Приклади:**
+- What **caught your eye** about this role? — Що привернуло вашу увагу в цій вакансії?
+- The bright red car **caught my eye** immediately. — Яскраво-червона машина одразу впала мені в око.
 
 ---
 

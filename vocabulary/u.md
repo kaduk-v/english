@@ -1,6 +1,6 @@
 # U
 
-**Зміст:** [ultimately](#ultimately) · [uncover](#uncover) · [unintended](#unintended) · [unless](#unless) · [upon](#upon) · [upset](#upset) · [upwards](#upwards) · [urgent](#urgent) · [useless](#useless)
+**Зміст:** [ultimately](#ultimately) · [uncover](#uncover) · [unintended](#unintended) · [unless](#unless) · [upfront](#upfront) · [upon](#upon) · [upset](#upset) · [upwards](#upwards) · [urgent](#urgent) · [useless](#useless)
 
 ---
 
@@ -49,6 +49,17 @@
 **Приклади:**
 - You'll lose **unless** you focus. — Ти програєш, якщо не зосередишся.
 - **Unless** it rains, we'll play outside. — Якщо не буде дощу, гратимемо надворі.
+
+---
+
+## upfront
+**upfront** /ˌʌpˈfrʌnt/ — <code>adjective</code> / <code>adverb</code> (прикметник / прислівник) — 1. відвертий, прямий (про людину) 2. заздалегідь, наперед (про оплату)
+
+**Пояснення:** про людину — чесний, каже все прямо, без замовчувань. Про гроші/умови — сплачено чи обговорено заздалегідь.
+
+**Приклади:**
+- Thanks for being **upfront** about your salary expectations. — Дякую, що чесно сказав про очікування щодо зарплати.
+- The agency asks for 50% payment **upfront**. — Агентство просить 50% оплати наперед.
 
 ---
 

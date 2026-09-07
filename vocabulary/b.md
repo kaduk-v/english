@@ -1,6 +1,6 @@
 # B
 
-**Зміст:** [bail](#bail) · [beast](#beast) · [belong](#belong) · [besides](#besides) · [beyond](#beyond) · [blacksmith](#blacksmith) · [blanket](#blanket) · [blast](#blast) · [blend](#blend) · [boost](#boost) · [brief](#brief) · [broad](#broad) · [burden](#burden)
+**Зміст:** [bail](#bail) · [beast](#beast) · [belong](#belong) · [besides](#besides) · [beyond](#beyond) · [big-bang](#big-bang) · [blacksmith](#blacksmith) · [blanket](#blanket) · [blast](#blast) · [blend](#blend) · [boost](#boost) · [brief](#brief) · [broad](#broad) · [burden](#burden)
 
 ---
 
@@ -66,6 +66,17 @@
 - prep: The dragon lives **beyond** the mountains. — Дракон живе за горами. _(фентезі)_
 - prep: Why this bug happens only on Fridays is **beyond** me. — Чому цей баг стається лише по п'ятницях — поза моїм розумінням. _(розробка)_
 - adv: From the tower we saw the river and the forest **beyond**. — З вежі ми бачили річку і ліс далі за нею.
+
+---
+
+## big-bang
+**big-bang** /ˌbɪɡˈbæŋ/ — <code>adjective</code> (прикметник) — «одним махом», без поступовості (про підхід/реліз/міграцію)
+
+**Пояснення:** протилежність incremental/gradual (поступовому) підходу — усе змінюється чи запускається одним великим ризикованим кроком, а не маленькими безпечними кроками.
+
+**Приклади:**
+- We avoided a **big-bang** rewrite and migrated service by service instead. — Ми уникнули переписування «одним махом» і мігрували сервіс за сервісом.
+- A **big-bang** release without proper testing is risky. — Реліз «одним махом» без належного тестування — ризикований.
 
 ---
 

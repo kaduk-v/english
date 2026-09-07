@@ -1,6 +1,6 @@
 # S
 
-**Зміст:** [safety](#safety) · [scratch](#scratch) · [sequence](#sequence) · [series](#series) · [serve](#serve) · [settle](#settle) · [shape](#shape) · [shout](#shout) · [sketch](#sketch) · [slam](#slam) · [slay](#slay) · [slide](#slide) · [smooth](#smooth) · [smoothness](#smoothness) · [so](#so) · [soft](#soft) · [solve](#solve) · [sore](#sore) · [spark](#spark) · [spawn](#spawn) · [spear](#spear) · [spell](#spell) · [spend](#spend) · [spire](#spire) · [spot](#spot) · [standalone](#standalone) · [strength](#strength) · [strip](#strip) · [strive](#strive) · [struggle](#struggle) · [subdivision](#subdivision) · [success](#success) · [successful](#successful) · [such](#such) · [suffer](#suffer) · [supply](#supply) · [surprisingly](#surprisingly) · [suspend](#suspend) · [swing](#swing)
+**Зміст:** [safety](#safety) · [scratch](#scratch) · [sensible](#sensible) · [sequence](#sequence) · [series](#series) · [serve](#serve) · [settle](#settle) · [shape](#shape) · [shift gears](#shift-gears) · [shout](#shout) · [sketch](#sketch) · [slam](#slam) · [slay](#slay) · [slide](#slide) · [smooth](#smooth) · [smoothness](#smoothness) · [so](#so) · [soft](#soft) · [solve](#solve) · [sore](#sore) · [spark](#spark) · [spawn](#spawn) · [spear](#spear) · [spell](#spell) · [spend](#spend) · [spire](#spire) · [spot](#spot) · [standalone](#standalone) · [strength](#strength) · [strip](#strip) · [strive](#strive) · [struggle](#struggle) · [subdivision](#subdivision) · [success](#success) · [successful](#successful) · [such](#such) · [suffer](#suffer) · [supply](#supply) · [surprisingly](#surprisingly) · [suspend](#suspend) · [swing](#swing)
 
 ---
 
@@ -30,6 +30,17 @@
 - verb: The cat **scratched** the new sofa. — Кіт подряпав новий диван.
 - noun: The phone fell, but there isn't a single **scratch** on it. — Телефон упав, але на ньому жодної подряпини.
 - We built the drag-and-drop engine **from scratch**. — Ми написали рушій drag-and-drop з нуля.
+
+---
+
+## sensible
+**sensible** /ˈsensəbl/ — <code>adjective</code> (прикметник) — розсудливий, розумний, практичний
+
+**Пояснення:** 🪤 **false friend!** `sensible` ≠ «сенситивний/чутливий» — це `sensitive`. `sensible` = той, хто приймає розумні, практичні рішення.
+
+**Приклади:**
+- That's a **sensible** decision given the deadline. — Це розсудливе рішення з огляду на дедлайн.
+- She gave me some **sensible** advice. — Вона дала мені розсудливу пораду.
 
 ---
 
@@ -93,6 +104,17 @@
 **Приклади:**
 - noun: I need to get back **in shape** before the season. — Мені треба повернутися у форму перед сезоном.
 - verb: These experiences **shaped** who I am. — Цей досвід сформував мене таким, який я є.
+
+---
+
+## shift gears
+**shift gears** /ʃɪft ɡɪəz/ — <code>phrase</code> (вираз) — змінити тему/підхід, перемкнутися на інше
+
+**Пояснення:** дослівно — переключити передачу в машині; переносно — свідомо й різко перейти до чогось іншого в розмові чи роботі.
+
+**Приклади:**
+- Let's **shift gears** and talk about your last project. — Давай перемкнемось і поговоримо про твій останній проєкт.
+- After the outage, the team **shifted gears** to focus on monitoring. — Після збою команда переключилась на моніторинг.
 
 ---
 

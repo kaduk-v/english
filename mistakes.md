@@ -36,9 +36,11 @@
 
 **🔴 НОВИЙ ЛЕАК №1 — ПРИЙМЕННИКИ:** `during`→`for`, `on English`→`in`, `on previous work`→`at my previous job`, `on vacancy description`→`in the job description`. Тест: «це стала пара дієслово+прийменник чи я перекладаю з української?»
 
-**🪤 НОВИЙ ЛЕАК №2 — професійні false friends** (найнебезпечніші на співбесіді): functional→functionality · perspectives→prospects · increase→grow · actually · eventually · realize · **meeting≠мітинг** (meeting — ділова зустріч/нарада; мітинг — політичний захід/протест).
+**🪤 НОВИЙ ЛЕАК №2 — професійні false friends** (найнебезпечніші на співбесіді): functional→functionality · perspectives→prospects · increase→grow · actually · eventually · realize · **meeting≠мітинг** (meeting — ділова зустріч/нарада; мітинг — політичний захід/протест) · **vacation≠vacancy** (vacation — відпустка; vacancy — вакансія — 🔴 на рольовій співбесіді 03.09 сплутав ×3, хоча в Діагностиці 2.0 (14.08) вживав `vacancy` правильно — це слово, яке ти вже знав, зникло під тиском живої розмови).
 
 **🎯 be-radar (з Уроку 0) — твій ключовий фікс:** став `be` (am/is/are) перед прикметником / іменником / місцем (It **is** cold) або в `be + -ing` (she **is** running). НЕ став `be` перед звичайним дієсловом у простому часі (не «we **are** went», не «she **is** plays»).
+
+**⚠️ -s УГОДЖЕННЯ під живою розмовою (виявлено 03.09, HR-рольова гра):** у структурованих раундах ти зазвичай тримаєш це під контролем, але у вільній розмові без часу подумати `-s` «гуляє» в обидва боки — то забуваєш на однині (`the place that accept`, `who write`), то додаєш зайве на множині (`phases that ensures`, `timers executes`, `we all works`). Це нормально для живого мовлення — просто знай, що це і є твоя зона ризику на реальній співбесіді. Тест перед тим, як сказати: «хто робить дію — один чи багато?» Один → `-s`. Багато або «я/ти/ми» → без `-s`.
 
 **🎯 adj-після-дієслова (Урок 11, з'являється щоразу з НОВИМ словом):** коли дієслово описує ДІЮ (не стан через `be`/linking verb), і ти хочеш сказати ЯК — потрібен прислівник (`-ly`), а не прикметник. Патерн ловив тебе вже 4 рази, щоразу з іншим словом: **smooth**→smoothly (Р2-Р5) · **bad**→badly (Р3) · **correct**→correctly (Р6) · **loud**→loudly (Р9). Це не чотири різні помилки — це ОДНА звичка мозку економити `-ly`, коли слово коротке. Тест перед тим, як здати: чи є в реченні дієслово ДІЇ (walk, work, understand, drive, speak…)? Якщо так — перевір закінчення прислівника поруч із ним.
 
@@ -186,3 +188,12 @@
 | She always **speak** loud | She always **speaks loudly** | Дві помилки в одному слові: 3-тя особа без `-s`, і `loud`→`loudly` (нове слово в родині adj-після-дієслова: smooth/bad/correct/**loud**) | 03.09 · Урок 11 Р9 |
 | started **dance** | started **dancing** | після `start` — `-ing` (або `to dance`), не гола форма | 03.09 · Урок 11 Р9 |
 | I **fell** tired | I **felt** tired | 🎯 нове: `fell` — минулий час від `fall` (падати), а не від `feel` (почуватися)! Потрібне `felt` (feel→felt→felt) | 03.09 · Урок 11 Р9 |
+| your **vacation** *(× 3 за розмову)* | your **vacancy** | 🔴 **важливо** — те саме слово, яке ти ПРАВИЛЬНО вживав у Діагностиці 2.0 (14.08), зникло під тиском живої розмови. `vacation` = відпустка, `vacancy` = вакансія → дивись 🪤 леак №2 вище | 03.09 · HR-рольова гра |
+| workers **witch** handle | workers **which** handle | омофони: `witch` (відьма) ≠ `which` (який/що) — граматика (relative clause без `-s` на множині) правильна, тільки написання | 03.09 · HR-рольова гра |
+| PM2 **demon** | PM2 **daemon** | омофони: `demon` (демон) ≠ `daemon` (фоновий процес) — у програмуванні завжди `daemon` | 03.09 · HR-рольова гра |
+| **Than** I created / executes **than** poll | **Then** I created / executes, **then** poll | `than` (порівняння: better than) ≠ `then` (далі, потім) — з'явилось двічі незалежно в розмові | 03.09 · HR-рольова гра |
+| we could understand **what is the problem** | we couldn't understand **what the problem was** | Два шари: (1) непряме питання йде порядком звичайного речення (підмет-дієслово), не як пряме питання → [§13](rules.md#13-непрямі-питання-та-if--whether); (2) судячи з контексту (три дні дебагу), малось на увазі **couldn't** — заперечення загубилось | 03.09 · HR-рольова гра |
+| **How the team is big**? | **How big is** the team? | Питання з "how + прикметник" — прикметник одразу після how, далі звичайна інверсія: how big **is** X, не how X is big | 03.09 · HR-рольова гра |
+| gRPC **using** for payments, because **is** the most **security** | gRPC **is used** for payments, because **it's** the most **secure** | 🎯 be-omission повертається в живій розмові: пропущено `is` двічі (перед `used`, перед `the most secure`) + іменник `security` замість прикметника `secure` | 03.09 · HR-рольова гра |
+| the loop **has a several** phases that **ensures** | the loop **has several** phases that **ensure** | Два визначники (`a`+`several`) поруч — обери один; і зворотна -s: `phases` множина → `ensure` без `-s` | 03.09 · HR-рольова гра |
+| We all **works** in **the one** room | We all **work** in **the same** room | Зворотна -s: `we` не бере `-s`; і `the one room` не стала фраза — треба `the same room` | 03.09 · HR-рольова гра |

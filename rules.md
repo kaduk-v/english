@@ -171,6 +171,7 @@
 - ✅ I don't know **whether** I have time.
 - 🔴 **Непряме питання закінчується КРАПКОЮ, не «?»**: ✅ I don't know where he is. (не ~~where he is?~~)
 - ⚠️ `whether` — більш формально, `if` — розмовно; обидва правильні.
+- **Порядок слів — як у звичайному реченні (підмет-дієслово), НЕ як у питанні:** ✅ I understood **what the problem was**. (не ~~what was the problem~~) · ✅ Tell me **where he lives**. (не ~~where does he live~~)
 
 ## 14. Коми
 

@@ -20,3 +20,29 @@
   font-weight: 600;
   line-height: 1;
 }
+
+/* Lucide icon before a page's H1, replacing emoji. Masked (not <img>) so the
+   heading's own text stays clean for anchors/aria, and the icon inherits theme color. */
+.vp-doc h1[id]::before {
+  content: '';
+  display: inline-block;
+  width: 0.8em;
+  height: 0.8em;
+  margin-right: 0.35em;
+  vertical-align: -0.08em;
+  background-color: var(--vp-c-brand-1);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+
+.vp-doc h1#неправильні-дієслова::before {
+  -webkit-mask-image: url('/english/icons/repeat.svg');
+  mask-image: url('/english/icons/repeat.svg');
+}
+
+.vp-doc h1#фразові-дієслова::before {
+  -webkit-mask-image: url('/english/icons/puzzle.svg');
+  mask-image: url('/english/icons/puzzle.svg');
+}

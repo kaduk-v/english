@@ -677,4 +677,94 @@
     - **`enough` або `too`** (пам'ятай: `not enough`, не `no enough`);
     - **окреме речення** зі структурою **[підмет] + look/sound/feel + прикметник**.
 
+### Відповіді учня
+
+1. I was excited about news and news really were exciting.
+2. The peace of advice turned out to be useless - we lost a week.
+3. I don't enough time to do it correctly.
+4. The project looks finished, but the team still hesitate.
+5. He rarely gives advice, but when he gives - they are always clear.
+6. Do you usually read the terms before sign anything?
+7. He won't agree without objections.
+8. Він виглядав виснаженим після мітингу, але він сказав це виявилося продуктивним. Чесно кажучи, ніхто не очікував такої корисної поради.
+9. not enough, бо no вживається тільки перед іменником, а не перед прикметником чи прислівником
+10. I don't need a piece of advice from you. He looked excited while a party was exciting. This simple approach turned out to be very useful. After while hesitation I agreed to her proposition.
+11.
+    1. Often I don't remember where I left my keys. Sometimes she takes a break on her work and goes to walk near the river.
+    2. I'm interested in sharing my app. This app is interesting for many people thanks to it beautiful design.
+    3. It's not enough to finish work in time.
+    4. Your objections sounds like lie.
+
+### Перевірка Раунду 8 — ❌ (10 помилок), але з великими перемогами
+
+**Коротко:** `excited`/`exciting` нарешті написані ПРАВИЛЬНО скрізь (п.1, п.10) — це вирішено. `turn out` у минулому часі — стабільно (п.2, п.10). Міні-текст: 3 із 4 умов виконано чисто, включно з елегантною парою `interested`/`interesting`. Але з'явився новий випадок uncountable (news), і два повтори повернулись ідентично — `piece`/`peace` і `objections`/`hesitation`.
+
+| № | Було | Правильно | Детальніше, яка саме це помилка |
+|---|---|---|---|
+| 1 | — | ✅ **excited / exciting** — написання виправлено! | Це вирішує помилку з двох попередніх раундів. |
+| 1 | news really **were** exciting | news really **was** exciting | Нова пастка: `news` ЗАКІНЧУЄТЬСЯ на -s і виглядає як множина, але граматично — ОДНИНА (як `information`, `advice`). Дієслово — `was`, не `were`. |
+| 2 | The **peace** of advice | The **piece** of advice | 🔴 **ПОВТОР** з Раунду 6, той самий омофон. Лайфхак для запам'ятовування: `piece` (шматок) — та сама сім'я, що й `a piece of cake/pie`; `peace` (мир) — зовсім інше слово, ніякого зв'язку з «шматком» немає. |
+| 3 | I **don't enough** time | I **don't have** enough time | Пропущено смислове дієслово `have`. `enough` — не дієслово, воно не може стояти одразу після `don't`; потрібне «носій дії» — `have`. |
+| 3 | — | ✅ **correctly** | Стабільно правильно вже другий раз поспіль. |
+| 4 | — | ✅ **The project looks finished** | 🎉 Ідеальний приклад linking verb — і це навіть не в спеціальному завданні, а у звичайному перекладі! |
+| 4 | the team still **hesitate** | the team **hesitates** | 3-тя особа однини (`team` — одна команда → рахується як «he/she/it»). Бонус: ти сам згадав дієслово `hesitate` від іменника `hesitation` — це чудове словотворче чуття, я його не давав окремо. |
+| 5 | advice… **they are** always clear | advice… **it is** always clear | Регрес: у Раунді 7 (п.1) ти якраз ПРАВИЛЬНО вжив `it` для `advice` — тут повернулось `they`. `advice` завжди однина, займенник — `it`. |
+| 6 | before **sign** anything | before **signing** anything | 🔴 **ПОВТОР** (Р7: «before to buy») — те саме правило (прийменник + `-ing`), тепер зламане іншим способом (пропущено `-ing` замість зайвого `to`). |
+| 7 | won't agree **without objections** | won't agree **without hesitation** | 🔴 **ПОВТОР ×2, ІДЕНТИЧНИЙ** Раунду 6 — та сама заміна слова. Мнемоніка, щоб розрізняти: **hesitation** — це щось усередині ТЕБЕ (ти сам вагаєшся, не наважуєшся); **objection** — це щось ЗОВНІ, від іншої людини чи сторони (хтось заперечує проти твоєї ідеї). «Вагання» завжди про твій власний стан. |
+| 7 | — | *(пропущено `definitely`)* | Так само, як у Р6 — джерело мало «точно», воно мало перейти й у заперечення. |
+| 8 | «після **мітингу**» | «після **зустрічі/наради**» | 🪤 **Важливий false friend, додав у mistakes.md:** англ. `meeting` = ділова зустріч/нарада; укр. «мітинг» = політичний захід/протест. Різні поняття! |
+| 9 | — | ✅ правило правильне, хоч і неповне | Твоє пояснення («no тільки перед іменником») правильне як загальна закономірність. Точніша причина: `enough` уже саме по собі означає «достатня кількість» — коли ти кажеш `not enough`, ти заперечуєш ДІЄСЛОВО (don't have enough), а `no` заперечує ІМЕННИК напряму (no time). Змішувати обидва заперечення в одному місці — це вже занадто (подвійне заперечення одного і того ж). |
+| 10 | — | ✅ **excited / exciting** знову правильно, **turned out**, **a piece of advice** (тут написано вірно!) | Три з чотирьох слів — бездоганно. |
+| 10 | **After while hesitation** | **After a while of hesitation** / **After some hesitation** | `a while` — стала фраза (завжди з `a`), і перед іменником після неї потрібен `of`. Простіший варіант — просто `after some hesitation`. |
+| 11.1 | takes a break **on her work** | takes a break **at work** | `on her work` — не стала пара; «перерва НА роботі» = `a break at work`. |
+| 11.1 | goes **to walk** | goes **for a walk** | `go for a walk` — стала фраза, дослівний переклад «йти гуляти» тут не працює. |
+| 11.1 | — | ✅ `left` (leave→left) — irregular дієслово вжите правильно | Додав у `irregular-verbs.md`. |
+| 11.1–2 | — | ✅ 2 прислівники частоти: `Often` + `Sometimes` (обидва front-position) | Умова виконана. |
+| 11.2 | — | ✅ **пара -ed/-ing**: `interested` / `interesting`, той самий корінь | Умова виконана — і це найелегантніший приклад за весь урок: слово вжите ЗМІСТОВНО, не просто «для галочки». |
+| 11.2 | thanks to **it** beautiful design | thanks to **its** beautiful design | Класична плутанина: `it` (він/вона/воно як підмет чи додаток) ≠ `its` (присвійний — «його/її», без апострофа!). |
+| 11.3 | — | ✅ **not enough** — застосував щойно пояснене правило (п.9) у той самий момент | 👏 |
+| 11.4 | Your objections **sounds** like lie | Your objections **sound** like **a** lie | Дзеркальна помилка: тут підмет — МНОЖИНА (`objections`), тому дієслово БЕЗ `-s` (`sound`). Це навпаки звичного «забув -s на однині» — тут навпаки, зайве -s на множині. Плюс пропущений артикль перед `lie`. |
+| 11 | — | ⚠️ linking verb — близько, але не точно | `sounds like a lie` — це `sound like + іменник`, а завдання просило `sound + прикметник` напряму (`This sounds risky`). Обидві форми природні в англійській, просто це не той шаблон, який тренували. |
+
+**Головне:** `excited`/`exciting` і `turn out` — реально закриті, це велика перемога після кількох раундів. Два ідентичні повтори (`objections`↔`hesitation`, `piece`↔`peace`) — це вже не про розуміння, а про моторику написання/пригадування; дав мнемоніки вище, спробуємо їх у Раунді 9.
+
+---
+
+## Раунд 9
+
+Фокус — вбити ідентичні повтори (objections/hesitation, piece/peace) за допомогою мнемонік, і закріпити `news`/`it-its`/зворотну -s помилку.
+
+### Частина 1 — UA → EN
+
+1. Ці новини виявились кращими, ніж ми думали.
+2. У мене немає часу на вагання — рішення треба ухвалити зараз.
+3. Команда досі вагається, хоча дедлайн уже завтра.
+4. Її пояснення звучали як виправдання, а не як факти.
+5. Ти впевнений, що взяв достатньо грошей перед тим, як їхати?
+
+### Частина 2 — питання і заперечення
+
+6. Спитай: «Ти коли-небудь вагаєшся перед важливим рішенням?» *(просто Present Simple: Do you ever hesitate…)*
+7. Постав у заперечення: «Він точно вагатиметься.» *(→ definitely won't hesitate)*
+
+### Частина 3 — EN → UA
+
+8. > The news turned out to be surprising. Honestly, the team hesitated at first, but eventually they agreed without any real objections.
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: у чому різниця між `hesitation` і `objection`? По одному реченню на кожне слово, щоб показати різницю.
+
+### Частина 5 — словник: найстійкіші повтори
+
+10. По одному реченню з кожним, гостро уважно до написання: **a piece of advice** (не peace!) · **news** (пам'ятай: однина!) · **objection** · **hesitation**.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **2 прислівники частоти** (always / usually / rarely / often…) у правильній позиції;
+    - **одна пара -ed/-ing з ОДНОГО кореня** — перевір написання;
+    - **`enough` або `too`**;
+    - **окреме речення** зі структурою **[підмет] + look/sound/feel + ПРИКМЕТНИК** (не «sounds like + іменник» — саме прикметник одразу після дієслова).
+
 **Відповіді учня:** _(нижче)_

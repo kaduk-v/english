@@ -36,7 +36,7 @@
 
 **🔴 НОВИЙ ЛЕАК №1 — ПРИЙМЕННИКИ:** `during`→`for`, `on English`→`in`, `on previous work`→`at my previous job`, `on vacancy description`→`in the job description`. Тест: «це стала пара дієслово+прийменник чи я перекладаю з української?»
 
-**🪤 НОВИЙ ЛЕАК №2 — професійні false friends** (найнебезпечніші на співбесіді): functional→functionality · perspectives→prospects · increase→grow · actually · eventually · realize.
+**🪤 НОВИЙ ЛЕАК №2 — професійні false friends** (найнебезпечніші на співбесіді): functional→functionality · perspectives→prospects · increase→grow · actually · eventually · realize · **meeting≠мітинг** (meeting — ділова зустріч/нарада; мітинг — політичний захід/протест).
 
 **🎯 be-radar (з Уроку 0) — твій ключовий фікс:** став `be` (am/is/are) перед прикметником / іменником / місцем (It **is** cold) або в `be + -ing` (she **is** running). НЕ став `be` перед звичайним дієсловом у простому часі (не «we **are** went», не «she **is** plays»).
 
@@ -164,3 +164,13 @@
 | before **to buy** | before **buying** | порушення вже пройденого правила: прийменник + `-ing`, не `to + дієслово` → [§9](rules.md#9-прийменники-часу-і-дедлайнів) | 03.09 · Урок 11 Р7 |
 | I have **no enough** money | I have **not enough** money | `no` + `enough` разом не працюють — або `not enough`, або просто `no money` | 03.09 · Урок 11 Р7 |
 | in **few** days | in **a few** days | ⚠️ **ПОВТОР** — `a few` (кілька, позитивно) vs `few` (мало, негативно); тут малось на увазі позитивне |03.09 · Урок 11 Р7 |
+| the news really **were** exciting | the news really **was** exciting | нове: `news` ЗАКІНЧУЄТЬСЯ на -s і виглядає як множина, але граматично ОДНИНА (як information) → дієслово `was`, не `were` | 03.09 · Урок 11 Р8 |
+| the **peace** of advice | the **piece** of advice | 🔴 **ПОВТОР** (Р6) — той самий омофон piece≠peace | 03.09 · Урок 11 Р8 |
+| I don't **enough** time | I don't **have** enough time | пропущено дієслово `have` — `enough` не дієслово, після `don't` завжди йде смислове дієслово → [§1](rules.md#1-дієслово-та-підмет) | 03.09 · Урок 11 Р8 |
+| the team still **hesitate** | the team **hesitates** | 3-тя особа однини (team = одна команда) → +s | 03.09 · Урок 11 Р8 |
+| advice… **they are** always clear | advice… **it is** always clear | 🔁 регрес — у Р7 п.1 ти це саме зробив ПРАВИЛЬНО (`it really helped`); `advice` завжди однина → `it` | 03.09 · Урок 11 Р8 |
+| before **sign** anything | before **signing** anything | 🔴 **ПОВТОР** (Р7: «before to buy») — прийменник + `-ing`, вже вдруге іншою формою тієї самої помилки | 03.09 · Урок 11 Р8 |
+| won't agree **without objections** | won't agree **without hesitation** | 🔴 **ПОВТОР ×2** (ідентично Р6) — objection (заперечення) ≠ hesitation (вагання); і знову загубилось `definitely` | 03.09 · Урок 11 Р8 |
+| after while **hesitation** | after **a while of** hesitation / after **some** hesitation | `a while` — стала фраза (a + while, завжди з артиклем), і перед іменником після неї потрібен `of` | 03.09 · Урок 11 Р8 |
+| thanks to **it** beautiful design | thanks to **its** beautiful design | класична плутанина: `it` (він/вона/воно як підмет/додаток) ≠ `its` (присвійний, «його/її») | 03.09 · Урок 11 Р8 |
+| Your objections **sounds** like lie | Your objections **sound** like **a** lie | дзеркальна помилка: тут підмет МНОЖИНА (objections), тому дієслово БЕЗ `-s` (sound, не sounds) — навпаки звичного «забув -s»; плюс пропущений артикль перед `lie` | 03.09 · Урок 11 Р8 |

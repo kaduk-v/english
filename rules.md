@@ -78,6 +78,7 @@
 **Присвійний займенник ЗАМІНЯЄ артикль — разом не можна:** (my, your, his, her, its, our, their)
 - ✅ her **best** friend / ✅ **the** best friend — але ❌ her **the** best friend
 - ✅ my car / ✅ the car — але ❌ my the car
+- **Частини тіла й особисті речі — з присвійним, не голі:** ✅ wash **my** hands · brush **your** teeth · he broke **his** arm. (❌ wash hands)
 
 **Superlative ЗАВЖДИ з `the`:**
 - ✅ **the** biggest / **the** most expensive / **the** best — ❌ biggest / most expensive (без the)
@@ -120,6 +121,7 @@
 | talk **about** sth | говорити про | talk on |
 | depend **on** sth | залежати від | depend from |
 | agree **to** sth | погодитися на щось (прийняти пропозицію/умову) | agree on *(це радше «домовитись/дійти згоди ПРО щось» разом з кимось)* |
+| object **to** sth | заперечувати проти | object sth |
 
 > Деталі по `complain about` vs `complain to` — у `vocabulary/c.md`.
 > Окремо: **speak English** — «розмовляти англійською» БЕЗ прийменника: ❌ speak **on** English → ✅ speak English.
@@ -163,6 +165,7 @@
 
 **Інше:**
 - **spend time** + **V-ing**: ✅ I spend time **studying**. (⚠️ «spend time studying» природніше за «spend time on studying»; з іменником — spend time **on** homework.)
+- **start / begin** + **V-ing** або **to + V** — ніколи гола форма: ✅ started **dancing** / started **to dance** · before starting **to eat**. ❌ started dance.
 
 ## 13. Непрямі питання та if / whether
 
@@ -211,6 +214,9 @@
 - **were at** (стан: «були в») vs **went to** (дія: «ходили в»): ✅ We **were at** the cinema. / We **went to** the cinema.
 - **meet** розмовно без «with» (with — для офіційних/бізнес-зустрічей): ✅ Let's **meet** at 6.
 - **hesitation** («вагання» — не наважуватись, зволікати) vs **doubt** («сумнів» — не вірити, що це правда): ✅ She agreed **without hesitation**. (одразу погодилась) / I have **doubts about** this plan. (не впевнена, що план правильний)
+- **say** vs **tell**: `tell` — коли є адресат або стала пара (tell **me**, tell **the truth**, tell **a story**); `say` — самі слова (say **that**…, say **hello**). ❌ say the truth → ✅ **tell** the truth.
+- **in time** («встигнути, з запасом») vs **on time** («вчасно, за розкладом»): ✅ She'll be ready **on time**. / We arrived **in time** to catch the train.
+- **fall → fell** («падати») vs **feel → felt** («почуватися»): `felt` — сім'я «ee → e + t» (kept, slept, met); `fell` — лишається подвійне **ll** від fall. ✅ I **fell** down. / I **felt** tired.
 
 ## 18. Present Simple vs Continuous
 

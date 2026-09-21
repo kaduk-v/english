@@ -830,3 +830,151 @@
 - 30 повідомлень з мого боку, потім — повний розбір переписки.
 
 Почали.
+
+---
+
+## Раунд 10
+
+Пауза закінчена — повертаємось до раундів. Фокус — три найстійкіші форми-леаки (`before/after/without` + `-ing`, `definitely` + `won't`, прикметник→прислівник після дієслова дії) через ізольований дриль, плюс `sound/look/feel` + прикметник (не `like` + іменник) через усвідомлення правила, плюс `fall/fell` vs `feel/felt` — нова плутанина форм, яку вперше побачили в Раунді 9.
+
+### Частина 1 — UA → EN
+
+1. Швидко перевір усі цифри перед відправкою звіту.
+2. Ці новини були неочікуваними, хоча й не дуже точними.
+3. У мене немає причин заперечувати цю ідею — лише невелике вагання.
+4. Він точно не погодиться без обговорення умов контракту.
+5. Вона голосно сказала правду, і всі здивувалися.
+
+### Частина 2 — питання і заперечення
+
+6. Постав питання: «Ти взагалі коли-небудь вагаєшся приймати важливі рішення?» *(hesitate to do smth)*
+7. Постав у заперечення: «Вона точно не почуватиметься готовою вчасно.» *(definitely + won't + feel + прикметник)*
+
+### Частина 3 — EN → UA
+
+8. > Before finishing the report, she checked all the numbers twice. The news was surprising, but she definitely won't panic about it. Her voice sounded calm, and everyone felt relieved.
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: чому можна сказати `This sounds strange` (прикметник одразу після `sounds`), але НЕ можна сказати `This sounds like strange`? І як тоді правильно сказати «Це звучить як брехня» (з іменником `lie`)?
+
+### Частина 5 — дриль форм: fall vs feel
+
+10. Постав правильну форму минулого часу (`fell` або `felt`) у кожне речення:
+    a) Yesterday I ___ down the stairs.
+    b) This morning I ___ really tired.
+    c) After the meeting, he ___ satisfied with the results.
+    d) The vase ___ off the table and broke.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне речення** з прийменником (`before`/`after`/`without`) + `-ing`;
+    - **одне речення** зі структурою **[підмет] + sound/look/feel + ПРИКМЕТНИК** (без `like` + іменник);
+    - **одне заперечення** з `definitely`, правильно розташованим ПЕРЕД `won't`/`don't`;
+    - **одне речення** з дієсловом дії (не linking verb) + правильно утвореним прислівником (не голий прикметник).
+
+### Відповіді учня
+
+*(здано у два заходи: спочатку 1–8, потім 9–11)*
+
+1. Quick check all numbers before send the report.
+2. Thіs news was unexpected, although not precise.
+3. I don't have reasons to object this idea - only a bit hesitate.
+4. He won't agree without discussion conditions of contract.
+5. She said the truth loud, and everybody surprised.
+6. Do you ever hesitate to agree important decisions?
+7. She definitely won't fell ready in time.
+8. Перед закінченням звіту вона перевірила всі цифри двічі. Новини були неочікуваними, але вона точно не буде панікувати щодо цього. ЇЇ голос звучав спокійним і кожен відчув полегшення.
+9. This sounds strange - бо sounds виступає як дієслово, This sounds like strange - like тут не можна бо він вже як друге дієслово підряд, із lie буде This sounds like a lie
+10. a) Yesterday I felt down the stairs. b) This morning I fell really tired. c) After the meeting, he felt satisfied with the results. d) The vase fall off the table and broke.
+11.
+    1. Before stating eat, I always wash hands
+    2. She looks very confident this morning
+    3. Tom definitely won't agree with this risky idea
+    4. It sounds good.
+
+### Перевірка Раунду 10 — ❌ (16 помилок + неточне пояснення в п.9)
+
+**Коротко:** головна знахідка раунду — **ті самі два правила** (`before` + `-ing`, `definitely` + `won't`), які зламались у вільному перекладі (п.1, п.4), у міні-тексті з чек-листом (п.11) виконані **чисто**. Тобто правило ти знаєш; воно не спрацьовує, коли увага на змісті, а не на формі — та сама діагностика, що й з `advice`/`hesitation`. Дриль `fall`/`feel` — 1/4: форми не переплутані «навпаки», вони просто ще не закріплені. Прикметник замість прислівника після дієслова дії — двічі за раунд (`quick`, `loud`), і саме ця умова в міні-тексті не виконана. Пояснення в п.9 — правильна відповідь, але неправильна причина: `like` — не «друге дієслово», а прийменник. Чисті: п.2, п.8, п.11.2, п.11.3.
+
+| № | Було | Правильно | Яке саме правило порушено |
+|---|---|---|---|
+| 1 | **Quick** check all numbers | **Quickly** check all the numbers | Прикметник замість прислівника перед дієсловом дії (`check`) — 🎯 те саме сімейство, що `loud→loudly`, `smooth→smoothly`. Дрібниця: «усі цифри звіту» — конкретні → `the numbers`. |
+| 1 | before **send** | before **sending** | Після прийменника (`before/after/without`) — ЗАВЖДИ `-ing`. 🔴 4-й раз поспіль, щоразу іншою формою: зайве `to` (Р7), гола форма (Р8), знову `to` (Р9), гола форма (Р10). |
+| 2 | — | ✅ **This news was unexpected** | `news` = однина — вдруге поспіль правильно. *(«не дуже точними» = not **very** precise — `very` випало, але граматика чиста.)* |
+| 3 | object **this** idea | object **to** this idea | `object` — дієслово з обов'язковим прийменником `to` (як `respond to`, `listen to`). Без прийменника — не працює. |
+| 3 | a bit **hesitate** | a bit **of hesitation** | Після `a bit of` потрібен ІМЕННИК; `hesitate` — дієслово, іменник від нього — `hesitation`. Плутанина частини мови: дія ≠ стан-іменник. |
+| 4 | — | ❌ **`definitely` відсутнє** | Слово «**точно**» — фокус речення — просто випало з перекладу. |
+| 4 | without **discussion** conditions | without **discussing the** conditions | 🔴 5-й раз: після `without` — герундій (`discussing`), а `discussion` — іменник. Плюс артикль: конкретні умови ЦЬОГО контракту → `the conditions`. |
+| 5 | said the truth **loud** | told the truth **loudly** | 🎯 `loud` (прикметник) замість `loudly` (прислівник) після дієслова дії. І колокація: «казати правду» = `tell the truth` (`say` — з прямою мовою або `that`, не з `the truth`). |
+| 5 | everybody **surprised** | everybody **was surprised** | 🎯 be-omission: `surprised` — дієприкметник-прикметник, йому потрібна зв'язка `was`. Речення без дієслова неможливе (rules.md §1). |
+| 6 | hesitate to **agree** important decisions | hesitate to **make** important decisions | Колокація: рішення **приймають** — `make a decision` (rules.md §11). `agree` тут і за змістом не те, і граматично вимагав би `agree on/to`. |
+| 6 | — | ✅ `Do you ever hesitate to + V` | Структура питання — правильна. |
+| 7 | won't **fell** ready | won't **feel** ready | Два шари: після `won't` — БАЗОВА форма (не минула); і базова форма тут — `feel` (почуватися), а `fell` — минулий час іншого дієслова, `fall` (падати). Плутанина вилізла сама, ще до дрилю в п.10. |
+| 7 | ready **in time** | ready **on time** | `on time` — вчасно, за розкладом; `in time` — встигнути, з запасом. Тут — перше. |
+| 8 | — | ✅ повністю чисто | Усі чотири структури (before + -ing, news + was, definitely won't, sounded calm / felt relieved) розпізнані й перекладені правильно. |
+| 9 | «like… як друге дієслово підряд» | `like` — **прийменник** («як, наче») | Відповідь правильна (`This sounds like a lie`), але причина — ні: `like` тут не дієслово «подобатись», а прийменник. Прийменник вимагає після себе ІМЕННИК (з артиклем), тому ❌ `sounds like strange` — прикметник після прийменника неможливий. Це правило не було в граматиці — додав у [§7](../grammar/b1/adjectives-adverbs.md#look-sound-feel-like-іменник). |
+| 10a | I **felt** down the stairs | I **fell** down the stairs | «впав зі сходів» — `fall` → `fell`. |
+| 10b | I **fell** really tired | I **felt** really tired | «почувався втомленим» — `feel` → `felt`. |
+| 10c | — | ✅ he **felt** satisfied | — |
+| 10d | The vase **fall** off | The vase **fell** off | Дієслово обране правильно (`fall`), але форма — базова замість минулої. |
+| 10 | — | 🎯 **1/4 — нове іменоване:** fall/fell ≠ feel/felt | Мнемоніка: **feel→felt** — сім'я «ee → e + t» (keep→kept, sleep→slept, meet→met); **fall→fell** — міняється лише голосна, подвійне **ll** лишається. Тест: є `-t` на кінці → «почуватися»; є `ll` → «падати». |
+| 11.1 | Before **stating eat** | Before **starting to eat** / **starting eating** | 🔴 ПОВТОР (Р9 «started dance»): після `start` — `to + V` або `-ing`, ніколи гола форма. *(«stating» — одрук, не рахую.)* |
+| 11.1 | wash **hands** | wash **my** hands | Частини тіла в англійській — з присвійним: wash **my** hands, brush **your** teeth, broke **his** arm. Голий іменник тут не працює. |
+| 11.1 | — | ✅ **Before starting** | Умова 1 виконана — перше чисте `before + -ing` за 5 спроб. Спрацювало саме там, де був чек-лист. |
+| 11.2 | — | ✅ **She looks very confident** | Умова 2 виконана: look + прикметник, без `like`. |
+| 11.3 | — | ✅ **Tom definitely won't agree** | Умова 3 виконана: `definitely` перед `won't` — а в п.4 те саме слово випало. |
+| 11.4 | It sounds good. | — | ⚠️ Умова 4 НЕ виконана: потрібне було дієслово ДІЇ + прислівник (`walked slowly`, `spoke loudly`), а тут ще один linking verb + прикметник. Прислівника способу дії в тексті немає взагалі. |
+| 11 | — | 3/4 умов | Найкращий міні-текст за кілька раундів — але саме та умова, що б'є по 🎯-патерну, пропущена. |
+
+**Головне:** розрив між «знаю правило» і «застосовую в перекладі» тепер задокументований на двох правилах одночасно (п.1/п.4 ❌ vs п.11.1/п.11.3 ✅). Наступний раунд: ті самі правила в перекладі БЕЗ підказок, ізольований дриль fall/feel + adj→adv, і умова з прислівником дії в міні-тексті — обов'язкова.
+
+---
+
+## Раунд 11
+
+Фокус — перенести чисте виконання з чек-листа (Р10 п.11) у переклад без підказок: `before/after/without` + `-ing` ×2, `definitely won't`, `tell the truth`, `make a decision`, `object to`, присвійний з частинами тіла. Ізольовано — `fall/fell` vs `feel/felt` (1/4 у Р10) і прикметник→прислівник після дієслова дії (`quick`, `loud` у Р10). І перевірка, чи зайшло правило `like` + іменник.
+
+### Частина 1 — UA → EN
+
+1. Після закінчення роботи він повільно йде додому.
+2. Вона завжди каже правду, навіть коли це звучить дивно.
+3. Ми не можемо прийняти рішення без перевірки всіх цифр.
+4. Він точно не заперечуватиме проти цього плану.
+5. Помий руки перед тим, як їсти.
+
+### Частина 2 — питання і заперечення
+
+6. Постав питання: «Це звучить як гарна ідея?» *(sound like + іменник)*
+7. Постав у заперечення: «Вона впала зі сходів учора.»
+
+### Частина 3 — EN → UA
+
+8. > After the meeting, Anna felt disappointed, but she didn't say anything. Her manager definitely won't change the plan without discussing it with the team. "It sounds like a good compromise," he said quietly.
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: у реченні `This sounds like a lie` — яка частина мови `like`, і що після нього МОЖЕ стояти, а що — ні? *(перепитую після Р10 — там відповідь була правильна, а причина ні; правило тепер є в [§7](../grammar/b1/adjectives-adverbs.md#look-sound-feel-like-іменник))*
+
+### Частина 5 — дриль форм: два блоки
+
+10. **a) fall vs feel** — постав `fell` або `felt`:
+    - The glass ___ off the shelf.
+    - I ___ nervous before the interview.
+    - She ___ asleep on the sofa.
+    - We ___ happy after the good news.
+
+    **b) прикметник → прислівник** — постав правильну форму слова в дужках:
+    - He answered every question ___ (quick).
+    - Please speak more ___ (loud), I can't hear you.
+    - She checked the code ___ (careful).
+    - The team played ___ (bad) yesterday.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне речення** з `after`/`before`/`without` + `-ing`;
+    - **одне речення** з дієсловом ДІЇ + прислівником на `-ly` (напр. walked slowly, spoke loudly) — умова, яка не була виконана в Р10;
+    - **одне речення** зі структурою **sound/look/feel + like + ІМЕННИК** (з артиклем);
+    - **одне речення** у минулому часі з правильно вжитим **`felt`** (від feel).

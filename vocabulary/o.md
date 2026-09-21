@@ -12,6 +12,7 @@
 **💡 Конструкція:**
 - **objection to** sth — заперечення проти чогось: I have no **objection to** the plan.
 - **raise an objection** — висловити заперечення (офіційно, напр. у зборах, суді).
+- **object to** sth — <code>verb</code> заперечувати проти чогось. Прийменник `to` обов'язковий: ❌ object this idea → ✅ I **object to** this idea. *(Наголос у дієслові на другому складі: /əbˈdʒekt/; іменник `object` /ˈɒbdʒɪkt/ — «предмет».)*
 
 **Приклади:**
 - She agreed to the new terms **without any objections**. — Вона погодилась на нові умови без жодних заперечень.

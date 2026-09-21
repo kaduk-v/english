@@ -978,3 +978,104 @@
     - **одне речення** з дієсловом ДІЇ + прислівником на `-ly` (напр. walked slowly, spoke loudly) — умова, яка не була виконана в Р10;
     - **одне речення** зі структурою **sound/look/feel + like + ІМЕННИК** (з артиклем);
     - **одне речення** у минулому часі з правильно вжитим **`felt`** (від feel).
+
+### Відповіді учня
+
+1. After ending work he slowly walk to home.
+2. She always says the truth, even it sounds weird.
+3. We can't accept the decision without review all numbers.
+4. He definitely won't object this plan.
+5. Wash hands before starting eat.
+6. This sounds like a good idea.
+7. She didn't fall from stairs yesterday.
+8. Після мітингу, Анна почувалася розчарованою, але вона нічого не сказала. Її менеджер не мінятиме план без обговорення цього з командою. "Це звучить як хороший компроміс" сказала вона тихо.
+9. This sounds like a lie - тут like як прийменник, який вимагає після себе іменник.
+10. a) The glass fell off the shelf. / I felt nervous before the interview. / She felt asleep on the sofa. / We felt happy after the good news.
+    b) He answered every question quickly. / Please speak more loudly, I can't hear you. / She checked the code carefully. / The team played badly yesterday.
+11.
+    1. After dinner I starting do my homework.
+    2. She always speaks loudly.
+    3. This plan looks like an opportunity to achieve our goal.
+    4. Before the first day on new work I felt nervous.
+
+### Перевірка Раунду 11 — ❌ (19 помилок, з них 7 — повтори з Р10)
+
+**Коротко:** сім помилок — ті самі слова, що розібрані в Р10: «казати правду» знову через `say`, «прийняти рішення» — через `accept`, `object` без `to`, `wash hands` без `your`, `starting eat` — той самий шматок слово в слово, `without review` без `-ing`. Одного розбору не вистачає: після пояснення слово треба вжити ще кілька разів, інакше в наступному перекладі знову йде українська калька. Ізольовано все працює: дриль прислівників — 4/4, fall/feel — 3/4 (єдиний промах — `felt asleep`: заснути = **fall** asleep, «впасти в сон»). У вільному тексті прикметник замість прислівника — жодного разу (`slowly walk`, `speaks loudly`) — це вперше за урок. `definitely won't` уперше правильно в перекладі (п.4). `like` пояснено правильно (п.9). Міні-текст 3/4.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | After **ending** work | After **finishing** work | Про роботу, день, проєкт, навчання кажуть `finish` — «завершити те, що робив». `End` — про те, що закінчується саме (the meeting ended, the war ended). Сама конструкція `after + -ing` — правильна. |
+| 1 | he slowly **walk** | he slowly **walks** | Він — третя особа однини, дієслово в Present Simple бере `-s`. Прислівник `slowly` на своєму місці. |
+| 1 | walk **to home** | walk **home** | `home` після дієслів руху — без `to`: go home, come home, walk home, get home. `To` тут зайве, як і в «go to there». |
+| 2 | **says** the truth | **tells** the truth | 🔴 ПОВТОР Р10. «Казати правду» — стала пара з `tell`: tell the truth, tell a lie, tell a story, tell me. `Say` — про самі слова: say hello, say that…, say something. |
+| 2 | **even** it sounds weird | **even when / even if** it sounds weird | `even` («навіть») — не сполучник, він не може сам з'єднати два речення. Потрібне `even when` (навіть коли) або `even if` (навіть якщо). Само `sounds weird` — правильно: прикметник після sound. |
+| 3 | **accept the** decision | **make a** decision | 🔴 ПОВТОР Р10, тепер у новій масці: «прийняти» → `accept`. Але `accept a decision` — це погодитись із ЧУЖИМ рішенням; «ухвалити своє» — `make a decision`. І артикль: рішення ще не ухвалене, невідоме → `a`, не `the`. |
+| 3 | without **review** | without **reviewing** | 🔴 6-й раз: після `without` (як і після `before/after`) дієслово тільки з `-ing`. `Review` без закінчення — це або іменник, або гола форма, тут не підходить ні те, ні те. |
+| 4 | — | ✅ **He definitely won't** | Уперше правильно у вільному перекладі — і слово на місці, і порядок (definitely перед won't). |
+| 4 | object **this** plan | object **to** this plan | 🔴 ПОВТОР Р10. `object` без `to` не працює — прийменник частина дієслова, як у `listen to`, `respond to`. |
+| 5 | Wash **hands** | Wash **your** hands | 🔴 ПОВТОР Р10. Частини тіла — завжди з присвійним: wash your hands, brush your teeth, close your eyes. Голе `hands` звучить, як чужі руки на столі. |
+| 5 | before starting **eat** | before **eating** / before starting **to eat** | 🔴 ПОВТОР Р10, слово в слово. Після `start` — `to + дієслово` або `-ing`, ніколи гола форма. А простіше — прибрати `start` зовсім: «перед тим, як їсти» = before eating. |
+| 6 | This sounds like a good idea. | **Does** this sound like a good idea? | Завдання — поставити ПИТАННЯ, а вийшло твердження. У Present Simple питання будується через `do/does` на початку: Does this sound…? Сама структура `sound like + a good idea` — правильна. |
+| 7 | fall **from stairs** | fall **down the stairs** | «Впасти зі сходів» — стала пара `fall down the stairs` (рух униз по сходах). `From` — коли падають ЗВІДКИСЬ з висоти (fall from the roof). І артикль: сходи конкретні → `the`. `didn't fall` — правильно: базова форма після didn't, і саме fall, не feel. |
+| 8 | «після **мітингу**» | «після **зустрічі / наради**» | 🔴 ПОВТОР Р8. `Meeting` — робоча зустріч, нарада. Український «мітинг» — це вулична політична акція, англійською `rally`. Тут менеджер, план і команда — точно нарада. |
+| 8 | «не мінятиме план» | «**точно** не мінятиме план» | `definitely` випало при читанні — так само, як у Р10 воно випало при письмі. Слово «точно» несе сенс: менеджер не просто не змінить, а стовідсотково не змінить. |
+| 8 | «сказала **вона**» | «сказав **він**» | `he said` — він. Менеджер у тексті — чоловік. |
+| 9 | — | ✅ `like` — прийменник, після нього іменник | Правильно. Для повноти: іменник в однині — з артиклем (like **a** lie). |
+| 10a | She **felt** asleep | She **fell** asleep | Заснути = `fall asleep` — «впасти в сон», перехід у стан. `Feel` тут не підходить: «почуватися сплячим» не кажуть. Так само `fall ill` (захворіти), `fall in love` (закохатися). Решта 3/4 — правильно. |
+| 10b | — | ✅ 4/4 | quickly, loudly, carefully, badly — усі чотири правильно. Ізольовано патерн працює повністю. |
+| 11.1 | I **starting** do | I **start doing** / I **started doing** | Дві помилки в трьох словах. Перша: `starting` — це `-ing`-форма, вона не може бути головним дієсловом без `am/was` (I **am** starting) — потрібне `start` або `started`. Друга: 🔴 3-й раз `start + гола форма` (Р9 dance, Р10 eat, Р11 do) — після start завжди `doing` або `to do`. |
+| 11.1 | After dinner… | After **having** dinner… / After **eating**… | ⚠️ Умова 1 НЕ виконана: потрібно було `after/before/without` + дієслово з `-ing`, а `after dinner` — це after + іменник. |
+| 11.2 | — | ✅ **speaks loudly** | Умова 2 виконана: дієслово дії + прислівник на -ly, і `-s` на місці. |
+| 11.3 | — | ✅ **looks like an opportunity** | Умова 3 виконана: like + іменник з артиклем. Слово `opportunity` — у словнику. |
+| 11.4 | on **new work** | at **my new job** | 🔴 Це леак №1 з плану — «на роботі» → `at`, не `on`. І слово: `job` — конкретне місце роботи, злічуване (a new job); `work` — сама діяльність, без артикля (I have a lot of work). «Перший день на новій роботі» = my first day at my new job. `felt nervous` — умова 4 виконана. |
+
+*Повна теорія по кожному пункту — у `grammar/` і `rules.md`; у словнику з цього раунду — `fall`, `asleep`, `like`, `object`, `opportunity`.*
+
+**Головне:** розбір один раз не тримається — 7 повторів із Р10 за один раунд. Тому Раунд 12 — без нового матеріалу: ті самі слова знову в перекладі, плюс дриль «знайди помилку» на цих самих реченнях. Перед здачею перечитай таблиці Р10 і Р11 і перевір кожне своє речення проти них.
+
+---
+
+## Раунд 12
+
+Без нового матеріалу. Ті самі сім повторів з Р10–Р11 (`tell the truth`, `make a decision`, `object to`, `your hands`, `start + -ing`, `without/after + -ing`, `at my job`) — знову в перекладі, плюс `fall asleep`, `-s` у третій особі, `home` без `to`, `even when`, питання через `does`. Новий тип дрилю — «знайди помилку»: речення з твоїми помилками, треба побачити й виправити.
+
+**Перед здачею:** перечитай таблиці Р10 і Р11 і перевір кожне речення проти них.
+
+### Частина 1 — UA → EN
+
+1. Після перевірки коду вона повільно пішла додому.
+2. Скажи мені правду: ти прийняв це рішення сам?
+3. Він заснув одразу після зустрічі.
+4. Мій брат зазвичай гуляє з собакою, навіть коли йде дощ.
+5. Не починай їсти без миття рук.
+
+### Частина 2 — питання і заперечення
+
+6. Постав питання: «Це виглядає як гарна нагода?»
+7. Постав у заперечення: «Вона заперечує проти нового графіка.»
+
+### Частина 3 — EN → UA
+
+8. > "Tell me the truth," the manager said quietly. "Did you make this decision without asking the team?" Mark felt nervous, but he definitely didn't want to lie. "I did," he said. "It looked like the only option."
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: чому «прийняти рішення» — це `make a decision`, а не `accept a decision`? Що тоді означає `accept a decision`?
+
+### Частина 5 — дриль: знайди помилку
+
+10. У кожному реченні рівно ОДНА помилка — знайди й виправ:
+    a) She says the truth every time.
+    b) I object this idea.
+    c) He walk home after work.
+    d) We started prepare the release yesterday.
+    e) I felt asleep at 11 p.m.
+    f) I started at new work on Monday.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне речення** з `after`/`before`/`without` + дієслово з **-ing** (не іменник: «after dinner» не рахується — потрібне «after having dinner»);
+    - **одне речення** з `tell` (tell me / tell the truth) або `make a decision`;
+    - **одне питання** через `Does/Do … sound/look like + іменник?`;
+    - **одне речення** з дієсловом дії у 3-й особі (he/she/it + `-s`) + прислівником на `-ly`.

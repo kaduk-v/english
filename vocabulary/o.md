@@ -1,6 +1,24 @@
 # O
 
-**Зміст:** [objection](#objection) · [obstacle](#obstacle) · [obviously](#obviously) · [occasional](#occasional) · [occupancy](#occupancy) · [occupied](#occupied) · [occupy](#occupy) · [occur](#occur) · [offend](#offend) · [on purpose](#on-purpose) · [opposed](#opposed) · [ordinary](#ordinary) · [outlive](#outlive) · [overhaul](#overhaul) · [overlap](#overlap)
+**Зміст:** [object](#object) · [objection](#objection) · [obstacle](#obstacle) · [obviously](#obviously) · [occasional](#occasional) · [occupancy](#occupancy) · [occupied](#occupied) · [occupy](#occupy) · [occur](#occur) · [offend](#offend) · [on purpose](#on-purpose) · [opportunity](#opportunity) · [opposed](#opposed) · [ordinary](#ordinary) · [outlive](#outlive) · [overhaul](#overhaul) · [overlap](#overlap)
+
+---
+
+## object
+**object** — 1. <code>verb</code> /əbˈdʒekt/ (дієслово) — заперечувати, бути проти 2. <code>noun</code> /ˈɒbdʒɪkt/ (іменник) — предмет, об'єкт; мета
+
+**Пояснення:** одне написання — два слова з різним наголосом. Дієслово: наголос на **другому** складі (ob-JECT); іменник: на **першому** (OB-ject). Дієслово без прийменника `to` не працює: ❌ object this plan → ✅ object **to** this plan.
+
+**💡 Конструкції:**
+- **object to** sth / **to** V-ing — заперечувати проти: I **object to** this plan. · She **objected to** working on weekends.
+- **Does anyone object?** — Хтось проти? *(без додатка — прийменник не потрібен)*
+- іменник: **an object** — предмет; у програмуванні — об'єкт (a JavaScript **object**).
+
+**Приклади:**
+- He definitely won't **object to** the new schedule. — Він точно не заперечуватиме проти нового графіка.
+- The **object** on the table is a sensor. — Предмет на столі — це сенсор.
+
+🔗 **Пов'язане:** [objection](#objection) — іменник «заперечення».
 
 ---
 
@@ -12,7 +30,7 @@
 **💡 Конструкція:**
 - **objection to** sth — заперечення проти чогось: I have no **objection to** the plan.
 - **raise an objection** — висловити заперечення (офіційно, напр. у зборах, суді).
-- **object to** sth — <code>verb</code> заперечувати проти чогось. Прийменник `to` обов'язковий: ❌ object this idea → ✅ I **object to** this idea. *(Наголос у дієслові на другому складі: /əbˈdʒekt/; іменник `object` /ˈɒbdʒɪkt/ — «предмет».)*
+- дієслово — [object to](#object) sth (заперечувати проти) — окрема картка вище.
 
 **Приклади:**
 - She agreed to the new terms **without any objections**. — Вона погодилась на нові умови без жодних заперечень.
@@ -129,6 +147,23 @@
 - I skipped that level **on purpose**. — Я пропустив той рівень спеціально.
 
 🔗 Пов'язане: [purpose](p.md#purpose)
+
+---
+
+## opportunity
+**opportunity** /ˌɒpəˈtjuːnəti/ — <code>noun</code> (іменник) — можливість, нагода, шанс
+
+**Пояснення:** конкретна нагода щось зробити, яка з'явилась. Не «здатність» (це ability) і не «варіант» (це option). Злічуване: **an** opportunity, opportunities.
+
+**💡 Конструкції:**
+- **an opportunity to** + V — нагода зробити щось: an **opportunity to** learn Rust.
+- **have / get / miss an opportunity** — мати / отримати / упустити нагоду.
+- **take the opportunity** — скористатися нагодою.
+- **opportunity for** sth — можливість для: **opportunities for** growth.
+
+**Приклади:**
+- This project is a great **opportunity to** work with a new team. — Цей проєкт — чудова нагода попрацювати з новою командою.
+- Don't **miss the opportunity** — the offer ends on Friday. — Не упусти нагоду — пропозиція діє до п'ятниці.
 
 ---
 

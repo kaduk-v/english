@@ -4,7 +4,7 @@
 
 **Легенда:** `v` = verb (дієслово) · `n` = noun (іменник) · `adj` = adjective (прикметник) · `adv` = adverb (прислівник) · `prep` = preposition (прийменник) · `conj` = conjunction (сполучник) · `det` = determiner (означник) · `phrase` = стала фраза
 
-**Всього слів: 359**
+**Всього слів: 364**
 
 | Слово | ЧМ | Переклад | Нюанс |
 |-------|----|----------|-------|
@@ -38,6 +38,7 @@
 | [arbitrary](a.md#arbitrary) | adj | довільний; свавільний | — |
 | [arise](a.md#arise) | v | виникати, поставати | 💡 arise — arose — arisen |
 | [arrange](a.md#arrange) | v | влаштовувати, домовлятися; розставляти… | 💡 Патерни |
+| [asleep](a.md#asleep) | adj | сплячий, у стані сну | 💡 fall asleep, не feel |
 | [assign](a.md#assign) | v | призначати, доручати, розподіляти | 💡 assign |
 | [assignment](a.md#assignment) | n | завдання; призначення; присвоєння | — |
 | [attic](a.md#attic) | n | горище | — |
@@ -148,6 +149,7 @@
 | [expose](e.md#expose) | v | відкривати (доступ), викривати; залишати… | 💡 expose sth to sth |
 | [extremely](e.md#extremely) | adv | надзвичайно, вкрай | — |
 | [fade](f.md#fade) | v | згасати, блякнути, поступово зникати | — |
+| [fall](f.md#fall) | v / n | падати; переходити в стан; падіння | 💡 off / down / over / asleep |
 | [fault](f.md#fault) | n | вина; недолік, вада; (тех.) збій, несправність | 💡 Дві мастхев-фрази |
 | [feat](f.md#feat) | n | подвиг, досягнення | 💡 feat vs feet — омофони /fiːt/ |
 | [flap](f.md#flap) | v / n | махати, лопотіти; клапан, полог, відкидна… | — |
@@ -205,6 +207,7 @@
 | [legacy](l.md#legacy) | n | спадщина, спадок; (IT) старий, успадкований… | — |
 | [leverage](l.md#leverage) | n / v | важіль впливу, перевага; задіювати… | — |
 | [lifelike](l.md#lifelike) | adj | реалістичний, як живий | — |
+| [like](l.md#like) | v / prep | подобатись; як, наче | 💡 Дієслово vs прийменник |
 | [make](m.md#make) | v | робити, створювати, виготовляти | 💡 make vs do — класична плутанина |
 | [martial](m.md#martial) | adj | воєнний, бойовий | 💡 Сталі сполуки (і не плутай з… |
 | [matter](m.md#matter) | n / v | справа, питання; матерія; мати значення… | 💡 Сталі фрази |
@@ -225,6 +228,7 @@
 | [nosy](n.md#nosy) | adj | надто цікавий, той, що пхає носа | — |
 | [notice](n.md#notice) | v / n | помічати; оголошення; попередження | 💡 Два обличчя |
 | [noticeable](n.md#noticeable) | adj | помітний, відчутний | — |
+| [object](o.md#object) | v / n | заперечувати (object to); предмет, об'єкт | 💡 Наголос змінюється |
 | [objection](o.md#objection) | n | заперечення, протест (проти чогось конкретного) | 💡 Конструкція |
 | [obstacle](o.md#obstacle) | n | перешкода | — |
 | [obviously](o.md#obviously) | adv | очевидно, явно | — |
@@ -235,6 +239,7 @@
 | [occur](o.md#occur) | v | статися, траплятися | 💡 Два вжитки |
 | [offend](o.md#offend) | v | образити, зачепити | 💡 No offence! |
 | [on purpose](o.md#on-purpose) | phrase | навмисно, спеціально | 💡 Антонім |
+| [opportunity](o.md#opportunity) | n | можливість, нагода, шанс | 💡 Конструкції |
 | [opposed](o.md#opposed) | adj | який виступає проти; протилежний | 💡 Дві ключові конструкції |
 | [ordinary](o.md#ordinary) | adj | звичайний, буденний | — |
 | [outlive](o.md#outlive) | v | пережити (жити довше, ніж хтось/щось) | — |

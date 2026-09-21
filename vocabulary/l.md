@@ -1,6 +1,6 @@
 # L
 
-**Зміст:** [late](#late) · [launch](#launch) · [lay](#lay) · [leadership](#leadership) · [least](#least) · [legacy](#legacy) · [leverage](#leverage) · [lifelike](#lifelike)
+**Зміст:** [late](#late) · [launch](#launch) · [lay](#lay) · [leadership](#leadership) · [least](#least) · [legacy](#legacy) · [leverage](#leverage) · [lifelike](#lifelike) · [like](#like)
 
 ---
 
@@ -102,3 +102,28 @@
 **Приклади:**
 - The new engine renders **lifelike** characters. — Новий рушій рендерить реалістичних персонажів.
 - The statue was so **lifelike** that I said hello to it. — Статуя була такою «живою», що я привітався з нею.
+
+---
+
+## like
+**like** /laɪk/ — 1. <code>verb</code> (дієслово) — подобатись, любити 2. <code>preposition</code> (прийменник) — як, наче, схожий на
+
+**Пояснення:** два різних слова з однаковим написанням — і в одному реченні можуть бути обидва: I **like** people **like** you (Мені подобаються люди, як ти). Розрізняй за позицією: дієслово стоїть одразу ПІСЛЯ підмета (I like…, she likes…), прийменник — ПІСЛЯ іншого дієслова або іменника (sounds like…, people like…).
+
+**💡 Дієслово — подобатись:**
+- **like** + іменник / **V-ing** / **to** + V: I **like** coffee. · I **like** working from home. · I **like to** start early.
+- **would like to** + V — ввічливе «хотів би»: I **would like to** join. *(не «I like to join» — це вже «мені подобається»)*
+- ⚠️ українське «мені подобається X» → підмет **I**, не it/me: ❌ Me likes it → ✅ **I like** it.
+
+**💡 Прийменник — як, наче:**
+- **look / sound / feel like** + ІМЕННИК (з артиклем): This sounds **like a lie**. — Це звучить як брехня. *(прикметник — без like: This sounds strange.)*
+- **like** + іменник = «такий, як»: a city **like** Kyiv — таке місто, як Київ.
+- **What is X like?** — «Який X?» (просить опис): What's the new manager **like**? — Який новий менеджер?
+- **be like** (розмовне) — «бути як»: He's **like** a brother to me. — Він мені як брат.
+
+**Приклади:**
+- I don't **like** meetings before 10 a.m. — Мені не подобаються зустрічі до 10 ранку.
+- It looks **like rain**. — Схоже на дощ.
+- What was the interview **like**? — Якою була співбесіда? / Як пройшла співбесіда?
+
+🔗 **Пов'язане:** повна теорія `sound/look/feel + like` — [adjectives-adverbs §7](../grammar/b1/adjectives-adverbs.md#look-sound-feel-like-іменник).

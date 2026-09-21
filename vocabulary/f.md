@@ -1,6 +1,6 @@
 # F
 
-**Зміст:** [fade](#fade) · [fault](#fault) · [feat](#feat) · [flap](#flap) · [flatness](#flatness) · [flatten](#flatten) · [fluency](#fluency) · [foreword](#foreword) · [forge](#forge) · [fortunately](#fortunately) · [foundation](#foundation) · [fret](#fret) · [fuel](#fuel) · [further](#further)
+**Зміст:** [fade](#fade) · [fall](#fall) · [fault](#fault) · [feat](#feat) · [flap](#flap) · [flatness](#flatness) · [flatten](#flatten) · [fluency](#fluency) · [foreword](#foreword) · [forge](#forge) · [fortunately](#fortunately) · [foundation](#foundation) · [fret](#fret) · [fuel](#fuel) · [further](#further)
 
 ---
 
@@ -13,6 +13,30 @@
 - The screen **fades** to black when your hero dies. — Екран плавно темніє, коли твій герой гине. _(гра)_
 - The toast message **fades out** after two seconds. — Спливне повідомлення плавно зникає за дві секунди. _(розробка)_
 - My old T-shirt has **faded** after so many washes. — Моя стара футболка виблякла після стількох прань.
+
+---
+
+## fall
+**fall** /fɔːl/ — 1. <code>verb</code> (дієслово) — _(irregular: fall – fell – fallen)_ — падати; раптово переходити в стан (заснути, захворіти, закохатися) 2. <code>noun</code> (іменник) — падіння; (AmE) осінь
+
+**Пояснення:** базове значення — рух униз. Але головне — частки після `fall`, які уточнюють, ЗВІДКИ/КУДИ падіння, і сталі пари «fall + стан», де fall = «раптово опинитися в стані». Не плутай із **feel → felt** (почуватися): у `fell` лишається подвійне **ll** від fall.
+
+**💡 Напрямок — fall + частка:**
+- **fall off** sth — впасти З поверхні: The glass **fell off** the shelf. — Склянка впала з полиці.
+- **fall down** (sth) — впасти вниз / зі сходів: She **fell down** the stairs. — Вона впала зі сходів. *(не «from stairs» — зі сходів = down the stairs)*
+- **fall from** — впасти З ВИСОТИ (звідки саме): He **fell from** the roof. — Він упав із даху.
+- **fall over** — перекинутися, впасти (те, що стояло): The server **fell over** during the test. — Сервер упав під час тесту. *(розмовне, про техніку теж)*
+- **fall into** — впасти У: The phone **fell into** the water. — Телефон упав у воду.
+
+**💡 Стан — fall + прикметник/фраза:**
+- **fall asleep** — заснути · **fall ill / sick** — захворіти · **fall in love (with)** — закохатися · **fall behind** — відстати (від графіка).
+
+**Приклади:**
+- Prices usually **fall** in January. — Ціни зазвичай падають у січні.
+- I **fell asleep** before the end of the meeting. — Я заснув до кінця зустрічі.
+- We **fell behind** the schedule after the incident. — Ми відстали від графіка після інциденту.
+
+🔗 **Пов'язане:** [asleep](a.md#asleep) · всі форми fall/feel — [irregular-verbs.md](../irregular-verbs.md).
 
 ---
 

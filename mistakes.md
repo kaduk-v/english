@@ -216,3 +216,21 @@
 | I **felt** down the stairs / I **fell** tired / The vase **fall** off | I **fell** down / I **felt** tired / The vase **fell** off | 🎯 дриль fall/feel **1/4** — дивись іменований патерн вище | 21.09 · Урок 11 Р10 |
 | Before starting **eat** | Before starting **to eat** / **eating** | 🔴 **ПОВТОР** (Р9 «started dance») — після `start` `to + V` або `-ing`, не гола форма → [§12](rules.md#12-схеми-дієслів) | 21.09 · Урок 11 Р10 |
 | wash **hands** | wash **my** hands | частини тіла — з присвійним (wash my hands, brush your teeth) → [§5](rules.md#5-артиклі-та-присвійні) | 21.09 · Урок 11 Р10 |
+| After **ending** work | After **finishing** work | про роботу/день/проєкт — `finish`; `end` — про те, що закінчується саме (the meeting ended) | 21.09 · Урок 11 Р11 |
+| he slowly **walk** | he slowly **walks** | 3-тя особа однини → `-s` | 21.09 · Урок 11 Р11 |
+| walk **to home** | walk **home** | `home` після дієслів руху — без `to` (go/come/walk/get home) | 21.09 · Урок 11 Р11 |
+| **says** the truth | **tells** the truth | 🔴 **ПОВТОР Р10** — стала пара `tell the truth`; `say` — про самі слова (say hello, say that) | 21.09 · Урок 11 Р11 |
+| **even** it sounds weird | **even when / if** it sounds weird | `even` («навіть») — не сполучник, сам два речення не з'єднує: потрібне even when / even if | 21.09 · Урок 11 Р11 |
+| **accept the** decision | **make a** decision | 🔴 **ПОВТОР Р10** у новій масці («прийняти» → accept); `accept a decision` = погодитись із ЧУЖИМ рішенням; своє ухвалюють — `make` | 21.09 · Урок 11 Р11 |
+| without **review** all numbers | without **reviewing** all the numbers | 🔴 **ПОВТОР ×6** — після прийменника тільки `-ing` | 21.09 · Урок 11 Р11 |
+| object **this** plan | object **to** this plan | 🔴 **ПОВТОР Р10** — `to` частина дієслова | 21.09 · Урок 11 Р11 |
+| Wash **hands** | Wash **your** hands | 🔴 **ПОВТОР Р10** — частини тіла з присвійним | 21.09 · Урок 11 Р11 |
+| before starting **eat** | before **eating** / starting **to eat** | 🔴 **ПОВТОР Р10 слово в слово** — після `start` `-ing` або `to + V`; простіше без start: before eating | 21.09 · Урок 11 Р11 |
+| This sounds like a good idea. *(замість питання)* | **Does** this sound like a good idea? | завдання — питання; Present Simple питання = `do/does` на початку | 21.09 · Урок 11 Р11 |
+| fall **from stairs** | fall **down the stairs** | стала пара «зі сходів» = down the stairs; `from` — з висоти (from the roof); + артикль `the` | 21.09 · Урок 11 Р11 |
+| «після **мітингу**» | «після **зустрічі**» | 🔴 **ПОВТОР Р8** — meeting = нарада; «мітинг» = rally → 🪤 леак №2 | 21.09 · Урок 11 Р11 |
+| «не мінятиме план» *(без «точно»)* | «**точно** не мінятиме план» | `definitely` випало при читанні — у Р10 воно ж випало при письмі | 21.09 · Урок 11 Р11 |
+| «сказала **вона**» | «сказав **він**» | `he said` — він | 21.09 · Урок 11 Р11 |
+| She **felt** asleep | She **fell** asleep | заснути = `fall asleep` («впасти в сон», перехід у стан) — не feel; так само fall ill, fall in love → 🎯 fall/feel вище, дриль 3/4 | 21.09 · Урок 11 Р11 |
+| I **starting do** my homework | I **start doing** / **started doing** | дві: `-ing` без `am/was` не може бути головним дієсловом; 🔴 **ПОВТОР ×3** `start + гола форма` (Р9 dance, Р10 eat, Р11 do) | 21.09 · Урок 11 Р11 |
+| on **new work** | at **my new job** | 🔴 **леак №1** (on work → at my job); `job` — конкретне місце, злічуване; `work` — діяльність, без артикля | 21.09 · Урок 11 Р11 |

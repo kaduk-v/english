@@ -1,6 +1,6 @@
 # A
 
-**Зміст:** [accidentally](#accidentally) · [accrue](#accrue) · [accuracy](#accuracy) · [across](#across) · [actually](#actually) · [addict](#addict) · [addition](#addition) · [adjust](#adjust) · [admit](#admit) · [advantage](#advantage) · [affect](#affect) · [affirm](#affirm) · [afterwards](#afterwards) · [against](#against) · [agree](#agree) · [aid](#aid) · [ally](#ally) · [alongside](#alongside) · [ammo](#ammo) · [among](#among) · [ancient](#ancient) · [apart](#apart) · [apply](#apply) · [appreciate](#appreciate) · [appropriately](#appropriately) · [approximate](#approximate) · [approximation](#approximation) · [arbitrary](#arbitrary) · [arise](#arise) · [arrange](#arrange) · [assign](#assign) · [assignment](#assignment) · [attic](#attic) · [attitude](#attitude) · [aware](#aware) · [awful](#awful)
+**Зміст:** [accidentally](#accidentally) · [accrue](#accrue) · [accuracy](#accuracy) · [across](#across) · [actually](#actually) · [addict](#addict) · [addition](#addition) · [adjust](#adjust) · [admit](#admit) · [advantage](#advantage) · [affect](#affect) · [affirm](#affirm) · [afterwards](#afterwards) · [against](#against) · [agree](#agree) · [aid](#aid) · [ally](#ally) · [alongside](#alongside) · [ammo](#ammo) · [among](#among) · [ancient](#ancient) · [apart](#apart) · [apply](#apply) · [appreciate](#appreciate) · [appropriately](#appropriately) · [approximate](#approximate) · [approximation](#approximation) · [arbitrary](#arbitrary) · [arise](#arise) · [arrange](#arrange) · [asleep](#asleep) · [assign](#assign) · [assignment](#assignment) · [attic](#attic) · [attitude](#attitude) · [aware](#aware) · [awful](#awful)
 
 ---
 
@@ -411,6 +411,24 @@
 **Приклади:**
 - Let's **arrange** a call with the client for Monday. — Домовмося про дзвінок із клієнтом на понеділок.
 - She **arranged** her potions **by** rarity. — Вона розставила зілля за рідкісністю. _(гра)_
+
+---
+
+## asleep
+**asleep** /əˈsliːp/ — <code>adjective</code> (прикметник) — сплячий, у стані сну
+
+**Пояснення:** описує СТАН (він спить), а не дію. Стоїть тільки після дієслова (`be asleep`, `fall asleep`), ніколи перед іменником: ❌ an asleep child → ✅ a sleeping child. Антонім — **awake** (той, що не спить).
+
+**💡 Конструкції:**
+- **be asleep** — спати (стан): The baby **is asleep**. — Дитина спить.
+- **fall asleep** — заснути (перейти в стан): I **fell asleep** on the sofa. — Я заснув на дивані. *(саме `fall`, не `feel` — це не «почуватися», а «впасти в сон»)*
+- **fast asleep** — міцно спати: He was **fast asleep** by ten. — До десятої він уже міцно спав.
+
+**Приклади:**
+- She **fell asleep** during the movie. — Вона заснула під час фільму.
+- Don't call now — everyone **is asleep**. — Не дзвони зараз — усі сплять.
+
+🔗 **Пов'язане:** [fall](f.md#fall) — fall asleep / fall off / fall down.
 
 ---
 

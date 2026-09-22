@@ -1432,3 +1432,87 @@
     - **одне речення** з `fell asleep` або `didn't fall asleep`;
     - **одне питання** через `Did … ?`;
     - **одне речення** з `at the meeting`, `at work` або `before work`.
+
+### Відповіді учня
+
+1. You said it at the meeting yourself.
+2. Mark didn't fall asleep although the movie was very boring.
+3. Tell her the truth before leaving.
+4. She tells me about her new job every day.
+5. They didn't answer the manager immediately.
+6. He didn't asleep after lunch.
+7. Did she tell him the truth?
+8. "Ти сказала йому правду?" Анна запитала тихо свою подругу після мітингу. "Ні, я не розповіла йому нічого" вона сказала. "Він заснув одразу після обіду і я не хотіла будити його".
+9. She didn't asleep - неправильно бо asleep - прикментник, а конструкція didn't вимагає дієслово. Тому, правильно буде She didn't fall asleep
+10. a) Did you fall asleep during the movie? b) They didn't tell the manager the truth. c) I told him the truth. d) She fell asleep at the meeting. e) He didn't feel tired. f) We walked home slowly. g) Anna doesn't tell the truth.
+11.
+    1. I didn't see her at the party.
+    2. I can't fall asleep after trying for hours.
+    3. Did you make a sandwich yesterday?
+    4. Can we talk about my issue at work?
+
+### Перевірка Раунду 16 — ❌ (3 помилки)
+
+**Коротко:** переклад (п.1–5, 7) — повністю чистий: `it` на місці, `didn't fall asleep`, `tell her the truth`, `the manager` не випав. Дриль 7/7, міні-текст 4/4, п.9 — правильно. Три помилки. Перша — п.6, і вона показова: у п.2 ти написав `didn't fall asleep`, у п.9 пояснив, чому `didn't asleep` неправильно, — і в п.6 написав `didn't asleep`. Різниця в типі завдання: п.2 — переклад, п.6 — перетворення `He fell asleep` → заперечення. При перетворенні ти замінюєш `fell` на `didn't` цілком — а `didn't` забирає лише ЧАС, дієслово лишається в базовій формі: fell → didn't **fall**. Друга і третя — в читанні: подруга замість друга (в тексті `he said`) і «мітинг» — четвертий раз.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 6 | He **didn't asleep** | He **didn't fall asleep** | Перетворення `fell asleep` → заперечення: `didn't` бере на себе минулий час, а дієслово не зникає — воно повертається в базову форму: fell → didn't **fall**. Так само told → didn't **tell**, felt → didn't **feel**. Ти прибрав `fell` цілком, лишивши прикметник `asleep` без дієслова. |
+| 8 | «свою **подругу**… **вона** сказала… я не **розповіла**… не **хотіла**» | «свого **друга**… **він** сказав… я не **розповів**… не **хотів**» | Друг — чоловік: у тексті `he said`. `Her friend` — це «її (Аннин) друг», `her` каже, ЧИЙ друг, а не якої він статі. Стать визначає `he said` — і від нього залежать усі чотири форми далі. І «Ти сказав йому» — Анна звертається до нього. |
+| 8 | «після **мітингу**» | «після **зустрічі**» | 🔴 4-й раз (Р8, Р11, Р15, Р16). `Meeting` — робоча зустріч, нарада. «Мітинг» українською — вулична акція. Минулого разу ти в тому ж тексті написав «після зустрічі» правильно — слово є, але при читанні `meeting` перше, що вискакує, — калька. |
+| 1–5, 7 | — | ✅ | Усе чисто, включно з `it` (п.1), `didn't fall asleep` (п.2), `the manager` (п.5). |
+| 9 | — | ✅ | Пояснення правильне — і саме тому п.6 показовий: правило є, ламається лише при перетворенні. |
+| 10 | — | ✅ **7/7** | — |
+| 11 | — | ✅ **4/4** | `didn't see her`, `can't fall asleep`, `Did you make`, `at work`. |
+
+*Повна теорія — у `grammar/` і `rules.md`.*
+
+**Головне:** три помилки — і всі три вже знайомі. `didn't fall` ламається саме в перетворенні (не в перекладі) — Раунд 17 б'є в перетворення з неправильними дієсловами: fell / told / felt → didn't fall / tell / feel. Читання — стать через `he/she said`, і `meeting` = зустріч.
+
+---
+
+## Раунд 17
+
+Без нового матеріалу. Мішені: перетворення в заперечення з неправильним дієсловом (`fell → didn't fall`, `told → didn't tell`, `felt → didn't feel`), стать при читанні через `he/she said` (не через `his/her friend`), `meeting` = зустріч.
+
+**Перед здачею:** у кожному запереченні — після `didn't` має стояти дієслово в базовій формі. Не `fell`, не `asleep` без дієслова — `fall`.
+
+### Частина 1 — UA → EN
+
+1. Вона не заснула на зустрічі, хоча всі говорили дуже тихо.
+2. Мій друг сказав мені правду про свою нову роботу.
+3. Ми не побачили менеджера після обіду.
+4. Скажи йому це сам — не проси мене.
+5. Він щодня повільно читає листи перед роботою.
+
+### Частина 2 — заперечення (перетворення)
+
+6. Постав у **заперечення**: «Вона заснула на зустрічі.»
+7. Постав у **заперечення**: «Він сказав мені правду.»
+
+### Частина 3 — EN → UA
+
+8. > Mark asked his friend quietly, "Did she tell you the truth at the meeting?" "No," she said. "She didn't tell me anything. She fell asleep right after lunch, and I didn't want to wake her."
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: як із `He fell asleep` зробити заперечення? Що стається з `fell` — воно зникає, замінюється на `didn't` чи міняє форму? Чому `He didn't asleep` — неправильно, хоча `didn't` на місці?
+
+### Частина 5 — дриль: знайди помилку
+
+10. У кожному реченні рівно ОДНА помилка — знайди й виправ (мінімальне виправлення):
+    a) He didn't asleep after lunch.
+    b) She didn't told me the truth.
+    c) Did Mark felt tired after the meeting?
+    d) They didn't answered the manager.
+    e) Anna asked his friend quietly. *(Анна — жінка; чий це друг?)*
+    f) I didn't see she at the party.
+    g) We didn't fall asleep on the meeting.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **два заперечення** з `didn't` + дієслово, яке в минулому неправильне (fell / told / felt / made / found → didn't fall / tell / feel / make / find);
+    - **одне питання** через `Did … ?`;
+    - **одне речення** з `at the meeting`;
+    - **одне речення** зі зворотним займенником (`myself / yourself / himself / herself`).

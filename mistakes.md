@@ -246,3 +246,13 @@
 | make a decision **until** Monday | make a decision **by** Monday | дедлайн («не пізніше») — `by`; `until` — тривалість («аж до»): wait until Monday; рішення — точка → by | 22.09 · Урок 11 Р12 |
 | sound like **a** truth | sound like **the** truth | `truth` незлічуване, правда одна → завжди `the truth` (tell the truth) | 22.09 · Урок 11 Р12 |
 | **After the meeting** they… *(умова after + -ing)* | **After finishing** the meeting… | ⚠️ умова міні-тексту не виконана 2-й раз поспіль: after + іменник замість after + V-ing | 22.09 · Урок 11 Р12 |
+| She **felt** asleep after lunch | She **fell** asleep **right** after lunch | 🔴 **×4** — у власному реченні того ж раунду `fell asleep` правильно, в перекладі — felt; плюс випало «одразу» (right after) | 22.09 · Урок 11 Р13 |
+| himself, **nobody asking** | himself, **without asking anyone** | «нікого не питаючи» = without + -ing; у заперечному контексті «нікого» — anyone (nobody — лише як підмет) | 22.09 · Урок 11 Р13 |
+| **everyday** walks his dog | walks his dog **every day** | дві: `everyday` одним словом — прикметник (everyday life), «щодня» — два слова; і позиція — вираз часу в КІНЦІ, між підметом і дієсловом лише usually/always/often | 22.09 · Урок 11 Р13 |
+| before **his** work | before **work** | стала пара без присвійного (at work, after work, before work); `his work` = його завдання | 22.09 · Урок 11 Р13 |
+| they **walk slowly home** | they **walked home slowly** | 🔴 час (Р12: «пішли» = walked) + позиція: прислівник способу дії ПІСЛЯ `home`, в кінці (дієслово → куди → як) | 22.09 · Урок 11 Р13 |
+| like **a** truth *(переклад + дриль)* | like **the** truth | 🔴 **ПОВТОР Р12** — у власному реченні `the truth` ✅, у перекладі `a`; у дрилі помилку не побачив | 22.09 · Урок 11 Р13 |
+| **Did Mark fall asleep**…? *(просили заперечення)* | Mark **didn't fall asleep**… | завдання переплутано: заперечення → питання (дзеркало Р11, де питання → твердження) | 22.09 · Урок 11 Р13 |
+| «заснула **на** столі» *(at her desk)* | «заснула **за** столом» | `at her desk` — за столом, на робочому місці; «на столі» = on the desk | 22.09 · Урок 11 Р13 |
+| at **a new work** *(дриль)* | at **a new job** | 🔴 **×3** — артикль додав, слово те саме; `work` — діяльність, місце роботи — `a job` | 22.09 · Урок 11 Р13 |
+| She **fell** tired *(дриль, не знайдено)* | She **felt** tired | «почувалася» = feel → felt; речення переписане без змін — дзеркало п.1 (там fall→feel, тут feel→fall) | 22.09 · Урок 11 Р13 |

@@ -1174,3 +1174,93 @@
     - **одне речення** з `fell asleep` або `fell` (від fall) у минулому часі;
     - **одне речення** з `the truth` (tell the truth / sound like the truth);
     - **одне речення** зі зворотним займенником (`myself / yourself / himself / herself`).
+
+### Відповіді учня
+
+1. She felt asleep after lunch.
+2. He made the decision himself, nobody asking.
+3. My friend everyday walks his dog before his work.
+4. She objects to the new schedule, but definitely won't say it to the manager.
+5. After finishing the meeting they walk slowly home.
+6. Does it sound like a truth?
+7. Did Mark fall asleep during the meeting?
+8. Анна прийняла рішення самостійно. "Це виглядало наче єдиний варіант", вона сказала своєму менеджеру тихо. Він не заперечував проти цього, але він точно не виглядав щасливим. Після зустрічі, Анна заснула на своєму столі.
+9. I felt asleep — неправильно, тому що felt це друга форма слова feel. заснути це "падати в сон", тому правильна фраза fall asleep
+10. a) We started to prepare the release yesterday. b) I started at a new work on Monday. c) She fell tired after the trip. d) Does it sound like a truth? e) After lunch he went back to work. f) They walked home slowly. g) Send me the report by Friday.
+11.
+    1. Before leaving the house I checked my bag.
+    2. Yesterday I fell asleep at 6pm.
+    3. Tell me the truth.
+    4. Alex fixed his cat himself.
+
+### Перевірка Раунду 13 — ❌ (14 помилок)
+
+**Коротко:** `fell asleep` у власному реченні (11.2) — чисто, а в перекладі (п.1) за хвилину до того — знову `felt`, четвертий раз. `The truth` — у власному реченні чисто (11.3), а в перекладі (п.6) і в дрилі (10d) — `a truth`, і в дрилі ти цю помилку не побачив. Те саме з `a new job` — третій раз `work`, тепер уже з артиклем. Тобто в тебе є два режими: коли ти сам будуєш речення з чек-листом — усе на місці; коли перекладаєш з української — йде калька. Нове, і це вже тема уроку: позиція прислівника — `everyday walks` (час-вираз між підметом і дієсловом) і `walk slowly home` (спосіб дії між дієсловом і `home`) — обидва мають стояти в кінці. Плюс п.7: просили заперечення — ти зробив питання. Добре: `himself` двічі, `objects to the`, `definitely won't`, `after finishing`, стать при читанні — обидві правильно, міні-текст **4/4** уперше, дриль 4/7.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | She **felt** asleep after lunch | She **fell** asleep **right** after lunch | 🔴 4-й раз. У п.9 ти сам пояснив: felt — від feel, заснути — fall. І в 11.2 написав `fell asleep` правильно. А в перекладі — felt. Це вже не про знання, а про те, що при перекладі з української мозок бере перше схоже слово. Плюс випало «одразу» — `right after` / `immediately after`. |
+| 2 | himself, **nobody asking** | himself, **without asking anyone** | `himself` ✅. «Нікого не питаючи» — це `without` + `-ing` (та сама конструкція, що `without washing`): without asking. І в заперечному контексті «нікого» — `anyone`, не `nobody` (nobody — коли він сам підмет: Nobody asked). |
+| 3 | **everyday** walks | walks his dog **every day** | Дві помилки в одному слові. Написання: `everyday` одним словом — прикметник «повсякденний» (everyday life); «щодня» — два слова, `every day`. Позиція: `every day` — вираз часу, він стоїть у КІНЦІ речення (або на початку), а не між підметом і дієсловом. Між підметом і дієсловом стоять тільки короткі прислівники частоти: usually, always, often. |
+| 3 | before **his** work | before **work** | «Перед роботою» — стала пара `before work`, без присвійного й артикля (як `at work`, `after work`). `His work` — «його робота» як завдання, інший зміст. `walks his dog` — правильно. |
+| 4 | — | ✅ **objects to the new schedule, but definitely won't say it to the manager** | Усе на місці. Природніше — `won't tell the manager`, але `say it to sb` теж правильно. |
+| 5 | they **walk** slowly home | they **walked home slowly** | 🔴 ПОВТОР Р12: «пішли» — минуле → `walked`. І позиція: прислівник способу дії (`slowly`) стоїть ПІСЛЯ `home`, в кінці, а не між дієсловом і `home`. Дієслово + куди + як: walked home slowly. `After finishing the meeting` — чисто. |
+| 6 | like **a** truth | like **the** truth | 🔴 ПОВТОР Р12. Правда одна → завжди `the truth`. У 11.3 ти написав `the truth` правильно — в перекладі знову `a`. |
+| 7 | **Did Mark fall asleep** during the meeting? | Mark **didn't fall asleep** during the meeting. | Завдання — заперечення, а вийшло питання. Дзеркало Р11 п.6, де просили питання, а вийшло твердження. Форма `fall` після did — правильна, конструкція теж — не туди спрямована. |
+| 8 | «заснула **на** своєму столі» | «заснула **за** своїм столом» | `at her desk` — за столом, на робочому місці. «На столі» — це `on the desk`, лежачи зверху. Решта — чисто: `herself` → самостійно, `the only way` → єдиний варіант, `told` → сказала, і стать — обидва рази правильно (він / вона). |
+| 9 | — | ✅ | Правильно і по формі, і по суті. |
+| 10b | at **a new work** | at **a new job** | 🔴 3-й раз. Артикль додав — а слово те саме. `Work` — це діяльність, до неї не додають ні `a`, ні «нова». Конкретне місце роботи, куди «вийшов у понеділок», — `a job`. |
+| 10c | She **fell** tired | She **felt** tired | Помилку не знайдено: речення переписане без змін. «Почувалася втомленою» — feel → felt. Тут навпаки до п.1: там треба було fall, а написав feel; тут треба feel, а лишив fall. |
+| 10d | like **a** truth | like **the** truth | Помилку не знайдено — те саме, що п.6. |
+| 10 | — | 4/7: a, e, f, g ✅ | `started to prepare`, `went back`, `walked home slowly`, `by Friday` — правильно. |
+| 11 | — | ✅ **4/4** | `Before leaving` — умова 1 нарешті виконана (3-я спроба). `fell asleep` ✅, `the truth` ✅, `himself` ✅. *(«fixed his cat» — якщо це «car», то одрук; якщо справді cat — `fix a cat` англійською означає «стерилізувати» 🙂)* |
+
+*Повна теорія — у `grammar/` і `rules.md`.*
+
+**Головне:** те, що ти будуєш сам (11.2, 11.3, 11.4) — правильно; те саме слово в перекладі з української — ні (п.1, п.6, п.10b). Тому Раунд 14 — ті самі три слова (`fell asleep`, `the truth`, `a new job`) знову в перекладі, і позиція прислівників — бо це вже тема уроку.
+
+---
+
+## Раунд 14
+
+Без нового матеріалу. Три слова, які працюють у власному тексті, але не в перекладі: `fell asleep`, `the truth`, `a new job` — знову в перекладі. Позиція прислівників (тема уроку): `every day` — в кінці, `slowly` — після `home`. Читай завдання в Частині 2 — заперечення й питання переплутано двічі поспіль.
+
+### Частина 1 — UA → EN
+
+1. Я заснув одразу після фільму.
+2. Вона щодня перевіряє пошту перед роботою.
+3. Вони повільно пішли додому після зустрічі.
+4. Він знайшов нову роботу, нікого не питаючи.
+5. Це не звучить як правда, і ти сам це знаєш.
+
+### Частина 2 — заперечення і питання
+
+6. Постав у **заперечення** (не питання): «Марк заснув під час зустрічі.»
+7. Постав **питання**: «Вона щодня вигулює собаку.»
+
+### Частина 3 — EN → UA
+
+8. > Mark fell asleep at his desk right after lunch. His manager didn't say anything, but she definitely noticed. "I work every day until eight," Mark told her later. "It sounds like an excuse," she said quietly.
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: де стоїть `every day` у реченні `She walks the dog every day` і де `slowly` у `They walked home slowly`? Чому не між підметом і дієсловом, і чому не між дієсловом і `home`? Які прислівники МОЖУТЬ стояти між підметом і дієсловом?
+
+### Частина 5 — дриль: знайди помилку
+
+10. У кожному реченні рівно ОДНА помилка — знайди й виправ (мінімальне виправлення, час не міняй):
+    a) She fell tired after the trip.
+    b) Does it sound like a truth?
+    c) I started at a new work on Monday.
+    d) He everyday walks his dog.
+    e) They walked slowly home.
+    f) I felt asleep during the movie.
+    g) She made the decision itself.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне речення** з `every day` у КІНЦІ і **одне** з `usually` МІЖ підметом і дієсловом;
+    - **одне речення** з прислівником способу дії в КІНЦІ (walked home slowly, answered quickly);
+    - **одне речення** з `fell asleep` у минулому часі;
+    - **одне речення** з `a new job` або `the truth`.

@@ -256,3 +256,5 @@
 | «заснула **на** столі» *(at her desk)* | «заснула **за** столом» | `at her desk` — за столом, на робочому місці; «на столі» = on the desk | 22.09 · Урок 11 Р13 |
 | at **a new work** *(дриль)* | at **a new job** | 🔴 **×3** — артикль додав, слово те саме; `work` — діяльність, місце роботи — `a job` | 22.09 · Урок 11 Р13 |
 | She **fell** tired *(дриль, не знайдено)* | She **felt** tired | «почувалася» = feel → felt; речення переписане без змін — дзеркало п.1 (там fall→feel, тут feel→fall) | 22.09 · Урок 11 Р13 |
+| This **sounds** like the truth *(«НЕ звучить»)* | This **doesn't sound** like the truth | заперечення випало в перекладі — сенс перевернувся; у Present Simple заперечення несе `doesn't`, дієслово втрачає `-s` | 22.09 · Урок 11 Р14 |
+| answered quietly **on** today's meeting | answered quietly **at** today's meeting | «на зустрічі» = at a meeting (як at work, at school); `on` — калька з «на» → леак №1 прийменники | 22.09 · Урок 11 Р14 |

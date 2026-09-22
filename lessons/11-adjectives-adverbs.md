@@ -1264,3 +1264,85 @@
     - **одне речення** з прислівником способу дії в КІНЦІ (walked home slowly, answered quickly);
     - **одне речення** з `fell asleep` у минулому часі;
     - **одне речення** з `a new job` або `the truth`.
+
+### Відповіді учня
+
+1. I fell asleep immediately after the movie.
+2. She checks her email every day before work.
+3. They walked home slowly after finishing the meeting.
+4. He found a new job, without asking anyone.
+5. This sounds like the truth, and you know it yourself.
+6. Mark didn't fall asleep during the meeting.
+7. Does she walk her dog every day?
+8. Марк заснув за своїм столом одразу після обіду. Його менеджер не сказала нічого, але вона точно помітила. "Я працюю щодня до восьмої" Марк сказав їй пізніше. "Це звучить наче виправдання" сказала вона тихо.
+9. She walks the dog every day — every day відповідає на питання "коли" тому воно зазвичай ставиться на початку або в кінці речення. They walked home slowly — slowly це обставина способу дії (питання "як?") а обставина йде після дієслова. Між підметом і присудком може стояти прислівник частоти (always, usually)
+10. a) She felt tired after the trip. b) Does it sound like the truth? c) I started at a new job on Monday. d) He walks his dog every day. e) They walked home slowly. f) I fell asleep during the movie. g) She made the decision herself.
+11.
+    1. I usually wake up at 8am every day.
+    2. She answered quietly on today's meeting.
+    3. I fell asleep in the library.
+    4. She definitely won't tell the truth.
+
+### Перевірка Раунду 14 — ❌ (2 помилки)
+
+**Коротко:** з 14 помилок — до двох. `fell asleep` у перекладі — уперше правильно (п.1, після чотирьох `felt`). `A new job` — уперше в перекладі (п.4). `The truth` — тричі (п.5, 10b, 11.4). Позиція прислівників — скрізь правильно (п.2, п.3, п.7, 10d, 10e, 11.1), і пояснення в п.9 точне. Дриль — **7/7**. Заперечення й питання в Частині 2 — те, що просили. Переклад п.8 — повністю чистий, включно зі статтю і «за столом». Дві помилки: у п.5 випало заперечення — «НЕ звучить» перекладено як «звучить», і сенс перевернувся; в 11.2 — `on the meeting` замість `at the meeting`. Обидві не з теми уроку.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 5 | This **sounds** like the truth | This **doesn't sound** like the truth | Джерело: «Це **не** звучить як правда». Заперечення випало, і речення каже протилежне. В Present Simple заперечення несе допоміжне `doesn't` (він забирає `-s` у дієслова): doesn't sound. Решта — `the truth`, `yourself` — чисто. |
+| 11.2 | quietly **on** today's meeting | quietly **at** today's meeting | «На зустрічі» — `at a meeting` (як `at work`, `at school`). `On` — калька з українського «на». Це той самий прийменниковий леак, що `on work → at work`. `answered quietly` — умова 2 ✅. |
+| 4 | He found a new job**,** without asking | He found a new job without asking | *(дрібниця, не рахую)* кома перед `without` зайва — це одна фраза, не два речення. Саме речення — чисто, обидва слова на місці. |
+| 9 | «обставина йде після дієслова» | після дієслова **і додатка** | *(уточнення, не помилка)* Точніше — після всього, що йде за дієсловом: walked **home** slowly, checked **the code** carefully. Якщо додатка немає — одразу після дієслова: answered quietly. |
+| 11.1 | I **usually** wake up at 8am **every day** | I usually wake up at 8. / I wake up at 8 every day. | *(дрібниця, не рахую)* `usually` («зазвичай», тобто не завжди) і `every day` («щодня», тобто завжди) в одному реченні суперечать одне одному. Позиція обох — правильна. |
+
+*Повна теорія — у `grammar/` і `rules.md`.*
+
+**Головне:** усе, що ламалось у Р10–Р13 — `fell asleep`, `the truth`, `a new job`, `without + -ing`, `yourself/himself`, позиція прислівників — цього разу чисто, і в перекладі теж. Дві помилки, що лишились, — заперечення в перекладі й `at the meeting` — про увагу, не про правило. Раунд 15 — ті самі речі ще раз, з акцентом на заперечення: у кожному реченні з «не» перевір, що `doesn't/didn't` на місці.
+
+---
+
+## Раунд 15
+
+Без нового матеріалу. Акцент — заперечення в перекладі (`doesn't/didn't`, не пропускати «не») і `at the meeting / at work`. Решта — ті самі слова, щоб підтвердити.
+
+**Перед здачею:** у кожному реченні, де в українській є «не», знайди в англійському `doesn't/didn't/won't`.
+
+### Частина 1 — UA → EN
+
+1. Це не виглядає як гарна ідея, і ти сам це знаєш.
+2. Вона не заснула, хоча була дуже втомлена.
+3. Він щодня відповідає на листи перед роботою.
+4. Вони не сказали менеджеру правди на зустрічі.
+5. Я знайшов нову роботу, але мій друг цього ще не знає.
+
+### Частина 2 — заперечення і питання
+
+6. Постав у **заперечення**: «Вона щодня перевіряє пошту.»
+7. Постав **питання**: «Марк заснув на зустрічі.»
+
+### Частина 3 — EN → UA
+
+8. > "This doesn't sound like the truth," the manager said quietly at the meeting. Anna didn't answer immediately. She usually tells the truth, but she definitely didn't want to talk about her new job yet. After the meeting, she didn't fall asleep — she read every email slowly.
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: у реченні «Це не звучить як правда» — яке слово в англійському реченні несе заперечення, і що стається з `-s` на дієслові? Чому не можна просто сказати `This not sounds` або `This sounds not`?
+
+### Частина 5 — дриль: знайди помилку
+
+10. У кожному реченні рівно ОДНА помилка — знайди й виправ (мінімальне виправлення):
+    a) She answered quietly on the meeting.
+    b) This not sounds like the truth.
+    c) He didn't found a new job.
+    d) Mark fall asleep at the meeting yesterday.
+    e) She walks every day her dog.
+    f) They told the truth to the manager quiet.
+    g) I usually wake up every day at 8. *(тут одне зайве слово)*
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне заперечення** через `doesn't` / `didn't` / `won't` (не через `no`);
+    - **одне речення** з `at the meeting` або `at work`;
+    - **одне речення** з прислівником способу дії в КІНЦІ;
+    - **одне речення** з `fell asleep`, `the truth` або `a new job`.

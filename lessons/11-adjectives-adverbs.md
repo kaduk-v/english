@@ -1079,3 +1079,98 @@
     - **одне речення** з `tell` (tell me / tell the truth) або `make a decision`;
     - **одне питання** через `Does/Do … sound/look like + іменник?`;
     - **одне речення** з дієсловом дії у 3-й особі (he/she/it + `-s`) + прислівником на `-ly`.
+
+### Відповіді учня
+
+1. After reviewing code she slowly walks home.
+2. Tell me the truth: did you make this decision itself?
+3. He felt asleep immediately after the meeting.
+4. My brother usually walks with a dog, even when it rains.
+5. Don't start to eat without washing your hands.
+6. Does it look like a good opportunity?
+7. She doesn't object to a new schedule.
+8. "Скажи мені правду" - менеджер сказав тихо. "Ти прийняла це рішення не запитавши команду?" Марк почувався знервовано, але він точно не хотів брехати. "Так" сказала вона. "Це виглядало лише як опція"
+9. make a decision - це я приймаю власне рішення, accept a decision - я погоджуюся із чиїмось рішенням
+10. a) She tells the truth every time. b) I object to this idea. c) He walks home after work. d) *(пропущено)* e) I fall asleep at 11 pm f) I will start at new work on Monday
+11.
+    1. After the meeting they are going to have lunch.
+    2. You should make a decision until Monday.
+    3. Does it sound like a truth?
+    4. Kate always does her work slowly.
+
+### Перевірка Раунду 12 — ❌ (12 помилок + пропущений п.10d)
+
+**Коротко:** повторів з Р10–Р11 — три (було сім): `felt asleep` знову замість `fell asleep`, знову «сказала вона» про Марка, знову `at new work` — цю помилку в дрилі ти не побачив зовсім. Решта — нове: час (`walks` замість `walked` — «пішла» це минуле), `itself` замість `yourself`, `until` замість `by` для дедлайну, артиклі (`a truth`, `with a dog`, `a new schedule`). Умова міні-тексту `after + -ing` не виконана вдруге поспіль — `After the meeting` це знову after + іменник. А тепер добре: п.5 — три леаки в одному реченні (`start to eat`, `without washing`, `your hands`) — усі чисто. `tell me the truth`, `make a decision`, `object to`, `walks home`, `even when it rains`, `does her work slowly` — усе на місці. І `definitely` в перекладі збережено.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | she slowly **walks** home | she slowly **walked** home | «Пішла» — минулий час, дія вже сталась. `walks` — це «ходить» (звичка). Усе інше в реченні — `after reviewing`, `slowly`, `home` без `to` — правильно. Дрібниця: код конкретний → `the code`. |
+| 2 | this decision **itself** | this decision **yourself** | «Ти сам» — зворотний займенник узгоджується з підметом: you → **yourself**. `itself` — «воно само» (про предмет), тут воно ніби каже, що рішення ухвалило себе саме. `Tell me the truth` і `did you make` — чисто. |
+| 3 | He **felt** asleep | He **fell** asleep | 🔴 ПОВТОР Р11. Заснути = `fall asleep` — «впасти в сон». `feel` — «почуватися», а «почуватися сплячим» не кажуть. У дрилі (п.10e) ти сам виправив felt → fall, а в перекладі за хвилину до того знову `felt`. |
+| 4 | walks with **a** dog | walks **the** dog / walks **his** dog | «З собакою» — його власний, конкретний собака → `his dog` або `the dog`. `A dog` — якийсь випадковий собака. І природніша пара — `walk the dog` (вигулювати), без `with`. `even when it rains` — правильно. |
+| 5 | — | ✅ **Don't start to eat without washing your hands.** | Три леаки в одному реченні — усі чисто. |
+| 6 | — | ✅ **Does it look like a good opportunity?** | Питання через `does`, `like` + іменник з артиклем. |
+| 7 | object to **a** new schedule | object to **the** new schedule | Графік конкретний, той, що вже є → `the`. `A new schedule` — «якийсь новий графік», інший зміст. `doesn't object to` — чисто. |
+| 8 | «Ти **прийняла**» | «Ти **прийняв**» | Менеджер звертається до Марка — чоловік. |
+| 8 | «сказала **вона**» | «сказав **він**» | 🔴 ПОВТОР Р11, та сама помилка: `he said` — Марк. У тексті два чоловіки (менеджер і Марк), жінок немає. |
+| 8 | «лише як **опція**» | «як **єдиний варіант**» | `the only option` — `only` тут прикметник «єдиний» (the only way, the only person), а не прислівник «лише». «Це виглядало як єдиний вихід». Решта перекладу — чисто, `точно` збережено. |
+| 9 | — | ✅ | Точно так. |
+| 10d | *(пропущено)* | We started **preparing** / **to prepare** the release | Пункт пропущено — ймовірно, збилась нумерація. Помилка там — `start + гола форма` (твій повтор із Р9–Р11). |
+| 10e | I **fall** asleep | I **fell** asleep | Дієслово знайдено правильно (fall, не feel), але форма — теперішня. У реченні була минула (`felt`) → мінімальне виправлення `fell`. `I fall asleep at 11 pm` — це вже «я засинаю об 11» (звичка), інший зміст. |
+| 10f | I **will start** at new work | I started at **a new job** | 🔴 Помилку не знайдено. Ти змінив час (`will`), а `at new work` лишив — саме воно і було помилкою (Р11 п.11.4). `Work` — діяльність, без артикля і без «нова»; конкретне місце роботи — `a job`: start a new job, my new job. |
+| 11.1 | **After the meeting** they… | **After finishing the meeting** they… | ⚠️ Умова 1 НЕ виконана вдруге поспіль: `after` + іменник. В умові прямо написано: потрібне дієслово з `-ing`. |
+| 11.2 | make a decision **until** Monday | make a decision **by** Monday | Дедлайн («до понеділка» = не пізніше) — `by`. `Until` — «аж до» (тривалість: чекати до понеділка, працювати до шостої). Рішення — точка, не тривалість → `by`. `make a decision` — умова 2 ✅. |
+| 11.3 | sound like **a** truth | sound like **the** truth | `truth` — незлічуване, і правда одна → завжди `the truth` (tell the truth, sound like the truth). `A truth` можливе лише як «одна з істин» — філософія, не побут. Структура питання — умова 3 ✅. |
+| 11.4 | — | ✅ **Kate always does her work slowly.** | Умова 4 ✅: `does` з `-s`, прислівник `slowly`, `her work` з присвійним. |
+
+*Повна теорія — у `grammar/` і `rules.md` (зворотні займенники — pronouns §5; by/until — rules §9).*
+
+**Головне:** по темі уроку (прикметник/прислівник, позиція, linking verbs, -ed/-ing) помилок немає вже третій раунд поспіль — тема сама по собі тримається. Раунд ламають наскрізні леаки: `fall asleep` (×3), стать при читанні (×2), `at a new job` (×2), артиклі, `after + -ing` в міні-тексті (×2). Раунд 13 — знову без нового матеріалу, з дрилем на ці самі речення, включно з пропущеним 10d і не знайденим 10f.
+
+---
+
+## Раунд 13
+
+Без нового матеріалу. Мішені: `fall asleep` у перекладі (3-тя спроба), стать при читанні (he/she — хто говорить), `a new job`, `the truth`, зворотні займенники (`yourself/himself/herself` — pronouns §5), `after/before + -ing` у міні-тексті (двічі не виконано). Дриль «знайди помилку» — з тими, що пропустив.
+
+**Перед здачею:** перечитай таблицю Р12. У міні-тексті умова 1 — це дієслово з `-ing`, не іменник.
+
+### Частина 1 — UA → EN
+
+1. Вона заснула одразу після обіду.
+2. Він сам ухвалив це рішення, нікого не питаючи.
+3. Мій друг щодня вигулює свого собаку перед роботою.
+4. Вона заперечує проти нового графіка, але точно не скаже цього менеджеру.
+5. Після закінчення зустрічі вони повільно пішли додому.
+
+### Частина 2 — питання і заперечення
+
+6. Постав питання: «Це звучить як правда?»
+7. Постав у заперечення: «Марк заснув під час зустрічі.»
+
+### Частина 3 — EN → UA
+
+8. > Anna made the decision herself. "It looked like the only way," she told her manager quietly. He didn't object to it, but he definitely didn't look happy. After the meeting, Anna fell asleep at her desk.
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: чому `I felt asleep` — неправильно, а `I fell asleep` — правильно? Що означає `fall` у цій парі, і чому це не «почуватися»?
+
+### Частина 5 — дриль: знайди помилку
+
+10. У кожному реченні рівно ОДНА помилка — знайди й виправ (мінімальне виправлення, час не міняй):
+    a) We started prepare the release yesterday.
+    b) I started at new work on Monday.
+    c) She fell tired after the trip.
+    d) Does it sound like a truth?
+    e) After lunch he go back to work.
+    f) They walked to home slowly.
+    g) Send me the report until Friday.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне речення** з `after`/`before`/`without` + дієслово з **-ing** (after finish**ing**, before leav**ing** — іменник після after НЕ рахується);
+    - **одне речення** з `fell asleep` або `fell` (від fall) у минулому часі;
+    - **одне речення** з `the truth` (tell the truth / sound like the truth);
+    - **одне речення** зі зворотним займенником (`myself / yourself / himself / herself`).

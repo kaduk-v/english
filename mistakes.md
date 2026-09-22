@@ -234,3 +234,15 @@
 | She **felt** asleep | She **fell** asleep | заснути = `fall asleep` («впасти в сон», перехід у стан) — не feel; так само fall ill, fall in love → 🎯 fall/feel вище, дриль 3/4 | 21.09 · Урок 11 Р11 |
 | I **starting do** my homework | I **start doing** / **started doing** | дві: `-ing` без `am/was` не може бути головним дієсловом; 🔴 **ПОВТОР ×3** `start + гола форма` (Р9 dance, Р10 eat, Р11 do) | 21.09 · Урок 11 Р11 |
 | on **new work** | at **my new job** | 🔴 **леак №1** (on work → at my job); `job` — конкретне місце, злічуване; `work` — діяльність, без артикля | 21.09 · Урок 11 Р11 |
+| she slowly **walks** home *(«пішла»)* | she slowly **walked** home | час: «пішла» — минуле, дія сталась; `walks` — звичка | 22.09 · Урок 11 Р12 |
+| this decision **itself** *(«ти сам»)* | this decision **yourself** | зворотний займенник узгоджується з підметом: you → yourself; `itself` — «воно само», про предмет | 22.09 · Урок 11 Р12 |
+| He **felt** asleep | He **fell** asleep | 🔴 **ПОВТОР Р11** — заснути = fall asleep («впасти в сон»); у дрилі того ж раунду виправив сам, у перекладі — знову felt → 🎯 fall/feel | 22.09 · Урок 11 Р12 |
+| walks **with a** dog | walks **the / his** dog | свій конкретний собака → `his/the`; `a dog` — випадковий; природна пара `walk the dog` без with | 22.09 · Урок 11 Р12 |
+| object to **a** new schedule | object to **the** new schedule | графік конкретний, вже існує → `the`; `a new` — «якийсь новий», інший зміст | 22.09 · Урок 11 Р12 |
+| «Ти **прийняла**» / «сказала **вона**» *(про Марка)* | «Ти **прийняв**» / «сказав **він**» | 🔴 **ПОВТОР Р11** — стать при читанні: `he said` — він; у тексті двоє чоловіків, жінок немає | 22.09 · Урок 11 Р12 |
+| «лише як **опція**» *(the only option)* | «як **єдиний варіант**» | `only` перед іменником — прикметник «єдиний» (the only way), не прислівник «лише» | 22.09 · Урок 11 Р12 |
+| I **fall** asleep *(виправлення felt)* | I **fell** asleep | дієслово знайдено (fall, не feel), але форма теперішня — у реченні була минула; мінімальне виправлення `fell` | 22.09 · Урок 11 Р12 |
+| I **will start** at new work *(виправлення)* | I started at **a new job** | 🔴 помилку не знайдено — змінив час, а `at new work` лишив; це і був леак №1 (Р11) | 22.09 · Урок 11 Р12 |
+| make a decision **until** Monday | make a decision **by** Monday | дедлайн («не пізніше») — `by`; `until` — тривалість («аж до»): wait until Monday; рішення — точка → by | 22.09 · Урок 11 Р12 |
+| sound like **a** truth | sound like **the** truth | `truth` незлічуване, правда одна → завжди `the truth` (tell the truth) | 22.09 · Урок 11 Р12 |
+| **After the meeting** they… *(умова after + -ing)* | **After finishing** the meeting… | ⚠️ умова міні-тексту не виконана 2-й раз поспіль: after + іменник замість after + V-ing | 22.09 · Урок 11 Р12 |

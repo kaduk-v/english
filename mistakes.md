@@ -258,3 +258,7 @@
 | She **fell** tired *(дриль, не знайдено)* | She **felt** tired | «почувалася» = feel → felt; речення переписане без змін — дзеркало п.1 (там fall→feel, тут feel→fall) | 22.09 · Урок 11 Р13 |
 | This **sounds** like the truth *(«НЕ звучить»)* | This **doesn't sound** like the truth | заперечення випало в перекладі — сенс перевернувся; у Present Simple заперечення несе `doesn't`, дієслово втрачає `-s` | 22.09 · Урок 11 Р14 |
 | answered quietly **on** today's meeting | answered quietly **at** today's meeting | «на зустрічі» = at a meeting (як at work, at school); `on` — калька з «на» → леак №1 прийменники | 22.09 · Урок 11 Р14 |
+| you know **yourself** *(«ти сам ЦЕ знаєш»)* | you know **it** yourself | додаток `it` випав — без нього «ти знаєш себе»; `yourself` («сам») іде ПІСЛЯ додатка | 22.09 · Урок 11 Р15 |
+| She **didn't asleep** / Did Mark **asleep** | didn't **fall** asleep / Did Mark **fall** asleep | 🎯 нова форма fall/feel-саги: дієслово зникло зовсім — `asleep` прикметник, після didn't/did потрібне дієслово `fall`; заснути = fall + asleep, завжди разом | 22.09 · Урок 11 Р15 |
+| didn't tell the truth *(«менеджеру»)* | didn't tell **the manager** the truth | додаток «кому» випав; `tell` бере два додатки: tell sb sth / tell sth to sb | 22.09 · Урок 11 Р15 |
+| «на **мітингу**» *(at the meeting)* | «на **зустрічі**» | 🔴 **×3** (Р8, Р11, Р15) — у тому ж тексті нижче «після зустрічі» правильно; калька вискакує в першому реченні → 🪤 леак №2 | 22.09 · Урок 11 Р15 |

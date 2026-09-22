@@ -1346,3 +1346,89 @@
     - **одне речення** з `at the meeting` або `at work`;
     - **одне речення** з прислівником способу дії в КІНЦІ;
     - **одне речення** з `fell asleep`, `the truth` або `a new job`.
+
+### Відповіді учня
+
+1. This doesn't look like a good idea, and you know yourself.
+2. She didn't asleep although she was very tired.
+3. He answers emails every day before work.
+4. They didn't tell the truth at the meeting.
+5. I found a new job, but my friend doesn't know it yet.
+6. She doesn't check her email every day.
+7. Did Mark asleep at the meeting?
+8. "Це не звучить як правда", менеджер сказав тихо на мітингу. Анна не відповіла одразу. Вона зазвичай каже правду, але вона точно ще не хотіла говорити про її нову роботу. Після зустрічі вона не заснула - вона читала кожний лист повільно.
+9. У реченні «Це не звучить як правда» - does not - несе заперечення, does забирає -s із дієслова. This not sounds - не можна сказати, тому що заперечення йде через does not
+10. a) She answered quietly at the meeting. b) This doesn't sound like the truth. c) He didn't find a new job. d) Mark fell asleep at the meeting yesterday. e) She walks her dog every day. f) They told the truth to the manager quietly. g) I usually wake up at 8.
+11.
+    1. She doesn't like coffee.
+    2. How many people were at the meeting?
+    3. Her mother likes to cook slowly.
+    4. Did you find a new job?
+
+### Перевірка Раунду 15 — ❌ (5 помилок)
+
+**Коротко:** заперечення — скрізь на місці: `doesn't look`, `didn't tell`, `doesn't know`, `doesn't check` — жодного пропущеного «не». Але з'явилась нова форма старої проблеми: `didn't asleep` і `Did Mark asleep` — дієслово `fall` зникло зовсім. `Asleep` — це прикметник (стан «сплячий»), а не дієслово; після `didn't`/`did` потрібне дієслово — `fall`. І двічі випав додаток: «ти сам **це** знаєш» → `you know yourself` (без `it` — «ти знаєш себе»), «не сказали **менеджеру** правди» → `didn't tell the truth` (без `the manager`). Схоже, увага пішла на `didn't` — і слово після нього загубилось. Ще «мітинг» у перекладі — третій раз, хоча в тому самому тексті нижче «після зустрічі» — правильно. Дриль 7/7, міні-текст 4/4, п.9 точно.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | you know **yourself** | you know **it** yourself | «Ти сам **це** знаєш» — `it` це додаток, без нього `you know yourself` = «ти знаєш себе». `Yourself` тут — підсилення «сам», воно йде ПІСЛЯ додатка. `doesn't look like a good idea` — чисто. |
+| 2 | She **didn't asleep** | She **didn't fall asleep** | `asleep` — прикметник («сплячий»), не дієслово. Прикметник не може стояти після `didn't` — потрібне дієслово, і тут це `fall`: didn't **fall** asleep. Заснути = fall + asleep, обидва слова, завжди разом. |
+| 4 | didn't tell the truth | didn't tell **the manager** the truth | «Не сказали **менеджеру** правди» — менеджер випав. `tell` бере два додатки: кому + що: tell **the manager** **the truth** (або tell the truth **to the manager**). |
+| 7 | Did Mark **asleep** | Did Mark **fall asleep** | Те саме, що п.2: `asleep` — не дієслово, після `Did Mark` потрібне дієслово `fall` у базовій формі. |
+| 8 | «на **мітингу**» | «на **зустрічі** / нараді» | 🔴 3-й раз (Р8, Р11). `Meeting` — робоча зустріч. Український «мітинг» — це вулична політична акція. У тому самому тексті нижче ти написав «після зустрічі» правильно — тобто слово знаєш, воно вискакує калькою в першому реченні. |
+| 8 | «про **її** нову роботу» | «про **свою** нову роботу» | *(українська, не рахую)* коли йдеться про підмет речення — «свою», не «її». Решта перекладу — чисто. |
+| 9 | — | ✅ | `does not` несе заперечення, `does` забирає `-s` — точно. |
+| 10 | — | ✅ **7/7** | Усі сім — включно з `at the meeting`, `didn't find`, `fell`, зайвим `every day`. |
+| 11 | — | ✅ **4/4** | `doesn't like`, `at the meeting`, `cook slowly`, `a new job` — усе чисто. |
+
+*Повна теорія — у `grammar/` і `rules.md`; `asleep` і `fall` — у словнику.*
+
+**Головне:** заперечення закрито — це була ціль раунду. Нове — `fall` зникає перед `asleep` після `didn't/did`: `asleep` треба тримати в голові як прикметник, якому потрібне своє дієслово. І додатки: після `didn't` перевіряй, що кому/що на місці.
+
+---
+
+## Раунд 16
+
+Без нового матеріалу. Мішені: `fall asleep` після `didn't/did` (дієслово `fall` не зникає), додатки після `tell` (кому + що), `it` після `know`, `meeting` при читанні. Решта — підтвердження.
+
+**Перед здачею:** у кожному реченні з `didn't/did` перевір два слова після нього — дієслово і додаток.
+
+### Частина 1 — UA → EN
+
+1. Ти сам це сказав на зустрічі.
+2. Марк не заснув, хоча фільм був дуже нудним.
+3. Скажи їй правду перед тим, як іти.
+4. Вона щодня розповідає мені про свою нову роботу.
+5. Вони не відповіли менеджеру одразу.
+
+### Частина 2 — заперечення і питання
+
+6. Постав у **заперечення**: «Він заснув після обіду.»
+7. Постав **питання**: «Вона сказала йому правду.»
+
+### Частина 3 — EN → UA
+
+8. > "Did you tell him the truth?" Anna asked her friend quietly after the meeting. "No, I didn't tell him anything," he said. "He fell asleep right after lunch, and I didn't want to wake him."
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: чому не можна сказати `She didn't asleep`? Що таке `asleep` — дієслово чи прикметник — і яке дієслово потрібне перед ним після `didn't`?
+
+### Частина 5 — дриль: знайди помилку
+
+10. У кожному реченні рівно ОДНА помилка — знайди й виправ (мінімальне виправлення):
+    a) Did you asleep during the movie?
+    b) They didn't tell the truth to manager.
+    c) I told the truth him.
+    d) She fell asleep on the meeting.
+    e) He didn't felt tired.
+    f) We walked to home slowly.
+    g) Anna doesn't tells the truth.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне заперечення** з `didn't` + дієслово + ДОДАТОК (didn't tell **him**, didn't see **it**);
+    - **одне речення** з `fell asleep` або `didn't fall asleep`;
+    - **одне питання** через `Did … ?`;
+    - **одне речення** з `at the meeting`, `at work` або `before work`.

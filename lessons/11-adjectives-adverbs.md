@@ -1516,3 +1516,90 @@
     - **одне питання** через `Did … ?`;
     - **одне речення** з `at the meeting`;
     - **одне речення** зі зворотним займенником (`myself / yourself / himself / herself`).
+
+### Відповіді учня
+
+1. She didn't fall asleep at the meeting although everyone was speaking very quietly.
+2. My friend told me the truth about his new job.
+3. We didn't see the manager after lunch.
+4. Tell him yourself - don't ask me.
+5. He read his emails slowly every day before work.
+6. She didn't fall asleep at the meeting.
+7. He didn't tell me the truth.
+8. Марк запитав свого друга тихо, "Вона сказала тобі правду на мітингу?". "Ні" вона скаала. Вона не сказала мені нічого. Вона заснула одразу після обіду і я не хотіла будити її.
+9. He fell asleep -> He didn't fall asleep. Для заперечення використовуємо допоміжне дієслово did not, яке забирає на себе 2гу форму дієслова і після нього має йти дієслово в базовій формі, тому fell asleep стає fall asleep. He didn't asleep — неправильно, бо після допоміжного дієслова didn't повинно йти дієслово в базовій формі, саме по собі слово asleep - це прикметник, тому воно не можу йти після дієслова
+10. a) He didn't fall asleep after lunch. b) She didn't tell me the truth. c) Did Mark feel tired after the meeting? d) They didn't answer the manager. e) Anna asked her friend quietly. f) I didn't see her at the party. g) We didn't fall asleep at the meeting.
+11.
+    1. She didn't make the decision yesterday. Ali didn't feel tired after long trip.
+    2. Did you find out how she lives without money?
+    3. Max was absent at the meeting.
+    4. This doesn't sound like the truth and you know it yourself.
+
+### Перевірка Раунду 17 — ❌ (5 помилок)
+
+**Коротко:** ціль раунду закрита: перетворення `fell → didn't fall` (п.6), `told → didn't tell` (п.7), і в дрилі всі сім — включно з `didn't fall`, `didn't tell`, `Did Mark feel`. Пояснення в п.9 — точне. Стать при читанні цього разу через `she said` — правильно («вона сказала», «я не хотіла»), але «свого друга» лишився чоловіком — тобто друг у тебе одночасно і він, і вона. П'ять помилок, усі поза ціллю раунду: `read` без `-s` (він щодня читає → reads), «мітинг» — п'ятий раз, `after long trip` без артикля, `absent at` замість `absent from`, і «свого друга» ↔ «вона». Міні-текст 4/4 за умовами, і 11.4 — це те саме речення, що зламалось у Р15, тепер з `it` і запереченням.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 5 | He **read** his emails | He **reads** his emails | «Щодня читає» — Present Simple, третя особа → `-s`. Без `-s` `read` читається як минулий час («прочитав»), і `every day` з ним не в'яжеться. `slowly` в кінці, `before work` — правильно. |
+| 8 | «свого **друга**… **вона** сказала» | «свою **подругу**… вона сказала» | `she said` → друг жіночої статі. Ти це побачив («вона сказала», «я не хотіла») — але «свого друга» лишив чоловічим. Стать одна на весь текст: якщо `she`, то й «подругу». |
+| 8 | «на **мітингу**» | «на **зустрічі**» | 🔴 5-й раз. `Meeting` — робоча зустріч, нарада. Український «мітинг» — вулична акція. Це вже автоматичний рефлекс при читанні — наступного разу, побачивши `meeting`, свідомо зупинись. |
+| 11.1 | after **long trip** | after **a long trip** | Однина злічуваного іменника без визначника — заборонена. `Trip` — злічуване, один → `a`. Прикметник між артиклем і іменником артикль не скасовує: a **long** trip. `didn't make`, `didn't feel` — умова 1 ✅. |
+| 11.3 | absent **at** the meeting | absent **from** the meeting | «Відсутній на зустрічі» — стала пара `absent from` («відсутній ЗВІДКИ»). `At the meeting` — «присутній на»; з `absent` прийменник інший. |
+| 4 | Tell him yourself | ✅ *(природно)* | «Скажи йому це сам» — `Tell him yourself` носії кажуть саме так; `it` тут не обов'язкове. Якщо з `it` — `Tell it to him yourself`. |
+| 1–3, 6, 7 | — | ✅ | `didn't fall asleep` ×2, `told me the truth`, `didn't see the manager`, `didn't tell me` — усе чисто. |
+| 9 | — | ✅ | Точно: `did not` забирає час, дієслово — в базову форму, `asleep` — прикметник. |
+| 10 | — | ✅ **7/7** | — |
+| 11 | — | 4/4 за умовами | `find out` (дізнатися) — гарне слово, додав у фразові дієслова. Порядок слів у `how she lives` — правильний. |
+
+*Повна теорія — у `grammar/` і `rules.md`; у словнику з цього раунду — `find out`, `find`, `see` (irregular).*
+
+**Головне:** перетворення з `didn't` закрито. Лишилось те, що не з теми уроку: `-s` у третій особі (давно не ламалось), артикль перед одниною, `absent from`, і «мітинг» — п'ять разів.
+
+---
+
+## Раунд 18
+
+Без нового матеріалу. Мішені: `-s` у третій особі з `every day`, `a` перед одниною злічуваного з прикметником (a long trip, a new job), `absent from the meeting`, `meeting` = зустріч при читанні (у тексті — тричі, свідомо), стать — одна на весь текст.
+
+**Перед здачею:** кожне `he/she + every day` → дієслово з `-s`. Кожен однинний іменник (trip, job, idea, meeting) → перед ним `a`/`the`/`my`.
+
+### Частина 1 — UA → EN
+
+1. Він щодня читає новини перед роботою.
+2. Після довгої подорожі вона не почувалася втомленою.
+3. Макс був відсутній на зустрічі, тому він не знає правди.
+4. Моя подруга сказала мені, що знайшла нову роботу.
+5. Не буди її — вона заснула лише годину тому.
+
+### Частина 2 — заперечення і питання
+
+6. Постав у **заперечення**: «Він щодня читає листи.»
+7. Постав **питання**: «Вона почувалася втомленою після зустрічі.»
+
+### Частина 3 — EN → UA
+
+8. > "Was Anna at the meeting?" Mark asked his colleague. "No, she was absent from the meeting," he said. "She told me she had a long trip yesterday and fell asleep early. She'll be at the next meeting."
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: чому в «Він щодня читає» дієслово `reads`, а в «Він щодня не читає» — `doesn't read`? Куди дівається `-s` у запереченні?
+
+### Частина 5 — дриль: знайди помилку
+
+10. У кожному реченні рівно ОДНА помилка — знайди й виправ (мінімальне виправлення):
+    a) He read his emails every day before work.
+    b) She felt tired after long trip.
+    c) Max was absent at the meeting.
+    d) My friend told me about her new job, and he was happy.
+    e) I didn't saw the manager.
+    f) Did she felt tired?
+    g) Tell him the truth yourself — don't ask I.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне речення** з he/she + дієслово з `-s` + `every day`;
+    - **одне заперечення** з `doesn't` + базова форма;
+    - **одне речення** з `a` + прикметник + однина злічуваного (a long trip, a new job, a good idea);
+    - **одне речення** з `at the meeting` або `absent from the meeting`.

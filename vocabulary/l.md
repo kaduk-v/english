@@ -1,6 +1,6 @@
 # L
 
-**Зміст:** [late](#late) · [launch](#launch) · [lay](#lay) · [leadership](#leadership) · [least](#least) · [legacy](#legacy) · [leverage](#leverage) · [lifelike](#lifelike) · [like](#like)
+**Зміст:** [late](#late) · [launch](#launch) · [lay](#lay) · [leadership](#leadership) · [least](#least) · [legacy](#legacy) · [leverage](#leverage) · [lifelike](#lifelike) · [like](#like) · [literally](#literally)
 
 ---
 
@@ -127,3 +127,16 @@
 - What was the interview **like**? — Якою була співбесіда? / Як пройшла співбесіда?
 
 🔗 **Пов'язане:** повна теорія `sound/look/feel + like` — [adjectives-adverbs §7](../grammar/b1/adjectives-adverbs.md#look-sound-feel-like-іменник).
+
+---
+
+## literally
+**literally** /ˈlɪtərəli/ — <code>adverb</code> (прислівник) — буквально, дослівно; (розм.) справді, реально, просто
+
+**Пояснення:** два вжитки. Точний — «у прямому сенсі слова»: translate literally, the word literally means… Розмовний — підсилення («реально, просто»), часто з перебільшенням: I literally have no time. Носії самі сперечаються, чи це правильно, — у робочому листуванні краще без нього.
+
+**💡 Пари:** **literally** (буквально) ↔ **figuratively** (переносно). Не плутай з **literary** (літературний): a literary text.
+
+**Приклади:**
+- The error message **literally** says "unknown error". — Повідомлення буквально каже «невідома помилка».
+- I **literally** have five minutes before the call. — У мене реально п'ять хвилин до дзвінка.

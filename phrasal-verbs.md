@@ -2,7 +2,7 @@
 
 Як і [irregular-verbs.md](irregular-verbs.md) — це не підручниковий повний список, а слова, які реально трапились у твоїх уроках/чатах/розмовах. Росте з практики.
 
-**Зміст:** [figure out](#figure-out) · [follow up](#follow-up) · [get back (to sb)](#get-back-to-sb) · [go on](#go-on) · [sort out / get sorted](#sort-out--get-sorted) · [take down](#take-down) · [write up](#write-up)
+**Зміст:** [figure out](#figure-out) · [find out](#find-out) · [follow up](#follow-up) · [get back (to sb)](#get-back-to-sb) · [go on](#go-on) · [sort out / get sorted](#sort-out--get-sorted) · [take down](#take-down) · [write up](#write-up)
 
 ---
 
@@ -13,6 +13,18 @@
 - It took me three days to **figure out** the bug. — Мені знадобилось три дні, щоб розібратися з багом.
 - Let's **figure out** a better approach together. — Давай разом придумаємо кращий підхід.
 - I couldn't **figure out** why the tests were failing. — Я не міг зрозуміти, чому тести падають.
+
+---
+
+## find out
+**find out** /faɪnd aʊt/ — дізнатися, з'ясувати (факт, інформацію)
+
+**Пояснення:** не «знайти» (find), а саме «дізнатися». Часто з питальним словом далі: find out **how / why / what / whether**. Порівняй: `figure out` — розібратися через роздуми; `find out` — дізнатися ззовні (запитати, прочитати, побачити).
+
+**Приклади:**
+- Did you **find out** how she lives without money? — Ти дізнався, як вона живе без грошей?
+- I **found out** about the bug from a user. — Я дізнався про баг від користувача.
+- Let me **find out** who is on call today. — Дай дізнаюся, хто сьогодні на чергуванні.
 
 ---
 

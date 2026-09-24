@@ -1,6 +1,6 @@
 # S
 
-**Зміст:** [safety](#safety) · [scratch](#scratch) · [sensible](#sensible) · [sequence](#sequence) · [series](#series) · [serve](#serve) · [settle](#settle) · [shape](#shape) · [shift gears](#shift-gears) · [shout](#shout) · [sketch](#sketch) · [slam](#slam) · [slay](#slay) · [slide](#slide) · [smooth](#smooth) · [smoothness](#smoothness) · [so](#so) · [soft](#soft) · [solve](#solve) · [sore](#sore) · [spark](#spark) · [spawn](#spawn) · [spear](#spear) · [spell](#spell) · [spend](#spend) · [spire](#spire) · [spot](#spot) · [standalone](#standalone) · [strength](#strength) · [strip](#strip) · [strive](#strive) · [struggle](#struggle) · [subdivision](#subdivision) · [success](#success) · [successful](#successful) · [such](#such) · [suffer](#suffer) · [supply](#supply) · [surprisingly](#surprisingly) · [suspend](#suspend) · [swing](#swing)
+**Зміст:** [safety](#safety) · [scratch](#scratch) · [sensible](#sensible) · [sequence](#sequence) · [series](#series) · [serve](#serve) · [settle](#settle) · [shape](#shape) · [shift gears](#shift-gears) · [shout](#shout) · [sketch](#sketch) · [slam](#slam) · [slay](#slay) · [slide](#slide) · [smooth](#smooth) · [smoothness](#smoothness) · [so](#so) · [soft](#soft) · [solve](#solve) · [sore](#sore) · [spark](#spark) · [spawn](#spawn) · [spear](#spear) · [spell](#spell) · [spend](#spend) · [spire](#spire) · [spot](#spot) · [standalone](#standalone) · [strength](#strength) · [strip](#strip) · [strive](#strive) · [struggle](#struggle) · [subdivision](#subdivision) · [success](#success) · [successful](#successful) · [such](#such) · [suffer](#suffer) · [supply](#supply) · [surprisingly](#surprisingly) · [surrender](#surrender) · [suspend](#suspend) · [swing](#swing)
 
 ---
 
@@ -507,6 +507,23 @@
 - The test was **surprisingly** easy. — Тест виявився на диво легким.
 
 🔗 **Пов'язане:** [surprised / surprising](../grammar/b1/adjectives-adverbs.md) — пара -ed/-ing.
+
+---
+
+## surrender
+**surrender** /səˈrendə/ — 1. <code>verb</code> (дієслово) — здаватися, капітулювати; віддавати (щось) 2. <code>noun</code> (іменник) — капітуляція
+
+**Пояснення:** припинити боротьбу і визнати поразку — на війні, у грі, в суперечці. З додатком — «здати, віддати»: surrender your weapon / passport. У побутовій суперечці частіше кажуть **give up**.
+
+**💡 Конструкції:**
+- **surrender to** sb/sth — здатися комусь: surrender **to** the enemy.
+- **unconditional surrender** — беззастережна капітуляція.
+
+**Приклади:**
+- The garrison **surrendered** after a week. — Гарнізон здався через тиждень.
+- I finally **surrendered** and accepted their terms. — Я нарешті здався і прийняв їхні умови.
+
+🔗 **Пов'язане:** [resistance](r.md#resistance) — протилежне за змістом.
 
 ---
 

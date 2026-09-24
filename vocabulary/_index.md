@@ -4,7 +4,7 @@
 
 **Легенда:** `v` = verb (дієслово) · `n` = noun (іменник) · `adj` = adjective (прикметник) · `adv` = adverb (прислівник) · `prep` = preposition (прийменник) · `conj` = conjunction (сполучник) · `det` = determiner (означник) · `phrase` = стала фраза
 
-**Всього слів: 364**
+**Всього слів: 370**
 
 | Слово | ЧМ | Переклад | Нюанс |
 |-------|----|----------|-------|
@@ -208,6 +208,7 @@
 | [leverage](l.md#leverage) | n / v | важіль впливу, перевага; задіювати… | — |
 | [lifelike](l.md#lifelike) | adj | реалістичний, як живий | — |
 | [like](l.md#like) | v / prep | подобатись; як, наче | 💡 Дієслово vs прийменник |
+| [literally](l.md#literally) | adv | буквально; (розм.) реально, просто | 💡 literally vs figuratively |
 | [make](m.md#make) | v | робити, створювати, виготовляти | 💡 make vs do — класична плутанина |
 | [martial](m.md#martial) | adj | воєнний, бойовий | 💡 Сталі сполуки (і не плутай з… |
 | [matter](m.md#matter) | n / v | справа, питання; матерія; мати значення… | 💡 Сталі фрази |
@@ -258,6 +259,7 @@
 | [pillar](p.md#pillar) | n | колона, стовп; опора (переносно) | — |
 | [placement](p.md#placement) | n | розміщення, розташування; стажування (BrE) | — |
 | [plenty](p.md#plenty) | pron | багато, вдосталь | 💡 plenty of |
+| [portion](p.md#portion) | n | частина, частка; порція | 💡 a portion of |
 | [precise](p.md#precise) | adj | точний | 💡 to be precise |
 | [pressure](p.md#pressure) | n | тиск (фізичний і психологічний) | 💡 Дві ключові фрази |
 | [pretty](p.md#pretty) | adj / adv | гарненький, симпатичний; досить, доволі | 💡 Друге значення важливіше |
@@ -276,12 +278,15 @@
 | [reach](r.md#reach) | v | дотягнутися, досягти; зв'язатися з кимось | 💡 Конструкція |
 | [realize](r.md#realize) | v | усвідомити, зрозуміти (часто раптом) | 💡 False friend! |
 | [refer](r.md#refer) | v | звертатися (до джерела); стосуватися, означати | 💡 refer to |
+| [regard](r.md#regard) | v / n | вважати (regard as); повага; стосунок | 💡 regard as · with regard to |
+| [regardless](r.md#regardless) | adv | все одно; regardless of — незалежно від | 💡 regardless of |
 | [regret](r.md#regret) | v / n | шкодувати; жаль, каяття | 💡 Дві конструкції з різним… |
 | [relatable](r.md#relatable) | adj | близький, життєвий, «прямо про мене» | — |
 | [rely](r.md#rely) | v | покладатися, розраховувати (на когось/щось) | 💡 rely on |
 | [remain](r.md#remain) | v | залишатися | — |
 | [rescue](r.md#rescue) | v / n | рятувати; порятунок | — |
 | [research](r.md#research) | n / v | дослідження; досліджувати | 💡 УВАГА |
+| [resistance](r.md#resistance) | n | опір, спротив | 💡 resistance to |
 | [respond](r.md#respond) | v | відповідати, реагувати | 💡 respond to |
 | [resume](r.md#resume) | v | відновити, продовжити (після паузи) | 💡 resume vs résumé — різна… |
 | [reveal](r.md#reveal) | v | розкривати, показувати (те, що було приховане) | — |
@@ -330,6 +335,7 @@
 | [suffer](s.md#suffer) | v | страждати; потерпати, погіршуватися | 💡 suffer from |
 | [supply](s.md#supply) | n / v | запас; постачання; постачати, забезпечувати | 💡 Дві сталі пари |
 | [surprisingly](s.md#surprisingly) | adv | на диво, несподівано | — |
+| [surrender](s.md#surrender) | v / n | здаватися, капітулювати; капітуляція | 💡 surrender to |
 | [suspend](s.md#suspend) | v | призупиняти, тимчасово припиняти; підвішувати | 💡 Знайоме з інтернету |
 | [swing](s.md#swing) | v / n | розмахувати; гойдати(ся); гойдалка; замах… | — |
 | [take](t.md#take) | v | брати, взяти; займати (час); робити (у… | 💡 Часті сталі вирази |

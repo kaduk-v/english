@@ -1,6 +1,6 @@
 # R
 
-**Зміст:** [rapid](#rapid) · [rare](#rare) · [rarely](#rarely) · [rather](#rather) · [ray](#ray) · [reach](#reach) · [realize](#realize) · [refer](#refer) · [regret](#regret) · [relatable](#relatable) · [rely](#rely) · [remain](#remain) · [rescue](#rescue) · [research](#research) · [respond](#respond) · [resume](#resume) · [reveal](#reveal) · [rid](#rid) · [roll](#roll) · [rope](#rope) · [rough](#rough) · [royal](#royal) · [rush](#rush)
+**Зміст:** [rapid](#rapid) · [rare](#rare) · [rarely](#rarely) · [rather](#rather) · [ray](#ray) · [reach](#reach) · [realize](#realize) · [refer](#refer) · [regard](#regard) · [regardless](#regardless) · [regret](#regret) · [relatable](#relatable) · [rely](#rely) · [remain](#remain) · [rescue](#rescue) · [research](#research) · [resistance](#resistance) · [respond](#respond) · [resume](#resume) · [reveal](#reveal) · [rid](#rid) · [roll](#roll) · [rope](#rope) · [rough](#rough) · [royal](#royal) · [rush](#rush)
 
 ---
 
@@ -122,6 +122,39 @@
 
 ---
 
+## regard
+**regard** /rɪˈɡɑːd/ — 1. <code>verb</code> (дієслово) — вважати, розглядати (кимось/чимось) 2. <code>noun</code> (іменник) — повага; стосунок, увага
+
+**Пояснення:** дієслово майже завжди в схемі `regard X as Y` — «вважати X чимось». Іменник живе у сталих виразах: `with / in regard to` (щодо, формально) і `regards` — вітання в кінці листа.
+
+**💡 Конструкції:**
+- **regard** sb/sth **as** — вважати: We **regard** security **as** a priority.
+- **with regard to** / **in regard to** sth — щодо (формально): **With regard to** your question…
+- **Best regards / Kind regards** — з повагою (підпис у листі).
+
+**Приклади:**
+- I **regard** him **as** the best reviewer on the team. — Я вважаю його найкращим рев'юером у команді.
+- **With regard to** the deadline, we need one more week. — Щодо дедлайну — нам потрібен ще тиждень.
+
+🔗 **Пов'язане:** [regardless](#regardless).
+
+---
+
+## regardless
+**regardless** /rɪˈɡɑːdləs/ — <code>adverb</code> (прислівник) — усе одно, незважаючи ні на що; **regardless of** — незалежно від
+
+**Пояснення:** regard + -less = «без огляду на». Само в кінці речення — «все одно»; з `of` — «незалежно від» перед іменником або питальним словом.
+
+**💡 Конструкція:** **regardless of** + іменник / whether / what: regardless of the cost · regardless of what he says. ⚠️ Слова «irregardless» не існує — поширена помилка навіть у носіїв.
+
+**Приклади:**
+- We'll ship on Friday **regardless**. — Ми випустимо в п'ятницю все одно.
+- **Regardless of** the result, the team did a great job. — Незалежно від результату, команда попрацювала чудово.
+
+🔗 **Пов'язане:** [regard](#regard).
+
+---
+
 ## regret
 **regret** /rɪˈɡret/ — 1. <code>verb</code> (дієслово) — шкодувати 2. <code>noun</code> (іменник) — жаль, каяття
 
@@ -198,6 +231,24 @@
 **Приклади:**
 - noun: I did some **research** before buying. — Я провів невелике дослідження перед покупкою. _(не «a research»)_
 - verb: She's **researching** the best framework. — Вона досліджує найкращий фреймворк.
+
+---
+
+## resistance
+**resistance** /rɪˈzɪstəns/ — <code>noun</code> (іменник) — опір, спротив *(незлічуване)*
+
+**Пояснення:** від **resist** (чинити опір). Про людей — небажання приймати зміни; у фізиці — електричний опір; в іграх — резист до урону (fire resistance). Без артикля: meet resistance, without resistance.
+
+**💡 Конструкції:**
+- **resistance to** sth — опір чомусь: resistance **to** change / **to** the new process.
+- **meet / face resistance** — наштовхнутись на опір.
+- **the Resistance** — рух опору (з великої літери).
+
+**Приклади:**
+- The new process met strong **resistance** from the team. — Новий процес наштовхнувся на сильний опір команди.
+- This armor gives +20 fire **resistance**. — Ця броня дає +20 до опору вогню.
+
+🔗 **Пов'язане:** [surrender](s.md#surrender) — протилежне за змістом.
 
 ---
 

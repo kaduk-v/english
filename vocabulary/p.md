@@ -1,6 +1,6 @@
 # P
 
-**Зміст:** [participate](#participate) · [pass](#pass) · [passage](#passage) · [passed](#passed) · [pavement](#pavement) · [peasant](#peasant) · [peep](#peep) · [perform](#perform) · [performance](#performance) · [permit](#permit) · [pillar](#pillar) · [placement](#placement) · [plenty](#plenty) · [precise](#precise) · [pressure](#pressure) · [pretty](#pretty) · [projectile](#projectile) · [proper](#proper) · [punish](#punish) · [punishment](#punishment) · [purpose](#purpose)
+**Зміст:** [participate](#participate) · [pass](#pass) · [passage](#passage) · [passed](#passed) · [pavement](#pavement) · [peasant](#peasant) · [peep](#peep) · [perform](#perform) · [performance](#performance) · [permit](#permit) · [pillar](#pillar) · [placement](#placement) · [plenty](#plenty) · [portion](#portion) · [precise](#precise) · [pressure](#pressure) · [pretty](#pretty) · [projectile](#projectile) · [proper](#proper) · [punish](#punish) · [punishment](#punishment) · [purpose](#purpose)
 
 ---
 
@@ -152,6 +152,19 @@
 **Приклади:**
 - Don't hurry, we have **plenty of** time. — Не поспішай, у нас удосталь часу.
 - There are **plenty of** side quests in this game. — У цій грі повно побічних квестів.
+
+---
+
+## portion
+**portion** /ˈpɔːʃn/ — <code>noun</code> (іменник) — частина, частка (цілого); порція (їжі)
+
+**Пояснення:** частина чогось більшого — бюджету, коду, користувачів. Про їжу — порція. Поруч: **part** (нейтрально «частина»), **share** (чиясь частка), **piece** (шматок).
+
+**💡 Конструкція:** **a portion of** + іменник — a large / small / significant portion of the data.
+
+**Приклади:**
+- A large **portion** of the bugs came from one module. — Велика частина багів прийшла з одного модуля.
+- The **portions** in this café are huge. — Порції в цьому кафе величезні.
 
 ---
 

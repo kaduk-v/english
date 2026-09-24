@@ -68,14 +68,14 @@ export default defineConfig({
       ],
 
       '/vocabulary/': [
-        { text: 'Покажчик (усі слова, 364)', link: '/vocabulary/_index' },
+        { text: 'Покажчик (усі слова, 370)', link: '/vocabulary/_index' },
         {
           text: 'За літерами',
           collapsed: false,
           items: [
             ['a', 37], ['b', 14], ['c', 34], ['d', 23], ['e', 32], ['f', 15],
-            ['g', 10], ['h', 10], ['i', 15], ['j', 1], ['l', 9], ['m', 11],
-            ['n', 9], ['o', 17], ['p', 21], ['q', 2], ['r', 23], ['s', 41],
+            ['g', 10], ['h', 10], ['i', 15], ['j', 1], ['l', 10], ['m', 11],
+            ['n', 9], ['o', 17], ['p', 22], ['q', 2], ['r', 26], ['s', 42],
             ['t', 15], ['u', 10], ['v', 3], ['w', 12],
           ].map(([l, count]) => ({
             text: `${String(l).toUpperCase()}<span class="vc-badge">${count}</span>`,

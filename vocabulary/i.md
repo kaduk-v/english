@@ -1,6 +1,6 @@
 # I
 
-**Зміст:** [immediately](#immediately) · [immense](#immense) · [indeed](#indeed) · [inn](#inn) · [inner](#inner) · [in-person](#in-person) · [inspire](#inspire) · [instability](#instability) · [insufficient](#insufficient) · [intend](#intend) · [intended](#intended) · [intention](#intention) · [into](#into) · [invoke](#invoke) · [involve](#involve)
+**Зміст:** [immediately](#immediately) · [immense](#immense) · [indeed](#indeed) · [inn](#inn) · [inner](#inner) · [in-person](#in-person) · [inspire](#inspire) · [instability](#instability) · [insufficient](#insufficient) · [intend](#intend) · [intended](#intended) · [intention](#intention) · [into](#into) · [invoke](#invoke) · [involve](#involve) · [issue](#issue)
 
 ---
 
@@ -187,3 +187,22 @@
 **Приклади:**
 - The job **involves** travelling a lot. — Робота передбачає багато подорожей.
 - He got **involved in** the project last month. — Він долучився до проєкту минулого місяця.
+
+---
+
+## issue
+**issue** /ˈɪʃuː/ — 1. <code>noun</code> (іменник) — проблема, питання (тема для обговорення); випуск (журналу, версії) 2. <code>verb</code> (дієслово) — видавати, випускати (документ, заяву)
+
+**Пояснення:** у роботі — «проблема / питання», м'якше й нейтральніше за **problem**: a minor issue, a performance issue; у GitHub — issue = тікет. «Випуск» — this month's issue. Дієслово формальне: issue a statement / a passport / a warning.
+
+**💡 Конструкції:**
+- **have an issue with** sth — мати проблему з: We have an issue **with** the login page.
+- **raise an issue** — підняти питання.
+- **the issue is that…** — справа в тому, що…
+- **that's not the issue** — не в цьому річ.
+
+**Приклади:**
+- We found a memory **issue** in the new build. — Ми знайшли проблему з пам'яттю в новій збірці.
+- The main **issue** is that nobody reads the docs. — Головна проблема в тому, що ніхто не читає документацію.
+
+🪤 **Не «сварка»:** розмовне «ішью» в українському IT-сленгу інколи означає конфлікт — в англійській `issue` нейтральне: питання, проблема, тікет.

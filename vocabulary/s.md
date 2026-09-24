@@ -1,6 +1,6 @@
 # S
 
-**Зміст:** [safety](#safety) · [scratch](#scratch) · [sensible](#sensible) · [sequence](#sequence) · [series](#series) · [serve](#serve) · [settle](#settle) · [shape](#shape) · [shift gears](#shift-gears) · [shout](#shout) · [sketch](#sketch) · [slam](#slam) · [slay](#slay) · [slide](#slide) · [smooth](#smooth) · [smoothness](#smoothness) · [so](#so) · [soft](#soft) · [solve](#solve) · [sore](#sore) · [spark](#spark) · [spawn](#spawn) · [spear](#spear) · [spell](#spell) · [spend](#spend) · [spire](#spire) · [spot](#spot) · [standalone](#standalone) · [strength](#strength) · [strip](#strip) · [strive](#strive) · [struggle](#struggle) · [subdivision](#subdivision) · [success](#success) · [successful](#successful) · [such](#such) · [suffer](#suffer) · [supply](#supply) · [surprisingly](#surprisingly) · [surrender](#surrender) · [suspend](#suspend) · [swing](#swing)
+**Зміст:** [safety](#safety) · [scratch](#scratch) · [seer](#seer) · [sensible](#sensible) · [sequence](#sequence) · [series](#series) · [serve](#serve) · [settle](#settle) · [shape](#shape) · [shift gears](#shift-gears) · [shout](#shout) · [sketch](#sketch) · [slam](#slam) · [slay](#slay) · [slide](#slide) · [smooth](#smooth) · [smoothness](#smoothness) · [so](#so) · [soft](#soft) · [solve](#solve) · [sore](#sore) · [spark](#spark) · [spawn](#spawn) · [spear](#spear) · [spell](#spell) · [spend](#spend) · [spire](#spire) · [spot](#spot) · [standalone](#standalone) · [strength](#strength) · [strip](#strip) · [strive](#strive) · [struggle](#struggle) · [subdivision](#subdivision) · [success](#success) · [successful](#successful) · [such](#such) · [suffer](#suffer) · [supply](#supply) · [surprisingly](#surprisingly) · [surrender](#surrender) · [suspend](#suspend) · [swing](#swing)
 
 ---
 
@@ -30,6 +30,19 @@
 - verb: The cat **scratched** the new sofa. — Кіт подряпав новий диван.
 - noun: The phone fell, but there isn't a single **scratch** on it. — Телефон упав, але на ньому жодної подряпини.
 - We built the drag-and-drop engine **from scratch**. — Ми написали рушій drag-and-drop з нуля.
+
+---
+
+## seer
+**seer** /ˈsɪə/ — <code>noun</code> (іменник) — провидець, віщун
+
+**Пояснення:** від **see** + -er — «той, хто бачить» (майбутнє). Книжне, фентезійне слово: пророки, оракули, ролі в іграх. У побуті не вживається — там **fortune teller** (ворожка), **prophet** (пророк).
+
+**💡 Не плутай:** seer /sɪə/ ≠ **sir** /sɜː/ (пане) ≠ **sear** /sɪə/ (обпалювати) — з sear це омофони.
+
+**Приклади:**
+- The **seer** warned the king about the coming war. — Провидець попередив короля про майбутню війну.
+- In *Werewolf*, the **Seer** learns one player's role each night. — У «Перевертнях» Провидець щоночі дізнається роль одного гравця.
 
 ---
 

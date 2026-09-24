@@ -1,6 +1,21 @@
 # O
 
-**Зміст:** [object](#object) · [objection](#objection) · [obstacle](#obstacle) · [obviously](#obviously) · [occasional](#occasional) · [occupancy](#occupancy) · [occupied](#occupied) · [occupy](#occupy) · [occur](#occur) · [offend](#offend) · [on purpose](#on-purpose) · [opportunity](#opportunity) · [opposed](#opposed) · [ordinary](#ordinary) · [outlive](#outlive) · [overhaul](#overhaul) · [overlap](#overlap)
+**Зміст:** [obey](#obey) · [object](#object) · [objection](#objection) · [obstacle](#obstacle) · [obviously](#obviously) · [occasional](#occasional) · [occupancy](#occupancy) · [occupied](#occupied) · [occupy](#occupy) · [occur](#occur) · [offend](#offend) · [on purpose](#on-purpose) · [opportunity](#opportunity) · [opposed](#opposed) · [ordinary](#ordinary) · [outlive](#outlive) · [overhaul](#overhaul) · [overlap](#overlap)
+
+---
+
+## obey
+**obey** /əˈbeɪ/ — <code>verb</code> (дієслово) — слухатися, підкорятися; виконувати (наказ, правило, закон)
+
+**Пояснення:** без прийменника — прямий додаток: obey **sb**, obey **the rules** (❌ obey **to**). Антонім — **disobey** (не слухатися). Іменник — **obedience** (послух), прикметник — **obedient** (слухняний).
+
+**💡 Конструкції:**
+- **obey** sb — слухатися когось: obey your parents.
+- **obey the rules / the law / an order** — дотримуватись правил / закону / виконувати наказ.
+
+**Приклади:**
+- The dog **obeys** only one person. — Собака слухається лише однієї людини.
+- Players must **obey** the server rules. — Гравці мають дотримуватись правил сервера.
 
 ---
 

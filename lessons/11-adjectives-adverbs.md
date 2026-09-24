@@ -1687,3 +1687,88 @@
     - **одне питання** з `Did … ?` про минуле;
     - **одне речення** з `the news`;
     - **одне речення** з `at the meeting` або `absent from the meeting` — саме ця умова не виконана в Р18.
+
+### Відповіді учня
+
+1. He fell asleep during the meeting, although he drank coffee.
+2. She watches the news every day after work.
+3. My colleague was absent from the meeting yesterday.
+4. Don't wake him up - he felt asleep just ten minutes ago.
+5. She found a new job and told me about it herself.
+6. Did she fall asleep at the meeting?
+7. Did he feel tired after a trip?
+8. Ти заснув на зустрічі? запитала Анна. Ні, не заснув - сказав Марк. Я почувався втомленим але я читав новини на своєму телефоні. Наступна зустріч в п'ятницю - я точно не пропущу це
+9. «Вона заснула» → питання з did. Does she fall asleep? — інший зміст, тому що Does вказує на теперішній час
+10. a) She fell asleep an hour ago. b) Did she feel tired yesterday? c) He reads the news every morning. d) They were absent from the meeting. e) Did Mark feel tired? f) Anna feels tired after the trip. g) He doesn't read emails every day.
+11.
+    1. Mike fell asleep an hour ago.
+    2. Did you play football on Monday?
+    3. Do you read the news every day?
+    4. How many people were absent from the meeting.
+
+### Перевірка Раунду 19 — ❌ (3 помилки)
+
+**Коротко:** `meeting` при читанні — **два з двох «зустріч»**, уперше без «мітингу» за шість спроб. `The news` — скрізь (п.2, 10c, 11.3). `Did` у питаннях з минулого — обидва (п.6, п.7). Міні-текст 4/4, усі умови, включно з `absent from the meeting`. Дриль 6/7. Три помилки. Перша — знову `felt asleep`, і тепер видно закономірність: п.1 «заснув під час зустрічі» → `fell` ✅, п.4 «заснув лише десять хвилин тому» → `felt` ❌ — точно як у Р18 п.5 («заснула лише годину тому» → felt). Обидва рази — після `Don't wake him/her up`, з `just … ago`. У власному реченні 11.1 (`Mike fell asleep an hour ago`) — правильно. Друга — `after a trip` замість `the trip`. Третя — у дрилі `fell tired` виправлено на `feels`, а не `felt`: дієслово вгадане, час змінено.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 4 | he **felt** asleep just ten minutes ago | he **fell** asleep just ten minutes ago | 🔴 Той самий шаблон, що Р18 п.5: `Don't wake … up — … felt asleep just … ago`. У п.1 цього ж раунду («заснув під час зустрічі») — `fell` ✅. Тобто саме в цьому реченні — після `Don't wake` — рука тягнеться до felt. Заснути = fall asleep → fell. `wake him up` — правильно. |
+| 7 | after **a** trip | after **the** trip | «Після подорожі» — тієї, з якої він щойно повернувся, конкретна → `the`. `A trip` — «після якоїсь подорожі», взагалі. `Did he feel` — ✅, час збережено. |
+| 10f | Anna **feels** tired after the trip | Anna **felt** tired after the trip | Дієслово знайдено правильно (feel, не fall), але виправлення не мінімальне: в реченні був минулий час (`fell` — минуле), тому й виправлення в минулому — `felt`. `feels` міняє час — це вже інше речення. Те саме було в Р12 (fall замість fell). |
+| 1 | — | ✅ **He fell asleep during the meeting** | Той самий `fell asleep` — тут правильно. *(«пив каву» — `drank` прийнятно; природніше `was drinking`.)* |
+| 8 | — | ✅ **«зустріч» ×2** | Уперше без «мітингу». `read the news` → «читав новини» ✅, стать ✅. *(«не пропущу **це**» → «її» — зустріч жіночого роду; українська, не рахую.)* |
+| 2, 3, 5, 6, 9 | — | ✅ | `watches the news`, `absent from`, `told me about it herself`, `Did she fall asleep`. |
+| 10 | — | 6/7 | a–e, g ✅. |
+| 11 | — | ✅ **4/4** | Усі чотири умови, включно з `absent from the meeting`. *(11.4 — питання, в кінці `?`.)* |
+
+*Повна теорія — у `grammar/` і `rules.md`.*
+
+**Головне:** `felt asleep` живе в одному конкретному контексті — `Don't wake … up — … just … ago`. Раунд 20 б'є саме в нього: два речення з «заснув … тому», одне після «не буди». І мінімальне виправлення в дрилі — час не міняти.
+
+---
+
+## Раунд 20
+
+Без нового матеріалу. Мішень №1 — `fell asleep` у контексті «не буди — заснув … тому» (двічі за раунд провалилось саме там). Мішень №2 — мінімальне виправлення в дрилі: час лишається. Решта — підтвердження: `the news`, `the meeting`, `Did`.
+
+**Перед здачею:** кожне «заснув/заснула» → знайди в своєму реченні `fell`. Якщо там `felt` — це «почувався», не «заснув».
+
+### Частина 1 — UA → EN
+
+1. Не буди її — вона заснула лише п'ять хвилин тому.
+2. Він заснув годину тому і досі спить.
+3. Після подорожі вона почувалася втомленою, але щасливою.
+4. Ми не пропустили зустріч, хоча запізнились.
+5. Мій колега щодня читає новини перед зустріччю.
+
+### Частина 2 — питання і заперечення (час зберігається)
+
+6. Постав **питання**: «Він заснув годину тому.»
+7. Постав у **заперечення**: «Вона почувалася втомленою після подорожі.»
+
+### Частина 3 — EN → UA
+
+8. > "Don't wake her up," Mark said quietly. "She fell asleep just ten minutes ago." "Did she feel tired after the meeting?" Anna asked. "Yes, she did. She read the news all night and didn't sleep at all."
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: у реченні `Anna fell tired after the trip` одна помилка. Що не так — час чи дієслово? Яке мінімальне виправлення, і чому `feels` — не мінімальне?
+
+### Частина 5 — дриль: знайди помилку
+
+10. У кожному реченні рівно ОДНА помилка — знайди й виправ (мінімальне виправлення, **час не міняй**):
+    a) Don't wake him up — he felt asleep an hour ago.
+    b) Anna fell tired after the trip.
+    c) She felt tired after trip.
+    d) He fall asleep during the meeting yesterday.
+    e) Does she fell asleep at meetings?
+    f) They didn't missed the meeting.
+    g) I read news every morning.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне речення** з `fell asleep` + `… ago`;
+    - **одне речення** з `felt` (від feel) + прикметник;
+    - **одне заперечення** з `didn't` про минуле;
+    - **одне речення** з `the meeting` або `the news`.

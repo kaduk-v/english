@@ -4,7 +4,7 @@
 
 **Легенда:** `v` = verb (дієслово) · `n` = noun (іменник) · `adj` = adjective (прикметник) · `adv` = adverb (прислівник) · `prep` = preposition (прийменник) · `conj` = conjunction (сполучник) · `det` = determiner (означник) · `phrase` = стала фраза
 
-**Всього слів: 370**
+**Всього слів: 374**
 
 | Слово | ЧМ | Переклад | Нюанс |
 |-------|----|----------|-------|
@@ -56,6 +56,7 @@
 | [blast](b.md#blast) | n / v | вибух; порив (вітру); розм. кайф, шалено… | — |
 | [blend](b.md#blend) | v / n | змішувати(ся), поєднувати(ся); суміш… | — |
 | [boost](b.md#boost) | v / n | підвищувати, підсилювати; приріст… | — |
+| [breach](b.md#breach) | n / v | порушення (угоди, безпеки); порушити | 💡 a breach of · data breach |
 | [brief](b.md#brief) | adj / n / v | короткий, стислий; бриф, стисле завдання… | — |
 | [broad](b.md#broad) | adj | широкий; загальний | 💡 broad vs wide |
 | [burden](b.md#burden) | n / v | тягар, ноша; обтяжувати | — |
@@ -198,6 +199,7 @@
 | [into](i.md#into) | prep | у, всередину (рух); на (перетворення) | 💡 be into sth |
 | [invoke](i.md#invoke) | v | викликати (функцію); прикликати (духа… | — |
 | [involve](i.md#involve) | v | включати, передбачати (містити в собі)… | 💡 Структури |
+| [issue](i.md#issue) | n / v | проблема, питання; випуск; видавати | 💡 have an issue with |
 | [judge](j.md#judge) | n / v | суддя; судити, оцінювати | 💡 Розмовне та сталі фрази |
 | [late](l.md#late) | adj / adv | пізній; який запізнився; пізно, із запізненням | 💡 late vs lately — ПАРА, не плутай |
 | [launch](l.md#launch) | v / n | запускати (продукт, застосунок, ракету)… | — |
@@ -229,6 +231,7 @@
 | [nosy](n.md#nosy) | adj | надто цікавий, той, що пхає носа | — |
 | [notice](n.md#notice) | v / n | помічати; оголошення; попередження | 💡 Два обличчя |
 | [noticeable](n.md#noticeable) | adj | помітний, відчутний | — |
+| [obey](o.md#obey) | v | слухатися; виконувати (правила, наказ) | 💡 без прийменника |
 | [object](o.md#object) | v / n | заперечувати (object to); предмет, об'єкт | 💡 Наголос змінюється |
 | [objection](o.md#objection) | n | заперечення, протест (проти чогось конкретного) | 💡 Конструкція |
 | [obstacle](o.md#obstacle) | n | перешкода | — |
@@ -298,6 +301,7 @@
 | [rush](r.md#rush) | v / n | поспішати, мчати; підганяти; поспіх… | 💡 Сталі фрази |
 | [safety](s.md#safety) | n | безпека | 💡 Для розробника |
 | [scratch](s.md#scratch) | v / n | дряпати; чухати; подряпина | 💡 from scratch |
+| [seer](s.md#seer) | n | провидець, віщун | 💡 seer ≠ sir |
 | [sensible](s.md#sensible) | adj | розсудливий, розумний, практичний | 🪤 False friend! |
 | [sequence](s.md#sequence) | n | послідовність | 💡 in sequence |
 | [series](s.md#series) | n | серіал; серія, низка | 💡 False friend |

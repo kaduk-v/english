@@ -1,6 +1,6 @@
 # B
 
-**Зміст:** [bail](#bail) · [beast](#beast) · [belong](#belong) · [besides](#besides) · [beyond](#beyond) · [big-bang](#big-bang) · [blacksmith](#blacksmith) · [blanket](#blanket) · [blast](#blast) · [blend](#blend) · [boost](#boost) · [brief](#brief) · [broad](#broad) · [burden](#burden)
+**Зміст:** [bail](#bail) · [beast](#beast) · [belong](#belong) · [besides](#besides) · [beyond](#beyond) · [big-bang](#big-bang) · [blacksmith](#blacksmith) · [blanket](#blanket) · [blast](#blast) · [blend](#blend) · [boost](#boost) · [breach](#breach) · [brief](#brief) · [broad](#broad) · [burden](#burden)
 
 ---
 
@@ -134,6 +134,22 @@
 **Приклади:**
 - v: Caching **boosts** the API's performance. — Кешування підвищує продуктивність API. _(розробка)_
 - n: This potion gives you a temporary speed **boost**. — Це зілля дає тимчасовий приріст швидкості. _(гра)_
+
+---
+
+## breach
+**breach** /briːtʃ/ — 1. <code>noun</code> (іменник) — порушення (угоди, правила, безпеки); пролом 2. <code>verb</code> (дієслово) — порушити (угоду); пробити (стіну, захист)
+
+**Пояснення:** формальне слово про порушення того, що мало бути цілим — договору, довіри, захисту. У безпеці — `data breach` / `security breach` (витік, злам). У праві — `breach of contract`. Не плутай із **break** (ламати, загальне) і **breech** (казенник, зброя).
+
+**💡 Конструкції:**
+- **a breach of** + іменник — порушення: a breach **of** contract / **of** trust / **of** security.
+- **data breach** — витік даних.
+- **breach** a contract / the wall — порушити контракт / пробити стіну.
+
+**Приклади:**
+- The company reported a **data breach** last week. — Компанія повідомила про витік даних минулого тижня.
+- Missing the deadline is a **breach of** contract. — Зрив дедлайну — це порушення контракту.
 
 ---
 

@@ -1603,3 +1603,87 @@
     - **одне заперечення** з `doesn't` + базова форма;
     - **одне речення** з `a` + прикметник + однина злічуваного (a long trip, a new job, a good idea);
     - **одне речення** з `at the meeting` або `absent from the meeting`.
+
+### Відповіді учня
+
+1. He reads news every day before work.
+2. After a long trip she didn't feel tired.
+3. Max was absent from the meeting so he doesn't know the truth.
+4. My friend told me, she found a new job.
+5. Don't wake her up - she felt asleep just an hour ago.
+6. He doesn't read his emails every day.
+7. Does she feel tired after the meeting?
+8. Анна була на зустрічі? Марк запитав свого колегу. Ні, вона була відсутня на зустрічі - сказав він. Вона сказала мені що у неї була довга подорож вчора і заснула рано. Вона буде на наступному мітингу.
+9. У заперечній формі doesn't read допоміжне дієслово забирає -s собі а дієслово яке йде за ним має бути у базовій формі
+10. a) He reads his emails every day before work. b) She felt tired after a long trip. c) Max was absent from the meeting. d) My friend told me about her new job, and she was happy. e) I didn't see the manager. f) Did she feel tired? g) Tell him the truth yourself — don't ask me.
+11.
+    1. She calls her mom every day.
+    2. Mark doesn't know who develops this app.
+    3. Are you looking for a new job?
+    4. Does Maria like coffee ?
+
+### Перевірка Раунду 18 — ❌ (4 помилки)
+
+**Коротко:** усі мішені раунду — чисто: `reads` з `-s` (п.1, п.6, 11.1), `a long trip` (п.2, 10b), `absent from the meeting` (п.3, 10c), стать одна на весь текст (п.8: колега — він, Анна — вона). `Meeting` у читанні — два з трьох «зустріч», уперше. Дриль 7/7, п.9 точно. Чотири помилки: `felt asleep` повернулось у перекладі (п.5) — після двох чистих раундів; у п.7 питання з минулого часу перетворилось на теперішнє (`Does she feel` замість `Did she feel`); `reads news` без `the`; третій `meeting` у тексті — знову «мітинг». І умова 4 міні-тексту (`at the meeting`) не виконана — жодне з чотирьох речень її не містить.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | reads **news** | reads **the news** | «Читати / дивитися новини» — стала пара з `the`: read the news, watch the news. Без артикля `news` — це «новини взагалі», як абстракція; коли їх щодня читають — це конкретні новини цього дня → `the`. `reads` з `-s` — ✅. |
+| 5 | she **felt** asleep | she **fell** asleep | 🔴 Повернулось після двох чистих раундів (Р14, Р16). Заснути = `fall asleep`, минуле — `fell`. `felt` — від `feel` (почуватися). У дрилі й у власних реченнях ти це тримаєш; у перекладі «заснула» — знову felt. `wake her up` — правильно, це фразове дієслово. |
+| 7 | **Does** she feel tired | **Did** she feel tired | Джерело — «почувалася», минулий час. Перетворення на питання не міняє час: минуле → `Did`. `Does she feel` — «чи почувається (зараз, зазвичай)» — інший зміст. |
+| 8 | «на наступному **мітингу**» | «на наступній **зустрічі**» | 🔴 6-й раз — але вперше два з трьох правильно («на зустрічі» ×2). Третє — рефлекс під кінець тексту. `Meeting` — зустріч, завжди. |
+| 11 | — | ⚠️ умова 4 не виконана | Жодного `at the meeting` / `absent from the meeting`. Умови 1–3 — ✅ (`calls … every day`, `doesn't know`, `a new job`). Перевіряй кожну умову окремо перед здачею — це в завданні написано прямо. |
+| 4 | told me**,** she found | told me she found / told me **that** she found | *(пунктуація, не рахую)* кома між `told me` і `she found` не ставиться — це одне речення. |
+| 2, 3, 6, 9, 10 | — | ✅ | `didn't feel`, `absent from the meeting`, `doesn't read`, дриль 7/7. |
+
+*Повна теорія — у `grammar/` і `rules.md`.*
+
+**Головне:** те, що було ціллю, — закрито. `Fell asleep` у перекладі — нестабільне: два чисті раунди, потім знову. І час у перетвореннях: минуле лишається минулим.
+
+---
+
+## Раунд 19
+
+Без нового матеріалу. Мішені: `fell asleep` у перекладі (п.4 — навмисно майже те саме речення, що п.5 у Р18), час у перетвореннях (минуле → `Did`), `the news`, `meeting` — три з трьох, і умова 4 міні-тексту.
+
+**Перед здачею:** «заснув/заснула» → `fell asleep`, не felt. Перетворюєш речення в минулому — допоміжне `Did`. Умови міні-тексту — по одній, галочкою.
+
+### Частина 1 — UA → EN
+
+1. Він заснув під час зустрічі, хоча пив каву.
+2. Вона щодня дивиться новини після роботи.
+3. Мій колега був відсутній на зустрічі вчора.
+4. Не буди його — він заснув лише десять хвилин тому.
+5. Вона знайшла нову роботу і сказала мені про це сама.
+
+### Частина 2 — питання (час зберігається)
+
+6. Постав **питання**: «Вона заснула на зустрічі.»
+7. Постав **питання**: «Він почувався втомленим після подорожі.»
+
+### Частина 3 — EN → UA
+
+8. > "Did you fall asleep at the meeting?" Anna asked. "No, I didn't," Mark said. "I felt tired, but I read the news on my phone. The next meeting is on Friday — I definitely won't miss it."
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: «Вона заснула» → питання. Який час у джерелі і яке допоміжне дієслово (`do` / `does` / `did`) його несе? Чому `Does she fall asleep?` — інший зміст?
+
+### Частина 5 — дриль: знайди помилку
+
+10. У кожному реченні рівно ОДНА помилка — знайди й виправ (мінімальне виправлення):
+    a) She felt asleep an hour ago.
+    b) Does she feel tired yesterday?
+    c) He reads news every morning.
+    d) They were absent at the meeting.
+    e) Did Mark felt tired?
+    f) Anna fell tired after the trip.
+    g) He don't read emails every day.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне речення** з `fell asleep` (минулий час);
+    - **одне питання** з `Did … ?` про минуле;
+    - **одне речення** з `the news`;
+    - **одне речення** з `at the meeting` або `absent from the meeting` — саме ця умова не виконана в Р18.

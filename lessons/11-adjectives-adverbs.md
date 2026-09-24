@@ -1772,3 +1772,60 @@
     - **одне речення** з `felt` (від feel) + прикметник;
     - **одне заперечення** з `didn't` про минуле;
     - **одне речення** з `the meeting` або `the news`.
+
+### Відповіді учня
+
+1. Don't wake her up - she fell asleep just five minutes ago.
+2. He fell asleep and is still sleeping.
+3. After the trip, she felt tired but happy.
+4. We didn't miss the meeting, although we were late.
+5. My colleague reads the news every day before the meeting.
+6. Did he fall asleep an hour ago?
+7. She didn't feel tired after the trip.
+8. Не буди її - Марк сказав тихо. Просто вона заснула 10 хвилин тому. Вона почувалася втомленою після мітингу? Анна запитала. Так. Вона читала новини всю ніч і зовсім не спала.
+9. Anna fell tired after the trip, fell -> felt. В другій формі часто путають fall із feel
+10. a) Don't wake him up — he fell asleep an hour ago. b) Anna felt tired after the trip. c) She felt tired after the trip. d) He fell asleep during the meeting yesterday. e) Does she fall asleep at meetings? f) They didn't miss the meeting. g) I read the news every morning.
+11.
+    1. Kate fell asleep two hours ago.
+    2. I felt thirsty after a long walk.
+    3. Her dog didn't bite me.
+    4. Where will be the next meeting?
+
+### Перевірка Раунду 20 — ❌ (4 помилки)
+
+**Коротко:** мішень раунду закрита: `fell asleep` — чотири з чотирьох у перекладі (п.1, п.2, п.6, 11.1), включно з тим самим контекстом «не буди — заснула лише … тому» (п.1), де двічі провалювалось. Дриль 7/7, мінімальні виправлення без зміни часу — усі. `felt` + прикметник — п.3, п.7, 10b, 10c, 11.2. `A long walk` — з артиклем. Чотири помилки: у п.2 випало «годину тому»; у п.8 `just ten minutes ago` перекладено «просто … 10 хвилин тому» — `just` тут «лише», не «просто»; «мітинг» повернувся після чистого Р19; і 11.4 — порядок слів у питанні з `will`.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 2 | He fell asleep and is still sleeping | He fell asleep **an hour ago** and is still sleeping | Випало «годину тому». `fell asleep` — ✅, `is still sleeping` — ✅. |
+| 8 | «**Просто** вона заснула 10 хвилин тому» | «Вона заснула **лише** 10 хвилин тому» | `just` перед часом (`just ten minutes ago`, `just an hour`) — «лише, всього». «Просто» — це `just` у іншій позиції: `I just wanted to ask`. Тут — кількість часу. |
+| 8 | «після **мітингу**» | «після **зустрічі**» | 🔴 7-й раз, після чистого Р19. `Meeting` = зустріч. |
+| 11.4 | Where **will be** the next meeting? | Where **will the next meeting be**? | У питанні підмет стоїть між допоміжним і головним дієсловом: Where will [the next meeting] be? Те саме правило, що `How big **is** the team?` і `what the problem **was**` — підмет не йде в кінець. |
+| 1, 3–7, 9, 10 | — | ✅ | `Don't wake her up — she fell asleep just five minutes ago` — той самий контекст, тепер чисто. Дриль 7/7. |
+| 11 | — | 4/4 за умовами | `fell asleep two hours ago`, `felt thirsty`, `didn't bite`, `the next meeting`. |
+
+*Повна теорія — у `grammar/` і `rules.md`.*
+
+---
+
+## 🏁 Підсумок теми — Урок 11 закрито (24.09.2026)
+
+**Рішення студента:** 20 раундів — ліміт; тема отримує оцінку у відсотках, і йдемо далі. Далі ця схема — правило (див. `plan.md`, `AGENTS.md`).
+
+**Оцінка теми: 85%.** Що враховано — тільки помилки **з теми уроку** (прикметник vs прислівник, позиція, linking verbs, -ed/-ing, підсилювачі), не наскрізні леаки.
+
+| Що з теми | Стан | Підстава |
+|---|---|---|
+| прикметник → прислівник після дієслова дії (`-ly`) | ✅ стабільно | Р11–Р20 у вільному тексті — жодного `speak loud`; ізольовано 4/4. Раніше — 6 випадків (smooth, bad, correct, loud ×2, quick). |
+| linking verb + прикметник / `like` + іменник | ✅ стабільно | з Р11 без помилок; правило `like` пояснене і застосоване (`sounds like the truth`, `looks like an opportunity`). |
+| пари -ed / -ing | ✅ стабільно | з Р8 без помилок (`excited / exciting`, `interested / interesting`, `boring`). |
+| `definitely` перед `won't` / після `be` | ✅ стабільно | з Р11 — без помилок, включно з перекладом у обидва боки. |
+| позиція прислівників (`every day` в кінці, `slowly` після додатка, `usually` перед дієсловом) | 🟡 один зрив | Р13 (`everyday walks`, `walk slowly home`); Р14–Р20 — чисто, включно з поясненням своїми словами. |
+| `too / enough / very`, `so / such` | ✅ | без помилок після Р8 (`not enough time`, `too`, `very tired`). |
+| `hardly` ≠ `hard` | ⚪ мало даних | не траплялось у вільному тексті після Р5 — лишається у фоновому чек-листі. |
+
+**Мінус 15%:** один зрив позиції у вільному тексті (Р13) після 12 раундів; `hardly` не перевірено в живому мовленні; і головне — тема підтверджена лише в структурованих раундах, а не в діалозі (де в HR-грі 03.09 «гуляли» `-s` і `be`). Перший діалог за новою схемою покаже, чи тримається `-ly` під тиском живої розмови.
+
+**Наскрізні леаки, що лишаються в чек-листі Уроку 12:** `fell asleep` (стабілізувалось у Р20, але 8 зривів за урок), `the truth`, `a new job`, `meeting` = зустріч (×7), стать при читанні, артикль перед одниною з прикметником, час у перетвореннях (Did / didn't), порядок слів у питаннях (`Where will X be`).
+
+→ Далі: [Урок 12 — Прийменники](12-prepositions.md).

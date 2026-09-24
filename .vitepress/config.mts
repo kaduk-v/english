@@ -46,6 +46,7 @@ export default defineConfig({
             { text: 'Past Simple', link: '/grammar/a1-a2/past-simple' },
             { text: 'Модальні дієслова', link: '/grammar/a1-a2/modal-verbs' },
             { text: 'Наказовий спосіб', link: '/grammar/a1-a2/imperatives' },
+            { text: 'Прийменники', link: '/grammar/a1-a2/prepositions' },
           ],
         },
         {
@@ -102,6 +103,7 @@ export default defineConfig({
             { text: '9 — PS vs PC', link: '/lessons/09-present-simple-vs-continuous' },
             { text: '10 — can + imperatives', link: '/lessons/10-can-imperatives' },
             { text: '11 — Прикметники і прислівники', link: '/lessons/11-adjectives-adverbs' },
+            { text: '12 — Прийменники', link: '/lessons/12-prepositions' },
           ],
         },
       ],

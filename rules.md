@@ -216,6 +216,7 @@
 - **hesitation** («вагання» — не наважуватись, зволікати) vs **doubt** («сумнів» — не вірити, що це правда): ✅ She agreed **without hesitation**. (одразу погодилась) / I have **doubts about** this plan. (не впевнена, що план правильний)
 - **say** vs **tell**: `tell` — коли є адресат або стала пара (tell **me**, tell **the truth**, tell **a story**); `say` — самі слова (say **that**…, say **hello**). ❌ say the truth → ✅ **tell** the truth.
 - **in time** («встигнути, з запасом») vs **on time** («вчасно, за розкладом»): ✅ She'll be ready **on time**. / We arrived **in time** to catch the train.
+- **wait for** («чекати» — фізично, поки прийде) vs **expect** («очікувати» — подумки, вважати, що станеться): ✅ I'm **waiting for** an answer. / I **expect** rain tomorrow. ❌ expecting for.
 - **fall → fell** («падати») vs **feel → felt** («почуватися»): `felt` — сім'я «ee → e + t» (kept, slept, met); `fell` — лишається подвійне **ll** від fall. ✅ I **fell** down. / I **felt** tired.
 
 ## 18. Present Simple vs Continuous

@@ -281,3 +281,8 @@
 | «**Просто** вона заснула 10 хвилин тому» *(just ten minutes ago)* | «заснула **лише** 10 хвилин тому» | `just` перед кількістю часу = «лише, всього»; «просто» — just в іншій позиції (I just wanted…) | 24.09 · Урок 11 Р20 |
 | «після **мітингу**» | «після **зустрічі**» | 🔴 **×7** — повернулось після чистого Р19 | 24.09 · Урок 11 Р20 |
 | Where **will be** the next meeting? | Where **will the next meeting be**? | порядок слів у питанні: підмет між допоміжним і головним дієсловом (як How big **is** the team?) | 24.09 · Урок 11 Р20 |
+| She **is expecting the** answer *(«чекає на відповідь»)* | She **is waiting for an** answer | `wait for` — фізично чекати; `expect` — очікувати подумки; артикль — відповідь невідома → an | 24.09 · Урок 12 Р1 |
+| live in Kyiv **at** Khreshchatyk Street | **on** Khreshchatyk Street | вулиця — лінія → on; at — лише з номером будинку (at 5 … Street) | 24.09 · Урок 12 Р1 |
+| «**мітинг** о 9:00… під час **мітингу**» | «зустріч… під час зустрічі» | 🔴 **×8, ×9** — двічі в одному тексті | 24.09 · Урок 12 Р1 |
+| Send **me it** by Friday *(дриль)* | Send **it to me** by Friday | два займенники-додатки → `send it to me`, не `send me it`; і виправлення мало бути мінімальним (лише until → by) | 24.09 · Урок 12 Р1 |
+| «`on English` — про мову як тему» | тільки `in English` / `about English` | `on` + тема лише після book / lecture / course (a lecture on grammar); speak on English не існує | 24.09 · Урок 12 Р1 |

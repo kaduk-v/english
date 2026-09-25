@@ -36,7 +36,7 @@
 
 **🔴 НОВИЙ ЛЕАК №1 — ПРИЙМЕННИКИ:** `during`→`for`, `on English`→`in`, `on previous work`→`at my previous job`, `on vacancy description`→`in the job description`. Тест: «це стала пара дієслово+прийменник чи я перекладаю з української?»
 
-**🪤 НОВИЙ ЛЕАК №2 — професійні false friends** (найнебезпечніші на співбесіді): functional→functionality · perspectives→prospects · increase→grow · actually · eventually · realize · **meeting≠мітинг** (meeting — ділова зустріч/нарада; мітинг — політичний захід/протест) · **vacation≠vacancy** (vacation — відпустка; vacancy — вакансія — 🔴 на рольовій співбесіді 03.09 сплутав ×3, хоча в Діагностиці 2.0 (14.08) вживав `vacancy` правильно — це слово, яке ти вже знав, зникло під тиском живої розмови).
+**🪤 НОВИЙ ЛЕАК №2 — професійні false friends** (найнебезпечніші на співбесіді): functional→functionality · perspectives→prospects · increase→grow · actually · eventually · realize · **meeting≠мітинг** (meeting — ділова зустріч/нарада; мітинг — політичний захід/протест) — *25.09: студент пояснив, що в IT-сленгу «мітинг» = робоча зустріч, тому пише на автоматі; розуміння `meeting` правильне → при перекладі EN→UA більше не рахується* · **vacation≠vacancy** (vacation — відпустка; vacancy — вакансія — 🔴 на рольовій співбесіді 03.09 сплутав ×3, хоча в Діагностиці 2.0 (14.08) вживав `vacancy` правильно — це слово, яке ти вже знав, зникло під тиском живої розмови).
 
 **🎯 be-radar (з Уроку 0) — твій ключовий фікс:** став `be` (am/is/are) перед прикметником / іменником / місцем (It **is** cold) або в `be + -ing` (she **is** running). НЕ став `be` перед звичайним дієсловом у простому часі (не «we **are** went», не «she **is** plays»).
 
@@ -286,3 +286,8 @@
 | «**мітинг** о 9:00… під час **мітингу**» | «зустріч… під час зустрічі» | 🔴 **×8, ×9** — двічі в одному тексті | 24.09 · Урок 12 Р1 |
 | Send **me it** by Friday *(дриль)* | Send **it to me** by Friday | два займенники-додатки → `send it to me`, не `send me it`; і виправлення мало бути мінімальним (лише until → by) | 24.09 · Урок 12 Р1 |
 | «`on English` — про мову як тему» | тільки `in English` / `about English` | `on` + тема лише після book / lecture / course (a lecture on grammar); speak on English не існує | 24.09 · Урок 12 Р1 |
+| looked at **phone** | looked at **his** phone | однина злічуваного без визначника; телефон його → his | 25.09 · Урок 12 Р2 |
+| We **arriving** in Lviv next week | We**'ll arrive** in Lviv | 🎯 be-omission: -ing без are не дієслово; «прибудемо» — will | 25.09 · Урок 12 Р2 |
+| an answer from **a** client *(«від клієнта»)* | from **the** client | конкретний клієнт → the | 25.09 · Урок 12 Р2 |
+| «не могла **залишити**» *(couldn't leave)* | «не могла **піти**» | `leave` без додатка = піти, вийти | 25.09 · Урок 12 Р2 |
+| **During for** two hours *(дриль)* / **During** last week | **For** two hours / **Last week** | 🎯 `during` ліпиться до всього про час: during + подія (the meeting); тривалість — for; last / next / this / every — без прийменника | 25.09 · Урок 12 Р2 |

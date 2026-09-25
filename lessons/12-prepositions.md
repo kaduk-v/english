@@ -151,3 +151,94 @@
     - **одне речення** з `on` + вулиця або `at` + адреса з номером;
     - **одне речення** з `during` + подія або `for` + тривалість;
     - **одне речення** з `next / last / this` + week / Monday / year — без прийменника.
+
+### Відповіді учня
+
+*(Примітка студента: «українською, в контексті ІТ саме мітинг, а не зустріч — найчастіше вживається в розмові. Тому і часто путаю, і пишу на автоматі.» — Прийнято: `meeting` → «мітинг» при перекладі EN→UA більше не рахується як помилка; розуміння слова правильне, це професійний сленг.)*
+
+1. We waited for the bus for 20 minutes, and the we walked.
+2. She lives at 5 Shevchenko Street.
+3. During the meeting he looked at phone, not at me.
+4. We arriving in Lviv at 10 pm next week.
+5. Just between us: I don't depend on this manager.
+6. Is she waiting for an answer from a client?
+7. They didn't arrive at the station in time.
+8. Минулої пятниці я чекав на Анну в кафе пів години. Вона була на зузстрічі на пятому поверсі і не могла залишити. Після зустрічі вона пішла в кафе і ми говорили про її нову роботу до девятої.
+9. on Khreshchatyk Street - на поверхні, at 5 Khreshchatyk Street - точка, місце. wait for, а не expect - бо wait це чекати щось конкретне, а expect - очікувати на щось
+10. a) I waited for the bus for 20 minutes b) She lives on Shevchenko Street. c) We'll meet next Monday d) During for two hours nobody answered. e) Between you and me, he is wrong. f) They arrived in Kyiv late at night. g) I'm waiting for your answer.
+11.
+    1. What are you waiting for?
+    2. Does she live on Pryvitna Street?
+    3. During the lesson she spoke in English for 20 minutes.
+    4. During last week I went to the gym twice.
+
+### Перевірка Раунду 2 — ❌ (6 помилок)
+
+**Коротко:** мішені раунду — чисто: `waited for the bus for 20 minutes`, `at 5 Shevchenko Street` (з номером — `at`, сам додумав), `on Shevchenko Street` у дрилі, `during the meeting`, `next week` без прийменника, `between you and me`, `arrived in Kyiv`, `waiting for an answer`, `What are you waiting for?`. Шість помилок, і дві з них — одна й та сама: `during` ліпиться туди, де його не має бути — `During for two hours` (10d) і `During last week` (11.4). `During` бере лише подію (the meeting, the lesson); тривалість — `for`, а `last / next week` — взагалі без прийменника. Ще: `We arriving` без допоміжного (це be-omission, старий леак), `at phone` без `his`, `from a client` замість `the client`, і `leave` при читанні — «піти», не «залишити».
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 3 | looked at **phone** | looked at **his** phone | Однина злічуваного без визначника — заборонена. Телефон його → `his phone` (або `the phone`). `During the meeting`, `at me` — ✅. |
+| 4 | We **arriving** in Lviv | We**'ll arrive** in Lviv / We**'re arriving** in Lviv | 🎯 be-omission: `-ing` не може бути дієсловом сам по собі — йому потрібне `are`; а «прибудемо» — майбутнє, тож простіше `will arrive`. Прийменники — усі правильні: `in Lviv`, `at 10 pm`, `next week` без прийменника. |
+| 6 | from **a** client | from **the** client | «Від клієнта» — конкретного, того, кому писали → `the`. `A client` — «від якогось клієнта». `Is she waiting for an answer` — ✅. |
+| 8 | «не могла **залишити**» | «не могла **піти** / вийти» | `leave` без додатка = піти, вийти. «Залишити» українською вимагає «що?» — тут його немає. Решта — ✅: `waited for … for half an hour` → «чекав пів години», `talked about … until nine` → «до дев'ятої». |
+| 10d | **During for** two hours | **For** two hours | Помилку знайдено (не вистачало `for`), але `during` лишилось — два прийменники поспіль. `During` + подія (the meeting), `for` + скільки (two hours). Тут тривалість → тільки `for`. |
+| 11.4 | **During** last week | **Last week** I went… | Умова 4 — «без прийменника». `Last / next / this / every` + week / Monday / year — жодного прийменника перед ними, ніколи. `During` тут — той самий рефлекс, що в 10d. |
+| 7 | arrive at the station **in** time | *(прийнятно)* **on** time | Не рахую: `in time` — «встигнути», `on time` — «за розкладом»; для «вчасно» природніше друге, але обидва можливі. `at the station` ✅. |
+| 9 | «wait — щось конкретне, expect — очікувати на щось» | — | Не рахую, але уточню: різниця не в «конкретному». `Wait for` — ти **фізично чекаєш** (стоїш, сидиш, час іде). `Expect` — ти **вважаєш**, що щось станеться (I expect rain — не стою й не чекаю дощу). Про вулицю/адресу — точно. |
+| 1 | and **the** we walked | and **then** we walked | *(одрук, не рахую)* Прийменники — ✅. |
+| 2, 5, 10, 11 | — | ✅ | Дриль 6/7, міні-текст 3/4 (11.3 — `during the lesson … for 20 minutes … in English` — три пари в одному реченні, усі правильні). |
+
+*Повна теорія — у [prepositions.md §3](../grammar/a1-a2/prepositions.md).*
+
+**Головне:** місце й час — тримається. Слабке місце — `during`: воно тягнеться до всього, що про час. Правило коротке: `during` + **що** (подія), `for` + **скільки**, `last / next` + **нічого**. Раунд 3 — саме про це, плюс be-omission у майбутньому (`We'll arrive`). Після Раунду 3 — діалог.
+
+---
+
+## Раунд 3
+
+Мішені: `for` + тривалість (без during), `last / next week` без прийменника, `will` + `arrive in / at` (не `We arriving`), `his / the` перед одниною, `answer` / `call` без прийменника, `leave` = піти. Читання — `for`, `during`, `in ten minutes`.
+
+**Перед здачею:** побачив «протягом» — запитай: скільки чи що? Побачив «минулого / наступного» — прийменника немає. Побачив «прибудемо / приїдемо» — є `will`?
+
+### Частина 1 — UA → EN
+
+1. Ми приїдемо до Києва наступної п'ятниці о сьомій вечора.
+2. Минулого тижня я двічі ходив у спортзал.
+3. Вона говорила по телефону дві години під час обіду.
+4. Клієнт не відповів на мій лист, тому я зателефоную йому завтра.
+5. Він вийшов із зустрічі раніше і поїхав додому машиною.
+
+### Частина 2 — питання і заперечення
+
+6. Постав **питання**: «Вони прибудуть на станцію о десятій.»
+7. Постав у **заперечення**: «Ми говорили про це протягом години.»
+
+### Частина 3 — EN → UA
+
+8. > "Are you waiting for me?" Anna asked at the door. "Yes — we're late for the meeting on the third floor," Mark said. "Don't worry, it starts in ten minutes. Last time it started at 9:30 and went on for two hours."
+
+### Частина 4 — граматика своїми словами
+
+9. Своїми словами: чому `for two hours`, але `during the meeting`, і чому `last week` — без жодного прийменника? Що спільного в помилках `during for two hours` і `during last week`?
+
+### Частина 5 — дриль: знайди помилку
+
+10. У кожному реченні рівно ОДНА помилка — знайди й виправ (мінімальне виправлення):
+    a) During three hours we talked about the project.
+    b) In last week I was at home.
+    c) We arriving at the office at nine tomorrow.
+    d) He looked at phone all evening.
+    e) She left from the meeting early.
+    f) Call to me on Friday.
+    g) I'll answer on your email by Monday.
+
+### Частина 6 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне речення** з `will` + `arrive in / at`;
+    - **одне речення** з `for` + тривалість (без `during`);
+    - **одне речення** з `last / next` + week / month — без прийменника;
+    - **одне речення** з `on the phone` або `at the door`.
+
+*Після Раунду 3 — діалог: 10 повідомлень від кожної сторони. Ти називаєш мою роль і тему.*

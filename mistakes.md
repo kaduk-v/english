@@ -296,3 +296,14 @@
 | went home **in the car** *(«машиною»)* | went home **by car** | спосіб пересування — by + транспорт без артикля; in the car = у машині як місце | 26.09 · Урок 12 Р3 |
 | We arriving **at** → **in** the office *(дриль)* | We**'ll arrive** at the office | 🎯 be-omission ×2 (Р2 We arriving in Lviv); у дрилі «виправив» правильний прийменник, а -ing без will не побачив | 26.09 · Урок 12 Р3 |
 | looked at phone → looked **on** the phone *(дриль)* | looked at **his** phone | `look on` не існує; справжня помилка — phone без визначника; «раунд про прийменники → помилка в прийменнику» — хибний рефлекс | 26.09 · Урок 12 Р3 |
+| recommended **to try** | recommended **trying** | після recommend / suggest / enjoy / avoid — -ing, не to + V | 26.09 · Урок 12 Діалог 1 (бариста) |
+| explain **which difference** between them | explain **the difference** between them | «яка різниця» = the difference; which — вибір із набору | 26.09 · Діалог 1 |
+| **a half of sugar stick** | **half a** sugar stick | half a + іменник, без of і без другого артикля (half an hour, half a cup) | 26.09 · Діалог 1 |
+| coffee **by Moka pot** | **with a** Moka pot / **in a** Moka pot | 🔴 **леак №1 у живій розмові** (у раундах — 0 зривів): by — транспорт/виконавець; інструмент — with; + артикль | 26.09 · Діалог 1 |
+| it **convenient** … it **provide** | it**'s** convenient … it provide**s** | 🎯 be-omission + -s повернулись під живою розмовою (як HR-гра 03.09), в одному реченні | 26.09 · Діалог 1 |
+| **Mock pot** makes | **A** Moka pot makes | однина злічуваного на початку речення — з артиклем | 26.09 · Діалог 1 |
+| divide **in** three cups | divide **into** three cups | «поділити на» = divide into (рух у частини) | 26.09 · Діалог 1 |
+| **tree** cups *(×2)* | **three** cups | правопис-омофон: tree (дерево) ≠ three (три) — двічі за діалог | 26.09 · Діалог 1 |
+| **Time by time** I **changed** beans | **From time to time** I **change** beans | калька «час від часу» → чанк from time to time; звичка → Present Simple | 26.09 · Діалог 1 |
+| **Last two** packages … were **Columbia** | **The last two** packages … were **Colombian** | «останні два» конкретні → the; країна Colombia, прикметник Colombian (як Ethiopian) | 26.09 · Діалог 1 |
+| **I'd preasure** *(«із задоволенням»)* | **With pleasure.** / I'd love that. | калька; I'd = I would + дієслово, з іменником не буває | 26.09 · Діалог 1 |

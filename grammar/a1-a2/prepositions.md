@@ -181,6 +181,8 @@
 | **on holiday / on vacation** | у відпустці | — |
 | **on a trip / on a business trip** | у подорожі / у відрядженні | — |
 | **by bus / by car / by train / by plane** | автобусом / машиною… (спосіб, без артикля) | ❌ by the bus, with bus |
+| **with a** knife / a Moka pot / a hammer | ножем / у кавоварці / молотком (**інструмент, річ у руках** — з артиклем) | ❌ by a knife, by Moka pot — `by` не для інструментів |
+| **in a** pot / a pan / the oven | у каструлі / на сковороді / в духовці (де готується) | — |
 | **on foot** | пішки | ❌ by foot |
 | **in the picture / in the photo** | на картинці / на фото | ❌ on the picture |
 | **on the page / on the screen / on the map** | на сторінці / екрані / мапі | — |

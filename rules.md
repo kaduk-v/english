@@ -216,6 +216,8 @@
 - **hesitation** («вагання» — не наважуватись, зволікати) vs **doubt** («сумнів» — не вірити, що це правда): ✅ She agreed **without hesitation**. (одразу погодилась) / I have **doubts about** this plan. (не впевнена, що план правильний)
 - **say** vs **tell**: `tell` — коли є адресат або стала пара (tell **me**, tell **the truth**, tell **a story**); `say` — самі слова (say **that**…, say **hello**). ❌ say the truth → ✅ **tell** the truth.
 - **in time** («встигнути, з запасом») vs **on time** («вчасно, за розкладом»): ✅ She'll be ready **on time**. / We arrived **in time** to catch the train.
+- **Чанки, які не перекладаються словами:** «час від часу» = **from time to time** (❌ time by time) · «із задоволенням» = **with pleasure** / I'd love to (❌ I'd pleasure) · «яка різниця» = **the difference between** (❌ which difference) · «половина чогось» = **half a** cup / hour (❌ a half of cup) · «поділити на» = **divide into** (❌ divide in).
+- **by** (транспорт, спосіб: by bus, by email) vs **with** (інструмент у руках: with a knife, with a Moka pot): ✅ I make coffee **with a** Moka pot. ❌ by Moka pot.
 - **wait for** («чекати» — фізично, поки прийде) vs **expect** («очікувати» — подумки, вважати, що станеться): ✅ I'm **waiting for** an answer. / I **expect** rain tomorrow. ❌ expecting for.
 - **fall → fell** («падати») vs **feel → felt** («почуватися»): `felt` — сім'я «ee → e + t» (kept, slept, met); `fell` — лишається подвійне **ll** від fall. ✅ I **fell** down. / I **felt** tired.
 

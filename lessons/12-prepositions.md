@@ -288,3 +288,110 @@
 За новим ритмом — діалог: 10 повідомлень від кожної сторони, без виправлень по ходу. Студент називає роль Claude і тему. Після діалогу — розбір реплік студента і Раунд 4 (уже за новим анти-калька форматом, див. `AGENTS.md`).
 
 **Роль і тема (задав студент, 26.09):** Claude — бариста, пояснює різницю між сортами кави. Студент — відвідувач.
+
+### Репліки студента (10)
+
+1. Hello, I usually drink americano, but my friend recommended to try dopio. Could you explain which difference between them?
+2. I like strong coffee without milk and with a half of sugar stick
+3. Lets try Brazilian beans
+4. I make coffee at home by Moka pot. I buy packaged ground coffee for it
+5. It tastes good, but a little bitter. About packaged coffee - it convenient to store and it provide access to coffee quickly
+6. Mock pot makes some coffee that I could divide in tree little cups
+7. I drink tree cups myself, usually in the morning. I like to enjoy coffee
+8. Time by time I changed beans. Last two packages that I bought were Columbia and Ethiopian
+9. I'd preasure. Please make it
+10. Thanks a lot. Good bye
+
+*(Репліки баристи — в чаті; зміст: doppio vs americano, зерна Ethiopia / Brazil, Moka pot: не пресувати, знімати до «булькання», зберігати не в холодильнику; 250 г бразильської середнього помелу.)*
+
+### Розбір Діалогу 1 — 13 помилок
+
+**Коротко:** розмова вдалась — бариста зрозумів би все, ти ставив питання, відповідав по суті, вживав `packaged ground coffee`, `without milk`, `usually in the morning`, `Could you explain`, `the last two packages that I bought` (правильне відносне речення). Але діалог показав те, чого не показують раунди. Прийменники: у трьох раундах перекладу — нуль зривів, у живій розмові — два за десять реплік (`by Moka pot`, `divide in`). І повернулись старі леаки з HR-гри 03.09: **be-omission** (`it convenient`) і **`-s`** (`it provide`) — в одному реченні. Плюс кальки-чанки: `Time by time` («час від часу»), `I'd preasure` («із задоволенням»), `which difference`. Тобто в живому мовленні працює не правило, а старий «переклад словами» — саме те, що ти описав 26.09.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | recommended **to try** | recommended **trying** / recommended **that I try** | Після `recommend` — `-ing` або підрядне з that; `to + V` з ним не працює (як `suggest`, `enjoy`, `avoid`). |
+| 1 | explain **which difference** between them | explain **the difference** between them | «Яка різниця» тут — не питання «котра з різниць», а «в чому різниця» → `the difference`. `Which` вибирає з набору; тут набору немає. |
+| 2 | with **a half of sugar stick** | with **half a sugar stick** / **half a stick of** sugar | «Половина чогось» — `half a` + іменник, без `of` після half і без другого артикля: half a cup, half an hour, half a stick. |
+| 4 | by Moka pot | **with a** Moka pot / **in a** Moka pot | `by` — спосіб пересування (by bus) або виконавець дії. Інструмент, прилад, річ у руках — **with** (with a knife, with a Moka pot) або **in** (in a pot — де готується). І артикль: один конкретний прилад → `a`. |
+| 5 | it convenient | it**'s** convenient | 🎯 be-omission — під живою розмовою повернулось (як у HR-грі). Прикметнику потрібна зв'язка: it **is** convenient. |
+| 5 | it provide | it provide**s** | 🎯 `-s` — те саме речення. `it` — третя особа → `-s`. У раундах не ламалось з Р17. |
+| 5 | provide access to coffee quickly | *(природніше)* it's quick to make | *(не рахую)* Зрозуміло, але по-канцелярськи. «Швидко зробити каву» — it's quick / it saves time. |
+| 6 | **Mock pot** makes | **A Moka pot** makes | Однина злічуваного на початку речення — з артиклем: **a** Moka pot (будь-яка така кавоварка). *(Mock → Moka — назва, не рахую.)* |
+| 6 | divide **in** three cups | divide **into** three cups | «Поділити на» — `divide into` (рух у частини). `In` — де щось є, не куди ділять. |
+| 6 | that I **could** divide | that I **can** divide | *(не рахую, але)* це про теперішню звичку → `can`. `Could` — минуле або ввічливе. |
+| 6, 7 | **tree** cups (×2) | **three** cups | *(правопис, не рахую — але двічі)* `tree` — дерево, `three` — три. Звучать майже однаково, пишуться різно. |
+| 8 | **Time by time** | **From time to time** | Калька з «час від часу». Англійський чанк — `from time to time` (або `sometimes`, `now and then`). Чанк треба брати цілим. |
+| 8 | I **changed** beans | I **change** beans | «Час від часу змінюю» — звичка, теперішнє → Present Simple. Минуле `changed` — «змінив». |
+| 8 | **Last two** packages | **The last two** packages | «Останні два» — конкретні, ті, що купив → `the`. |
+| 8 | **Columbia** and Ethiopian | **Colombian** and Ethiopian | Дві речі: країна — Colombia (не Columbia — це університет / студія), і форма — прикметник, як Ethiopian: **Colombian**. |
+| 9 | **I'd preasure** | **With pleasure.** / **I'd love that.** | Калька з «із задоволенням». `I'd` + іменник не буває (I'd = I would + дієслово). Чанки: with pleasure · I'd love to · Yes, please. |
+| 3, 10 | Let**s** · Good **bye** | Let**'s** · Good**bye** | *(пунктуація / правопис, не рахую)* |
+
+*Повна теорія — у [prepositions.md](../grammar/a1-a2/prepositions.md) (§6 — `with` для інструментів) і `rules.md`.*
+
+**Головне:** у раундах ти виправляєш; у розмові — перекладаєш словами. Три чанки (`from time to time`, `with pleasure`, `the difference between`), два прийменники (`with a Moka pot`, `divide into`) і `it's … / it provides` — усе це йде в Раунд 4 як мішені, уже в новому форматі.
+
+---
+
+## Раунд 4 *(новий формат — анти-калька)*
+
+**Слова раунду:** during · until · arrive · fail · proud · rest · customize *(усі — в [словнику](../vocabulary/_index.md); мають з'явитись у твоїх відповідях)*
+
+**Мішені (з Діалогу 1):** `with a` + інструмент (не by) · `divide into` · `from time to time` + Present Simple · `the last two` · `it's` + прикметник (be-omission) · `-s` у живому реченні · `with pleasure` · `the difference between` · `recommend + -ing`.
+
+**Перед здачею — «спочатку час, потім дієслово»:** для кожного речення познач, це звичка / зараз / минуле / майбутнє → допоміжне → дієслово. Кожне `it` + прикметник → є `is`?
+
+### Частина 1 — UA → EN
+
+1. Час від часу я змінюю зерна, але зазвичай купую мелену каву.
+2. Останні два пакети були колумбійські — їх зручно зберігати.
+3. Я роблю каву в гейзерній кавоварці і ділю її на три чашки.
+
+### Частина 2 — ситуація → речення
+
+4. Ти в кав'ярні. Бариста пропонує спробувати нові зерна і змолоти їх для твоєї кавоварки. Погодься із задоволенням і скажи, для якої кавоварки молоти. *(2 речення)*
+5. Друг питає, чому ти не кинув каву. Відповідай: ти пишаєшся своєю ранковою звичкою, а ввечері кава не заважає тобі відпочивати. *(1–2 речення; вжий `proud` і `rest`)*
+
+### Частина 3 — зворотний переклад
+
+6. Це твій український переклад із Раунду 3. Переклади його назад англійською, **не дивлячись в оригінал** (я порівняю рядок у рядок):
+   > Ти чекаєш на мене? Анна запитала біля дверей. Так — ми спізнюємося на зустріч на третьому поверсі, — сказав Марк. Не хвилюйся, почнеться через десять хвилин. Минулого разу почалося о 9:30 і тривало протягом двох годин.
+
+### Частина 4 — EN → UA
+
+7. > Last month I quit coffee for two weeks. I failed on day nine — a colleague brought a Moka pot to the office. Now I drink one cup during lunch and rest in the evening without any caffeine. I'm quite proud of that.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому `by bus`, але `with a Moka pot`? Коли `by` означає «за допомогою», а коли треба `with`?
+
+### Частина 6 — дриль: чанки
+
+9. Кожну українську фразу — англійським чанком, по 10 секунд, не думаючи над словами окремо:
+    a) час від часу
+    b) із задоволенням
+    c) останні два пакети
+    d) поділити на три чашки
+    e) робити каву в гейзерній кавоварці
+    f) пишатися своєю командою
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **From time to time I change beans, but I usually buy ground coffee.** Зроби 4 варіанти, міняючи в кожному **один** слот, решту не чіпай:
+    a) підмет → `she` *(перевір дієслова!)*
+    b) що змінюєш → інше (кав'ярню, маршрут, музику…)
+    c) час → `every morning` замість `from time to time` *(куди його поставити?)*
+    d) друга частина → інша звичка
+
+### Частина 8 — міні-текст
+
+11. **4–6 речень**, нова тема на вибір. Ці 4 умови обов'язкові — перевір кожну ОКРЕМО:
+    - **одне речення** з `with a` + інструмент / прилад;
+    - **одне речення** з `it's` + прикметник (it's convenient / it's quick — не пропусти `is`);
+    - **одне речення** з `from time to time` або `the last two …`;
+    - **два слова зі списку раунду** (during · until · arrive · fail · proud · rest · customize).
+
+### Щоденник
+
+Три речення про сьогоднішній день — одразу англійською, без українського чернетки. Надішли разом із раундом.

@@ -4,7 +4,7 @@
 
 **Легенда:** `v` = verb (дієслово) · `n` = noun (іменник) · `adj` = adjective (прикметник) · `adv` = adverb (прислівник) · `prep` = preposition (прийменник) · `conj` = conjunction (сполучник) · `det` = determiner (означник) · `phrase` = стала фраза
 
-**Всього слів: 374**
+**Всього слів: 385**
 
 | Слово | ЧМ | Переклад | Нюанс |
 |-------|----|----------|-------|
@@ -94,6 +94,7 @@
 | [crisp](c.md#crisp) | adj / n | хрусткий; чіткий, різкий; свіжий (про… | 💡 BrE vs AmE (дзеркало до chip) |
 | [curious](c.md#curious) | adj | допитливий, цікавий (до чогось); дивний… | 💡 curious about |
 | [curtain](c.md#curtain) | n | штора, завіса | — |
+| [customize](c.md#customize) | v | налаштувати під себе, персоналізувати | 💡 custom ≠ customer |
 | [damage](d.md#damage) | n / v | шкода, пошкодження; (ігри) урон… | 💡 Незлічуване + прийменник to |
 | [definitely](d.md#definitely) | adv | точно, безумовно, однозначно | — |
 | [deliberate](d.md#deliberate) | adj / v | навмисний, умисний; неспішний і обдуманий… | — |
@@ -150,6 +151,8 @@
 | [expose](e.md#expose) | v | відкривати (доступ), викривати; залишати… | 💡 expose sth to sth |
 | [extremely](e.md#extremely) | adv | надзвичайно, вкрай | — |
 | [fade](f.md#fade) | v | згасати, блякнути, поступово зникати | — |
+| [fail](f.md#fail) | v | зазнати невдачі; не спрацювати; не скласти | 💡 fail to · fail an exam |
+| [failure](f.md#failure) | n | невдача, провал; збій (техніки) | 💡 power failure |
 | [fall](f.md#fall) | v / n | падати; переходити в стан; падіння | 💡 off / down / over / asleep |
 | [fault](f.md#fault) | n | вина; недолік, вада; (тех.) збій, несправність | 💡 Дві мастхев-фрази |
 | [feat](f.md#feat) | n | подвиг, досягнення | 💡 feat vs feet — омофони /fiːt/ |
@@ -173,7 +176,9 @@
 | [grab](g.md#grab) | v | хапати, схопити | 💡 Розмовне grab |
 | [guardian](g.md#guardian) | n | охоронець, хранитель; опікун (юридично) | — |
 | [guess](g.md#guess) | v / n | вгадувати, здогадуватися; здогад, припущення | 💡 Розмовні мастхеви |
+| [guide](g.md#guide) | n / v | гід; посібник; вести, скеровувати | 💡 a guide to · guide sb through |
 | [guideline](g.md#guideline) | n | настанова, рекомендація | — |
+| [hack](h.md#hack) | v / n | зламати; нашвидкуруч зробити; хак, костиль | 💡 hack into · life hack |
 | [handle](h.md#handle) | v / n | впоратися з чимось, обробляти; ручка | — |
 | [hardly](h.md#hardly) | adv | ледве, майже не | 💡 hardly ≠ hard |
 | [hardship](h.md#hardship) | n | скрута, злигодні, тяжкі випробування | — |
@@ -227,6 +232,7 @@
 | [negotiation](n.md#negotiation) | n | переговори | — |
 | [never mind](n.md#never-mind) | phrase | не зважай, забудь; нічого страшного | — |
 | [non-negotiable](n.md#non-negotiable) | adj | що не підлягає обговоренню | — |
+| [nod](n.md#nod) | v / n | кивнути; кивок | 💡 nod off · nodded (dd) |
 | [nonetheless](n.md#nonetheless) | adv | все ж таки, проте, тим не менш | 💡 Письмове слово |
 | [nosy](n.md#nosy) | adj | надто цікавий, той, що пхає носа | — |
 | [notice](n.md#notice) | v / n | помічати; оголошення; попередження | 💡 Два обличчя |
@@ -268,10 +274,12 @@
 | [pretty](p.md#pretty) | adj / adv | гарненький, симпатичний; досить, доволі | 💡 Друге значення важливіше |
 | [projectile](p.md#projectile) | n | снаряд (усе, що летить: куля, стріла, фаєрбол) | — |
 | [proper](p.md#proper) | adj | належний, правильний, як слід | 💡 У роботі |
+| [proud](p.md#proud) | adj | гордий; який пишається | 💡 proud of · proud to |
 | [punish](p.md#punish) | v | карати | 💡 Конструкція |
 | [punishment](p.md#punishment) | n | покарання | — |
 | [purpose](p.md#purpose) | n | мета, призначення | 💡 Ключові фрази |
 | [quiet](q.md#quiet) | adj / n | тихий, спокійний; тиша, спокій | 💡 quiet vs [quite](#quite) —… |
+| [quit](q.md#quit) | v | кинути (роботу, звичку); вийти (з програми) | 💡 quit – quit – quit |
 | [quite](q.md#quite) | adv | досить, доволі; цілком | 💡 Три вжитки |
 | [rapid](r.md#rapid) | adj | швидкий, стрімкий | — |
 | [rare](r.md#rare) | adj | рідкісний; (про стейк) слабко просмажений… | 💡 Два «побутові» значення |
@@ -291,8 +299,10 @@
 | [research](r.md#research) | n / v | дослідження; досліджувати | 💡 УВАГА |
 | [resistance](r.md#resistance) | n | опір, спротив | 💡 resistance to |
 | [respond](r.md#respond) | v | відповідати, реагувати | 💡 respond to |
+| [rest](r.md#rest) | n / v | відпочинок; the rest — решта; відпочивати | 💡 the rest of |
 | [resume](r.md#resume) | v | відновити, продовжити (після паузи) | 💡 resume vs résumé — різна… |
 | [reveal](r.md#reveal) | v | розкривати, показувати (те, що було приховане) | — |
+| [revert](r.md#revert) | v | повернутися до попереднього стану; відкотити | 💡 revert to |
 | [rid](r.md#rid) | v | позбавляти (вживається майже лише у фразі… | 💡 get rid of |
 | [roll](r.md#roll) | v / n | котити(ся); кидати (кубик); кидок (кубика)… | 💡 roll out |
 | [rope](r.md#rope) | n | мотузка, канат | 💡 learn the ropes |
@@ -344,6 +354,7 @@
 | [swing](s.md#swing) | v / n | розмахувати; гойдати(ся); гойдалка; замах… | — |
 | [take](t.md#take) | v | брати, взяти; займати (час); робити (у… | 💡 Часті сталі вирази |
 | [tend](t.md#tend) | v | мати схильність, зазвичай робити | 💡 Конструкція `tend to` +… |
+| [thankful](t.md#thankful) | adj | вдячний; радий, що | 💡 thankful for / that |
 | [thirsty](t.md#thirsty) | adj | спраглий, який хоче пити | 💡 be thirsty |
 | [though](t.md#though) | conj / adv | хоча (= although); проте, все ж | 💡 МЕГА-ПАСТКА |
 | [thought](t.md#thought) | v / n | (past і past participle від; ) — думав; думка | 💡 Не плутай |

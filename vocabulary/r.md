@@ -1,6 +1,6 @@
 # R
 
-**Зміст:** [rapid](#rapid) · [rare](#rare) · [rarely](#rarely) · [rather](#rather) · [ray](#ray) · [reach](#reach) · [realize](#realize) · [refer](#refer) · [regard](#regard) · [regardless](#regardless) · [regret](#regret) · [relatable](#relatable) · [rely](#rely) · [remain](#remain) · [rescue](#rescue) · [research](#research) · [resistance](#resistance) · [respond](#respond) · [resume](#resume) · [reveal](#reveal) · [rid](#rid) · [roll](#roll) · [rope](#rope) · [rough](#rough) · [royal](#royal) · [rush](#rush)
+**Зміст:** [rapid](#rapid) · [rare](#rare) · [rarely](#rarely) · [rather](#rather) · [ray](#ray) · [reach](#reach) · [realize](#realize) · [refer](#refer) · [regard](#regard) · [regardless](#regardless) · [regret](#regret) · [relatable](#relatable) · [rely](#rely) · [remain](#remain) · [rescue](#rescue) · [research](#research) · [resistance](#resistance) · [respond](#respond) · [rest](#rest) · [resume](#resume) · [reveal](#reveal) · [revert](#revert) · [rid](#rid) · [roll](#roll) · [rope](#rope) · [rough](#rough) · [royal](#royal) · [rush](#rush)
 
 ---
 
@@ -263,6 +263,22 @@
 
 ---
 
+## rest
+**rest** /rest/ — 1. <code>noun</code> (іменник) — відпочинок; **the rest** — решта, залишок 2. <code>verb</code> (дієслово) — відпочивати
+
+**Пояснення:** два різних значення з одним написанням. «Відпочинок / відпочивати» — про людину. **The rest (of)** — «решта» чогось: the rest of the day, the rest of the team. З `the` — майже завжди друге значення.
+
+**💡 Конструкції:**
+- **have / take a rest** — відпочити: Let's **take a rest**.
+- **the rest of** + іменник — решта: **the rest of** the money · **the rest of** us (решта з нас).
+- **rest** без додатка — відпочивати: You should **rest**.
+
+**Приклади:**
+- I'll finish this, and you can do **the rest**. — Я закінчу це, а ти можеш зробити решту.
+- After the trip we **rested** for two days. — Після подорожі ми відпочивали два дні.
+
+---
+
 ## resume
 **resume** /rɪˈzjuːm/ — <code>verb</code> (дієслово) — відновити, продовжити (після паузи)
 
@@ -288,6 +304,22 @@
 - The trailer **revealed** the new map. — Трейлер показав нову мапу.
 - The logs **revealed** the real cause of the crash. — Логи розкрили справжню причину збою.
 - At the end, the stranger **reveals** that he is the king. — У кінці незнайомець розкриває, що він король.
+
+---
+
+## revert
+**revert** /rɪˈvɜːt/ — <code>verb</code> (дієслово) — повернутися до попереднього стану; (тех.) відкотити зміни
+
+**Пояснення:** формальне «повернутись назад» — до старої версії, старої звички, попереднього рішення. У розробці — відкотити коміт / зміни. У побутовій мові частіше **go back to**.
+
+**💡 Конструкції:**
+- **revert to** sth — повернутися до: revert **to** the old version / **to** the previous settings.
+- **revert** a change / a commit — відкотити зміну.
+- ⚠️ В індійській діловій англійській `revert` = «відповісти на лист» (I'll revert soon) — у британській/американській так не кажуть.
+
+**Приклади:**
+- After the update failed, we **reverted to** the previous version. — Після невдалого оновлення ми повернулись до попередньої версії.
+- He **reverted** my commit without asking. — Він відкотив мій коміт, не спитавши.
 
 ---
 

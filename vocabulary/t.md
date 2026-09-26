@@ -1,6 +1,6 @@
 # T
 
-**Зміст:** [take](#take) · [tend](#tend) · [thirsty](#thirsty) · [though](#though) · [thought](#thought) · [threat](#threat) · [towards](#towards) · [town](#town) · [traitor](#traitor) · [treat](#treat) · [tremors](#tremors) · [trick](#trick) · [tweak](#tweak) · [turn out](#turn-out) · [typically](#typically)
+**Зміст:** [take](#take) · [tend](#tend) · [thankful](#thankful) · [thirsty](#thirsty) · [though](#though) · [thought](#thought) · [threat](#threat) · [towards](#towards) · [town](#town) · [traitor](#traitor) · [treat](#treat) · [tremors](#tremors) · [trick](#trick) · [tweak](#tweak) · [turn out](#turn-out) · [typically](#typically)
 
 ---
 
@@ -26,6 +26,22 @@
 **Приклади:**
 - Junior devs **tend to** over-engineer simple features. — Джуніори схильні переускладнювати прості фічі.
 - I **tend to** stay up late when I play online. — Я зазвичай засиджуюся допізна, коли граю онлайн.
+
+---
+
+## thankful
+**thankful** /ˈθæŋkfl/ — <code>adjective</code> (прикметник) — вдячний; радий, що (пронесло)
+
+**Пояснення:** «вдячний долі / обставинам» — часто з відтінком полегшення: thankful that nothing worse happened. Коли дякуєш конкретній людині — природніше **grateful to** sb (за конкретну допомогу). Прислівник — **thankfully** (на щастя).
+
+**💡 Конструкції:**
+- **be thankful for** sth — бути вдячним за: I'm **thankful for** your help.
+- **be thankful that** + речення — радий, що: I'm **thankful that** the backup worked.
+- **Thankfully, …** — На щастя, … *(на початку речення)*.
+
+**Приклади:**
+- I'm **thankful that** the tests caught the bug before release. — Я вдячний, що тести зловили баг до релізу.
+- **Thankfully**, nobody was hurt. — На щастя, ніхто не постраждав.
 
 ---
 

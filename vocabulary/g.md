@@ -1,6 +1,6 @@
 # G
 
-**Зміст:** [gain](#gain) · [gap](#gap) · [gate](#gate) · [give](#give) · [glow](#glow) · [gossip](#gossip) · [grab](#grab) · [guardian](#guardian) · [guess](#guess) · [guideline](#guideline)
+**Зміст:** [gain](#gain) · [gap](#gap) · [gate](#gate) · [give](#give) · [glow](#glow) · [gossip](#gossip) · [grab](#grab) · [guardian](#guardian) · [guess](#guess) · [guide](#guide) · [guideline](#guideline)
 
 ---
 
@@ -115,6 +115,24 @@
 - verb: I didn't know the answer, so I just **guessed**. — Я не знав відповіді, тож просто вгадував.
 - verb: **Guess what!** We won the hackathon! — Уяви собі! Ми виграли хакатон! _(розробка)_
 - noun: My best **guess** is a memory leak. — Моє найімовірніше припущення — витік пам'яті. _(Node.js)_
+
+---
+
+## guide
+**guide** /ɡaɪd/ — 1. <code>noun</code> (іменник) — гід, провідник; посібник, путівник 2. <code>verb</code> (дієслово) — вести, скеровувати
+
+**Пояснення:** іменник — і людина (a tour guide), і книжка/документ (a user guide, a travel guide). Дієслово — «провести, скерувати» когось: guide someone through the process. Не плутай з **guideline** — «настанова, правило».
+
+**💡 Конструкції:**
+- **a guide to** sth — посібник із: a beginner's **guide to** Node.js.
+- **guide** sb **through** sth — провести когось крізь (процес, документ): He **guided** me **through** the setup.
+- **step-by-step guide** — покрокова інструкція.
+
+**Приклади:**
+- The **guide** showed us the old town. — Гід показав нам старе місто.
+- This **guide** explains how to set up the project. — Цей посібник пояснює, як налаштувати проєкт.
+
+🔗 **Пов'язане:** [guideline](#guideline).
 
 ---
 

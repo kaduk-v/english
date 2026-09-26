@@ -1,6 +1,6 @@
 # C
 
-**Зміст:** [capture](#capture) · [care](#care) · [carve](#carve) · [cast](#cast) · [catch someone's eye](#catch-someones-eye) · [cause](#cause) · [certain](#certain) · [certainly](#certainly) · [chip](#chip) · [clamp](#clamp) · [clarity](#clarity) · [cohesive](#cohesive) · [come](#come) · [commit](#commit) · [comparison](#comparison) · [complain](#complain) · [complaint](#complaint) · [complete](#complete) · [complicate](#complicate) · [comprehensive](#comprehensive) · [concern](#concern) · [confidence](#confidence) · [consequence](#consequence) · [consistency](#consistency) · [construction](#construction) · [contribute](#contribute) · [convenience](#convenience) · [correspond](#correspond) · [cosy](#cosy) · [creature](#creature) · [creepy](#creepy) · [crisp](#crisp) · [curious](#curious) · [curtain](#curtain)
+**Зміст:** [capture](#capture) · [care](#care) · [carve](#carve) · [cast](#cast) · [catch someone's eye](#catch-someones-eye) · [cause](#cause) · [certain](#certain) · [certainly](#certainly) · [chip](#chip) · [clamp](#clamp) · [clarity](#clarity) · [cohesive](#cohesive) · [come](#come) · [commit](#commit) · [comparison](#comparison) · [complain](#complain) · [complaint](#complaint) · [complete](#complete) · [complicate](#complicate) · [comprehensive](#comprehensive) · [concern](#concern) · [confidence](#confidence) · [consequence](#consequence) · [consistency](#consistency) · [construction](#construction) · [contribute](#contribute) · [convenience](#convenience) · [correspond](#correspond) · [cosy](#cosy) · [creature](#creature) · [creepy](#creepy) · [crisp](#crisp) · [curious](#curious) · [curtain](#curtain) · [customize](#customize)
 
 ---
 
@@ -450,3 +450,19 @@
 **Приклади:**
 - Close the **curtains**, the sun is on my screen. — Затули штори, сонце світить на екран. _(побут/розробка)_
 - The **curtain** rose and the play began. — Завіса піднялася, і вистава почалася.
+
+---
+
+## customize
+**customize** /ˈkʌstəmaɪz/ — <code>verb</code> (дієслово) — налаштувати під себе, персоналізувати, зробити на замовлення
+
+**Пояснення:** змінити стандартну річ під свої потреби — інтерфейс, налаштування, машину, футболку. BrE — **customise**. Іменник — **customization**; прикметник **custom** — «нестандартний, на замовлення» (a custom keyboard). Не плутай із **customer** (клієнт) — спільний корінь, різні слова.
+
+**💡 Конструкції:**
+- **customize** sth — налаштувати під себе: customize the dashboard / the settings.
+- **customize** sth **to** your needs — під свої потреби.
+- **custom-made** — зроблений на замовлення.
+
+**Приклади:**
+- You can **customize** the theme in the settings. — Тему можна налаштувати під себе в налаштуваннях.
+- They **customized** the app **to** the client's needs. — Вони налаштували застосунок під потреби клієнта.

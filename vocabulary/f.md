@@ -1,6 +1,6 @@
 # F
 
-**Зміст:** [fade](#fade) · [fall](#fall) · [fault](#fault) · [feat](#feat) · [flap](#flap) · [flatness](#flatness) · [flatten](#flatten) · [fluency](#fluency) · [foreword](#foreword) · [forge](#forge) · [fortunately](#fortunately) · [foundation](#foundation) · [fret](#fret) · [fuel](#fuel) · [further](#further)
+**Зміст:** [fade](#fade) · [fail](#fail) · [failure](#failure) · [fall](#fall) · [fault](#fault) · [feat](#feat) · [flap](#flap) · [flatness](#flatness) · [flatten](#flatten) · [fluency](#fluency) · [foreword](#foreword) · [forge](#forge) · [fortunately](#fortunately) · [foundation](#foundation) · [fret](#fret) · [fuel](#fuel) · [further](#further)
 
 ---
 
@@ -13,6 +13,44 @@
 - The screen **fades** to black when your hero dies. — Екран плавно темніє, коли твій герой гине. _(гра)_
 - The toast message **fades out** after two seconds. — Спливне повідомлення плавно зникає за дві секунди. _(розробка)_
 - My old T-shirt has **faded** after so many washes. — Моя стара футболка виблякла після стількох прань.
+
+---
+
+## fail
+**fail** /feɪl/ — <code>verb</code> (дієслово) — зазнати невдачі, провалитися; не спрацювати; не скласти (іспит); підвести
+
+**Пояснення:** універсальне «не вийшло». Про людину — провалити спробу; про систему — зламатися, не спрацювати (the server failed); про іспит — не скласти. Антонім — **succeed** / **pass** (іспит).
+
+**💡 Конструкції:**
+- **fail to** + V — не зуміти зробити: He **failed to** answer. — Він так і не відповів.
+- **fail** an exam / a test — не скласти іспит *(без прийменника; ❌ fail in an exam)*.
+- **fail** without an object — провалитися, не спрацювати: The plan **failed**.
+- **never fails** — ніколи не підводить: Coffee **never fails**.
+
+**Приклади:**
+- The deployment **failed** at 3 a.m. — Деплой упав о третій ночі.
+- She **failed** her driving test twice. — Вона двічі не склала іспит з водіння.
+
+🔗 **Пов'язане:** [failure](#failure) — іменник.
+
+---
+
+## failure
+**failure** /ˈfeɪljə/ — <code>noun</code> (іменник) — невдача, провал; збій, відмова (техніки); невдаха
+
+**Пояснення:** іменник від **fail**. Про подію — провал (the failure of the project); про техніку — збій, відмова (power failure — відключення живлення, engine failure); про людину — невдаха (I feel like a failure). Злічуване й незлічуване залежно від сенсу.
+
+**💡 Конструкції:**
+- **a failure to** + V — нездатність зробити: a **failure to** communicate.
+- **power / system / engine failure** — збій живлення / системи / двигуна.
+- **end in failure** — закінчитися провалом.
+- **failure is not an option** — провал неприпустимий (сталий вислів).
+
+**Приклади:**
+- The outage was caused by a **power failure**. — Збій стався через відключення живлення.
+- Every **failure** teaches you something. — Кожна невдача чогось учить.
+
+🔗 **Пов'язане:** [fail](#fail).
 
 ---
 

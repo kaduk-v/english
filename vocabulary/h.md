@@ -1,6 +1,23 @@
 # H
 
-**Зміст:** [handle](#handle) · [hardly](#hardly) · [hardship](#hardship) · [health](#health) · [hermit](#hermit) · [hesitation](#hesitation) · [hinge](#hinge) · [hoard](#hoard) · [hold](#hold) · [hurt](#hurt)
+**Зміст:** [hack](#hack) · [handle](#handle) · [hardly](#hardly) · [hardship](#hardship) · [health](#health) · [hermit](#hermit) · [hesitation](#hesitation) · [hinge](#hinge) · [hoard](#hoard) · [hold](#hold) · [hurt](#hurt)
+
+---
+
+## hack
+**hack** /hæk/ — 1. <code>verb</code> (дієслово) — зламати (систему); нашвидкуруч зробити, «нахакати» 2. <code>noun</code> (іменник) — хак: хитрий прийом, костиль; злам
+
+**Пояснення:** три відтінки. Злам — hack a server / get hacked. Швидке грубе рішення в коді — a quick hack, hack together. І побутове **life hack** — лайфхак, хитрість. Тон — розмовний.
+
+**💡 Конструкції:**
+- **hack into** sth — зламати, проникнути: hack **into** the database.
+- **get hacked** — бути зламаним: My account **got hacked**.
+- **a quick / dirty hack** — тимчасовий костиль.
+- **life hack** — лайфхак.
+
+**Приклади:**
+- Someone **hacked into** our email server last night. — Хтось зламав наш поштовий сервер минулої ночі.
+- It's a **quick hack**, not a real fix. — Це костиль, а не справжнє виправлення.
 
 ---
 

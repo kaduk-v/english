@@ -1,6 +1,6 @@
 # P
 
-**Зміст:** [participate](#participate) · [pass](#pass) · [passage](#passage) · [passed](#passed) · [pavement](#pavement) · [peasant](#peasant) · [peep](#peep) · [perform](#perform) · [performance](#performance) · [permit](#permit) · [pillar](#pillar) · [placement](#placement) · [plenty](#plenty) · [portion](#portion) · [precise](#precise) · [pressure](#pressure) · [pretty](#pretty) · [projectile](#projectile) · [proper](#proper) · [punish](#punish) · [punishment](#punishment) · [purpose](#purpose)
+**Зміст:** [participate](#participate) · [pass](#pass) · [passage](#passage) · [passed](#passed) · [pavement](#pavement) · [peasant](#peasant) · [peep](#peep) · [perform](#perform) · [performance](#performance) · [permit](#permit) · [pillar](#pillar) · [placement](#placement) · [plenty](#plenty) · [portion](#portion) · [precise](#precise) · [pressure](#pressure) · [pretty](#pretty) · [projectile](#projectile) · [proper](#proper) · [proud](#proud) · [punish](#punish) · [punishment](#punishment) · [purpose](#purpose)
 
 ---
 
@@ -227,6 +227,22 @@
 **Приклади:**
 - We released without **proper** testing — and got ten bugs. — Ми зарелізились без належного тестування — і зловили десять багів.
 - Sit on a **proper** chair, not on a box. — Сядь на нормальний стілець, а не на коробку.
+
+---
+
+## proud
+**proud** /praʊd/ — <code>adjective</code> (прикметник) — гордий; який пишається
+
+**Пояснення:** позитивне «пишатися» (собою, командою, результатом). Іменник — **pride** (гордість). Негативний відтінок «зарозумілий» — теж можливий (too proud to ask for help — надто гордий, щоб попросити).
+
+**💡 Конструкції:**
+- **be proud of** sb / sth — пишатися кимось / чимось: I'm **proud of** my team. *(прийменник — тільки `of`)*
+- **be proud to** + V — пишатися тим, що робиш: I'm **proud to** work here.
+- **proud of yourself** — пишатися собою.
+
+**Приклади:**
+- She's **proud of** her first released app. — Вона пишається своїм першим випущеним застосунком.
+- You should be **proud of yourself**. — Тобі варто пишатися собою.
 
 ---
 

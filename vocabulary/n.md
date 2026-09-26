@@ -1,6 +1,6 @@
 # N
 
-**Зміст:** [narrow](#narrow) · [negotiate](#negotiate) · [negotiation](#negotiation) · [never mind](#never-mind) · [nonetheless](#nonetheless) · [non-negotiable](#non-negotiable) · [nosy](#nosy) · [notice](#notice) · [noticeable](#noticeable)
+**Зміст:** [narrow](#narrow) · [negotiate](#negotiate) · [negotiation](#negotiation) · [never mind](#never-mind) · [nod](#nod) · [nonetheless](#nonetheless) · [non-negotiable](#non-negotiable) · [nosy](#nosy) · [notice](#notice) · [noticeable](#noticeable)
 
 ---
 
@@ -50,6 +50,22 @@
 **Приклади:**
 - — What did you say? — Oh, **never mind**. — Та нічого, забудь.
 - You lost? **Never mind**, next time. — Програв? Нічого, наступного разу.
+
+---
+
+## nod
+**nod** /nɒd/ — 1. <code>verb</code> (дієслово) — кивнути (головою) 2. <code>noun</code> (іменник) — кивок
+
+**Пояснення:** кивок на знак «так», привітання або згоди. Протилежне — **shake your head** (похитати головою — «ні»). Пишеться з однією **d**; минулий час — **nodded** (подвоєння: n-o-d — приголосна-голосна-приголосна).
+
+**💡 Конструкції:**
+- **nod** (your head) — кивнути: She **nodded** and left.
+- **nod off** — задрімати, «клювати носом»: He **nodded off** during the meeting.
+- **give a nod** — кивнути; **get the nod** — отримати схвалення (розм.).
+
+**Приклади:**
+- He **nodded** without saying a word. — Він кивнув, не сказавши ні слова.
+- The manager **gave** the plan **a nod**. — Менеджер схвалив план.
 
 ---
 

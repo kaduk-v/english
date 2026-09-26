@@ -1,6 +1,6 @@
 # Q
 
-**Зміст:** [quiet](#quiet) · [quite](#quite)
+**Зміст:** [quiet](#quiet) · [quit](#quit) · [quite](#quite)
 
 ---
 
@@ -18,6 +18,22 @@
 - adj: Please be **quiet** — I'm on a call. — Будь ласка, тихіше — я на дзвінку.
 - adj: It was a **quiet** day: no bugs, no deploys. — День був спокійний: ні багів, ні деплоїв.
 - noun: I need some peace and **quiet** to focus on this quest. — Мені потрібні тиша і спокій, щоб зосередитися на цьому квесті.
+
+---
+
+## quit
+**quit** /kwɪt/ — <code>verb</code> (дієслово) — _(irregular: quit – quit – quit)_ — кинути, припинити (роботу, звичку); вийти (з програми)
+
+**Пояснення:** «покинути назовсім» — роботу, курси, шкідливу звичку. Сильніше й остаточніше, ніж `stop`. Для програм — «вийти» (Quit the app).
+
+**💡 Конструкції:**
+- **quit** + іменник — кинути щось: quit my job / quit smoking *(з дієсловом — `-ing`, не to)*.
+- **quit** без додатка — звільнитися: He **quit** last week.
+- **I quit!** — Я звільняюся! / Здаюся!
+
+**Приклади:**
+- She **quit** her job and moved to Lisbon. — Вона кинула роботу й переїхала до Лісабона.
+- I **quit** coffee for a month. — Я на місяць кинув каву.
 
 ---
 

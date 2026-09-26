@@ -307,3 +307,14 @@
 | **Time by time** I **changed** beans | **From time to time** I **change** beans | калька «час від часу» → чанк from time to time; звичка → Present Simple | 26.09 · Діалог 1 |
 | **Last two** packages … were **Columbia** | **The last two** packages … were **Colombian** | «останні два» конкретні → the; країна Colombia, прикметник Colombian (як Ethiopian) | 26.09 · Діалог 1 |
 | **I'd preasure** *(«із задоволенням»)* | **With pleasure.** / I'd love that. | калька; I'd = I would + дієслово, з іменником не буває | 26.09 · Діалог 1 |
+| **grounded** coffee / Please, **ground** for a Moka pot | **ground** coffee / Please **grind it** | grind → ground → ground («молоти»); grounded — від дієслова ground (заземлити / покарати); наказ — базова форма grind | 26.09 · Урок 12 Р4 |
+| **Last two** packages *(переклад + чанк)* | **The last two** packages | 🔴 повтор з Діалогу 1, мішень раунду — «останні два» конкретні → the; чанк запам'ятати з артиклем | 26.09 · Урок 12 Р4 |
+| I … **divide ∅ into** three cups / **grind ∅** for a Moka pot | divide **it** into / grind **them** | 🆕 **об'єкт зникає** після перехідного дієслова — в українському джерелі «ділю **її**» був, у перекладі випав; divide / grind / fix / revert потребують «на кого/що» | 26.09 · Урок 12 Р4 |
+| I **proud** of / we **late** at *(зворотний переклад)* | I**'m** proud of / we**'re** late for | 🎯 be-omission ×2 з підметом I / we — там, де мішень стояла явно (`it's convenient`), be є; чанк `proud of my team` теж без be → перезаписати як **be proud of** → [§1](rules.md#1-дієслово-та-підмет) | 26.09 · Урок 12 Р4 |
+| habit **to enjoy** | habit **of enjoying** | після іменника habit / idea / chance — of + -ing; to — калька з «звичка пити» | 26.09 · Урок 12 Р4 |
+| late **at** the meeting | late **for** the meeting | «спізнюватись на» = late for; at the meeting — місце, де вже є → [§8](rules.md#8-прийменники-з-дієсловами) | 26.09 · Урок 12 Р4 |
+| **Last time was starting** at 9:30 | Last time **it started** at 9:30 | підмет зник («почалося» без it) + подія-точка → Past Simple, не was starting | 26.09 · Урок 12 Р4 |
+| I change **a job** | I change **jobs** | стала пара: change jobs / trains / hands — множина | 26.09 · Урок 12 Р4 |
+| I usually **reads** *(рамка)* | I usually **read** | 🎯 -s у зворотний бік — тільки he/she/it; I ніколи не бере -s | 26.09 · Урок 12 Р4 |
+| customize **game level** / with **gamepad** | the game level / with **a** gamepad | однинний злічуваний без a/the — так не буває | 26.09 · Урок 12 Р4 |
+| she looked **on** the phone *(міні-текст)* | she looked **at** the phone | 🔴 **третій раз за три раунди** (Р2 переклад, Р3 дриль, Р4 власний текст) — look on не існує; чанк **look at** перезаписати цілим | 26.09 · Урок 12 Р4 |

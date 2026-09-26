@@ -395,3 +395,115 @@
 ### Щоденник
 
 Три речення про сьогоднішній день — одразу англійською, без українського чернетки. Надішли разом із раундом.
+
+### Відповіді учня
+
+1. From time to time I change beans, but I usually buy grounded coffee.
+2. Last two packages were Columbian - it's convenient to store.
+3. I make coffee with a Moka pot and divide into three cups.
+4. Yes, with pleasure. Please, ground for a Moka pot.
+5. I proud of my morning habit to enjoy coffee, and it doesn't bother me to have a rest in the evening.
+6. Are you waiting for me? Anna asked at the door. Yes - we late at the meeting on the third floor, - said Mark. Don't worry, it will start in ten minutes. Last time was starting at 9:30 and continued for two hours.
+7. Минулого місяця кинув пити каву на два тижні. Я зірвався на девятий день - колега приніс гейзерну кавоварку на офіс. *(2 речення з 4)*
+8. by та with виражають "за допомогою", але різниця в тому що by - використовується для способу, методу, транспорту. with - для інструменту, предмету. Тому, by bus - як спосіб пересування, with a Moka pot - за допомогою якого предмету.
+9. a) from time to time · b) with pleasure · c) last two packages · d) divide into three cups · e) make coffee with a Moka pot · f) proud of my team
+10. a) From time to time she changes beans, but she usually buys ground coffee. b) From time to time I change a job. c) I change beans every morning. d) I usually reads on weekends.
+11. I can't customize game level with a new version of Unity. It's very convenient to do with gamepad. From time to time I play souls like games. During the film she looked on the phone. I should be in the office until 8pm.
+
+Щоденник — не надіслано.
+
+### Перевірка Раунду 4 — ❌ (13 помилок)
+
+**Коротко:** новий формат зробив те, для чого його вводили — показав, що ховали раунди-переклади. Мішені з діалогу — закриті: `with a Moka pot` ×3, `divide into` ×2, `from time to time` + Present Simple ×3, `it's convenient` ×2, `with pleasure`; пояснення by/with у п.8 — точне. Рамка a) — ідеальна (`she changes … she buys`). Міні-текст 4/4 умови, 3 слова зі списку. Прийменники теми — лише 2 зриви, але один із них третій раз за три раунди: `looked on` (Р2 переклад, Р3 дриль, тепер — власний текст). Головне ж: **be-omission ×2 з не-`it` підметом** (`I proud`, `we late`) — там, де мішень стояла явно (`it's`), be є, а поруч — немає; `-s` зламався у зворотний бік (`I usually reads`); і **новий патерн — зникає об'єкт** після перехідного дієслова (`divide ∅ into`, `ground ∅ for`) — в українському джерелі «ділю **її**» об'єкт був, у перекладі випав. Плюс `grounded` / `ground` / `grind` — три форми, жодна на своєму місці. Частина 4 — 2 речення з 4; рамка — у b), c), d) відкинуто половину зразка; щоденник не надіслано.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | **grounded** coffee | **ground** coffee | «Мелена» — це дієприкметник від *grind* (молоти): grind → ground → ground. `grounded` — від іншого дієслова *ground* (заземлити / залишити без прогулянок): *He's grounded for a week*. Три слова, які виглядають однією сім'єю, але ні. |
+| 2, 9c | **Last two** packages / **last two packages** | **The last two** packages | 🎯 Мішень раунду — і в перекладі, і в чанку без `the`. «Останні два» — це конкретні, відомі обом пакети → означений артикль. Чанк треба запам'ятати з артиклем усередині: *the last two …*. |
+| 3 | I … **divide into** three cups | I … divide **it** into three cups | «Ділю **її**» — об'єкт був в українському реченні і зник в англійському. `Divide` — перехідне дієслово: воно не буває саме по собі, комусь / чомусь треба «дістатись». Без `it` речення читається як «ділю на три чашки» — що саме? |
+| 4 | Please, **ground** for a Moka pot | Please **grind it** for a Moka pot | Наказ — базова форма: `grind`, не `ground` (це минулий час). І знову без об'єкта: «змолоти **їх**» → *grind it / them*. Кома після *Please* — не потрібна *(не рахую)*. `with pleasure` ✅. |
+| 5 | I **proud** of | I**'m** proud of | 🎯 be-omission. `proud` — прикметник, а прикметник підметом не керує: між `I` і `proud` мусить бути дієслово. У п.2 з `it` ти написав `it's convenient` — бо це була мішень; з `I` — той самий закон, той самий пропуск. Чанк f) у п.9 — `proud of my team` — теж без `be`: значить, у голові він зберігається без дієслова. Перезапиши: **be proud of**. |
+| 5 | habit **to enjoy** | habit **of enjoying** | Після іменника `habit` — `of` + `-ing`: *a habit of drinking coffee*. `to` тут — калька з «звичка **пити**». Так само *the idea of doing, the chance of doing*. |
+| 6 | we **late** at the meeting | we**'re** late for the meeting | 🎯 be-omission №2 — і в оригіналі, який ти сам переклав, стояло `we're late`. `late` — прикметник → потрібне `are`. |
+| 6 | late **at** the meeting | late **for** the meeting | Тема уроку. «Спізнюватись **на**» — `late for` (for the meeting, for work, for the train). `at the meeting` = «на зустрічі» як місце, де ти вже є. |
+| 6 | **Last time was starting** at 9:30 | Last time **it started** at 9:30 | Два зриви в одному місці. (1) Підмет зник: «почалося» українською без «воно» — англійською `it` обов'язкове (*Last time* — обставина, не підмет). (2) `was starting` — тривалий процес; «почалося о 9:30» — це подія-точка → Past Simple `started`. `continued for two hours` замість *went on* — прийнятно ✅. |
+| 10b | I change **a job** | I change **jobs** | Стала пара — «змінювати роботу» = *change jobs* (множина, як *change trains, change hands*). Плюс формат: зразок мав дві частини, ти залишив одну *(див. нижче)*. |
+| 10d | I usually **reads** | I usually **read** | 🎯 `-s` у зворотний бік: закінчення `-s` — тільки для he / she / it. `I` ніколи не бере `-s`. Це та сама «плаваюча» `-s`, що в HR-грі — то забуваєш на однині, то додаєш на «I». |
+| 11 | customize **game level** / with **gamepad** | customize **the** game level (or game levels) / with **a** gamepad | Обидва — однинні злічувані іменники без нічого. Англійською такого не буває: або `a` / `the`, або множина. `with a` + прилад — умова виконана, але без артикля всередині. |
+| 11 | she looked **on** the phone | she looked **at** the phone | 🔴 Третій раз за три раунди. `look at` — єдиний варіант для «дивитись на»; `look on` не існує. Це вже не прийменник — це чанк, який треба перезаписати: **look at**. `During the film` ✅. |
+| 2 | **Columbian** | **Colombian** | *(правопис, повтор з діалогу — не рахую)* Країна — Colombia. |
+| 2 | it's convenient to store | they're convenient to store / it's convenient to store **them** | *(не рахую)* «Їх зручно зберігати» — або пакети як підмет (they're), або `it's … to store them`. Без об'єкта знову повисло. |
+| 7 | *(2 речення з 4)* | — | Частина 4 — переклав половину тексту. Не рахую як помилку, але diff у Р5 буде лише по цих двох реченнях. Наступного разу — весь текст. |
+| 10b–d | *(половина рамки відкинута)* | повне речення з обома частинами | Рамка — це вправа на «тримати структуру цілою і міняти один слот». У b), c), d) друга або перша частина зникла — тобто ти написав нові речення, а не варіанти зразка. Позиція `every morning` у c) — правильна ✓. |
+| 8, 9a/b/d/e, 10a, 11 (умови) | — | ✅ | by/with пояснено точно. Чанки 4/6 чисті. Рамка a) — зразкова. Міні-текст 4/4 умови; слова раунду: customize, during, until. |
+
+*Повна теорія — у [prepositions.md](../grammar/a1-a2/prepositions.md) і `rules.md` (§1 підмет + be, §8 look at / late for, §17 grind / change jobs / habit of).*
+
+**Головне:** прийменники теми рухаються (13 правильних прийменників у власних реченнях, 2 зриви). Але `be` з підметом `I` / `we` і зникання об'єкта — це те, що продукування без українського джерела витягло на поверхню. Наступний раунд — навколо цього.
+
+---
+
+## Раунд 5
+
+**Слова раунду:** quit · revert · issue · guide · thankful · portion · opportunity *(усі — в [словнику](../vocabulary/_index.md); мають з'явитись у твоїх відповідях)*
+
+**Мішені (з Раунду 4):** `I'm / we're / they're` + прикметник (be — не тільки з `it`) · **об'єкт після перехідного дієслова** (divide **it**, grind **them**, revert **them**) · `the last two` · `late for` · `look at` · `-s` тільки в 3-й особі · `habit of -ing` · артикль перед однинним злічуваним.
+
+**Перед здачею:** для кожного речення — «спочатку час, потім дієслово». Потім два питання: **(1)** є підмет + прикметник → є `be`? **(2)** є дієслово дії (divide, fix, revert, grind, read…) → на кого / що воно спрямоване? Об'єкт на місці?
+
+### Частина 1 — UA → EN
+
+1. Ми спізнюємося на мітинг, але я вдячний, що вони чекають на нас.
+2. Останні два релізи були складні: ми відкотили їх і ще раз подивилися на логи.
+3. Я кинув цю звичку минулого року — тепер ділю порцію на дві частини і їм її повільно.
+
+### Частина 2 — ситуація → речення
+
+4. Ти на роботі. Колега питає, чи ти вже розібрався з проблемою в застосунку. Ще ні: ти досі дивишся на логи і поки не впевнений. Скажи це. *(2 речення; вжий `issue` і `look at`)*
+5. Новий колега питає, чи є в команді гайд для новачків. Відповідай: є, Марк написав його минулого місяця; ти вдячний йому за це — це гарна можливість швидко розібратися. *(2 речення; вжий `guide`, `thankful`, `opportunity`)*
+
+### Частина 3 — зворотний переклад
+
+6. Це твій український переклад із Раунду 4 (ті два речення, що ти переклав). Переклади назад англійською, **не дивлячись в оригінал** — порівняю рядок у рядок:
+   > Минулого місяця кинув пити каву на два тижні. Я зірвався на дев'ятий день — колега приніс гейзерну кавоварку в офіс.
+
+### Частина 4 — EN → UA
+
+7. > We're late for the standup again. The last two meetings started at 9:15, and nobody looked at the clock. Now the manager wants to divide the team into two groups and revert the old schedule. I'm not thankful for that — it's a strange decision.
+
+   *Переклади весь текст — він стане джерелом для Частини 3 у Раунді 6.*
+
+### Частина 5 — граматика своїми словами
+
+8. У Раунді 4 ти написав `it's convenient`, але `I proud` і `we late`. Що спільного в цих трьох реченнях, і яке одне правило вони порушують або виконують? Чому `it` «згадується», а `I` / `we` — ні?
+
+### Частина 6 — дриль: знайди помилку
+
+9. У кожному реченні — **рівно одна** помилка. Виправ мінімально, час не міняй:
+    a) We late for the meeting again.
+    b) She usually read the guide before work.
+    c) I quit coffee last month, and I proud of it.
+    d) The last two issues were easy, so we fixed quickly.
+    e) Look on the logs — the error is there.
+    f) I bought new gamepad yesterday.
+    g) Don't worry — we reverted last two commits an hour ago.
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **We're late for the meeting, but I'm thankful that they're patient.** Зроби 4 варіанти. У кожному міняєш **один** слот, **обидві частини речення лишаються** — це вправа на цілу структуру:
+    a) підмет `we` → `I` *(тепер два `I` — перевір обидва be)*
+    b) підмет `we` → `she`
+    c) час → вчора *(усі три be — у минулому)*
+    d) на що спізнюємось → інше (клас, потяг, дзвінок)
+
+### Частина 8 — міні-текст
+
+11. **4–6 речень**, тема на вибір. 4 умови — перевір кожну ОКРЕМО:
+    - **одне речення** з `I'm` або `we're` + прикметник (не `it`);
+    - **одне речення** з дієсловом дії + займенник-об'єкт (fix **it**, revert **them**, divide **it**);
+    - **одне речення** з `the last two …`;
+    - **два слова зі списку раунду** (quit · revert · issue · guide · thankful · portion · opportunity).
+
+### Щоденник
+
+Три речення про сьогоднішній день — одразу англійською, без української чернетки. У Р4 його не було — надішли разом із цим раундом.

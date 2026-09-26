@@ -242,3 +242,47 @@
     - **одне речення** з `on the phone` або `at the door`.
 
 *Після Раунду 3 — діалог: 10 повідомлень від кожної сторони. Ти називаєш мою роль і тему.*
+
+### Відповіді учня
+
+1. We are going to Kyiv at 7pm next Friday.
+2. Last week I went to the gym twice.
+3. She spoke on the phone for two hours during lunch.
+4. The client didn't answer my email, I will call him tomorrow.
+5. He left the meeting early and go home in the car.
+6. Will they arrive at 10am at the station?
+7. We didn't speak about it for an hour.
+8. Ти чекаєш на мене? Анна запитала біля дверей. Так - ми спізнюємося на зустріч на третьому поверсі - сказав Марк. Не хвилюйтеся, почнеться через десять хвилин. Минулого разу почалося о 9:30 і тривало протягом двох годин.
+9. for two hours - for тому що це прийменник тривалості (як довго?) і вживається з кількісними показниками часу. during the meeting - during прийменник події і відповідає на питання (коли саме?) в межах події. last week — без жодного прийменника, бо прийменник last вже вказує на період і не потребує додаткового прийменника. during for two hours і during last week - спільне те що тут тавтологія із прийменниками часу
+10. a) For three hours we talked about the project. b) Last week I was at home. c) We arriving in the office at nine tomorrow. d) He looked on the phone all evening. e) She left the meeting early. f) Call me on Friday. g) I'll answer your email by Monday.
+11.
+    1. Will you arrive at the airport in time?
+    2. Children played in the park for a half hour.
+    3. You should finish the task next week.
+    4. Stay at the door!
+
+### Перевірка Раунду 3 — ❌ (5 помилок)
+
+**Коротко:** мішені раунду — чисто: `for two hours during lunch`, `last week` без прийменника, `on the phone`, `answer my email` без прийменника, `call him` без прийменника, `left the meeting` без from, `for an hour`, `Will they arrive at the station`, `at the door`. Пояснення в п.9 — найточніше за два уроки («last вже вказує на період», «тавтологія прийменників»). Міні-текст 4/4. П'ять помилок, і три з них — не прийменники: у п.4 два речення склеєні комою без «тому» (`so`), у п.5 `go` замість `went` (час) і `in the car` замість `by car`. А дві — у дрилі, і вони показові: у 10c і 10d ти «виправив» прийменники, які були правильні (`at the office` → in, `looked at` → on), а справжню помилку (`We arriving` без will, `phone` без his) не побачив. Раунд про прийменники — і мозок шукає помилку тільки в прийменниках.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 4 | didn't answer my email**,** I will call | didn't answer my email**, so** I will call | «Тому» випало. Два повних речення не можна склеїти самою комою — потрібен сполучник: `so` (тому), `and`, `but`. `answer my email` (без on), `call him` (без to) — ✅. |
+| 5 | left the meeting early and **go** home | left … and **went** home | Обидві дії в минулому — `left … and went`. Друге дієслово після `and` не бере базову форму «за компанію», воно теж у минулому. |
+| 5 | went home **in the car** | went home **by car** | «Машиною» — спосіб пересування → `by car`, без артикля (by bus, by train, by car). `In the car` — «у машині» як місце: He was sitting in the car. |
+| 10c | We arriving **in** the office | We**'ll be arriving** / We**'ll arrive** at the office | Помилку не знайдено: `at the office` було правильно, а `arriving` без `will` / `are` — ні. 🎯 Той самий be-omission, що в Р2 (`We arriving in Lviv`). |
+| 10d | He looked **on** the phone | He looked at **his** phone | Помилку не знайдено, і додано нову: `look at` — єдиний варіант, `look on` не існує. Справжня помилка — `phone` без визначника (`his`). Те саме речення, що в Р2 п.3. |
+| 1 | We **are going to** Kyiv | *(прийнятно)* We**'ll arrive in** Kyiv | Не рахую: `We're going to Kyiv next Friday` — так кажуть. Але мішень «`will` + `arrive in`» обійдена. `at 7pm`, `next Friday` — ✅. |
+| 8 | «Не хвилю**йтеся**» | «Не хвилю**йся**» | *(не рахую)* Марк говорить з Анною — на «ти». Решта — ✅: `in ten minutes` → «через», `went on for two hours` → «тривало дві години». |
+| 11.2 | for **a half hour** | for **half an hour** | *(не рахую — AmE припускає a half hour)* Стандартно — `half an hour`. `for` + тривалість — умова ✅. |
+| 2, 3, 6, 7, 9 | — | ✅ | Дриль 5/7, міні-текст 4/4. |
+
+*Повна теорія — у [prepositions.md](../grammar/a1-a2/prepositions.md).*
+
+**Головне:** прийменники в цьому раунді не зламались жодного разу в перекладі. Ламається старе: час другого дієслова після `and`, be-omission (`We arriving` — двічі за два раунди), склейка речень комою. І в дрилі — «раунд про X, отже помилка в X»: помилка може бути де завгодно.
+
+---
+
+## 💬 Діалог 1 (після Раунду 3)
+
+За новим ритмом — діалог: 10 повідомлень від кожної сторони, без виправлень по ходу. Студент називає роль Claude і тему. Після діалогу — розбір реплік студента і Раунд 4 (уже за новим анти-калька форматом, див. `AGENTS.md`).

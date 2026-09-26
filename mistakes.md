@@ -291,3 +291,8 @@
 | an answer from **a** client *(«від клієнта»)* | from **the** client | конкретний клієнт → the | 25.09 · Урок 12 Р2 |
 | «не могла **залишити**» *(couldn't leave)* | «не могла **піти**» | `leave` без додатка = піти, вийти | 25.09 · Урок 12 Р2 |
 | **During for** two hours *(дриль)* / **During** last week | **For** two hours / **Last week** | 🎯 `during` ліпиться до всього про час: during + подія (the meeting); тривалість — for; last / next / this / every — без прийменника | 25.09 · Урок 12 Р2 |
+| didn't answer my email**,** I will call him | …my email**, so** I will call him | «тому» випало — два речення не склеюються самою комою, потрібен so / and / but | 26.09 · Урок 12 Р3 |
+| left the meeting early and **go** home | and **went** home | друге дієслово після and — теж у минулому, не базова форма | 26.09 · Урок 12 Р3 |
+| went home **in the car** *(«машиною»)* | went home **by car** | спосіб пересування — by + транспорт без артикля; in the car = у машині як місце | 26.09 · Урок 12 Р3 |
+| We arriving **at** → **in** the office *(дриль)* | We**'ll arrive** at the office | 🎯 be-omission ×2 (Р2 We arriving in Lviv); у дрилі «виправив» правильний прийменник, а -ing без will не побачив | 26.09 · Урок 12 Р3 |
+| looked at phone → looked **on** the phone *(дриль)* | looked at **his** phone | `look on` не існує; справжня помилка — phone без визначника; «раунд про прийменники → помилка в прийменнику» — хибний рефлекс | 26.09 · Урок 12 Р3 |

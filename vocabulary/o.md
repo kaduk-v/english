@@ -1,6 +1,6 @@
 # O
 
-**Зміст:** [obey](#obey) · [object](#object) · [objection](#objection) · [obstacle](#obstacle) · [obviously](#obviously) · [occasional](#occasional) · [occupancy](#occupancy) · [occupied](#occupied) · [occupy](#occupy) · [occur](#occur) · [offend](#offend) · [on purpose](#on-purpose) · [opportunity](#opportunity) · [opposed](#opposed) · [ordinary](#ordinary) · [outlive](#outlive) · [overhaul](#overhaul) · [overlap](#overlap)
+**Зміст:** [obey](#obey) · [object](#object) · [objection](#objection) · [observation](#observation) · [obstacle](#obstacle) · [obvious](#obvious) · [obviously](#obviously) · [occasional](#occasional) · [occupancy](#occupancy) · [occupied](#occupied) · [occupy](#occupy) · [occur](#occur) · [offend](#offend) · [on purpose](#on-purpose) · [opportunity](#opportunity) · [opposed](#opposed) · [ordinary](#ordinary) · [outlive](#outlive) · [overhaul](#overhaul) · [overlap](#overlap)
 
 ---
 
@@ -16,6 +16,7 @@
 **Приклади:**
 - The dog **obeys** only one person. — Собака слухається лише однієї людини.
 - Players must **obey** the server rules. — Гравці мають дотримуватись правил сервера.
+
 
 ---
 
@@ -35,6 +36,7 @@
 
 🔗 **Пов'язане:** [objection](#objection) — іменник «заперечення».
 
+
 ---
 
 ## objection
@@ -53,6 +55,23 @@
 
 🔗 **Пов'язане:** [agree](a.md#agree) — часто йдуть поруч у реченні (agreed... without objections).
 
+
+---
+
+## observation
+**observation** /ˌɒbzəˈveɪʃn/ — <code>noun</code> (іменник) — спостереження; зауваження (результат спостереження)
+
+**Пояснення:** і сам процес (уважно дивитися), і висновок із нього («я помітив, що…»). Дієслово — **observe** (спостерігати; зауважити), людина — **observer**. `Observation` — нейтральне зауваження; порівняй **remark** (репліка) і **comment**.
+
+**💡 Сталі вирази:**
+- **make an observation** — висловити спостереження: Can I **make an observation**? — Можна зауваження?
+- **under observation** — під наглядом (лікарі, поліція)
+- **powers of observation** — спостережливість
+
+**Приклади:**
+- Her **observation** about the bug turned out to be right. — Її спостереження щодо бага виявилось правильним. _(розробка)_
+- The patient stayed **under observation** overnight. — Пацієнт залишався під наглядом до ранку.
+
 ---
 
 ## obstacle
@@ -63,6 +82,24 @@
 **Приклади:**
 - The knight jumped over every **obstacle** on the course. — Лицар перестрибнув кожну перешкоду на трасі.
 - Lack of tests is the main **obstacle** to a fast release. — Брак тестів — головна перешкода для швидкого релізу.
+
+
+---
+
+## obvious
+**obvious** /ˈɒbviəs/ — <code>adjective</code> (прикметник) — очевидний
+
+**Пояснення:** те, що видно одразу, без пояснень. Прислівник — **obviously** (очевидно, звісно). Розмовно: **Obviously!** — Ну звісно!
+
+**💡 Конструкції:**
+- **it's obvious that …** — очевидно, що: **It's obvious that** I ground it too fine. — Очевидно, що я змолов надто дрібно.
+- **obvious to** sb — очевидно для когось: It was **obvious to** everyone. — Це було очевидно для всіх.
+- **for obvious reasons** — зі зрозумілих причин
+- **state the obvious** — казати очевидне
+
+**Приклади:**
+- The answer is **obvious** — restart the server. — Відповідь очевидна — перезапусти сервер. _(розробка)_
+- It was **obvious** from her face that she was tired. — З її обличчя було очевидно, що вона втомлена.
 
 ---
 
@@ -75,6 +112,7 @@
 - **Obviously**, the server is down again. — Очевидно, сервер знову лежить.
 - He was **obviously** tired after the raid. — Він був явно втомлений після рейду.
 
+
 ---
 
 ## occasional
@@ -85,6 +123,7 @@
 **Приклади:**
 - We have **occasional** in-person meetings, but mostly work remotely. — У нас рідкісні особисті зустрічі, але переважно працюємо віддалено.
 - An **occasional** bug is normal; constant crashes aren't. — Зрідкачасний баг — це нормально; постійні збої — ні.
+
 
 ---
 
@@ -97,6 +136,7 @@
 - The hotel has 90% **occupancy** in summer. — Улітку готель заповнений на 90%.
 
 🔗 Пов'язане: [occupy](#occupy)
+
 
 ---
 
@@ -111,6 +151,7 @@
 
 🔗 Пов'язане: [occupy](#occupy)
 
+
 ---
 
 ## occupy
@@ -121,6 +162,7 @@
 **Приклади:**
 - The database **occupies** half of the disk. — База даних займає половину диска.
 - Enemy troops **occupied** the fortress. — Ворожі війська окупували фортецю.
+
 
 ---
 
@@ -135,6 +177,7 @@
 - The bug **occurs** only in release builds. — Баг трапляється лише в релізних збірках.
 - It suddenly **occurred to** me that the token had expired. — Мені раптом спало на думку, що токен протермінувався.
 
+
 ---
 
 ## offend
@@ -147,6 +190,7 @@
 **Приклади:**
 - I didn't mean to **offend** you. — Я не хотів тебе образити.
 - He **was offended** by the joke about his code. — Його образив жарт про його код.
+
 
 ---
 
@@ -162,6 +206,7 @@
 - I skipped that level **on purpose**. — Я пропустив той рівень спеціально.
 
 🔗 Пов'язане: [purpose](p.md#purpose)
+
 
 ---
 
@@ -180,6 +225,7 @@
 - This project is a great **opportunity to** work with a new team. — Цей проєкт — чудова нагода попрацювати з новою командою.
 - Don't **miss the opportunity** — the offer ends on Friday. — Не упусти нагоду — пропозиція діє до п'ятниці.
 
+
 ---
 
 ## opposed
@@ -193,6 +239,7 @@
 - My parents **are opposed to** the idea. — Мої батьки проти цієї ідеї.
 - I write TypeScript, **as opposed to** plain JavaScript. — Я пишу TypeScript, а не звичайний JavaScript.
 
+
 ---
 
 ## ordinary
@@ -203,6 +250,7 @@
 **Приклади:**
 - It looked like an **ordinary** sword, but it was magic. — Меч виглядав звичайним, але був чарівним.
 - Nothing **out of the ordinary** happened yesterday. — Учора не сталося нічого незвичайного.
+
 
 ---
 
@@ -215,6 +263,7 @@
 - Elves **outlive** humans by centuries. — Ельфи переживають людей на століття.
 - This legacy code will **outlive** us all. — Цей легасі-код переживе нас усіх.
 
+
 ---
 
 ## overhaul
@@ -225,6 +274,7 @@
 **Приклади:**
 - verb: We completely **overhauled** the settings screen. — Ми повністю переробили екран налаштувань.
 - noun: The combat system needs a full **overhaul**. — Бойова система потребує повної переробки.
+
 
 ---
 

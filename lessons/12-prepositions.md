@@ -507,3 +507,121 @@
 ### Щоденник
 
 Три речення про сьогоднішній день — одразу англійською, без української чернетки. У Р4 його не було — надішли разом із цим раундом.
+
+### Відповіді учня
+
+1. We are late for the meeting, but I'm thankful for that they are waiting for us.
+2. The last two releases were hard: we reverted them and looked at logs again.
+3. I quit this habit last year - now I divide the portion into two parts and eat slowly.
+4. Not yet, I'm still looking at logs and can't found the issue.
+5. Yes, we have. Mark wrote the guide last month and I'm thankful him for it - it's a good opportunity to figure out quickly.
+6. Last week quit coffee for two weeks. I failed on the ninth day - the colleague brought a Mock pot in the office.
+7. Ми запізнилися на виступ знову. Останні дві зустрічі почалися о 9:15 і ніхто не дивився на годинник. Тепер менеджер хоче поділити команду на дві групи та повернути старий розклад. Я не радий цьому - це дивне рішення.
+8. convenient, proud та late - прикметники, тому вони вимагають дієслово be (у відповідній формі). Другу частину питання не зрозумів.
+9. a) We are late for the meeting again. b) She usually reads the guide before work. c) I quit coffee last month, and I'm proud of it. d) The last two issues were easy, so we fixed them quickly. e) Look at the logs — the error is there. *(f — пропущено)* g) Don't worry — we reverted the last two commits an hour ago.
+10. *«Я минулого разу не зрозумів цього завдання, і цього разу не зрозуміло що саме міняти, пишу те що поняв»* a) I was late for the meeting, but I'm thankful that they're patient. b) She was late for the meeting. c) We're late for the meeting, but I was thankful that they were patient. d) We're late for a bus.
+11. I'm reading a book. They found the bug and immediately fixed it. The last two seasons of that serial were awful. I pushed the changes with a bug on production - could you help me to revert it? I'm thankful for your advice about a new structure of project.
+
+Щоденник — не надіслано (другий раунд поспіль).
+
+### Перевірка Раунду 5 — ❌ (13 помилок)
+
+**Коротко:** мішені Р4 закриті майже всі. **be-omission — нуль** за весь раунд (`We are late`, `I'm thankful` ×3, `I'm still looking`, `I'm proud`, `I'm reading`); `-s` ✅ (`she reads`); `the last two` ×4 ✅; `look at` ×3 ✅; дриль 6/6 із знайдених — усі правильно; п.8 — правило назване точно. Об'єкт — 3 з 5: `reverted them`, `fixed them`, `fixed it` ✅, але `eat ∅ slowly` і `figure out ∅` — обидва там, де після дієслова стоїть прислівник або частка, і об'єкт «нікуди поставити». Зворотний переклад показав нове: підмет `I` зник після обставини часу (`Last week ∅ quit`) — та сама дірка, що `Last time ∅ was starting` у Р4. Прийменники теми: `thankful for that`, `thankful ∅ him`, `brought … in the office` — три, усі про «кому / куди». Плюс `can't found`, `serial`, `standup` → «виступ». Рамка — не зрозуміла (нижче — розбір на прикладі). Щоденника немає другий раз.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | thankful **for that** they are waiting | thankful **that** they are waiting | Прийменник живе перед іменником або займенником: thankful **for** the help, thankful **for** it. Перед цілим реченням із «що» (that + підмет + дієслово) прийменника не буває — `that` сам приєднує речення. `for that they` — калька з «вдячний **за те, що**». |
+| 3 | eat **∅** slowly | eat **it** slowly | 🎯 «Їм **її** повільно» — об'єкт був. `eat` тут перехідне, а `slowly` — не об'єкт, а спосіб. Порядок: дієслово → **об'єкт** → прислівник: eat **it** slowly, read **it** carefully. Прислівник не може «зайняти місце» об'єкта. |
+| 4 | can't **found** | can't **find** | Після модального (can / can't / could / should / must) — тільки базова форма. `can't` уже несе час і заперечення; `found` — минулий час, він тут зайвий. Те саме правило, що для `didn't` + база. |
+| 5 | thankful **∅ him** for it | thankful **to** him for it | «Вдячний **йому**» — англійською адресат подяки приєднується через `to`: thankful **to** sb **for** sth. Без `to` `him` повисає — прикметник не може взяти об'єкт напряму. |
+| 5 | to figure out **∅** quickly | to figure **it** out quickly / figure things out | 🎯 Об'єкт зник удруге. `figure out` — розібратись **у чомусь**; «розібратися» українською може бути без доповнення, англійською — ні. Із займенником частка стає після нього: figure **it** out. |
+| 6 | **Last week** quit | **Last month I** quit | Два зриви. (1) Твій же текст: «минулого **місяця**» → `Last month`, не week. (2) 🎯 Підмет `I` зник після обставини часу — як `Last time ∅ was starting` у Р4. Речення, що починається з часу, ще не має підмета: Last month **I** quit. |
+| 6 | **the** colleague brought | **a** colleague brought | Колега згадується вперше і слухач його не знає → `a`. `the` каже «той самий колега, про якого ми говорили» — а не говорили. |
+| 6 | brought a Moka pot **in** the office | brought … **to** the office | Тема уроку: `bring / take / go / come` + **to** — рух **до** місця. `in the office` — «в офісі» як місце, де вже є. «Приніс **в** офіс» — прийменник напрямку. *(`Mock pot` — правопис, повтор з діалогу, не рахую.)* |
+| 7 | **standup** → «виступ» | «стендап» (щоденна зустріч команди) | Лексика: `standup` в IT — ранкова коротка зустріч; «виступ» — a talk / a performance. Ти ж сам щодня на стендапі. Ще: `We're late` — «запізню**ємося**» (зараз), не «запізнилися». Решта перекладу — точна. |
+| 9f | *(пропущено)* | I bought **a** new gamepad | Речення f не виправлене і не переписане — помилку не знайдено. `gamepad` — однинний злічуваний → `a`. Те саме речення, що в твоєму міні-тексті Р4. |
+| 11 | that **serial** | that **series** / that **show** | False friend: «серіал» = **series** (однина й множина однакові: a series, two series) або **show**. `serial` — прикметник «серійний» (a serial killer, a serial number). |
+| 11 | help me to revert **it** | revert **them** | `it` — однина, а відкотити треба `the changes` (множина) → `them`. Займенник-об'єкт узгоджується з тим, що заміняє. *(`on production` — прийнятний девсленг; стандартно `to production`.)* |
+| 11 | a new structure **of project** | a new structure **of the project** / a new **project structure** | Однинний злічуваний `project` без нічого. Або `the project` (конкретний), або складений іменник `project structure`. |
+| 2, 4 | looked at **logs** / looking at **logs** | looked at **the** logs | *(не рахую)* Множина без артикля граматично можлива, але це конкретні логи цих релізів → `the logs`. |
+| 4 | *(1 речення з 2)* | — | *(не рахую)* Просили два. «Поки не впевнений» → I'm not sure yet. |
+| 11.1 | I'm **reading** a book | — | *(не рахую)* Умова «I'm + прикметник» — `reading` не прикметник, це be + -ing. Умову виконав п.11.4 (`I'm thankful`). |
+| 8, 9a–e, 9g, 10a, 11 (умови) | — | ✅ | be — жодного пропуску за раунд. Дриль 6/6 із виконаних. Міні-текст 4/4; слова: revert, thankful. |
+
+*Повна теорія — у [prepositions.md](../grammar/a1-a2/prepositions.md) (§4 напрямок) і `rules.md` (§1 підмет після обставини, об'єкт; §8 thankful to / for; §17 series).*
+
+**П.8, друга частина — що я питав:** у Р4 з `it` be був (`it's convenient`), а з `I` / `we` — ні. Причина не в правилі — правило ти знаєш. Причина в тому, що `it's` стояло в чек-листі перед очима, а `I proud` / `we late` ти складав із української структури «я гордий», «ми спізнюємось» — де дієслова немає. Тобто be з'являється, коли ти *перевіряєш*, і зникає, коли *перекладаєш*. У Р5 be не пропав жодного разу — бо перевірка стала частиною процесу. Так само треба зробити з об'єктом.
+
+**Рамка — розбір на прикладі, бо двічі не зрозуміло.** Зразок — це шаблон. Кожен варіант — **те саме речення, повністю**, у якому змінено **рівно одне** слово чи вираз. Візьмемо інший зразок: *She brews coffee in the kitchen every morning.*
+- «підмет → I» → **I brew** coffee in the kitchen every morning. *(змінилось she → I, і за ним — форма дієслова; решта — слово в слово)*
+- «місце → at work» → She brews coffee **at work** every morning.
+- «час → вчора» → She **brewed** coffee in the kitchen **yesterday**. *(час тягне за собою дієслово)*
+У твоїх варіантах Р5: a) — перша частина пішла в минуле, хоча слот був «підмет»; b) і d) — зникла друга половина; c) — «вчора» змінило другу частину, а перша лишилась у теперішньому (`We're late … I was thankful`). Мета вправи — навчитись тримати всю конструкцію і рухати в ній один елемент. У Р6 — ще раз, зі зразком без «пасток».
+
+---
+
+## Раунд 6
+
+**Слова раунду:** brew · sip · bitter · cupboard · bother · obvious · doubt *(усі — в [словнику](../vocabulary/_index.md); мають з'явитись у твоїх відповідях)*
+
+**Мішені (з Раунду 5):** **об'єкт перед прислівником / часткою** (eat **it** slowly, figure **it** out) · **підмет після обставини часу** (Last month **I** quit) · `thankful to sb for sth` / `thankful that …` (без for) · модальне + база (can't **find**) · `a` при першій згадці · `bring / take` + **to** + місце · `series` ≠ serial.
+
+**Перед здачею:** «спочатку час, потім дієслово». Потім три питання до кожного речення: **(1)** речення починається з часу (Last week, Yesterday, Now) → де підмет? **(2)** дієслово дії → де об'єкт, і чи стоїть він одразу після дієслова, перед прислівником? **(3)** підмет + прикметник → є be?
+
+### Частина 1 — UA → EN
+
+1. Минулого тижня я змолов зерна надто дрібно — кава була гірка, і я вилив її повільно в раковину.
+2. Учора колега приніс нову кавомолку в офіс і поставив її в шафку.
+3. Я вдячний йому за це, але сумніваюся, що вона поміститься поруч із чашками.
+
+### Частина 2 — ситуація → речення
+
+4. Ти на кухні в офісі. Колега питає, чому ти не п'єш каву, яку щойно заварив. Поясни: вона надто гірка, це очевидно з першого ковтка, і ти не можеш її допити. *(2 речення; вжий `bitter`, `sip`, `obvious`)*
+5. Друг пропонує купити тобі нову кавоварку. Відповідай: не варто завдавати собі клопоту, стара досі працює, і ти в цьому не сумніваєшся. *(2 речення; вжий `bother`, `doubt`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій український переклад із Раунду 5 (з виправленим «стендап»). Назад англійською, **не дивлячись в оригінал** — порівняю рядок у рядок:
+   > Ми запізнюємося на стендап знову. Останні дві зустрічі почалися о 9:15 і ніхто не дивився на годинник. Тепер менеджер хоче поділити команду на дві групи та повернути старий розклад. Я не радий цьому — це дивне рішення.
+
+### Частина 4 — EN → UA
+
+7. > I brew coffee in the kitchen every morning and sip it slowly at my desk. Yesterday the coffee was bitter — it's obvious that I ground it too fine. My grinder lives in the cupboard next to the cups. Don't bother buying a new one; I have no doubt that the old one still works.
+
+   *Весь текст — він стане джерелом для Частини 3 у Раунді 7.*
+
+### Частина 5 — граматика своїми словами
+
+8. Чому `I'm thankful **to** him` і `thankful **for** it`, але `thankful **that** they're waiting` — без прийменника? Що може стояти після прийменника, а що — не може?
+
+### Частина 6 — дриль: чанки
+
+9. Кожну українську фразу — англійським чанком, по 10 секунд, не думаючи над словами окремо:
+    a) вдячний йому за це
+    b) не можу знайти проблему
+    c) швидко розібратися з цим
+    d) заварити каву й пити її маленькими ковтками
+    e) відкотити останні два коміти
+    f) у шафці біля чашок
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **I can't find the issue, so I'll look at the logs again.** Зроби 4 варіанти. Кожен — **усе речення цілком, обидві частини**, змінено тільки названий слот:
+    a) підмет → `he` *(в обох частинах; can't не змінюється, а 'll — теж ні)*
+    b) підмет → `we`
+    c) час → вчора *(`can't` → `couldn't`, `'ll look` → `looked`; решта — слово в слово)*
+    d) що шукаю → інше (the bug / my keys / the lid)
+
+### Частина 8 — міні-текст
+
+11. **4–6 речень**, тема на вибір. 4 умови — перевір кожну ОКРЕМО:
+    - **одне речення** починається з часу (Last week / Yesterday / Every morning) — і має підмет одразу після нього;
+    - **одне речення** з дієсловом + займенником-об'єктом + прислівником (sip **it** slowly, fix **it** quickly);
+    - **одне речення** з `thankful to` або `thankful that`;
+    - **два слова зі списку раунду** (brew · sip · bitter · cupboard · bother · obvious · doubt).
+
+### Щоденник
+
+Три речення про сьогоднішній день — одразу англійською. Два раунди без щоденника — це третій; він частина раунду.
+
+*Після перевірки Р6 — Діалог 2 (кожен третій раунд).*

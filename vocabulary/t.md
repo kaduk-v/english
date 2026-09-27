@@ -1,6 +1,6 @@
 # T
 
-**Зміст:** [take](#take) · [tend](#tend) · [thankful](#thankful) · [thirsty](#thirsty) · [though](#though) · [thought](#thought) · [threat](#threat) · [towards](#towards) · [town](#town) · [traitor](#traitor) · [treat](#treat) · [tremors](#tremors) · [trick](#trick) · [tweak](#tweak) · [turn out](#turn-out) · [typically](#typically)
+**Зміст:** [take](#take) · [tend](#tend) · [thankful](#thankful) · [thick](#thick) · [thirsty](#thirsty) · [though](#though) · [thought](#thought) · [threat](#threat) · [towards](#towards) · [town](#town) · [traitor](#traitor) · [treat](#treat) · [tremors](#tremors) · [trick](#trick) · [turn out](#turn-out) · [tweak](#tweak) · [typically](#typically)
 
 ---
 
@@ -14,6 +14,7 @@
 - Let's **take a break**. — Зробімо перерву.
 - Where did the event **take place**? — Де відбулася подія?
 
+
 ---
 
 ## tend
@@ -26,6 +27,7 @@
 **Приклади:**
 - Junior devs **tend to** over-engineer simple features. — Джуніори схильні переускладнювати прості фічі.
 - I **tend to** stay up late when I play online. — Я зазвичай засиджуюся допізна, коли граю онлайн.
+
 
 ---
 
@@ -43,6 +45,24 @@
 - I'm **thankful that** the tests caught the bug before release. — Я вдячний, що тести зловили баг до релізу.
 - **Thankfully**, nobody was hurt. — На щастя, ніхто не постраждав.
 
+
+---
+
+## thick
+**thick** /θɪk/ — <code>adjective</code> (прикметник) — товстий; густий; щільний
+
+**Пояснення:** протилежність `thin`. Про предмети — товстий (a thick book, thick walls); про рідини — густий (thick soup, thick sauce); про туман, дим, волосся, ліс — густий/щільний. Іменник — **thickness** (товщина).
+
+**💡 Сталі вирази:**
+- **thick fog / thick smoke** — густий туман / дим
+- **a thick layer of** — товстий шар чогось
+- **through thick and thin** — крізь усе, у горі й радості
+
+**Приклади:**
+- The book is too **thick** to read in one evening. — Книжка надто товста, щоб прочитати за вечір.
+- The fog was so **thick** that we couldn't see the road. — Туман був такий густий, що ми не бачили дороги.
+- She has **thick** dark hair. — У неї густе темне волосся.
+
 ---
 
 ## thirsty
@@ -53,6 +73,7 @@
 **Приклади:**
 - After the long dungeon run I was really **thirsty**. — Після довгого забігу підземеллям мені дуже хотілося пити.
 - The young knight was **thirsty for** adventure. — Юний лицар прагнув пригод.
+
 
 ---
 
@@ -70,6 +91,7 @@
 - **Though** the quest was hard, we finished it. — Хоча квест був складний, ми його завершили.
 - The update is buggy. I like the new design, **though**. — Оновлення глючне. Але новий дизайн мені подобається, проте.
 
+
 ---
 
 ## thought
@@ -81,6 +103,7 @@
 - I **thought** you were offline. — Я думав, ти офлайн.
 - She shared her **thoughts** about the new feature. — Вона поділилася думками про нову фічу.
 
+
 ---
 
 ## threat
@@ -91,6 +114,7 @@
 **Приклади:**
 - Climate change is a **threat to** the whole planet. — Зміна клімату — загроза для всієї планети.
 - The virus is a serious **threat**. — Вірус — серйозна загроза.
+
 
 ---
 
@@ -104,6 +128,7 @@
 **Приклади:**
 - The NPC slowly walked **towards** the gate. — NPC повільно йшов у бік воріт.
 - His attitude **towards** testing has changed. — Його ставлення до тестування змінилося.
+
 
 ---
 
@@ -119,6 +144,7 @@
 - She lives in a small **town** near Lviv. — Вона живе в маленькому містечку біля Львова.
 - He moved from a **village** to the **city**. — Він переїхав із села у велике місто.
 
+
 ---
 
 ## traitor
@@ -129,6 +155,7 @@
 **Приклади:**
 - The king trusted him, but he was a **traitor**. — Король довіряв йому, але він був зрадником.
 - In this game one player is secretly a **traitor**. — У цій грі один гравець — таємний зрадник.
+
 
 ---
 
@@ -147,6 +174,7 @@
 - Let's grab pizza — **my treat**! — Ходімо на піцу — я пригощаю!
 - Ice cream is her favourite **treat**. — Морозиво — її улюблений смаколик.
 
+
 ---
 
 ## tremors
@@ -157,6 +185,7 @@
 **Приклади:**
 - Small **tremors** shook the village before the dragon appeared. — Слабкі поштовхи струснули село, перш ніж з'явився дракон.
 - Too much coffee gives me hand **tremors**. — Від завеликої кількості кави в мене тремтять руки.
+
 
 ---
 
@@ -173,16 +202,6 @@
 - The goblin **tricked** us **into** opening the gate. — Гоблін хитрістю змусив нас відчинити ворота.
 - He showed me a cool card **trick**. — Він показав мені класний картковий фокус.
 
----
-
-## tweak
-**tweak** /twiːk/ — 1. <code>verb</code> (дієслово) — підкрутити, трохи підправити 2. <code>noun</code> (іменник) — дрібне налаштування, невелика правка
-
-**Пояснення:** маленька точкова зміна, щоб стало краще — конфіг, анімація, баланс у грі. Улюблене слово в чейнджлогах: minor tweaks.
-
-**Приклади:**
-- I **tweaked** the animation timing and now it feels smooth. — Я підкрутив тайминг анімації, і тепер вона плавна.
-- The release includes a few small UI **tweaks**. — У релізі кілька дрібних UI-правок.
 
 ---
 
@@ -200,6 +219,19 @@
 - The meeting **turned out** to be very useful. — Зустріч виявилась дуже корисною.
 - Everything **turned out** fine in the end. — Врешті все обернулося добре.
 - It **turned out that** the bug was in the config, not the code. — Виявилося, що баг був у конфігу, а не в коді.
+
+
+---
+
+## tweak
+**tweak** /twiːk/ — 1. <code>verb</code> (дієслово) — підкрутити, трохи підправити 2. <code>noun</code> (іменник) — дрібне налаштування, невелика правка
+
+**Пояснення:** маленька точкова зміна, щоб стало краще — конфіг, анімація, баланс у грі. Улюблене слово в чейнджлогах: minor tweaks.
+
+**Приклади:**
+- I **tweaked** the animation timing and now it feels smooth. — Я підкрутив тайминг анімації, і тепер вона плавна.
+- The release includes a few small UI **tweaks**. — У релізі кілька дрібних UI-правок.
+
 
 ---
 

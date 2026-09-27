@@ -37,8 +37,11 @@
   - ❌ He hardly reads, although works hard. → ✅ He hardly reads, although **he** works hard.
   - Українською другий підмет можна пропустити («хоча працює наполегливо»); англійською — ні.
   - ❌ Last time was starting at 9:30. → ✅ Last time **it** started at 9:30. («почалося» — підмет `it` обов'язковий; *Last time* — обставина, не підмет)
+- **Речення починається з часу → підмет усе одно потрібен:** обставина часу підметом не є.
+  - ❌ Last month quit coffee. → ✅ Last month **I** quit coffee. · ❌ Yesterday was raining. → ✅ Yesterday **it** was raining.
 - **Перехідне дієслово потребує об'єкта.** divide, fix, revert, grind, get, bring — «на кого / що» не пропускається, навіть якщо з контексту зрозуміло:
   - ❌ I divide into three cups. → ✅ I divide **it** into three cups. · ❌ Please grind for a Moka pot. → ✅ Please grind **it** for a Moka pot.
+  - Об'єкт стоїть **одразу після дієслова, перед прислівником**; прислівник його не заміняє: ❌ eat slowly → ✅ eat **it** slowly · ❌ figure out quickly → ✅ figure **it** out quickly.
 
 > 💡 Аналогія: у JS не буває виразу без значення. Тут не буває речення без підмета й дієслова — «порожнє місце» треба заповнити (`it` / `be`), як заглушку.
 
@@ -127,6 +130,9 @@
 | object **to** sth | заперечувати проти | object sth |
 | be late **for** sth | спізнюватись на (зустріч, роботу, потяг) | late at *(at the meeting = уже на зустрічі, як місце)* |
 | habit **of** doing sth | звичка щось робити | habit to do |
+| thankful / grateful **to** sb **for** sth | вдячний комусь за щось | thankful him |
+| thankful **that** + речення | вдячний, що… (перед that прийменника немає) | thankful for that they… |
+| bring / take / go / come **to** + місце | принести / піти **в** (рух до) | bring in the office *(in = уже всередині)* |
 
 > Деталі по `complain about` vs `complain to` — у `vocabulary/c.md`.
 > Окремо: **speak English** — «розмовляти англійською» БЕЗ прийменника: ❌ speak **on** English → ✅ speak English.
@@ -224,6 +230,7 @@
 - **Чанки, які не перекладаються словами:** «час від часу» = **from time to time** (❌ time by time) · «із задоволенням» = **with pleasure** / I'd love to (❌ I'd pleasure) · «яка різниця» = **the difference between** (❌ which difference) · «половина чогось» = **half a** cup / hour (❌ a half of cup) · «поділити на» = **divide into** (❌ divide in).
 - **by** (транспорт, спосіб: by bus, by email) vs **with** (інструмент у руках: with a knife, with a Moka pot): ✅ I make coffee **with a** Moka pot. ❌ by Moka pot.
 - **grind → ground → ground** («молоти»; *ground coffee* — мелена кава) vs **grounded** (від дієслова *ground* — заземлити / залишити без прогулянок: *He's grounded*). ❌ grounded coffee · ❌ Please ground it → ✅ Please **grind** it.
+- **series** («серіал»; однина = множина: a series, two series) / **show** vs **serial** (прикметник «серійний»: a serial number). ❌ that serial → ✅ that **series**.
 - **change jobs / trains / hands** — «змінити роботу / пересісти / перейти з рук у руки» — множина без артикля: ✅ I want to **change jobs**. ❌ change a job.
 - **wait for** («чекати» — фізично, поки прийде) vs **expect** («очікувати» — подумки, вважати, що станеться): ✅ I'm **waiting for** an answer. / I **expect** rain tomorrow. ❌ expecting for.
 - **fall → fell** («падати») vs **feel → felt** («почуватися»): `felt` — сім'я «ee → e + t» (kept, slept, met); `fell` — лишається подвійне **ll** від fall. ✅ I **fell** down. / I **felt** tired.

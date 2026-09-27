@@ -1,6 +1,6 @@
 # M
 
-**Зміст:** [make](#make) · [martial](#martial) · [matter](#matter) · [mature](#mature) · [meaningful](#meaningful) · [merely](#merely) · [mesh](#mesh) · [mind-blowing](#mind-blowing) · [mindset](#mindset) · [miss](#miss) · [missile](#missile)
+**Зміст:** [make](#make) · [martial](#martial) · [matter](#matter) · [mature](#mature) · [meaningful](#meaningful) · [merely](#merely) · [mesh](#mesh) · [mind-blowing](#mind-blowing) · [mindset](#mindset) · [miss](#miss) · [missile](#missile) · [moisture](#moisture)
 
 ---
 
@@ -19,6 +19,7 @@
 - This error message doesn't **make** sense. — Це повідомлення про помилку не має сенсу.
 - I'm **making** progress with my English. — Я роблю прогрес в англійській.
 
+
 ---
 
 ## martial
@@ -34,6 +35,7 @@
 **Приклади:**
 - My character has mastered three **martial arts**. — Мій персонаж опанував три бойові мистецтва.
 - The government declared **martial law**. — Уряд оголосив воєнний стан.
+
 
 ---
 
@@ -53,6 +55,7 @@
 - noun: What's the **matter**? You look tired. — Що сталося? Ти виглядаєш утомленим.
 - noun: A crash in production is a serious **matter**. — Падіння на проді — серйозна справа.
 
+
 ---
 
 ## mature
@@ -64,6 +67,7 @@
 - That's a **mature** approach to handling conflict. — Це зрілий підхід до вирішення конфлікту.
 - Node.js has a **mature** ecosystem of libraries. — У Node.js зріла екосистема бібліотек.
 
+
 ---
 
 ## meaningful
@@ -74,6 +78,7 @@
 **Приклади:**
 - Use **meaningful** variable names, not `x1` and `tmp`. — Використовуй змістовні імена змінних, а не `x1` і `tmp`.
 - We had a **meaningful** conversation about the future. — У нас була змістовна розмова про майбутнє.
+
 
 ---
 
@@ -88,6 +93,7 @@
 - It's **merely** a warning, not an error. — Це лише попередження, а не помилка.
 - He is **merely** a level-one goblin. — Він усього лише гоблін першого рівня.
 
+
 ---
 
 ## mesh
@@ -100,6 +106,7 @@
 - noun: A service **mesh** manages traffic between microservices. — Service mesh керує трафіком між мікросервісами.
 - verb: Their play styles **mesh** well. — Їхні стилі гри добре поєднуються.
 
+
 ---
 
 ## mind-blowing
@@ -111,6 +118,7 @@
 - The plot twist in the last act was **mind-blowing**. — Сюжетний поворот в останньому акті був приголомшливий.
 - The demo looked **mind-blowing** on the big screen. — Демо на великому екрані виглядало неймовірно.
 
+
 ---
 
 ## mindset
@@ -121,6 +129,7 @@
 **Приклади:**
 - A growth **mindset** helps you learn faster. — Установка на зростання допомагає вчитися швидше.
 - You need the right **mindset** before a match. — Тобі потрібне правильне налаштування перед матчем.
+
 
 ---
 
@@ -138,6 +147,7 @@
 - I really **miss** my old team. — Я дуже сумую за старою командою.
 - He **missed** the last penalty. — Він не забив останній пенальті.
 
+
 ---
 
 ## missile
@@ -148,3 +158,14 @@
 **Приклади:**
 - The system detected an incoming **missile**. — Система виявила ракету, що наближається.
 - Anti-tank **missiles** were delivered. — Було доставлено протитанкові ракети.
+
+---
+
+## moisture
+**moisture** /ˈmɔɪstʃə/ — <code>noun</code> (іменник, незлічуваний) — волога, вологість
+
+**Пояснення:** сама волога — краплі, вологість у речовині чи на поверхні. Прикметник — **moist** (вологий; про торт — соковитий). Не плутай із **humidity** — вологість повітря як показник (humidity 80%).
+
+**Приклади:**
+- Keep ground coffee away from **moisture** and light. — Тримай мелену каву подалі від вологи й світла.
+- There's **moisture** on the inside of the window. — На внутрішньому боці вікна волога.

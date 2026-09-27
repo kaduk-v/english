@@ -1,6 +1,6 @@
 # F
 
-**Зміст:** [fade](#fade) · [fail](#fail) · [failure](#failure) · [fall](#fall) · [fault](#fault) · [feat](#feat) · [flap](#flap) · [flatness](#flatness) · [flatten](#flatten) · [fluency](#fluency) · [foreword](#foreword) · [forge](#forge) · [fortunately](#fortunately) · [foundation](#foundation) · [fret](#fret) · [fuel](#fuel) · [further](#further)
+**Зміст:** [fade](#fade) · [fail](#fail) · [failure](#failure) · [fair](#fair) · [fall](#fall) · [fault](#fault) · [feat](#feat) · [fit](#fit) · [fix](#fix) · [flap](#flap) · [flat](#flat) · [flatness](#flatness) · [flatten](#flatten) · [flavour](#flavour) · [fluency](#fluency) · [foreword](#foreword) · [forge](#forge) · [fortunately](#fortunately) · [foundation](#foundation) · [fret](#fret) · [fuel](#fuel) · [further](#further)
 
 ---
 
@@ -13,6 +13,7 @@
 - The screen **fades** to black when your hero dies. — Екран плавно темніє, коли твій герой гине. _(гра)_
 - The toast message **fades out** after two seconds. — Спливне повідомлення плавно зникає за дві секунди. _(розробка)_
 - My old T-shirt has **faded** after so many washes. — Моя стара футболка виблякла після стількох прань.
+
 
 ---
 
@@ -33,6 +34,7 @@
 
 🔗 **Пов'язане:** [failure](#failure) — іменник.
 
+
 ---
 
 ## failure
@@ -51,6 +53,26 @@
 - Every **failure** teaches you something. — Кожна невдача чогось учить.
 
 🔗 **Пов'язане:** [fail](#fail).
+
+
+---
+
+## fair
+**fair** /feə/ — 1. <code>adjective</code> (прикметник) — справедливий, чесний; світлий (волосся, шкіра); ясний (погода) 2. <code>noun</code> (іменник) — ярмарок 3. <code>adverb</code> (прислівник) — чесно
+
+**Пояснення:** головне значення — «справедливо, за правилами». Іменник — окреме слово: a trade fair — виставка, a job fair — ярмарок вакансій. Прислівник — **fairly**: «досить» (fairly good) або «чесно».
+
+**💡 Сталі вирази:**
+- **That's not fair!** — Це нечесно!
+- **Fair enough.** — Ну гаразд, згоден (приймаю аргумент).
+- **a fair amount of / a fair number of** — чимало: a **fair amount of** work — чимало роботи
+- **fair play** — чесна гра · **play fair** — грати чесно
+- **fair-haired** — світловолосий
+
+**Приклади:**
+- adj: It's not **fair** that she does all the work. — Нечесно, що всю роботу робить вона.
+- adj: He has **fair** hair and blue eyes. — У нього світле волосся і блакитні очі.
+- n: We met at a job **fair** last spring. — Ми познайомились на ярмарку вакансій минулої весни.
 
 ---
 
@@ -76,6 +98,7 @@
 
 🔗 **Пов'язане:** [asleep](a.md#asleep) · всі форми fall/feel — [irregular-verbs.md](../irregular-verbs.md).
 
+
 ---
 
 ## fault
@@ -92,6 +115,7 @@
 - The C process crashed with a **segmentation fault**. — Процес на C впав з помилкою сегментації. _(розробка)_
 - It's not your **fault** that the boss is unbeatable. — Це не твоя вина, що бос непереможний. _(гра)_
 
+
 ---
 
 ## feat
@@ -106,6 +130,46 @@
 - My character picked a new **feat** at level four. — Мій персонаж узяв новий талант на четвертому рівні. _(D&D)_
 - Zero-downtime migration is **no small feat**. — Міграція без даунтайму — неабияке досягнення. _(розробка)_
 
+
+---
+
+## fit
+**fit** /fɪt/ — 1. <code>verb</code> (дієслово) — підходити за розміром; вміщатися 2. <code>adjective</code> (прикметник) — у формі, здоровий 3. <code>noun</code> (іменник) — відповідність
+
+**Пояснення:** дієслово про розмір і простір (чи «влазить»), прикметник про фізичну форму. Форми: fit – fit – fit (AmE) / fitted (BrE).
+
+**💡 Конструкції:**
+- **fit** sb / sth — підходити за розміром (БЕЗ прийменника): These jeans don't **fit** me. — Ці джинси мені не підходять за розміром.
+- **fit in / into** sth — вміщатися в: The pot won't **fit in** the cupboard. — Каструля не влізе в шафку.
+- **fit in** (with people) — вписуватись у колектив: He quickly **fitted in** with the team. — Він швидко влився в команду.
+- **be / keep fit** — бути / тримати себе у формі: I run to **keep fit**. — Бігаю, щоб бути у формі.
+- **a good fit for** — добре підходить (людина під роль, річ під потребу): She's **a good fit for** the role. — Вона добре підходить на цю роль.
+- ⚠️ **fit ≠ suit:** *fit* — за розміром; *suit* — личить (колір, стиль): The jacket **fits** but doesn't **suit** me. — Піджак за розміром, але мені не личить.
+
+**Приклади:**
+- v: This lid doesn't **fit** the pot. — Ця кришка не підходить до каструлі.
+- adj: My grandfather is 80 and still very **fit**. — Дідусеві 80, і він досі у чудовій формі.
+- n: The new library is **a good fit for** our stack. — Нова бібліотека добре лягає на наш стек. _(розробка)_
+
+---
+
+## fix
+**fix** /fɪks/ — 1. <code>verb</code> (дієслово) — лагодити, виправляти; закріплювати; призначати (дату) 2. <code>noun</code> (іменник) — виправлення; швидке рішення
+
+**Пояснення:** головне значення — «зробити так, щоб знову працювало». У розробці — виправити баг. Перехідне: після `fix` завжди є ЩО лагодиш.
+
+**💡 Конструкції:**
+- **fix** sth — об'єкт обов'язковий: We **fixed it** quickly. ❌ We fixed quickly
+- **a quick fix** — швидке латання (часто з відтінком «тимчасове»)
+- **a bug fix / hotfix** — виправлення бага
+- **fix a date / a time** — призначити дату / час: Let's **fix a date** for the demo. — Домовмось про дату демо.
+- **fix** sth **to** the wall — закріпити на стіні
+
+**Приклади:**
+- v: They found the bug and immediately **fixed it**. — Вони знайшли баг і одразу виправили його. _(розробка)_
+- v: Can you **fix** the lid? It doesn't close. — Полагодиш кришку? Вона не закривається.
+- n: This is just **a quick fix** — we'll rewrite it later. — Це лише швидке латання, потім перепишемо.
+
 ---
 
 ## flap
@@ -118,6 +182,26 @@
 - verb: The banner **flapped** in the cold wind. — Знамено лопотіло на холодному вітрі.
 - noun: Close the tent **flap** — it's freezing outside. — Закрий полог намету — надворі мороз.
 
+
+---
+
+## flat
+**flat** /flæt/ — 1. <code>adjective</code> (прикметник) — плаский, рівний; спущений, сілий; невиразний 2. <code>noun</code> (іменник) — квартира (BrE)
+
+**Пояснення:** базове значення — «без опуклостей». Звідси купа похідних: спущена шина, сіла батарея, кава/пиво без «живості», жарт, що не «зайшов».
+
+**💡 Значення й вирази:**
+- **a flat tyre** — спущена шина · **the battery is flat** (BrE) — батарея сіла (AmE — dead)
+- **a flat** (BrE) = **an apartment** (AmE) — квартира: a two-bedroom **flat**; **flatmate** — сусід по квартирі
+- **flat white** — кава: подвійний еспресо з молоком, тонкою піною
+- **fall flat** — провалитись (про жарт, ідею): The joke **fell flat**. — Жарт не зайшов.
+- **flat out** — на повну (working flat out) або навідріз (refuse flat out)
+
+**Приклади:**
+- adj: The road is completely **flat** here — good for cycling. — Дорога тут зовсім рівна — добре для велосипеда.
+- adj: My phone battery is **flat** again. — У мене знову сів телефон.
+- n: We rent a small **flat** near the station. — Ми орендуємо маленьку квартиру біля вокзалу.
+
 ---
 
 ## flatness
@@ -129,6 +213,7 @@
 - Designers love the **flatness** of modern icons. — Дизайнери люблять «пласкість» сучасних іконок. _(UI)_
 
 🔗 Пов'язане: [flatten](#flatten); база — прикметник **flat**.
+
 
 ---
 
@@ -143,6 +228,23 @@
 
 🔗 Пов'язане: [flatness](#flatness); база — прикметник **flat**.
 
+
+---
+
+## flavour
+**flavour** /ˈfleɪvə/ — 1. <code>noun</code> (іменник) — смак (характерний), присмак 2. <code>verb</code> (дієслово) — присмачувати
+
+**Пояснення:** британське написання; американське — **flavor**. Різниця з `taste`: *taste* — відчуття смаку взагалі або базовий смак (a sweet taste); *flavour* — характерний «профіль» смаку (chocolate flavour, fruity flavours, a smoky flavour). **-flavoured** — зі смаком чогось: vanilla-flavoured.
+
+**💡 Сталі вирази:**
+- **What flavour …?** — З яким смаком? What **flavour** of ice cream do you want? — Тобі яке морозиво?
+- **add flavour to** — додати смаку: Garlic **adds flavour to** the sauce. — Часник додає соусу смаку.
+- **full of flavour** — насичений на смак
+
+**Приклади:**
+- n: These Ethiopian beans have a fruity **flavour**. — У цих ефіопських зерен фруктовий присмак.
+- v: The soup is **flavoured** with ginger. — Суп присмачений імбиром.
+
 ---
 
 ## fluency
@@ -153,6 +255,7 @@
 **Приклади:**
 - **Fluency** comes from speaking, not from grammar drills. — Вільне мовлення приходить із розмов, а не з вправ на граматику.
 - He answers interview questions with surprising **fluency**. — На співбесіді він відповідає напрочуд вільно. _(робота)_
+
 
 ---
 
@@ -166,6 +269,7 @@
 **Приклади:**
 - A famous game designer wrote the **foreword** to this artbook. — Передмову до цього артбука написав відомий геймдизайнер. _(ігри)_
 - I always skip the **foreword** and start with chapter one. — Я завжди пропускаю передмову і починаю з першого розділу.
+
 
 ---
 
@@ -183,6 +287,7 @@
 - The two kingdoms **forged** an alliance against the dark lord. — Два королівства «викували» союз проти темного володаря. _(фентезі)_
 - Someone **forged** my signature on the contract. — Хтось підробив мій підпис на контракті.
 
+
 ---
 
 ## fortunately
@@ -196,6 +301,7 @@
 - **Fortunately,** I had a backup of the database. — На щастя, у мене був бекап бази даних. _(розробка)_
 - **Unfortunately,** the patch broke old save files. — На жаль, патч зламав старі збереження. _(гра)_
 
+
 ---
 
 ## foundation
@@ -206,6 +312,7 @@
 **Приклади:**
 - Grammar is the **foundation** of the language. — Граматика — фундамент мови.
 - The **foundation** funds medical research. — Фонд фінансує медичні дослідження.
+
 
 ---
 
@@ -220,6 +327,7 @@
 - verb: **Don't fret** about the failed test — we'll fix it after lunch. — Не переймайся через тест, що впав, — полагодимо після обіду. _(розробка)_
 - noun: Press the string at the third **fret**. — Затисни струну на третьому ладу. _(гітара)_
 
+
 ---
 
 ## fuel
@@ -231,6 +339,7 @@
 - noun: The airship burns crystals as **fuel**. — Дирижабль спалює кристали як паливо. _(фентезі)_
 - noun: Coffee is a developer's **fuel**. — Кава — паливо розробника. _(жарт)_
 - verb: His angry comments only **fuelled** the argument. — Його злі коментарі лише підживили суперечку.
+
 
 ---
 

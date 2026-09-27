@@ -1,6 +1,23 @@
 # L
 
-**Зміст:** [late](#late) · [launch](#launch) · [lay](#lay) · [leadership](#leadership) · [least](#least) · [legacy](#legacy) · [leverage](#leverage) · [lifelike](#lifelike) · [like](#like) · [literally](#literally)
+**Зміст:** [lack](#lack) · [late](#late) · [launch](#launch) · [lay](#lay) · [leadership](#leadership) · [least](#least) · [legacy](#legacy) · [leverage](#leverage) · [lid](#lid) · [lifelike](#lifelike) · [like](#like) · [literally](#literally) · [look](#look)
+
+---
+
+## lack
+**lack** /læk/ — 1. <code>noun</code> (іменник) — брак, нестача 2. <code>verb</code> (дієслово) — не мати, відчувати брак
+
+**Пояснення:** іменник — майже завжди з **of**; дієслово — БЕЗ прийменника. Це найчастіша помилка з цим словом.
+
+**💡 Конструкції:**
+- **a lack of** + іменник — брак чогось: **a lack of** sleep / time / experience — брак сну / часу / досвіду
+- **lack** sth (дієслово, без of!): He **lacks** experience. — Йому бракує досвіду. ❌ He lacks of experience
+- **for lack of** — через брак: The project died **for lack of** money. — Проєкт помер через брак грошей.
+- **be lacking in** sth — бракувати чогось (рідше): The plan **is lacking in** detail. — Плану бракує деталей.
+
+**Приклади:**
+- n: The main problem is a **lack of** communication. — Головна проблема — брак комунікації.
+- v: The team **lacks** a strong defender. — Команді бракує сильного захисника. _(спорт)_
 
 ---
 
@@ -18,6 +35,7 @@
 - adj: Sorry, I'll be **late for** the stand-up. — Вибач, я запізнюся на стендап.
 - adv: We deployed the fix **late** at night. — Ми задеплоїли фікс пізно вночі.
 
+
 ---
 
 ## launch
@@ -28,6 +46,7 @@
 **Приклади:**
 - verb: We plan to **launch** the app in September. — Ми плануємо запустити застосунок у вересні.
 - noun: The **launch** of the new console was a huge success. — Запуск нової консолі був величезним успіхом.
+
 
 ---
 
@@ -43,6 +62,7 @@
 - She **laid** the controller on the desk. — Вона поклала джойстик на стіл.
 - **Lay** your cards on the table. — Виклади карти на стіл. _(також ідіома: говори відверто)_
 
+
 ---
 
 ## leadership
@@ -53,6 +73,7 @@
 **Приклади:**
 - Good **leadership** keeps a team motivated. — Хороше лідерство тримає команду вмотивованою.
 - The **leadership** made a final decision. — Керівництво ухвалило остаточне рішення.
+
 
 ---
 
@@ -70,6 +91,7 @@
 - The update takes **at least** five minutes. — Оновлення триває щонайменше п'ять хвилин.
 - This is the **least** useful feature in the app. — Це найменш корисна функція в застосунку.
 
+
 ---
 
 ## legacy
@@ -80,6 +102,7 @@
 **Приклади:**
 - Nobody wants to touch the **legacy** code. — Ніхто не хоче чіпати легасі-код.
 - The old king left a great **legacy**. — Старий король залишив велику спадщину.
+
 
 ---
 
@@ -92,6 +115,22 @@
 - verb: We can **leverage** our existing users to launch the new app. — Ми можемо задіяти наявних користувачів, щоб запустити новий застосунок.
 - noun: Experience gives you **leverage** in negotiations. — Досвід дає тобі перевагу в переговорах.
 
+
+---
+
+## lid
+**lid** /lɪd/ — <code>noun</code> (іменник) — кришка (каструлі, банки, коробки)
+
+**Пояснення:** знімна або відкидна кришка на ємності. Кришка пляшки — **cap** (закручується), ноутбука — теж lid, ока — **eyelid** (повіка).
+
+**💡 Сталі вирази:**
+- **put the lid on** / **take the lid off** — накрити / зняти кришку
+- **keep a lid on** sth — тримати під контролем, не давати вирватись: keep a **lid on** costs — стримувати витрати
+
+**Приклади:**
+- Put the **lid** on the pot and let it simmer. — Накрий каструлю кришкою й дай покипіти.
+- The **lid** of the jar is stuck — I can't open it. — Кришка банки застрягла — не можу відкрити.
+
 ---
 
 ## lifelike
@@ -102,6 +141,7 @@
 **Приклади:**
 - The new engine renders **lifelike** characters. — Новий рушій рендерить реалістичних персонажів.
 - The statue was so **lifelike** that I said hello to it. — Статуя була такою «живою», що я привітався з нею.
+
 
 ---
 
@@ -128,6 +168,7 @@
 
 🔗 **Пов'язане:** повна теорія `sound/look/feel + like` — [adjectives-adverbs §7](../grammar/b1/adjectives-adverbs.md#look-sound-feel-like-іменник).
 
+
 ---
 
 ## literally
@@ -140,3 +181,27 @@
 **Приклади:**
 - The error message **literally** says "unknown error". — Повідомлення буквально каже «невідома помилка».
 - I **literally** have five minutes before the call. — У мене реально п'ять хвилин до дзвінка.
+
+---
+
+## look
+**look** /lʊk/ — 1. <code>verb</code> (дієслово) — дивитись; виглядати 2. <code>noun</code> (іменник) — погляд; вигляд
+
+**Пояснення:** дієслово, значення якого міняє прийменник після нього — тому вчити треба парами «look + прийменник», а не саме слово. Без прийменника і з прикметником — «виглядати».
+
+**💡 look + прийменник — різні слова:**
+- **look at** sth — дивитись на: **Look at** the logs. — Подивись на логи. ❌ look on
+- **look for** sth — шукати: I'm **looking for** my keys. — Шукаю ключі.
+- **look after** sb / sth — доглядати, наглядати: She **looks after** her brother. — Вона доглядає за братом.
+- **look like** + іменник — бути схожим на: It **looks like** rain. — Схоже на дощ.
+- **look** + прикметник (БЕЗ like) — виглядати яким: You **look** tired. — Ти виглядаєш втомленим.
+- **look forward to** + іменник / -ing — з нетерпінням чекати: I'm **looking forward to** the weekend. — Чекаю вихідних.
+- **look up** a word — знайти в словнику: **Look** it **up**. — Подивись у словнику.
+- **look out!** — обережно!
+
+**💡 Іменник:** **have / take a look (at)** — глянути: Can you **take a look at** my code? — Глянеш мій код?
+
+**Приклади:**
+- v: Don't **look at** the phone during the film. — Не дивись у телефон під час фільму.
+- v: The new office **looks** great. — Новий офіс виглядає чудово.
+- n: He gave me a strange **look**. — Він дивно на мене глянув.

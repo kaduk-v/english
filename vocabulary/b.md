@@ -1,6 +1,6 @@
 # B
 
-**Зміст:** [bail](#bail) · [beast](#beast) · [belong](#belong) · [besides](#besides) · [beyond](#beyond) · [big-bang](#big-bang) · [blacksmith](#blacksmith) · [blanket](#blanket) · [blast](#blast) · [blend](#blend) · [boost](#boost) · [breach](#breach) · [brief](#brief) · [broad](#broad) · [burden](#burden)
+**Зміст:** [bail](#bail) · [beast](#beast) · [belong](#belong) · [besides](#besides) · [beyond](#beyond) · [big-bang](#big-bang) · [bitter](#bitter) · [blacksmith](#blacksmith) · [blanket](#blanket) · [blast](#blast) · [blend](#blend) · [boost](#boost) · [bother](#bother) · [breach](#breach) · [brew](#brew) · [brief](#brief) · [broad](#broad) · [burden](#burden)
 
 ---
 
@@ -18,6 +18,7 @@
 - v: The publisher **bailed out** the failing studio. — Видавець врятував проблемну студію грошима.
 - v: Sorry, I have to **bail on** tonight's raid. — Вибач, мушу злиняти з сьогоднішнього рейду. _(гра, розм.)_
 
+
 ---
 
 ## beast
@@ -28,6 +29,7 @@
 **Приклади:**
 - The knight fought a terrible **beast** in the cave. — Лицар бився зі страшним чудовиськом у печері. _(фентезі)_
 - This new server is a **beast** — it handles millions of requests. — Цей новий сервер — просто звір: тягне мільйони запитів. _(розробка, розм.)_
+
 
 ---
 
@@ -42,6 +44,7 @@
 - This account **belongs to** another user. — Цей акаунт належить іншому користувачеві. _(розробка)_
 - After a month in the new team, I finally feel I **belong** here. — Після місяця в новій команді я нарешті відчуваю, що я тут на своєму місці.
 
+
 ---
 
 ## besides
@@ -55,6 +58,7 @@
 - adv: I'm tired. **Besides**, it's already late. — Я втомився. До того ж уже пізно.
 - prep: **Besides** football, he plays chess. — Окрім футболу, він грає в шахи.
 
+
 ---
 
 ## beyond
@@ -67,6 +71,7 @@
 - prep: Why this bug happens only on Fridays is **beyond** me. — Чому цей баг стається лише по п'ятницях — поза моїм розумінням. _(розробка)_
 - adv: From the tower we saw the river and the forest **beyond**. — З вежі ми бачили річку і ліс далі за нею.
 
+
 ---
 
 ## big-bang
@@ -77,6 +82,24 @@
 **Приклади:**
 - We avoided a **big-bang** rewrite and migrated service by service instead. — Ми уникнули переписування «одним махом» і мігрували сервіс за сервісом.
 - A **big-bang** release without proper testing is risky. — Реліз «одним махом» без належного тестування — ризикований.
+
+
+---
+
+## bitter
+**bitter** /ˈbɪtə/ — <code>adjective</code> (прикметник) — гіркий; (переносно) гіркий, озлоблений
+
+**Пояснення:** один із чотирьох базових смаків (sweet, salty, sour, bitter). Переносно — про досвід, розчарування, людину, яка затаїла образу. **bitterly** (adv) — гірко: bitterly cold — люто холодно.
+
+**💡 Сталі вирази:**
+- **a bitter taste** — гіркий смак (буквально і переносно: a bitter taste in my mouth — неприємний осад)
+- **a bitter lesson / experience** — гіркий урок / досвід
+- **bitter cold** — лютий холод
+
+**Приклади:**
+- This coffee is too **bitter** — I ground it too fine. — Ця кава надто гірка — я змолов її надто дрібно.
+- Losing the final was a **bitter** lesson for the team. — Програш у фіналі став гірким уроком для команди. _(спорт)_
+- He's still **bitter** about the layoffs. — Він досі озлоблений через скорочення.
 
 ---
 
@@ -89,6 +112,7 @@
 - Take your sword to the **blacksmith** to upgrade it. — Віднеси меч ковалю, щоб покращити його. _(гра)_
 - The village **blacksmith** made horseshoes and tools. — Сільський коваль робив підкови та інструменти.
 
+
 ---
 
 ## blanket
@@ -99,6 +123,7 @@
 **Приклади:**
 - She wrapped herself in a warm **blanket** and kept playing. — Вона загорнулася в теплу ковдру і грала далі. _(побут)_
 - A **blanket** of fog covered the old village. — Пелена туману вкрила старе село. _(фентезі)_
+
 
 ---
 
@@ -112,6 +137,7 @@
 - n: The party was great — we had a **blast**! — Вечірка була супер: ми відірвалися на повну! _(розм.)_
 - v: **Blast** the enemies with your fire spell. — Рознеси ворогів вогняним закляттям. _(гра)_
 
+
 ---
 
 ## blend
@@ -124,6 +150,7 @@
 - v: The rogue **blended in** with the crowd. — Розбійник злився з натовпом. _(фентезі)_
 - n: This coffee is a **blend** of two beans. — Ця кава — суміш двох сортів зерен.
 
+
 ---
 
 ## boost
@@ -134,6 +161,26 @@
 **Приклади:**
 - v: Caching **boosts** the API's performance. — Кешування підвищує продуктивність API. _(розробка)_
 - n: This potion gives you a temporary speed **boost**. — Це зілля дає тимчасовий приріст швидкості. _(гра)_
+
+
+---
+
+## bother
+**bother** /ˈbɒðə/ — 1. <code>verb</code> (дієслово) — турбувати, заважати; завдавати собі клопоту 2. <code>noun</code> (іменник) — клопіт, морока
+
+**Пояснення:** два напрямки: хтось/щось турбує МЕНЕ (it bothers me) або Я завдаю собі клопоту (don't bother). Розмовне й дуже часте.
+
+**💡 Конструкції:**
+- **bother** sb — турбувати когось: Sorry to **bother** you. — Вибач, що турбую.
+- sth **bothers** me — щось мене непокоїть / заважає: The noise doesn't **bother** me. — Шум мені не заважає.
+- **don't bother** (doing / to do) — не завдавай собі клопоту, не варто: **Don't bother** buying a new one. — Не витрачай сили на новий.
+- **can't be bothered** (to do) — ліньки, не хочеться (BrE розм.): I **can't be bothered** to cook. — Мені ліньки готувати.
+- **Does it bother you if …?** — Тобі не заважатиме, якщо …?
+
+**Приклади:**
+- v: Coffee in the evening doesn't **bother** my sleep. — Кава ввечері не заважає моєму сну.
+- v: **Don't bother** — I've already fixed it. — Не переймайся, я вже виправив.
+- n: It's no **bother** at all. — Це зовсім не клопіт.
 
 ---
 
@@ -151,6 +198,25 @@
 - The company reported a **data breach** last week. — Компанія повідомила про витік даних минулого тижня.
 - Missing the deadline is a **breach of** contract. — Зрив дедлайну — це порушення контракту.
 
+
+---
+
+## brew
+**brew** /bruː/ — 1. <code>verb</code> (дієслово) — заварювати (каву, чай); варити (пиво) 2. <code>noun</code> (іменник) — заварений напій; заварка
+
+**Пояснення:** універсальне дієслово для «готувати напій настоюванням» — кава, чай, пиво. `Make coffee` — нейтрально; `brew coffee` — точніше про сам процес. Переносно: **something is brewing** — щось назріває (буря, конфлікт).
+
+**💡 Конструкції:**
+- **brew** coffee / tea — заварити каву / чай
+- **the coffee is brewing** — кава заварюється (сама, без «is being»)
+- **let it brew** (for …) — дати настоятися: Let the tea **brew** for three minutes. — Дай чаю настоятися три хвилини.
+- **a strong / weak brew** — міцна / слабка заварка
+
+**Приклади:**
+- v: I **brew** coffee in the kitchen every morning. — Щоранку заварюю каву на кухні.
+- v: Trouble was **brewing** in the team. — У команді назрівав конфлікт.
+- n: This is a strong **brew** — add some milk. — Це міцна заварка — додай молока.
+
 ---
 
 ## brief
@@ -162,6 +228,7 @@
 - adj: Let's keep the stand-up **brief**. — Нехай стендап буде коротким. _(робота)_
 - n: The designer sent me the project **brief**. — Дизайнер надіслав мені бриф проєкту.
 - v: The captain **briefed** the team before the mission. — Капітан проінструктував загін перед місією. _(гра)_
+
 
 ---
 
@@ -175,6 +242,7 @@
 **Приклади:**
 - The warrior had **broad** shoulders. — Воїн мав широкі плечі. _(фентезі)_
 - The library supports a **broad** range of databases. — Бібліотека підтримує широкий спектр баз даних. _(розробка)_
+
 
 ---
 

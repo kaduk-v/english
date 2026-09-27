@@ -318,3 +318,14 @@
 | I usually **reads** *(рамка)* | I usually **read** | 🎯 -s у зворотний бік — тільки he/she/it; I ніколи не бере -s | 26.09 · Урок 12 Р4 |
 | customize **game level** / with **gamepad** | the game level / with **a** gamepad | однинний злічуваний без a/the — так не буває | 26.09 · Урок 12 Р4 |
 | she looked **on** the phone *(міні-текст)* | she looked **at** the phone | 🔴 **третій раз за три раунди** (Р2 переклад, Р3 дриль, Р4 власний текст) — look on не існує; чанк **look at** перезаписати цілим | 26.09 · Урок 12 Р4 |
+| thankful **for that** they are waiting | thankful **that** they are waiting | прийменник — перед іменником/займенником; перед реченням із that прийменника немає (калька «вдячний за те, що») | 27.09 · Урок 12 Р5 |
+| eat **∅** slowly / figure out **∅** quickly | eat **it** slowly / figure **it** out | 🎯 об'єкт зникає ×2 — обидва рази перед прислівником/часткою: дієслово → об'єкт → прислівник; із займенником частка після нього | 27.09 · Урок 12 Р5 |
+| can't **found** | can't **find** | після модального — база (як після didn't) | 27.09 · Урок 12 Р5 |
+| thankful **∅ him** for it | thankful **to** him for it | адресат подяки — через to: thankful to sb for sth → [§8](rules.md#8-прийменники-з-дієсловами) | 27.09 · Урок 12 Р5 |
+| **Last week ∅** quit *(зворотний переклад «минулого місяця я кинув»)* | **Last month I** quit | 🎯 підмет зник після обставини часу — як `Last time ∅ was starting` (Р4); + week ≠ month у власному тексті → [§1](rules.md#1-дієслово-та-підмет) | 27.09 · Урок 12 Р5 |
+| **the** colleague brought a Moka pot **in** the office | **a** colleague brought … **to** the office | перша згадка → a; bring/take + to + місце (рух), in = уже всередині | 27.09 · Урок 12 Р5 |
+| standup → «виступ» | «стендап» (щоденна зустріч) | лексика: standup в IT — ранкова зустріч; виступ — a talk | 27.09 · Урок 12 Р5 |
+| *(дриль f пропущено)* I bought new gamepad | a new gamepad | помилку не знайдено; те саме речення, що у власному міні-тексті Р4 | 27.09 · Урок 12 Р5 |
+| that **serial** | that **series** / that show | false friend: серіал = series (однина = множина); serial — «серійний» → [§17](rules.md#17-часто-плутані-слова) | 27.09 · Урок 12 Р5 |
+| help me to revert **it** *(the changes)* | revert **them** | займенник-об'єкт узгоджується з іменником (множина) | 27.09 · Урок 12 Р5 |
+| a new structure **of project** | of **the** project / a new **project structure** | однинний злічуваний без a/the | 27.09 · Урок 12 Р5 |

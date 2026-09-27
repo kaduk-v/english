@@ -1,6 +1,6 @@
 # G
 
-**Зміст:** [gain](#gain) · [gap](#gap) · [gate](#gate) · [give](#give) · [glow](#glow) · [gossip](#gossip) · [grab](#grab) · [guardian](#guardian) · [guess](#guess) · [guide](#guide) · [guideline](#guideline)
+**Зміст:** [gain](#gain) · [gap](#gap) · [gate](#gate) · [give](#give) · [glow](#glow) · [gossip](#gossip) · [grab](#grab) · [grind](#grind) · [grinder](#grinder) · [guardian](#guardian) · [guess](#guess) · [guide](#guide) · [guideline](#guideline)
 
 ---
 
@@ -16,6 +16,7 @@
 - verb: You **gain** experience with every project. — Ти набуваєш досвіду з кожним проєктом.
 - noun: No pain, no **gain**. — Без зусиль немає результату. _(сталий вислів)_
 
+
 ---
 
 ## gap
@@ -27,6 +28,7 @@
 - Mind the **gap** between the train and the platform. — Зважай на проміжок між потягом і платформою. _(славнозвісне оголошення лондонського метро)_
 - The code review revealed a **gap** in our error handling. — Код-рев'ю виявило прогалину в нашій обробці помилок. _(розробка)_
 - There's a huge skill **gap** between bronze and gold ranks. — Між бронзовим і золотим рангами — величезний розрив у скілі. _(гра)_
+
 
 ---
 
@@ -40,6 +42,7 @@
 - Boarding starts at **gate** 12 in twenty minutes. — Посадка почнеться біля виходу 12 за двадцять хвилин. _(подорож)_
 - A portal **gate** to the demon realm opened above the city. — Портальна брама у світ демонів відкрилася над містом. _(гра)_
 
+
 ---
 
 ## give
@@ -51,6 +54,7 @@
 **Приклади:**
 - Give **me** a second. / Give a second **to me**. — Дай мені секунду.
 - Don't **give up** — you're close. — Не здавайся — ти близько.
+
 
 ---
 
@@ -64,6 +68,7 @@
 - verb: She was **glowing** with pride after the release. — Вона аж світилася від гордості після релізу.
 - noun: The **glow** of the monitor was the only light in the room. — Сяйво монітора було єдиним світлом у кімнаті. _(будні розробника)_
 
+
 ---
 
 ## gossip
@@ -74,6 +79,7 @@
 **Приклади:**
 - noun: Office **gossip** spreads faster than any newsletter. — Офісні плітки ширяться швидше за будь-яку розсилку. _(робота)_
 - verb: They were **gossiping** about the new team lead. — Вони пліткували про нового тимліда. _(робота)_
+
 
 ---
 
@@ -89,6 +95,35 @@
 - Let's **grab a coffee** before the stand-up. — Хапнемо по каві перед стендапом. _(робота)_
 - **Grab a seat** — the demo is starting. — Сідай — демо починається.
 
+
+---
+
+## grind
+**grind** /ɡraɪnd/ — 1. <code>verb</code> (дієслово) — молоти, перемелювати; точити 2. <code>noun</code> (іменник) — помел; рутина
+
+**Пояснення:** неправильне дієслово: **grind – ground – ground**. Дієприкметник `ground` працює як прикметник: **ground coffee** — мелена кава, **ground beef** — фарш. Іменник: coarse / fine **grind** — грубий / дрібний помел; **the daily grind** — щоденна рутина.
+
+**💡 Не плутай:**
+- **ground** (від grind) — мелений: **ground** coffee — мелена кава
+- **grounded** (від окремого дієслова *ground*) — заземлений; (про дитину) залишений без прогулянок: He's **grounded** for a week. — Він тиждень під домашнім арештом. ❌ grounded coffee
+- наказ / інфінітив — базова форма: Please **grind** it for a Moka pot. ❌ Please ground it
+
+**Приклади:**
+- v: I **grind** the beans right before brewing. — Я мелю зерна безпосередньо перед заварюванням.
+- v: She **ground** the coffee too fine. — Вона змолола каву надто дрібно.
+- n: A Moka pot needs a medium-fine **grind**. — Гейзерній кавоварці потрібен середньо-дрібний помел.
+
+---
+
+## grinder
+**grinder** /ˈɡraɪndə/ — <code>noun</code> (іменник) — кавомолка; млинок; шліфувальна машина
+
+**Пояснення:** пристрій, що меле. Уточнюється словом перед ним: a **coffee grinder** — кавомолка, a **pepper grinder** — млинок для перцю, an **angle grinder** — болгарка. У каві розрізняють **burr grinder** (жорновий) і **blade grinder** (ножовий).
+
+**Приклади:**
+- My **grinder** lives in the cupboard next to the cups. — Моя кавомолка живе в шафці біля чашок.
+- A burr **grinder** gives a more even grind than a blade one. — Жорнова кавомолка дає рівніший помел, ніж ножова.
+
 ---
 
 ## guardian
@@ -99,6 +134,7 @@
 **Приклади:**
 - A stone golem is the **guardian** of the dungeon. — Кам'яний ґолем — хранитель підземелля. _(гра/фентезі)_
 - After the accident her uncle became her legal **guardian**. — Після аварії її дядько став її законним опікуном.
+
 
 ---
 
@@ -115,6 +151,7 @@
 - verb: I didn't know the answer, so I just **guessed**. — Я не знав відповіді, тож просто вгадував.
 - verb: **Guess what!** We won the hackathon! — Уяви собі! Ми виграли хакатон! _(розробка)_
 - noun: My best **guess** is a memory leak. — Моє найімовірніше припущення — витік пам'яті. _(Node.js)_
+
 
 ---
 
@@ -133,6 +170,7 @@
 - This **guide** explains how to set up the project. — Цей посібник пояснює, як налаштувати проєкт.
 
 🔗 **Пов'язане:** [guideline](#guideline).
+
 
 ---
 

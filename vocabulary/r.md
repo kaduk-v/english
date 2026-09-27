@@ -1,6 +1,6 @@
 # R
 
-**Зміст:** [rapid](#rapid) · [rare](#rare) · [rarely](#rarely) · [rather](#rather) · [ray](#ray) · [reach](#reach) · [realize](#realize) · [refer](#refer) · [regard](#regard) · [regardless](#regardless) · [regret](#regret) · [relatable](#relatable) · [rely](#rely) · [remain](#remain) · [rescue](#rescue) · [research](#research) · [resistance](#resistance) · [respond](#respond) · [rest](#rest) · [resume](#resume) · [reveal](#reveal) · [revert](#revert) · [rid](#rid) · [roll](#roll) · [rope](#rope) · [rough](#rough) · [royal](#royal) · [rush](#rush)
+**Зміст:** [rapid](#rapid) · [rare](#rare) · [rarely](#rarely) · [rather](#rather) · [ray](#ray) · [reach](#reach) · [realize](#realize) · [refer](#refer) · [regard](#regard) · [regardless](#regardless) · [regret](#regret) · [relatable](#relatable) · [rely](#rely) · [remain](#remain) · [rent](#rent) · [rescue](#rescue) · [research](#research) · [resistance](#resistance) · [respond](#respond) · [rest](#rest) · [resume](#resume) · [reveal](#reveal) · [revert](#revert) · [rid](#rid) · [roll](#roll) · [rope](#rope) · [rough](#rough) · [royal](#royal) · [rush](#rush)
 
 ---
 
@@ -13,6 +13,7 @@
 - The app showed **rapid** growth after launch. — Застосунок показав стрімке зростання після запуску.
 - His health bar dropped at a **rapid** rate. — Його смужка здоров'я танула зі стрімкою швидкістю.
 - Technology changes **rapidly**. — Технології змінюються стрімко.
+
 
 ---
 
@@ -29,6 +30,7 @@
 - This crash is **rare** — one report per thousand users. — Цей збій рідкісний — один звіт на тисячу користувачів.
 - I finally got a **rare** sword from that boss. — З того боса мені нарешті випав рідкісний меч.
 - How would you like your steak? — **Rare**, please. — Як вам просмажити стейк? — З кров'ю, будь ласка.
+
 
 ---
 
@@ -47,6 +49,7 @@
 - She is **rarely** wrong about estimates. — Вона рідко помиляється в оцінках часу.
 - We **rarely** touch that legacy module. — Ми рідко чіпаємо той легасі-модуль.
 
+
 ---
 
 ## rather
@@ -64,6 +67,7 @@
 - We render on the server **rather than** on the client. — Ми рендеримо на сервері, а не на клієнті.
 - The dungeon was **rather** difficult for our level. — Підземелля було доволі складним для нашого рівня.
 
+
 ---
 
 ## ray
@@ -75,6 +79,7 @@
 - A **ray** of sunlight broke through the clouds. — Промінь сонця пробився крізь хмари.
 - The mage hit the skeleton with a **ray** of frost. — Маг вдарив скелета крижаним променем.
 - **Ray** tracing makes reflections in games look real. — Трасування променів робить відображення в іграх реалістичними.
+
 
 ---
 
@@ -91,6 +96,7 @@
 - What's the best email to **reach** you at? — На яку пошту краще з тобою зв'язатися?
 - We finally **reached** an agreement. — Ми нарешті досягли згоди.
 
+
 ---
 
 ## realize
@@ -104,6 +110,7 @@
 - I suddenly **realized** I had pushed to the wrong branch. — Я раптом усвідомив, що запушив не в ту гілку.
 - She didn't **realize** how late it was. — Вона не усвідомлювала, наскільки вже пізно.
 - He **realized** that the NPC had been lying the whole game. — Він зрозумів, що NPC брехав усю гру.
+
 
 ---
 
@@ -119,6 +126,7 @@
 **Приклади:**
 - When in doubt, **refer to** the official docs. — Коли сумніваєшся, звертайся до офіційної документації.
 - In MMOs, "tank" **refers to** the player who takes the damage. — У MMO «танк» означає гравця, який приймає шкоду на себе.
+
 
 ---
 
@@ -138,6 +146,7 @@
 
 🔗 **Пов'язане:** [regardless](#regardless).
 
+
 ---
 
 ## regardless
@@ -152,6 +161,7 @@
 - **Regardless of** the result, the team did a great job. — Незалежно від результату, команда попрацювала чудово.
 
 🔗 **Пов'язане:** [regard](#regard).
+
 
 ---
 
@@ -169,6 +179,7 @@
 - verb: We **regret to inform** you that the position is closed. — На жаль, мусимо повідомити, що вакансію закрито.
 - noun: I have no **regrets** about moving into backend. — Я не шкодую, що пішов у бекенд.
 
+
 ---
 
 ## relatable
@@ -180,6 +191,7 @@
 - The hero is **relatable**: he's scared, but he still goes. — Герой життєвий: йому страшно, але він іде.
 - That meme about debugging at 2 a.m. is so **relatable**. — Той мем про дебаг о другій ночі — прямо про мене.
 - I can really **relate to** this song. — Я справді впізнаю себе в цій пісні.
+
 
 ---
 
@@ -197,6 +209,7 @@
 - You can **rely on** her to review the PR today. — Можеш розраховувати, що вона перегляне PR сьогодні.
 - Don't **rely on** luck — save the game manually. — Не покладайся на удачу — зберігай гру вручну.
 
+
 ---
 
 ## remain
@@ -208,6 +221,24 @@
 - The server **remained** stable under heavy load. — Сервер залишався стабільним під великим навантаженням.
 - Only two side quests **remain** before the finale. — До фіналу залишилося лише два побічні квести.
 - Please **remain** seated until the plane stops. — Будь ласка, залишайтеся на місцях, доки літак не зупиниться.
+
+
+---
+
+## rent
+**rent** /rent/ — 1. <code>verb</code> (дієслово) — орендувати, наймати; здавати в оренду 2. <code>noun</code> (іменник) — орендна плата
+
+**Пояснення:** те саме дієслово працює в обидва боки — і «знімати», і «здавати»; напрямок показує прийменник або `out`. Порівняй: **hire** (BrE — короткочасна оренда речей: hire a bike), **borrow** (позичити безкоштовно), **lease** (довгостроковий договір).
+
+**💡 Конструкції:**
+- **rent** sth (**from** sb) — орендувати (у когось): We **rent** a flat **from** an old couple. — Ми знімаємо квартиру у літньої пари.
+- **rent** sth **out** (**to** sb) — здавати в оренду (комусь): She **rents out** her garage. — Вона здає гараж.
+- **pay the rent** — платити за оренду · **the rent is due** — час платити
+- **for rent** — здається (оголошення)
+
+**Приклади:**
+- v: We **rented** a car for the weekend. — Ми орендували авто на вихідні.
+- n: The **rent** is due on the first of the month. — Оренду треба платити першого числа.
 
 ---
 
@@ -221,6 +252,7 @@
 - noun: The **rescue** team found the climbers at night. — Рятувальна команда знайшла альпіністів уночі.
 - My teammate **came to the rescue** with a hotfix. — Тіммейт прийшов на порятунок із хотфіксом.
 
+
 ---
 
 ## research
@@ -231,6 +263,7 @@
 **Приклади:**
 - noun: I did some **research** before buying. — Я провів невелике дослідження перед покупкою. _(не «a research»)_
 - verb: She's **researching** the best framework. — Вона досліджує найкращий фреймворк.
+
 
 ---
 
@@ -250,6 +283,7 @@
 
 🔗 **Пов'язане:** [surrender](s.md#surrender) — протилежне за змістом.
 
+
 ---
 
 ## respond
@@ -260,6 +294,7 @@
 **Приклади:**
 - He didn't **respond to** my message. — Він не відповів на моє повідомлення.
 - The team **responded** quickly **to** the incident. — Команда швидко відреагувала на інцидент.
+
 
 ---
 
@@ -277,6 +312,7 @@
 - I'll finish this, and you can do **the rest**. — Я закінчу це, а ти можеш зробити решту.
 - After the trip we **rested** for two days. — Після подорожі ми відпочивали два дні.
 
+
 ---
 
 ## resume
@@ -293,6 +329,7 @@
 - The download **resumed** when the Wi-Fi came back. — Завантаження відновилося, коли повернувся Wi-Fi.
 - Recruiters spend ten seconds on each **résumé**. — Рекрутери витрачають десять секунд на кожне резюме.
 
+
 ---
 
 ## reveal
@@ -304,6 +341,7 @@
 - The trailer **revealed** the new map. — Трейлер показав нову мапу.
 - The logs **revealed** the real cause of the crash. — Логи розкрили справжню причину збою.
 - At the end, the stranger **reveals** that he is the king. — У кінці незнайомець розкриває, що він король.
+
 
 ---
 
@@ -321,6 +359,7 @@
 - After the update failed, we **reverted to** the previous version. — Після невдалого оновлення ми повернулись до попередньої версії.
 - He **reverted** my commit without asking. — Він відкотив мій коміт, не спитавши.
 
+
 ---
 
 ## rid
@@ -334,6 +373,7 @@
 - Let's **get rid of** this legacy module. — Позбудьмося цього легасі-модуля.
 - I paid for premium to **get rid of** the ads. — Я заплатив за преміум, щоб позбутися реклами.
 - Drink some tea to **get rid of** that cold. — Випий чаю, щоб позбутися застуди.
+
 
 ---
 
@@ -351,6 +391,7 @@
 - noun: My first **roll** was a natural 20! — Мій перший кидок — «чиста» двадцятка!
 - noun: I grabbed a coffee and a cinnamon **roll**. — Я взяв каву й булочку з корицею.
 
+
 ---
 
 ## rope
@@ -365,6 +406,7 @@
 - Tie the boat to the pier with this **rope**. — Прив'яжи човен до пірса цією мотузкою.
 - My mentor **showed me the ropes** during the first sprint. — Ментор увів мене в курс справи за перший спринт.
 
+
 ---
 
 ## rough
@@ -375,6 +417,7 @@
 **Приклади:**
 - Three days of debugging — that sounds **rough**. — Три дні дебагу — це, мабуть, важко.
 - We went through a **rough** patch, but the team pulled through. — Ми пройшли через важкий період, але команда впоралась.
+
 
 ---
 
@@ -389,6 +432,7 @@
 - The **royal** guard protects the castle gates. — Королівська варта охороняє браму замку.
 - The quest giver turned out to be the **royal** heir. — Той, хто дав квест, виявився королівським спадкоємцем.
 - We watched the **royal** wedding on TV. — Ми дивилися королівське весілля по телевізору.
+
 
 ---
 

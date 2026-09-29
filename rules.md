@@ -132,6 +132,8 @@
 | habit **of** doing sth | звичка щось робити | habit to do |
 | thankful / grateful **to** sb **for** sth | вдячний комусь за щось | thankful him |
 | thankful **that** + речення | вдячний, що… (перед that прийменника немає) | thankful for that they… |
+| doubt sth | сумніватися в чомусь (БЕЗ прийменника) | doubt on / in it |
+| obvious **to** sb | очевидно для когось | obvious for you |
 | bring / take / go / come **to** + місце | принести / піти **в** (рух до) | bring in the office *(in = уже всередині)* |
 
 > Деталі по `complain about` vs `complain to` — у `vocabulary/c.md`.
@@ -145,6 +147,8 @@
 | **before** + time | до (раніше за) | Call me **before** noon. |
 | **until** + time | до (тривалість дії) | I'll wait **until** 5 p.m. |
 | **in / within** + тривалість | за (проміжок, за який щось ЗАВЕРШИЛИ) | We fixed it **in / within an hour**. *(НЕ «by an hour» — `by` це дедлайн-точка, а не тривалість)* |
+
+**`last / next / this / every` + week, month, year — без прийменника і без артикля:** ✅ **Last week** I ground the beans. ❌ The last week / In last week. (*the last week of May* — «останній тиждень травня», інше значення.)
 
 **`before` + дія → `-ing`:** before **work** (noun) / before **buying** / before **starting**.
 - ✅ Explore the map **before starting** the level.

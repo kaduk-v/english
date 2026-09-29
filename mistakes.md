@@ -329,3 +329,14 @@
 | that **serial** | that **series** / that show | false friend: серіал = series (однина = множина); serial — «серійний» → [§17](rules.md#17-часто-плутані-слова) | 27.09 · Урок 12 Р5 |
 | help me to revert **it** *(the changes)* | revert **them** | займенник-об'єкт узгоджується з іменником (множина) | 27.09 · Урок 12 Р5 |
 | a new structure **of project** | of **the** project / a new **project structure** | однинний злічуваний без a/the | 27.09 · Урок 12 Р5 |
+| **The last week** I … | **Last week** I … | last week/month/year як точка в минулому — без артикля; the last week = останній тиждень чогось | 28.09 · Урок 12 Р6 |
+| I **grounded** beans too **small** | I **ground** the beans too **fine** | 🔴 повтор Р4: grind → ground → ground; помел — fine / coarse, не small | 28.09 · Урок 12 Р6 |
+| **Mock pot** *(кавомолка)* / **grinder** *(кавоварка)* | **grinder** / **Moka pot** | слова помінялись місцями: grinder меле, Moka pot варить | 28.09 · Урок 12 Р6 |
+| I **thankful** / it **obvious** / We **late** | I**'m** thankful / it**'s** obvious / We**'re** late | 🎯 be-omission ×3 після нульового Р5 — усі в перекладі з української; `We late for the standup` сам виправив у дрилі Р5 → [§1](rules.md#1-дієслово-та-підмет) | 28.09 · Урок 12 Р6 |
+| thankful **him** | thankful **to** him | 🔴 повтор Р5; у чанк-дрилі того ж раунду — правильно | 28.09 · Урок 12 Р6 |
+| I doubt **if will it fit** | I doubt **(that) it will fit** | після if/that — порядок ствердження, не питання → [§13](rules.md#13-непрямі-питання-та-if--whether) | 28.09 · Урок 12 Р6 |
+| from **first** sip | from **the** first sip | порядковий числівник — з the | 28.09 · Урок 12 Р6 |
+| don't doubt **on** it | don't doubt **it** | doubt — без прийменника (калька «сумніваюсь у») → [§8](rules.md#8-прийменники-з-дієсловами) | 28.09 · Урок 12 Р6 |
+| **don't** find *(«не можу знайти»)* | **can't** find | «не можу» = can't; don't find — «не знаходжу» | 28.09 · Урок 12 Р6 |
+| by **a** bus | by **bus** | 🔴 повтор Р3 (by car): by + транспорт без артикля | 28.09 · Урок 12 Р6 |
+| obvious **for** you | obvious **to** you | obvious to sb (калька «для») → [§8](rules.md#8-прийменники-з-дієсловами) | 28.09 · Урок 12 Р6 |

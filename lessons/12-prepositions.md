@@ -679,3 +679,58 @@
 #### Щоденник
 
 Три короткі речення (5–7 слів кожне) про сьогодні — англійською.
+
+### Відповіді учня — Раунд 6
+
+*(п.1–4 — на оригінальні завдання, п.5–11 — на спрощену версію)*
+
+1. The last week I grounded beans too small - the coffee was bitter, and I poured it slowly into the sink.
+2. Yesterday a colleague brought a new Mock pot to the office and put it into a cupboard.
+3. I thankful him for this, but I doubt if will it fit next to the cups.
+4. The coffee is  too bitter it obvious from first sip.
+5. The old grinder is still working.  Don't bother I don't doubt on it.
+6. We late for the standup again. The lats two meetings started at 9:15.
+7. Я заварюю каву щоранку. Я повільно п'ю за своїм столом. Вчора кава була гірка. Моя кавомолка в шафі.
+8. to та for вказують на адресата вдячності. після to кому вдячний, після for причина вдячності
+9. a) thankful to him b) don't find c) understand it d) sip it slowly e) the last two commits f) in the cupboard
+10. a) He can't find the lid b) We cant find it c) I couldn't find the lid d) I can't find the keys
+11. Yesterday, I went home by a bus. Can you fix it quickly? This explanation should be obvious for you. Could you brew coffee for me?
+
+Щоденник — не надіслано (третій раунд поспіль).
+
+### Перевірка Раунду 6 — ❌ (14 помилок)
+
+**Коротко:** дві мішені Р5 закриті повністю. **Об'єкт перед прислівником — 4 з 4** (`poured it slowly`, `put it`, `fix it quickly`, `sip it slowly`). **Підмет після часу — 3 з 3** (`Last week I`, `Yesterday a colleague`, `Yesterday, I`). Ще чисто: `a colleague`, `brought … to the office`, `late for`, `The last two`, `at 9:15`, `I couldn't find`. Рамку цього разу зрозумів — a), c), d) правильні. Пояснення to / for — по суті точне. Але **be-omission повернувся тричі** (`I thankful`, `it obvious`, `We late`) після нульового Р5 — і `We late for the standup` це речення, яке ти сам виправив у дрилі Р5. Решта — повтори: `grounded` (Р4), `thankful him` (Р5), `by a bus` (Р3 — `by car`). Нове — прийменники після `doubt` і `obvious`. З 14 помилок 9 — у складних п.1–4, 5 — у спрощених п.5–11: спрощення працює.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | **The last week** I … | **Last week** I … | `last week / last month / last year` як «минулого тижня» — без артикля і без прийменника. `the last week` означає інше — «останній тиждень (чогось)»: the last week of the month. У `the last two packages` артикль потрібен, бо там `last` — «останні з ряду», а не точка в минулому. |
+| 1 | I **grounded** beans | I **ground** the beans | 🔴 Повтор Р4. Минулий від `grind` — `ground`, без `-ed`: grind → ground → ground. `grounded` — інше дієслово. |
+| 1 | too **small** | too **fine** | Про помел — `fine` (дрібний) / `coarse` (грубий). `small` — про розмір предмета: a small cup. |
+| 2, 5 | a new **Mock pot** *(«кавомолку»)* / the old **grinder** *(«кавоварка»)* | a new **grinder** / the old **Moka pot** (coffee maker) | Два слова помінялись місцями: кавомол**ка** = grinder (мелe), кавовар**ка** = Moka pot / coffee maker (варить). І правопис: M**oka**. |
+| 3 | I **thankful** | I**'m** thankful | 🎯 be-omission. `thankful` — прикметник; між `I` і прикметником потрібне `am`. У Р5 ти написав `I'm thankful` тричі. |
+| 3 | thankful **him** | thankful **to** him | 🔴 Повтор Р5. Адресат — через `to`. У п.9a ти написав `thankful to him` правильно — чанк є, у перекладі з «вдячний йому» він не вмикається. |
+| 3 | I doubt **if will it fit** | I doubt **(that) it will fit** | Після `if / that / whether` — порядок звичайного речення: підмет → will → дієслово. `will it` — порядок питання, а це вже не питання, а частина речення. І після `doubt` природніше `that`. |
+| 4 | it **obvious** | it**'s** obvious | 🎯 be-omission №2. Те саме: `it` + прикметник → `is`. Два речення ще й склеєні без крапки *(пунктуація, не рахую)*. |
+| 4 | from **first** sip | from **the** first sip | Перед порядковим числівником (first, second, last) — `the`: він один такий, отже означений. |
+| 5 | I don't doubt **on** it | I don't doubt **it** | `doubt` бере об'єкт напряму, без прийменника: doubt it, doubt his words. `on` — калька з «сумніваюсь **у** цьому». |
+| 6 | We **late** for the standup | We**'re** late for the standup | 🎯 be-omission №3 — єдина розбіжність з оригіналом. Українське «запізню**ємося**» — дієслово, тому здається, що дієслово вже є; англійською це `be` + прикметник `late`. *(`lats` — описка.)* |
+| 9b | **don't** find | **can't** find | «Не **можу** знайти» — можливість → `can't`. `don't find` — «не знаходжу» (звичка). Модальне загубилось. |
+| 11 | by **a** bus | by **bus** | 🔴 Повтор Р3 (`in the car` → by car). Спосіб пересування — `by` + транспорт **без артикля**: by bus, by car, by train. |
+| 11 | obvious **for** you | obvious **to** you | «Очевидно **для** тебе» — англійською `obvious to sb`. `for` — калька з «для». |
+| 2 | put it **into a** cupboard | put it **in the** cupboard | *(не рахую)* Шафка конкретна, офісна → `the`. |
+| 4 | *(третя частина ситуації пропущена)* | I can't finish it. | *(не рахую)* «Не можеш допити» — не написано. |
+| 7 | «Я повільно п'ю за своїм столом» | «…п'ю **її** маленькими ковтками» | *(не рахую)* `it` зникло і в українській; `sip` — не просто «пити». |
+| 9c | understand it | figure it out | *(не рахую)* За змістом близько, об'єкт на місці; мішень була — чанк `figure it out`. |
+| 10b | We **cant** find **it** | We can't find **the lid** | *(не рахую)* Змінено два слоти замість одного; апостроф. a), c), d) — точно за рамкою. |
+| 8, 9a/d/e/f, 10a/c/d, 11 (умови) | — | ✅ | Міні-текст 3/3 умови; слова: obvious, brew. |
+
+*Повна теорія — у [prepositions.md](../grammar/a1-a2/prepositions.md) і `rules.md` (§1 be, §8 doubt / obvious to / thankful to, §9 last week).*
+
+**Головне:** те, на що ти дивився через чек-лист (об'єкт, підмет після часу), — закрилось за один раунд. Те, що вважалось закритим (be), — повернулось, щойно увага пішла на нове. Усі три пропуски be — у перекладі з української, де в джерелі або немає дієслова («я вдячний», «це очевидно»), або воно є («запізнюємося») і заступає `be`. У дрилі й рамці be не пропав жодного разу.
+
+---
+
+## 💬 Діалог 2 (після Раунду 6)
+
+За ритмом — діалог: 10 повідомлень від кожної сторони, без виправлень по ходу. Студент називає роль Claude і тему. Після діалогу — розбір реплік і Раунд 7 (короткі речення, одна мішень на речення).

@@ -30,6 +30,10 @@
 
 - Немає смислового дієслова (run, eat, work) → постав **be** (am/is/are/was/were):
   - ❌ I tired. → ✅ I **am** tired. · ❌ He tired. → ✅ He **is** tired.
+- **be потрібне в трьох позиціях**, де українська обходиться без дієслова:
+  - перед **прикметником**: ❌ I proud. → ✅ I**'m** proud.
+  - перед **місцем**: ❌ My grinder in the cupboard. → ✅ My grinder **is** in the cupboard.
+  - замість **тире** між двома іменниками / іменником і дією: ❌ My dream — make a game. → ✅ My dream **is to** make a game.
 - Безособове речення → постав **it** (немає «порожнього» підмета):
   - ❌ Is cold. → ✅ **It** is cold. · ❌ Was late. → ✅ **It** was late.
   - Шаблон: **It is / It was + adj** (погода, час, оцінка): It is interesting. It was cold.
@@ -187,6 +191,7 @@
 
 **Інше:**
 - **spend time** + **V-ing**: ✅ I spend time **studying**. (⚠️ «spend time studying» природніше за «spend time on studying»; з іменником — spend time **on** homework.)
+- **stop** + **V-ing** — перестати щось робити: ✅ stop **underestimating** yourself · stop **talking**. ❌ stop underestimate.
 - **start / begin** + **V-ing** або **to + V** — ніколи гола форма: ✅ started **dancing** / started **to dance** · before starting **to eat**. ❌ started dance.
 
 ## 13. Непрямі питання та if / whether
@@ -241,6 +246,7 @@
 - **Чанки, які не перекладаються словами:** «час від часу» = **from time to time** (❌ time by time) · «із задоволенням» = **with pleasure** / I'd love to (❌ I'd pleasure) · «яка різниця» = **the difference between** (❌ which difference) · «половина чогось» = **half a** cup / hour (❌ a half of cup) · «поділити на» = **divide into** (❌ divide in).
 - **by** (транспорт, спосіб: by bus, by email) vs **with** (інструмент у руках: with a knife, with a Moka pot): ✅ I make coffee **with a** Moka pot. ❌ by Moka pot.
 - **grind → ground → ground** («молоти»; *ground coffee* — мелена кава) vs **grounded** (від дієслова *ground* — заземлити / залишити без прогулянок: *He's grounded*). ❌ grounded coffee · ❌ Please ground it → ✅ Please **grind** it.
+- **lack** /læk/ («брак, нестача»: a lack of time) vs **leak** /liːk/ («витік»: a memory leak). ❌ a leak of time.
 - **series** («серіал»; однина = множина: a series, two series) / **show** vs **serial** (прикметник «серійний»: a serial number). ❌ that serial → ✅ that **series**.
 - **change jobs / trains / hands** — «змінити роботу / пересісти / перейти з рук у руки» — множина без артикля: ✅ I want to **change jobs**. ❌ change a job.
 - **wait for** («чекати» — фізично, поки прийде) vs **expect** («очікувати» — подумки, вважати, що станеться): ✅ I'm **waiting for** an answer. / I **expect** rain tomorrow. ❌ expecting for.

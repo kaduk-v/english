@@ -844,3 +844,108 @@
 ### Щоденник *(необов'язково)*
 
 Одне-три короткі речення про сьогодні — якщо є сили.
+
+### Відповіді учня
+
+1. My biggest dream - make my own game.
+2. I think about quitting my job.
+3. I  post on Threads each evening.
+4. The main problem is a leak of time.
+5. Thanks for your advice. I proud of first level in the game.
+6. I brew coffee every morning. I sip it slowly at my desk. Yesterday coffee was bitter. My grinder in the cupboard.
+7. Моя гра базуватиметься на реальному селищі. Я працюю над цим щовечора. Це не забезпечить мене фінансово цього року. Але пишаюся своїм власним маленьким проектом.
+8. It will provide money - be не потрібно після will тому що provide дієслово, be потрібно для прикметників.
+9. a) I want to start my own project. b) The game will be based on real story. c) Thanks for your advice. d) I post on Threads every evening. e) She thinks about quitting her job. f) It will help me a lot.
+10. a) She is thinking about quitting her job. b) We are thinking about quitting our job. c) I'm not thinking about quitting my job. d) I'm thinking about publishing my first post.
+11. I released my first own app. I will publish my first post tomorrow. You should stop underestimate yourself. I have to pay rent by the end of this month.
+
+### Перевірка Раунду 7 — ❌ (8 помилок)
+
+**Коротко:** найкращий раунд у новому форматі — 8 помилок проти 14, і **жодної в прийменниках**: `on Threads`, `each evening` / `every evening` без прийменника, `about quitting`, `at my desk`, `in the cupboard`, `based on`, `by the end of this month` (дедлайн через `by` — сам, без підказки). Рамка — 4 з 4, без жодного зайвого руху. Мішені діалогу закриті: `my own` ×3, `will` + база ×2, `advice` без -s ×2, один присудок на речення — всюди. Пояснення в п.8 точне. А тепер головне: **з 8 помилок 3 — пропущений be** (`dream — make`, `I proud`, `My grinder in`). Це вже не «інколи» — це єдиний леак, що стабільно зриває раунд. Решта: `leak` замість `lack`, двічі `the` (`first level`, `the coffee`), загублений `a` у дрилі, `stop underestimate`.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | My biggest dream **-** make | My biggest dream **is to** make | 🎯 be-omission. Українське тире («мрія — зробити») стоїть на місці дієслова «є». Англійською тире дієслова не заміняє: `is`. І після `my dream is` — `to` + дієслово. |
+| 4 | a **leak** of time | a **lack** of time | Два різні слова: `lack` /læk/ — брак, нестача; `leak` /liːk/ — витік (a memory leak, a water leak). Слово раунду — `lack`. |
+| 5 | I **proud** of | I**'m** proud of | 🎯 be-omission. Четвертий раз із цим самим словом (Р4, чанк Р4, тепер). Запам'ятай не `proud`, а `be proud of`. |
+| 5 | of **first** level | of **the** first level | Перед порядковим (first, second, last) — `the`. Повтор Р6 (`from first sip`). |
+| 6 | Yesterday **coffee** was bitter | Yesterday **the** coffee was bitter | Це не кава взагалі, а та, яку ти заварив учора → `the`. В оригіналі було `it`. |
+| 6 | My grinder **in** the cupboard | My grinder **is** in the cupboard | 🎯 be-omission, третій тип: be + **місце**. «Кавомолка в шафці» — українською дієслова немає; англійською без `is` це не речення, а підпис до фото. |
+| 9b | will be based on **real story** | will be based on **a real story** | `be` ти додав правильно — але `a` з оригіналу зник. Виправляючи одне, не чіпай решту: `a` + прикметник + іменник лишається. |
+| 11 | stop **underestimate** yourself | stop **underestimating** yourself | Після `stop` (перестати щось робити) — `-ing`: stop smoking, stop talking. Гола форма після `stop` не буває. |
+| 2 | I **think** about quitting | I**'m thinking** about quitting | *(не рахую)* Граматично можливо («я час від часу думаю»), але «зараз обмірковую» — `I'm thinking`. У рамці ти написав саме так. |
+| 10b | our **job** | our **jobs** | *(не рахую)* Нас кілька — робіт кілька. |
+| 11 | my **first own** app | my **own** app / my first app | *(не рахую)* `first` і `own` разом не дружать; вибери одне. |
+| 3, 7, 8, 9a/c/d/e/f, 10, 11 (умови) | — | ✅ | Прийменники — 0 помилок. Дриль 5/6. Рамка 4/4. Міні-текст 3/3; слова: underestimate, rent. |
+
+*Повна теорія — у [to-be](../grammar/a1-a2/to-be.md), [prepositions.md](../grammar/a1-a2/prepositions.md) і `rules.md` (§1, §12).*
+
+**Головне:** тема уроку — прийменники — у цьому раунді чиста. Раунд зриває be, і зриває у трьох різних позиціях: перед прикметником (`I proud`), перед місцем (`grinder in the cupboard`), між двома іменниками (`dream — make`). Усі три — там, де українською дієслова немає або стоїть тире. Раунд 8 — тільки про це.
+
+---
+
+## Раунд 8
+
+**Слова раунду:** lack · fit · flat · lid · fair · crowd · sour *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Одна мішень на весь раунд — `be` у трьох позиціях:**
+1. be + **прикметник**: I**'m** proud. It**'s** sour.
+2. be + **місце**: The lid **is** in the cupboard.
+3. be замість **тире**: My dream **is** to… / The problem **is** a lack of time.
+
+Попутно: `the first …` · `a` + прикметник + іменник · `lack` ≠ leak · `stop` + -ing.
+
+**Нове правило здачі для Частин 1–3:** після кожного речення напиши в дужках його дієслово. Наприклад: *My grinder is in the cupboard. (is)* Якщо в дужки нічого поставити — у реченні немає дієслова.
+
+### Частина 1 — UA → EN
+
+1. Моя мрія — орендувати квартиру біля моря.
+2. Кришка в шафці.
+3. Я пишаюся першим постом.
+
+### Частина 2 — ситуація → речення
+
+4. Ти на ярмарку і говориш із другом по телефону. Скажи, де ти, і що натовп великий. *(2 короткі речення; `fair`, `crowd`)*
+5. Друг питає, чому гра ще не готова. Причина — брак часу. *(1 речення; `lack`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 7. Назад англійською, **не дивлячись в оригінал**:
+   > Моя гра базуватиметься на реальному селищі. Я працюю над цим щовечора. Це не забезпечить мене фінансово цього року. Але пишаюся своїм власним маленьким проектом.
+
+### Частина 4 — EN → UA
+
+7. > My flat is on the first floor. The kitchen is small, but it's a nice place. The lemons on the table are sour. This lid doesn't fit the pot.
+
+### Частина 5 — граматика своїми словами
+
+8. У реченні «Моя кавомолка в шафці» українською немає дієслова. Чому англійською воно потрібне? Назви три випадки, коли `be` обов'язкове, і дай по одному короткому прикладу.
+
+### Частина 6 — дриль: чанки
+
+9. По 10 секунд на фразу — кожна з дієсловом:
+    a) я пишаюся
+    b) це очевидно
+    c) ми спізнюємося
+    d) кришка на столі
+    e) проблема — брак часу
+    f) перший рівень готовий
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **The lid is in the cupboard.** 4 варіанти, у кожному змінено тільки одне:
+    a) підмет → `the cups`
+    b) місце → інше (on the table / in the flat)
+    c) час → вчора
+    d) заперечення
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення**, тема на вибір. 3 умови:
+    - **одне речення** з be + прикметник;
+    - **одне речення** з be + місце;
+    - **два слова зі списку раунду** (lack · fit · flat · lid · fair · crowd · sour).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.

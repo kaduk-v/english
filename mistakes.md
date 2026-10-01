@@ -352,3 +352,8 @@
 | I **started** first *(обіцянка)* | I**'ll start** / I'll go first | ще не зроблено → will | 01.10 · Діалог 2 |
 | imagined **how like Spiderman I jumped** | imagined **that I jumped** … **like Spider-Man** | калька порядку слів: that + підмет + дієслово, порівняння в кінець | 01.10 · Діалог 2 |
 | your **advices** | your **advice** | 🔴 повернулось (Урок 11): advice незлічуване | 01.10 · Діалог 2 |
+| My biggest dream **—** make / I **proud** of / My grinder **in** the cupboard | dream **is to** make / I**'m** proud of / grinder **is** in the cupboard | 🎯 be-omission ×3 у трьох позиціях: замість тире, перед прикметником, перед місцем — єдиний леак, що зриває раунд (прийменники — 0) → [§1](rules.md#1-дієслово-та-підмет) | 01.10 · Урок 12 Р7 |
+| a **leak** of time | a **lack** of time | lack — брак; leak — витік | 01.10 · Урок 12 Р7 |
+| of **first** level / Yesterday **coffee** was bitter | of **the** first level / **the** coffee | порядковий → the (повтор Р6); конкретна кава → the | 01.10 · Урок 12 Р7 |
+| will be based on **real story** *(дриль)* | on **a** real story | виправляючи be, загубив a з оригіналу | 01.10 · Урок 12 Р7 |
+| stop **underestimate** yourself | stop **underestimating** | stop (перестати) + -ing → [§12](rules.md#12-схеми-дієслів) | 01.10 · Урок 12 Р7 |

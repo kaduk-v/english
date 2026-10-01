@@ -37,6 +37,9 @@
   - ❌ He hardly reads, although works hard. → ✅ He hardly reads, although **he** works hard.
   - Українською другий підмет можна пропустити («хоча працює наполегливо»); англійською — ні.
   - ❌ Last time was starting at 9:30. → ✅ Last time **it** started at 9:30. («почалося» — підмет `it` обов'язковий; *Last time* — обставина, не підмет)
+- **Одне просте речення — один присудок.** Після `will` / `can` / `should` — одразу базова форма; `be` — лише перед прикметником, іменником або -ing:
+  - ❌ It will be provide money. → ✅ It **will provide** money. · ❌ The game will based on… → ✅ The game **will be based** on…
+  - ❌ It's my biggest dream is to travel. → ✅ **My biggest dream is** to travel. (не починай з `It's`, якщо далі є своє `is`)
 - **Речення починається з часу → підмет усе одно потрібен:** обставина часу підметом не є.
   - ❌ Last month quit coffee. → ✅ Last month **I** quit coffee. · ❌ Yesterday was raining. → ✅ Yesterday **it** was raining.
 - **Перехідне дієслово потребує об'єкта.** divide, fix, revert, grind, get, bring — «на кого / що» не пропускається, навіть якщо з контексту зрозуміло:
@@ -100,6 +103,8 @@
 - незлічувані (абстрактні): ❌ **a** stress → ✅ **Stress** is bad. Так само: research, wisdom, success, advice, information, **documentation**, music, water.
 - множинні (загальна категорія): ❌ **the** computer games are fun → ✅ **Computer games** are fun. `the` — лише коли йдеться про конкретні, відомі речі.
 
+**`own` — тільки з присвійним:** my own, his own, our own. ✅ I want **my own** business. ❌ I want own business. Присвійний стоїть і перед найвищим ступенем, замість `the`: ✅ **my biggest** dream. ❌ the biggest my dream.
+
 ## 6. Comparative vs Superlative
 
 - **Comparative** (порівняння двох): `-er + than` / `more … than` → ✅ bigger **than**, more useful **than**.
@@ -147,6 +152,8 @@
 | **before** + time | до (раніше за) | Call me **before** noon. |
 | **until** + time | до (тривалість дії) | I'll wait **until** 5 p.m. |
 | **in / within** + тривалість | за (проміжок, за який щось ЗАВЕРШИЛИ) | We fixed it **in / within an hour**. *(НЕ «by an hour» — `by` це дедлайн-точка, а не тривалість)* |
+
+**Платформи й мережі — `on`:** on Threads, on Instagram, on YouTube, on the internet, on TV. ❌ in Threads.
 
 **`last / next / this / every` + week, month, year — без прийменника і без артикля:** ✅ **Last week** I ground the beans. ❌ The last week / In last week. (*the last week of May* — «останній тиждень травня», інше значення.)
 

@@ -734,3 +734,113 @@
 ## 💬 Діалог 2 (після Раунду 6)
 
 За ритмом — діалог: 10 повідомлень від кожної сторони, без виправлень по ходу. Студент називає роль Claude і тему. Після діалогу — розбір реплік і Раунд 7 (короткі речення, одна мішень на речення).
+
+**Роль і тема (задав студент, 01.10):** Claude — студент університету, захоплюється історією України, веде невелику сторінку в Threads. Студент («Vector») хоче почати власну сторінку про 2D-гру про життя в селі.
+
+### Репліки студента (10)
+
+1. Hello, my name is Vector. I have a dream for last few years to write own 2d game about life in the village
+2. I started to learn Unity engine a few months ago and stopped. But now this idea appears in my mind again and again. So I think about to continue
+3. I stopped because I had problems with my current work. I dream about own deal that will be provide me financial. It's the biggest my dream is monetization the hobby. But this process is too long and too heavy for one person.
+4. I have about an hour in the each evening
+5. The first thing in my game is we be a character. That will appear near his grandfather's house.
+6. The foundation of the game will based on the real village from my childhood. Also I'll use stories of other people from their childhoods.
+7. At first I'm going to write all stories which I know in the document. Then I'll write the post in threads like "Let's share your funny stories from your childhood in the village. I started first"
+8. In childhood the cartoon "Spiderman" was my favorite. Once I to grazed cows with my mom. And when the cow walked far from other cows I imagined how like Spiderman I jumped from cow to cow and returned it back
+9. Currently I have no post. And when I'll publish my first post you will see it
+10. Thanks a lot for your advices. I really appreciate it. I'll write to you soon if you don't mind
+
+### Розбір Діалогу 2 — 20 помилок
+
+**Коротко:** це була значно складніша розмова, ніж про каву: мрії, плани, причини, історія з дитинства — і ти все це сказав. Я зрозумів кожну репліку, а історія про Людину-павука й корів — справжня розповідь із зав'язкою й розв'язкою. Чисті речення: `I started to learn Unity a few months ago and stopped`, `this process is too long … for one person`, `near his grandfather's house`, `Also I'll use stories of other people`, `from cow to cow`, `I really appreciate it. I'll write to you soon if you don't mind`. be-omission — лише один раз за десять реплік (`will based`); `-s` на місці (`appears`). Головна знахідка — **новий патерн: два дієслова в одному присудку** (`will be provide`, `It's the biggest my dream is…`, `is we be a character`): коли речення довге, ти починаєш його однією конструкцією, а закінчуєш іншою. Друге — `own` без `my` (двічі). Третє — прийменники теми: `think about to continue`, `in the each evening`, `in threads`. І `advices` повернулось.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | for **last** few years | for **the** last few years | Те саме, що `the last two`: «останні кілька» — конкретний відрізок → `the`. *(Час тут — тема, якої ще не було; простіше: My dream is to make…)* |
+| 1, 3 | **own** 2d game / **own** deal | **my own** 2D game / **my own** business | `own` ніколи не стоїть сам — перед ним завжди присвійний: my own, his own, our own. Українське «власну гру» обходиться без «мою», англійське — ні. |
+| 2 | I think **about to continue** | I'm thinking **about continuing** | Після прийменника (`about`) дієслово — тільки в `-ing`. `about to continue` — змішано дві конструкції. І «зараз обмірковую» → `I'm thinking`. |
+| 3 | problems with my current **work** | problems at my current **job** | `work` — робота як діяльність (незлічуване); посада / місце роботи — `job`. |
+| 3 | own **deal** | my own **business** | Калька «власна справа». `deal` — угода. Справа як підприємство — `business`. |
+| 3 | will **be provide** me | will **provide for** me / will **support** me | 🆕 Два дієслова в одному присудку. Після `will` — одразу базова форма: will provide. `be` потрібне тільки перед прикметником або -ing. |
+| 3 | provide me **financial** | support me **financially** | Як підтримуватиме? — прислівник: `financially`. `financial` — прикметник, йому потрібен іменник (financial support). |
+| 3 | the biggest **my** dream | **my** biggest dream | Порядок: присвійний → найвищий ступінь → іменник. `my` заміняє `the`, разом вони не стоять. |
+| 3, 5 | **It's** … my dream **is** … / The first thing **is we be** a character | My biggest dream **is** … / The first thing **will be** a character | 🆕 Те саме: речення почалось з `It's`, а потім з'явилось ще одне `is`. В одному простому реченні — одне дієслово-присудок. |
+| 3 | is **monetization the hobby** | is **to monetize my hobby** | Після `my dream is` — `to` + дієслово. Іменник `monetization` не може взяти об'єкт напряму (треба `of`), а дієслово — може. |
+| 3 | too **heavy** | too **hard** | Калька «важкий». `heavy` — про вагу (a heavy bag); складний — `hard` / `difficult`. |
+| 4 | an hour **in the each** evening | an hour **each** evening | Тема уроку: з `each / every / last / next` — ні прийменника, ні артикля. |
+| 6 | will **based** on | will **be based** on | 🎯 be-omission. `based` тут як прикметник («заснований») → між `will` і ним потрібне `be`. |
+| 7 | all stories … in **the** document / write **the** post / **the** cow | all **the** stories I know … in **a** document / write **a** post / **a** cow | Артиклі навпаки: історії, які ти знаєш, — конкретні → `the`; документ, пост, корова згадуються вперше → `a`. |
+| 7 | **in** threads | **on** Threads | Тема уроку: платформи й мережі — `on`: on Threads, on Instagram, on YouTube, on the internet. |
+| 7 | I **started** first | I**'ll start** / I'll go first | Ти ще не почав — це обіцянка зараз → `I'll start`. `started` — уже зроблено. |
+| 8 | **In childhood** | **In my childhood** / When I was a child | Чиє дитинство? Потрібен присвійний, як із `own`. |
+| 8 | I imagined **how like Spiderman I jumped** | I imagined **that I jumped** … **like Spider-Man** | Калька порядку «уявляв, як, наче Людина-павук, я стрибав». Англійською: imagined that + підмет + дієслово, а порівняння — в кінець. |
+| 8 | returned it **back** | **brought** it back | `return` уже означає «назад» — `return back` подвоює. З коровою природно `bring back`. |
+| 10 | your **advices** | your **advice** | 🔴 Старий знайомий з Уроку 11: `advice` незлічуване — без `-s`. |
+| 5 · 7 · 8 · 9 | **That** will appear · **At first** · Let**'s** share your · I **to grazed** · when I**'ll** publish | **He** will appear · **First** · **Share** your · I grazed · when I publish | *(не рахую)* Про людину — `he`. `at first` — «спершу, а потім інакше»; для списку кроків — `first`. `Let's` = «давайте ми». `to` — описка. `when` + will — тема, якої ще не було. |
+
+*Повна теорія — у [prepositions.md](../grammar/a1-a2/prepositions.md) (§1–2 on + платформи, §7 після прийменника) і `rules.md` (§1, §5, §9).*
+
+**Головне:** помилок більше, ніж у Діалозі 1, але й речення вдвічі довші, а тема — абстрактна. be і `-s`, які зривались у розмові про каву, тут тримались. Нове слабке місце — довге речення, що починається однією конструкцією і закінчується іншою. Ліки ті самі, що ти сам попросив: короткі речення, одне дієслово на речення.
+
+---
+
+## Раунд 7
+
+**Слова раунду:** lack · underestimate · proud · quit · opportunity · fair · rent *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені (з Діалогу 2 і Р6), по одній на речення:** одне дієслово в присудку (`will` + база) · `my own` · прийменник + `-ing` · `every evening` без прийменника · `on Threads` · `be` перед прикметником · `advice` без -s · `financially`.
+
+**Перед здачею:** у кожному реченні підкресли присудок. Він один? Після `will` — база? Перед прикметником — `be`?
+
+### Частина 1 — UA → EN
+
+1. Моя найбільша мрія — зробити власну гру.
+2. Я думаю про те, щоб кинути роботу.
+3. Я пишу пости в Threads щовечора.
+
+### Частина 2 — ситуація → речення
+
+4. Друг питає, чому ти зупинив проєкт. Причина — брак часу. Скажи це. *(1 речення; `lack`)*
+5. Знайомий дав тобі хорошу пораду щодо гри. Подякуй за пораду і скажи, що пишаєшся першим рівнем. *(2 короткі речення; `proud`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 6. Назад англійською, **не дивлячись в оригінал**:
+   > Я заварюю каву щоранку. Я повільно п'ю її за своїм столом. Вчора кава була гірка. Моя кавомолка в шафі.
+
+### Частина 4 — EN → UA
+
+7. > My game will be based on a real village. I work on it every evening. It will not support me financially this year. But I'm proud of my own small project.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому `It will provide money`, а не `It will be provide money`? Коли після `will` потрібне `be`, а коли — ні?
+
+### Частина 6 — дриль: знайди помилку
+
+9. У кожному — **рівно одна** помилка. Мінімальне виправлення:
+    a) I want to start own business.
+    b) The game will based on a real story.
+    c) Thanks for your advices.
+    d) I post on Threads in every evening.
+    e) She thinks about to quit her job.
+    f) It will be help me a lot.
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **I'm thinking about quitting my job.** 4 варіанти, у кожному змінено тільки одне:
+    a) підмет → `she` *(і `my` → `her`)*
+    b) підмет → `we` *(і `my` → `our`)*
+    c) заперечення
+    d) дія після `about` → інша (renting a flat / starting a page)
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення**, тема на вибір. 3 умови:
+    - **одне речення** з `my own`;
+    - **одне речення** з `will` + дієслово (без зайвого `be`);
+    - **два слова зі списку раунду** (lack · underestimate · proud · quit · opportunity · fair · rent).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні — якщо є сили.

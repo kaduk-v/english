@@ -340,3 +340,15 @@
 | **don't** find *(«не можу знайти»)* | **can't** find | «не можу» = can't; don't find — «не знаходжу» | 28.09 · Урок 12 Р6 |
 | by **a** bus | by **bus** | 🔴 повтор Р3 (by car): by + транспорт без артикля | 28.09 · Урок 12 Р6 |
 | obvious **for** you | obvious **to** you | obvious to sb (калька «для») → [§8](rules.md#8-прийменники-з-дієсловами) | 28.09 · Урок 12 Р6 |
+| write **own** game / **own** deal / **In childhood** | **my own** game / **my own** business / in **my** childhood | own ніколи не стоїть без присвійного; deal = угода, справа-підприємство = business → [§5](rules.md#5-артиклі-та-присвійні) | 01.10 · Урок 12 Діалог 2 |
+| I think **about to continue** | I'm thinking **about continuing** | після прийменника — тільки -ing | 01.10 · Діалог 2 |
+| will **be provide** me **financial** | will **provide for** me **financially** | 🆕 **два дієслова в присудку** — після will одразу база; як? → прислівник -ly | 01.10 · Діалог 2 |
+| **It's** the biggest **my** dream **is** monetization the hobby / The first thing **is we be** | **My biggest** dream **is to monetize my hobby** / The first thing **will be** | 🆕 довге речення починається однією конструкцією, закінчується іншою: один присудок на речення; порядок my + biggest; dream is to + V → [§1](rules.md#1-дієслово-та-підмет) | 01.10 · Діалог 2 |
+| current **work** / too **heavy** / returned it **back** | current **job** / too **hard** / **brought** it back | кальки: work (діяльність) ≠ job (посада); heavy — вага; return вже = «назад» | 01.10 · Діалог 2 |
+| an hour **in the each** evening | an hour **each** evening | each / every / last / next — без прийменника й артикля → [§9](rules.md#9-прийменники-часу-і-дедлайнів) | 01.10 · Діалог 2 |
+| will **based** on | will **be based** on | 🎯 be-omission — єдиний за діалог | 01.10 · Діалог 2 |
+| all stories … in **the** document / write **the** post / for **last** few years | all **the** stories … in **a** document / write **a** post / for **the** last few years | перша згадка → a; конкретні, відомі → the | 01.10 · Діалог 2 |
+| **in** threads | **on** Threads | платформи й мережі — on (on Instagram, on YouTube, on the internet) | 01.10 · Діалог 2 |
+| I **started** first *(обіцянка)* | I**'ll start** / I'll go first | ще не зроблено → will | 01.10 · Діалог 2 |
+| imagined **how like Spiderman I jumped** | imagined **that I jumped** … **like Spider-Man** | калька порядку слів: that + підмет + дієслово, порівняння в кінець | 01.10 · Діалог 2 |
+| your **advices** | your **advice** | 🔴 повернулось (Урок 11): advice незлічуване | 01.10 · Діалог 2 |

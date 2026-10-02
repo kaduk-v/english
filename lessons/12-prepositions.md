@@ -949,3 +949,104 @@
 ### Щоденник *(необов'язково)*
 
 Одне-три короткі речення про сьогодні.
+
+### Відповіді учня
+
+1. My dream is to rent an apartment near the sea.
+2. The lid is in the cupboard.
+3. I'm proud of my first post.
+4. I'm at the fair. There is a big crowd.
+5. The main problem is a lack of time.
+6. My game will be base on a real village. I work on it every evening. This is not support me financially this year. But I'm proud of my little own project.
+7. Моя квартира на першому поверсі. Кухня маленька, але це гарне місце. Лимони на столі кислі. Ця кришка не підходить для каструлі.
+8. be в англійські мові поєднує підмет із тим яким/як/де він є. В українській він часто опускається, але в англійській обовязковий: 1) стан - I'm tired 2) професія - She is a driver. 3) місце - Mark is at work.
+9. a) I'm proud of b) it's obviously c) we are late for d) the lid is on the table e) the problem is a lack of time f) the first level is ready
+10. a) The cups are in the cupboard. b) The lid is next to the pot on the table. c) The lid was in the cupboard yesterday. d) The lid is not in the cupboard.
+11. You should be proud of your sibling. Her cat is outside. How many room in your flat? What is the color of this lid?
+
+**Щоденник:** I'm sad a little because I learn English often but still I can't speak on English. Also I make many mistakes in writing. But I believe I'll gain Intermediate level.
+
+### Перевірка Раунду 8 — ❌ (6 помилок)
+
+**Коротко:** п.1–5 — **п'ять із п'яти без жодної помилки**, уперше в новому форматі. Саме там, де be зривався чотири раунди поспіль: `My dream is to rent`, `The lid is in`, `I'm proud of`, `I'm at the fair`, `The main problem is a lack of time` — всі три позиції be на місці, `lack` замість leak, `the fair`, `a big crowd`. Пояснення в п.8 — найкраще за урок: три випадки, три приклади, все точно. Рамка 4/4, чанки 5/6. Шість помилок — в інших місцях: у зворотному перекладі `will be base` і `This is not support` (be з'явився там, де його не треба), порядок `my little own`, прислівник замість прикметника (`it's obviously`), і питання без `are there` (`How many room in your flat?`).
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 6 | will be **base** on | will be **based** on | Чанк — `be based on`. `based` тут — форма на `-ed`, що працює як прикметник («заснований»); `base` — іменник «основа». `be` ти поставив — загубилось закінчення. |
+| 6 | **This is not support** me | **It will not support** me | Зворотний бік be: перед звичайним дієсловом (`support`) `is` не ставиться. Заперечення в майбутньому — `will not` + база. І час загубився: «не забезпечить» — майбутнє. |
+| 6 | my **little own** project | my **own little** project | `own` приклеєне до присвійного: my own, і тільки потім решта прикметників. Між `my` і `own` нічого не стає. |
+| 9b | it's **obviously** | it's **obvious** | Після `be` — прикметник: «це (яке?) очевидне». `obviously` — прислівник, він відповідає на «як?» і стоїть при дієслові дії або на початку речення: Obviously, he's late. |
+| 11 | How many **room** | How many **rooms** | Після `how many` — завжди множина. |
+| 11 | How many rooms **∅** in your flat? | How many rooms **are there** in your flat? | 🎯 be-omission у питанні. «Скільки кімнат у квартирі?» — українською без дієслова; англійською — `are there`. Це питальна форма від `There are three rooms`. |
+| 1–5, 7, 8, 9a/c–f, 10, 11.1/2/4 | — | ✅ | Перша половина раунду — 100%. Міні-текст: be + прикметник ✅, be + місце ✅, слова flat, lid ✅. |
+
+*Повна теорія — у [to-be.md](../grammar/a1-a2/to-be.md) і `rules.md` (§1, §5).*
+
+**Щоденник** *(не рахується)*: `I'm **a little sad**` — «трохи» стоїть перед прикметником. `I **still** can't speak **English**` — `still` перед `can't`; і `speak English` без прийменника (`on English` — старий леак). `I'll **reach** the Intermediate level` — рівня «досягають» (reach), `gain` — про досвід чи вагу. `I make many mistakes in writing`, `But I believe` — правильно.
+
+**Про «сумно» — цифрами.** Помилок за раунд: Р4 — 13, Р5 — 13, Р6 — 14, Р7 — 8, Р8 — 6. Прийменники: 0 помилок два раунди поспіль. be-omission у перекладі: Р6 — 3, Р7 — 3, Р8 — 0. Чотири тижні тому ти писав `I proud`; сьогодні в п.8 пояснив правило краще за підручник і застосував його п'ять разів із п'яти. Говорити ти вже можеш — у Діалозі 2 ти розповів мені історію про Людину-павука й корів, і я сміявся. Помилки в ній були, але історія — дійшла.
+
+---
+
+## Раунд 9
+
+**Слова раунду:** obvious · fit · sour · crowd · rent · flat · lack *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені, по одній на речення:** `How many … are there` / `Is there …?` · `be` + прикметник, не прислівник (obvious) · `will not` + база (без `is`) · `be based on` · `my own` + прикметник · `speak English` без прийменника.
+
+**Перед здачею:** у кожному реченні знайди присудок. Перед звичайним дієсловом `is` немає. Перед прикметником і місцем — є. У питанні «скільки / чи є» — `are there` / `is there`.
+
+### Частина 1 — UA → EN
+
+1. Скільки кімнат у твоїй квартирі?
+2. Відповідь очевидна.
+3. Гра не підтримає мене фінансово цього року.
+
+### Частина 2 — ситуація → речення
+
+4. Ти хочеш орендувати квартиру і дзвониш власнику. Запитай, скільки в квартирі кімнат і чи є там кухня. *(2 короткі питання; `flat`)*
+5. Друг каже, що не вміє розмовляти англійською. Підбадьор: скажи, що він розмовляє англійською добре і що ти ним пишаєшся. *(2 короткі речення)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 8. Назад англійською, **не дивлячись в оригінал**:
+   > Моя квартира на першому поверсі. Кухня маленька, але це гарне місце. Лимони на столі кислі. Ця кришка не підходить для каструлі.
+
+### Частина 4 — EN → UA
+
+7. > There are three rooms in my flat. My own little desk is next to the window. The problem is obvious: I need more space. A big sofa will not fit here.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому `It will not support me`, а не `It is not support me`? Коли перед дієсловом стоїть `is`, а коли — ні?
+
+### Частина 6 — дриль: знайди помилку
+
+9. У кожному — **рівно одна** помилка. Мінімальне виправлення:
+    a) The film is base on a true story.
+    b) The answer is obviously.
+    c) How many room are there in your flat?
+    d) I can't speak on English.
+    e) The sofa is not fit here.
+    f) I'm proud of my little own project.
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **There are three rooms in my flat.** 4 варіанти, у кожному змінено тільки одне:
+    a) кількість → одна кімната *(і дієслово за нею)*
+    b) місце → інше (in her house / in this hotel)
+    c) заперечення
+    d) питання *(«Чи є три кімнати…?»)*
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення**, тема на вибір. 3 умови:
+    - **одне питання** з `is there` / `are there`;
+    - **одне речення** з be + прикметник;
+    - **два слова зі списку раунду** (obvious · fit · sour · crowd · rent · flat · lack).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.
+
+*Після перевірки Р9 — Діалог 3.*

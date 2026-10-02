@@ -357,3 +357,8 @@
 | of **first** level / Yesterday **coffee** was bitter | of **the** first level / **the** coffee | порядковий → the (повтор Р6); конкретна кава → the | 01.10 · Урок 12 Р7 |
 | will be based on **real story** *(дриль)* | on **a** real story | виправляючи be, загубив a з оригіналу | 01.10 · Урок 12 Р7 |
 | stop **underestimate** yourself | stop **underestimating** | stop (перестати) + -ing → [§12](rules.md#12-схеми-дієслів) | 01.10 · Урок 12 Р7 |
+| will be **base** on / **This is not support** me *(зворотний переклад)* | will be **based** on / **It will not support** me | be based on — з -ed; перед звичайним дієсловом is не ставиться (зворотний бік be-radar), майбутнє заперечення = will not + база → [§1](rules.md#1-дієслово-та-підмет) | 02.10 · Урок 12 Р8 |
+| my **little own** project | my **own little** project | own — одразу після присвійного → [§5](rules.md#5-артиклі-та-присвійні) | 02.10 · Урок 12 Р8 |
+| it's **obviously** | it's **obvious** | після be — прикметник, не прислівник | 02.10 · Урок 12 Р8 |
+| How many **room ∅** in your flat? | How many **rooms are there** in your flat? | 🎯 be-omission у питанні: how many + множина + are there | 02.10 · Урок 12 Р8 |
+| still I can't speak **on** English / I'm sad **a little** / **gain** Intermediate level *(щоденник)* | I still can't speak English / I'm **a little** sad / **reach** the Intermediate level | 🔴 speak on English — старий леак; a little перед прикметником; reach a level | 02.10 · Урок 12 Р8 щоденник |

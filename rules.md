@@ -34,6 +34,8 @@
   - перед **прикметником**: ❌ I proud. → ✅ I**'m** proud.
   - перед **місцем**: ❌ My grinder in the cupboard. → ✅ My grinder **is** in the cupboard.
   - замість **тире** між двома іменниками / іменником і дією: ❌ My dream — make a game. → ✅ My dream **is to** make a game.
+- **«Скільки … є?» / «Чи є …?»** — `are there` / `is there`: ❌ How many rooms in your flat? → ✅ How many rooms **are there** in your flat? · ✅ **Is there** a kitchen?
+- **Зворотний бік:** перед звичайним дієсловом `be` НЕ ставиться: ❌ It is not support me. → ✅ It **does not / will not support** me.
 - Безособове речення → постав **it** (немає «порожнього» підмета):
   - ❌ Is cold. → ✅ **It** is cold. · ❌ Was late. → ✅ **It** was late.
   - Шаблон: **It is / It was + adj** (погода, час, оцінка): It is interesting. It was cold.
@@ -107,7 +109,7 @@
 - незлічувані (абстрактні): ❌ **a** stress → ✅ **Stress** is bad. Так само: research, wisdom, success, advice, information, **documentation**, music, water.
 - множинні (загальна категорія): ❌ **the** computer games are fun → ✅ **Computer games** are fun. `the` — лише коли йдеться про конкретні, відомі речі.
 
-**`own` — тільки з присвійним:** my own, his own, our own. ✅ I want **my own** business. ❌ I want own business. Присвійний стоїть і перед найвищим ступенем, замість `the`: ✅ **my biggest** dream. ❌ the biggest my dream.
+**`own` — тільки з присвійним:** my own, his own, our own. ✅ I want **my own** business. ❌ I want own business. `own` — одразу після присвійного, решта прикметників далі: ✅ my **own little** project. ❌ my little own project. Присвійний стоїть і перед найвищим ступенем, замість `the`: ✅ **my biggest** dream. ❌ the biggest my dream.
 
 ## 6. Comparative vs Superlative
 

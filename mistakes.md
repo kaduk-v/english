@@ -374,3 +374,5 @@
 | **implement** this idea **into life** / I **collect** money / I **don't** think about it **early** | **bring** this idea **to life** / I**'m saving** money / I **didn't** think about it **before** | кальки: втілити в життя; збирати гроші = save; «раніше» = before/earlier, early = рано | 03.10 · Діалог 3 |
 | but **run** the bar is not my cup of tea | but **running** the bar is not | дія-підмет — тільки -ing → [§12](rules.md#12-схеми-дієслів) | 03.10 · Діалог 3 |
 | **instead** Victor / experience **how** to start | **instead of** Victor / experience **of** how to start | тема уроку: instead of + іменник; experience of | 03.10 · Діалог 3 |
+| to win **in** this game | to win this game | дієслово без прийменника там, де українська його ставить (виграти в) — як answer the question, call me → [§8](rules.md#8-прийменники-з-дієсловами) | 04.10 · Урок 12 Р10 |
+| in **cache** *(готівкою)* | in **cash** | *(омофон, не рахується)* cash — готівка, cache — кеш | 04.10 · Урок 12 Р10 |

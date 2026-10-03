@@ -149,6 +149,8 @@
 | obvious **to** sb | очевидно для когось | obvious for you |
 | bring / take / go / come **to** + місце | принести / піти **в** (рух до) | bring in the office *(in = уже всередині)* |
 
+> **Без прийменника** (хоча українською — з ним): **win** the game (виграти **в**), **answer** the question / my email (відповісти **на**), **call** me (подзвонити **до**), **enter** the room (увійти **в**), **discuss** the plan (говорити **про**), **reach** the station (дістатись **до**). ❌ win in the game · ❌ call to me · ❌ answer on my email.
+
 > Деталі по `complain about` vs `complain to` — у `vocabulary/c.md`.
 > Окремо: **speak English** — «розмовляти англійською» БЕЗ прийменника: ❌ speak **on** English → ✅ speak English.
 

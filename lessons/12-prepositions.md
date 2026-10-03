@@ -1193,3 +1193,98 @@
 ### Щоденник *(необов'язково)*
 
 Одне-три короткі речення про сьогодні.
+
+### Відповіді учня
+
+1. My goal is to open my own bar.
+2. All these bars look the same.
+3. He named me Vector instead of Victor.
+4. Running a bar is not my cup of tea. I'm going to be an investor.
+5. They are either too ordinary or too expensive. It's a good opportunity for me.
+6. There are three rooms in my flat. My own table is next to the window. The problem is obvious: I need more space. A big sofa won't fit here.
+7. Моя ціль відкрити маленький бар. Керувати баром важко, але моєму брату це подобається. В нашому місті немає подібного місця. Ми відкриємося цього року або чекатимемо кращої можливості.
+8. My goal is to open — тому що open це дієслово яке вимагає частку to. Running the bar is hard — тому що управління виражається герундієм (-ing). Коли дієслово має виконувати роль іменника його потрібно перетворити, і для цього є два способи: додати частку to перед дієсловом або закінчення -ing.
+9. a) instead of Victor b) either too expensive or too cheap c) one of these bars d) it's not my cup of tea e) running the bar is hard f) no place like that
+10. a) Her goal is to open a small bar b) My goal is to win in this game c) My goal was to open a small bar last year d) My goal is not to open a small bar
+11. My dream is to live in my own flat. You can pay either by credit card or in cache. I'm going to rent another flat. There is a crowd of people in this small cafe.
+
+### Перевірка Раунду 10 — ❌ (1 помилка)
+
+**Коротко:** одна помилка на раунд. Усі мішені діалогу закриті з першого разу: `my own bar`, `look the same`, `instead of Victor`, `Running a bar is not my cup of tea`, `either … or` ×3, `one of these bars`, `is to` ×6, `There is a crowd of people`. Зворотний переклад — чотири речення без жодної граматичної розбіжності (випало лише `little`, `desk` → `table`). Пояснення в п.8 — третя теза («дієслово в ролі іменника перетворюють двома способами: `to` або `-ing`») — це правило, якого я не питав, а ти його сформулював сам. Рамка 4/4, міні-текст 3/3 з гарним `pay either by credit card or in cash`. Єдина помилка — `win in this game`: дієслово, яке в українській бере прийменник, а в англійській — ні.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 10b | to win **in** this game | to win this game | «Виграти **в** грі» — українською з прийменником; англійською `win` бере об'єкт напряму: win the game, win the match, win a prize. Та сама родина, що `answer the question`, `call me`, `enter the room` — дієслова без прийменника там, де наша мова його ставить. |
+| 11 | in **cache** | in **cash** | *(не рахую — омофон, як tree/three)* `cash` — готівка; `cache` — кеш. Вимова однакова /kæʃ/, тому пальці набрали звичне слово. |
+| 9f | no place like that | **there is** no place like that | *(не рахую — чанк)* Але це саме те місце, де у Діалозі 3 зникло дієслово (`No place where you can…`). Чанк треба зберігати разом із `there is`, інакше в реченні він вийде без дієслова. |
+| 6 | My own **table** | My own **little desk** | *(не рахую)* Зміст той самий; в оригіналі було `little desk`. |
+| 1–5, 7, 8, 9a–e, 10a/c/d, 11 | — | ✅ | |
+
+*Повна теорія — у [prepositions.md](../grammar/a1-a2/prepositions.md) (§8 дієслова без прийменника) і `rules.md` (§8, §12).*
+
+**Головне:** Р9 — 2 помилки, Р10 — 1. Прийменники теми — тепер лише у зворотний бік: не зайвий чи хибний, а той, якого в англійській не повинно бути (`win in`). Раунд 11 — на це і на закріплення всіх прийменників уроку разом.
+
+---
+
+## Раунд 11
+
+**Слова раунду:** flavour · thick · moisture · lid · fair · sip · doubt *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені, по одній на речення:** дієслова **без** прийменника (win the game, answer the question, call me, enter the room) · `There is no …` як повне речення · `in cash` · прийменники уроку разом: `at` час / `on` день / `in` місце · `instead of` · `without a` · `because of`.
+
+**Перед здачею:** після дієслова стоїть прийменник? Спитай: він там, бо англійське дієслово його вимагає (look **at**, wait **for**), чи бо українське (виграти **в**, відповісти **на**)? Якщо друге — прибери.
+
+### Частина 1 — UA → EN
+
+1. Я виграв гру вчора ввечері.
+2. У нашому місті немає такого місця.
+3. Зустріч почнеться о 9:15 у п'ятницю в офісі.
+
+### Частина 2 — ситуація → речення
+
+4. Ти в кав'ярні. Бариста питає, як платитимеш. Скажи, що готівкою, і попроси кришку для чашки. *(2 короткі речення; `lid`)*
+5. Друг питає, чому кава смакує інакше. Поясни: смак інший через вологу — зерна стояли в шафці без кришки. *(2 речення; `flavour`, `moisture`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 10. Назад англійською, **не дивлячись в оригінал**:
+   > Моя ціль — відкрити маленький бар. Керувати баром важко, але моєму брату це подобається. В нашому місті немає подібного місця. Ми або відкриємося цього року, або чекатимемо кращої можливості.
+
+### Частина 4 — EN → UA
+
+7. > I won the game on Friday night. The fog was thick, so we played in the kitchen instead of the garden. My brother answered every question quickly. There is no doubt that he is smarter than me.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому `win the game`, `answer the question`, `call me` — без прийменника, хоча українською «виграти **в** грі», «відповісти **на** питання», «подзвонити **до** мене»? Як перевірити, чи потрібен прийменник після дієслова?
+
+### Частина 6 — дриль: знайди помилку
+
+9. У кожному — **рівно одна** помилка. Мінімальне виправлення:
+    a) I won in the game yesterday.
+    b) No place like that in our city.
+    c) Call to me at 6.
+    d) The meeting starts in Friday.
+    e) She answered on my email.
+    f) Put the lid in the table.
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **There is no place like that in our city.** 4 варіанти, у кожному змінено тільки одне:
+    a) підмет → `coffee` («немає такої кави»)
+    b) місце → інше (in this street / in the whole country)
+    c) множина → `places` *(і дієслово за нею)*
+    d) питання *(«Чи є таке місце…?»)*
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення**, тема на вибір. 3 умови:
+    - **одне речення** з win / answer / call + об'єкт без прийменника;
+    - **одне речення** з `There is no …`;
+    - **два слова зі списку раунду** (flavour · thick · moisture · lid · fair · sip · doubt).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.
+
+*Після перевірки Р11 — Раунд 12, потім Діалог 4.*

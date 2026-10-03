@@ -1084,3 +1084,112 @@
 ## 💬 Діалог 3 (після Раунду 9)
 
 Студент називає роль Claude і тему. 10 повідомлень від кожної сторони, без виправлень по ходу. Після діалогу — розбір і Раунд 10.
+
+**Роль і тема (задав студент, 03.10):** Claude — власник кількох невеликих закладів (Андрій, Львів), зустріч у буфеті на конференції; ділиться тим, чого сам не знав на старті. Студент («Vector») хоче відкрити кальян-бар у гаражному стилі.
+
+### Репліки студента (10)
+
+1. I think the coffee here is not bad. And I'm here to talk with people who don't object to sharing their own experience how to start own deal.
+2. I want to open a hookah bar in garage style. There, furniture will be handmade. For example, the chairs from metal beer boxes or table is based on old sofa and so on. The main goal is create the atmosphere of ordinary home garage but with bar services.
+3. No, it will be my first time. The interior is one of parts which I want to implement. The next one are dishes. The client will have a choice of type of dish. For example, the old soviet glasses, forks, spoons etc.
+4. I don't think about it early. But it is a good piece of advice. I agree with your proposed option
+5. It is still idea. Because there are many hookah bars in our city but they all looks like same. No place where you can feel just relax in non ordinary environment.
+6. I asked some people about it and all of them said the same "There are not origin places in our city. Or too ordinary or too expensive"
+7. Currently, my brother is a chef. And he will run the place every day.
+8. Primarily, my brother will be a boss. I want to implement this idea into life, but run the bar is not my cup of tea. I will act mostly as an investor.
+9. I agree with you. So I collect money that I'm ready to lose without impact on my daily life
+10. My name is Vector. My father like math and he named me Vector instead Victor
+
+### Розбір Діалогу 3 — 19 помилок
+
+**Коротко:** be тримався. `it will be my first time`, `The interior is one of…`, `It is still…`, `my brother is a chef`, `run the bar is not my cup of tea`, `I will act as an investor` — жодного пропуску перед прикметником, іменником чи місцем за десять реплік. Це те, заради чого були Р7–Р9, і воно спрацювало в живій розмові. Чисті, дорослі фрази: `don't object to sharing their own experience` (слово зі словника — з правильним прийменником і -ing), `a good piece of advice`, `not my cup of tea`, `act as an investor`, `money that I'm ready to lose`, `all of them said the same`, `he named me Vector`. Тепер що зривалось. **Артиклі — 7 пропусків** (`table`, `old sofa`, `ordinary home garage`, `still idea`, `one of parts`, `a boss`, `non ordinary environment`) — це головний патерн діалогу. Далі: `-s` двічі з'їхав під живою розмовою (`they all looks`, `My father like`), `is create` замість `is to create`, `Or … or` замість `either … or`, `run the bar is` замість `running`, і старий знайомий `own deal` з Діалогу 2. Прийменники теми — один: `instead Victor`.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | start **own deal** | start **my own business** | 🔴 Повтор Діалогу 2 слово в слово: `own` без присвійного, `deal` (угода) замість `business` (справа). Чанк треба брати цілим: *start my own business*. |
+| 1 | experience **how** to start | experience **of** how to start / experience **of starting** | Після іменника `experience` перед «як» — `of`. Два іменникових блоки без прийменника не зчіплюються. |
+| 2, 3, 5, 8 | **table**, **old sofa**, **ordinary home garage**, still **idea**, **non ordinary environment** | **a** table, **an** old sofa, **an** ordinary home garage, still **an** idea, **an** unusual environment | Головний патерн діалогу. Однинний злічуваний іменник не буває голим: `a` / `an` при першій згадці. Під живою розмовою артикль випадає першим — він «не несе змісту», і мозок його економить. |
+| 2 | The main goal **is create** | The main goal **is to create** | Як `My dream is to rent` у Р8: після `goal / dream / plan is` — `to` + дієслово. Два дієслова (`is create`) поруч не стоять. |
+| 3 | one of **parts** | one of **the** parts | `one of` — завжди + `the` / `my` / `these` + множина: one of **the** parts, one of **my** friends. Частина береться з конкретного набору. |
+| 3 | The next one **are** dishes | The next one **is** the dishes / the tableware | Підмет — `one` (однина) → `is`. Дієслово дивиться на підмет, не на те, що після нього. *(Для склянок і виделок разом — `tableware`; `dishes` — тарілки.)* |
+| 4 | I **don't** think about it **early** | I **didn't** think about it **before** / earlier | «Раніше не думав» — минуле: `didn't`. І `early` — «рано» (о 6 ранку); «раніше» — `before` / `earlier`. |
+| 5 | they all **looks** | they all **look** | 🎯 `-s` на множині — під живою розмовою, як у HR-грі. `they` — без `-s`, скільки б слів не стояло між ними. |
+| 5 | look like **same** | look **the same** | «Виглядають однаково» — `the same`, завжди з `the`. Після `look` + `the same` без `like`. |
+| 5 | **No place** where you can… | **There is no place** where you can… | Речення без дієслова. «Немає місця» — англійською `There is no …`. Тут be зник єдиний раз за діалог — у конструкції «немає». |
+| 5 | you can **feel just relax** | you can **just relax** | Два дієслова поруч (`feel relax`). «Відчути розслаблення» = просто `relax`. Або `feel relaxed` — тоді `relaxed` прикметник. |
+| 6 | There are **not origin** places | There are **no original** places | `origin` — іменник «походження»; «оригінальний, незвичайний» — `original`. І «немає … місць» — `There are no places` (no + іменник), а не `are not places`. |
+| 6 | **Or** too ordinary **or** too expensive | **Either** too ordinary **or** too expensive | Калька «або … або». Перше «або» — `either`, друге — `or`. |
+| 8 | my brother will be **a** boss | will be **the** boss | Бос у цьому барі один і конкретний → `the`. `a boss` — «якийсь бос узагалі». |
+| 8 | **implement** this idea **into life** | **bring** this idea **to life** / make it real | Калька «втілити в життя». `implement` — впровадити (фічу, план). Ідею «оживляють»: *bring to life*. |
+| 8 | but **run** the bar is not | but **running** the bar is not | Дія в ролі підмета — `-ing`: *Running the bar is…*, *Smoking is bad*. Базова форма підметом не буває. |
+| 9 | I **collect** money | I**'m saving** money | Гроші на мету — `save` (відкладати); `collect` — колекціонувати (марки). І це процес зараз → `I'm saving`. |
+| 10 | My father **like** math | My father **likes** math | 🎯 `-s` на однині — друге `-s`-падіння за діалог, у протилежний бік від першого. `my father` = `he`. |
+| 10 | **instead** Victor | **instead of** Victor | Тема уроку. `instead` сам стоїть лише в кінці речення (*…Victor instead*). Перед іменником — тільки `instead of`. |
+| 2, 3, 4, 6, 9 | beer **boxes** · **soviet** · your **proposed option** · I asked … and all of them said · without **impact** on | crates · Soviet · your suggestion · ✅ · without **an** impact on / without affecting | *(не рахую)* Для пива — `crates`; назви з великої; `proposed option` зрозуміло, але канцелярськи. |
+
+*Повна теорія — у [articles.md](../grammar/a1-a2/articles.md), [prepositions.md](../grammar/a1-a2/prepositions.md) і `rules.md` (§1, §2, §5, §12).*
+
+**Головне:** три діалоги — три різні картини. У першому be і `-s` падали в одному реченні. У другому be зник раз, зате з'явились «два дієслова в присудку». У третьому be витримав усю розмову, а на поверхню вийшло те, що було під ним: артиклі (7 разів), `either … or`, `-ing` як підмет, `is to`. Це нормальна черга — кожний закритий шар показує наступний.
+
+---
+
+## Раунд 10
+
+**Слова раунду:** object · opportunity · fair · rent · lack · underestimate · crowd *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені (з Діалогу 3), по одній на речення:** `a` / `an` при першій згадці · `one of the …` · `goal / dream is to` + дієслово · `either … or` · `-ing` як підмет · `instead of` · `-s`: `they look` / `he likes` · `There is no …`.
+
+**Перед здачею:** кожний однинний злічуваний іменник — з `a` чи `the`? Після `is` — прикметник, іменник або `to` + дієслово, не гола форма. Підмет `he / she / my father` → `-s`; `they / all of them` → без.
+
+### Частина 1 — UA → EN
+
+1. Моя мета — відкрити власний бар.
+2. Усі ці заклади виглядають однаково.
+3. Він назвав мене Вектором замість Віктора.
+
+### Частина 2 — ситуація → речення
+
+4. Знайомий питає, чому ти не хочеш сам керувати баром. Скажи: керувати баром — не твоя справа; ти будеш інвестором. *(2 короткі речення; друге — з `-ing` на початку)*
+5. Друг питає, які кальян-бари у вашому місті. Відповідай: вони або надто звичайні, або надто дорогі — і для вас це гарна можливість. *(2 речення; `either … or`, `opportunity`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 9. Назад англійською, **не дивлячись в оригінал**:
+   > В моїй квартирі три кімнати. Мій власний маленький столик поруч з вікном. Проблема очевидна: мені потрібно більше простору. Великий диван не поміститься тут.
+
+### Частина 4 — EN → UA
+
+7. > My goal is to open a small bar. Running a bar is hard, but my brother likes it. There is no place like that in our city. Either we start this year, or we wait for a better opportunity.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому `My goal is to open`, а не `My goal is open`? І чому `Running the bar is hard`, а не `Run the bar is hard`? Що спільного у цих двох випадках?
+
+### Частина 6 — дриль: чанки
+
+9. По 10 секунд на фразу:
+    a) замість Віктора
+    b) або надто дорого, або надто дешево
+    c) один із цих закладів
+    d) це не моя справа
+    e) керувати баром — важко
+    f) немає такого місця
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **My goal is to open a small bar.** 4 варіанти, у кожному змінено тільки одне:
+    a) чия мета → `her`
+    b) дія → інша (to rent a flat / to find a partner)
+    c) час → минулий рік
+    d) заперечення
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення**, тема на вибір. 3 умови:
+    - **одне речення** з `is to` + дієслово;
+    - **одне речення** з `either … or`;
+    - **два слова зі списку раунду** (object · opportunity · fair · rent · lack · underestimate · crowd).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.

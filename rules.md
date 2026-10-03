@@ -109,6 +109,8 @@
 - незлічувані (абстрактні): ❌ **a** stress → ✅ **Stress** is bad. Так само: research, wisdom, success, advice, information, **documentation**, music, water.
 - множинні (загальна категорія): ❌ **the** computer games are fun → ✅ **Computer games** are fun. `the` — лише коли йдеться про конкретні, відомі речі.
 
+**`one of` + `the / my / these` + множина:** ✅ one of **the** parts · one of **my** friends. ❌ one of parts. **Роль, яка одна:** ✅ He'll be **the** boss. **«однаково»:** ✅ look **the same**. ❌ look like same.
+
 **`own` — тільки з присвійним:** my own, his own, our own. ✅ I want **my own** business. ❌ I want own business. `own` — одразу після присвійного, решта прикметників далі: ✅ my **own little** project. ❌ my little own project. Присвійний стоїть і перед найвищим ступенем, замість `the`: ✅ **my biggest** dream. ❌ the biggest my dream.
 
 ## 6. Comparative vs Superlative
@@ -193,6 +195,8 @@
 
 **Інше:**
 - **spend time** + **V-ing**: ✅ I spend time **studying**. (⚠️ «spend time studying» природніше за «spend time on studying»; з іменником — spend time **on** homework.)
+- **Дія як підмет — `-ing`:** ✅ **Running** the bar is hard. · **Smoking** is bad. ❌ Run the bar is hard.
+- **goal / dream / plan / idea is + to + V:** ✅ My goal **is to open** a bar. ❌ My goal is open a bar.
 - **stop** + **V-ing** — перестати щось робити: ✅ stop **underestimating** yourself · stop **talking**. ❌ stop underestimate.
 - **start / begin** + **V-ing** або **to + V** — ніколи гола форма: ✅ started **dancing** / started **to dance** · before starting **to eat**. ❌ started dance.
 
@@ -248,6 +252,10 @@
 - **Чанки, які не перекладаються словами:** «час від часу» = **from time to time** (❌ time by time) · «із задоволенням» = **with pleasure** / I'd love to (❌ I'd pleasure) · «яка різниця» = **the difference between** (❌ which difference) · «половина чогось» = **half a** cup / hour (❌ a half of cup) · «поділити на» = **divide into** (❌ divide in).
 - **by** (транспорт, спосіб: by bus, by email) vs **with** (інструмент у руках: with a knife, with a Moka pot): ✅ I make coffee **with a** Moka pot. ❌ by Moka pot.
 - **grind → ground → ground** («молоти»; *ground coffee* — мелена кава) vs **grounded** (від дієслова *ground* — заземлити / залишити без прогулянок: *He's grounded*). ❌ grounded coffee · ❌ Please ground it → ✅ Please **grind** it.
+- **either … or** («або … або»): ✅ **Either** too ordinary **or** too expensive. ❌ Or … or. (**neither … nor** — «ні … ні».)
+- **instead of** + іменник / -ing; саме **instead** — лише в кінці речення: ✅ Vector **instead of** Victor · ✅ …Victor **instead**. ❌ instead Victor.
+- **original** (прикметник «оригінальний, незвичайний») vs **origin** (іменник «походження»). ❌ origin places → ✅ **original** places.
+- **save money** («відкладати гроші»); `collect` — колекціонувати. **bring an idea to life** («втілити в життя»); `implement` — впровадити план / фічу.
 - **fit** дієслово («підходити за розміром», без прийменника і без be): ✅ This lid **doesn't fit** the pot. ❌ is not fit for the pot · vs **be fit for** прикметник («придатний»): ✅ This water **is not fit for** drinking.
 - **lack** /læk/ («брак, нестача»: a lack of time) vs **leak** /liːk/ («витік»: a memory leak). ❌ a leak of time.
 - **series** («серіал»; однина = множина: a series, two series) / **show** vs **serial** (прикметник «серійний»: a serial number). ❌ that serial → ✅ that **series**.

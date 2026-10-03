@@ -364,3 +364,13 @@
 | still I can't speak **on** English / I'm sad **a little** / **gain** Intermediate level *(щоденник)* | I still can't speak English / I'm **a little** sad / **reach** the Intermediate level | 🔴 speak on English — старий леак; a little перед прикметником; reach a level | 02.10 · Урок 12 Р8 щоденник |
 | How many **are there rooms**? | How many **rooms are there**? | how many + іменник — нерозривно, потім are there; у п.1 того ж раунду — правильно | 03.10 · Урок 12 Р9 |
 | This lid **is not fit for** the pot | This lid **doesn't fit** the pot | повтор патерну Р8 (This is not support): перед дієсловом is не ставиться; fit як дієслово — без for; is fit for = прикметник «придатний» (This water is not fit for drinking ✅) → [§17](rules.md#17-часто-плутані-слова) | 03.10 · Урок 12 Р9 |
+| start **own deal** | start **my own business** | 🔴 повтор Діалогу 2 слово в слово — чанк брати цілим | 03.10 · Урок 12 Діалог 3 |
+| **table** / **old sofa** / still **idea** / **a** boss / one of **parts** | **a** table / **an** old sofa / still **an** idea / **the** boss / one of **the** parts | 🔴 **артиклі — 7 пропусків за діалог**, головний патерн живої розмови після закриття be; one of + the; бос один → the → [§5](rules.md#5-артиклі-та-присвійні) | 03.10 · Діалог 3 |
+| The main goal **is create** | is **to create** | після goal / dream / plan is — to + V (як My dream is to rent, Р8) | 03.10 · Діалог 3 |
+| they all **looks** / My father **like** | they all **look** / My father **likes** | 🎯 -s під живою розмовою в обидва боки (як HR-гра 03.09) | 03.10 · Діалог 3 |
+| look like **same** / **No place** where / feel **just relax** | look **the same** / **There is no** place where / **just relax** | the same завжди з the; «немає» = There is no; два дієслова поруч не стоять | 03.10 · Діалог 3 |
+| There are **not origin** places | There are **no original** places | origin — іменник «походження»; original — прикметник; no + іменник | 03.10 · Діалог 3 |
+| **Or** … **or** | **Either** … **or** | калька «або … або» → [§17](rules.md#17-часто-плутані-слова) | 03.10 · Діалог 3 |
+| **implement** this idea **into life** / I **collect** money / I **don't** think about it **early** | **bring** this idea **to life** / I**'m saving** money / I **didn't** think about it **before** | кальки: втілити в життя; збирати гроші = save; «раніше» = before/earlier, early = рано | 03.10 · Діалог 3 |
+| but **run** the bar is not my cup of tea | but **running** the bar is not | дія-підмет — тільки -ing → [§12](rules.md#12-схеми-дієслів) | 03.10 · Діалог 3 |
+| **instead** Victor / experience **how** to start | **instead of** Victor / experience **of** how to start | тема уроку: instead of + іменник; experience of | 03.10 · Діалог 3 |

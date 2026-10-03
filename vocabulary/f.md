@@ -1,6 +1,6 @@
 # F
 
-**Зміст:** [fade](#fade) · [fail](#fail) · [failure](#failure) · [fair](#fair) · [fall](#fall) · [fault](#fault) · [feat](#feat) · [fit](#fit) · [fix](#fix) · [flap](#flap) · [flat](#flat) · [flatness](#flatness) · [flatten](#flatten) · [flavour](#flavour) · [fluency](#fluency) · [foreword](#foreword) · [forge](#forge) · [fortunately](#fortunately) · [foundation](#foundation) · [fret](#fret) · [fuel](#fuel) · [further](#further)
+**Зміст:** [fade](#fade) · [fail](#fail) · [failure](#failure) · [fair](#fair) · [fall](#fall) · [fault](#fault) · [feat](#feat) · [fit](#fit) · [fix](#fix) · [flap](#flap) · [flat](#flat) · [flatness](#flatness) · [flatten](#flatten) · [flavour](#flavour) · [fluency](#fluency) · [foreword](#foreword) · [forge](#forge) · [fortress](#fortress) · [fortunately](#fortunately) · [foundation](#foundation) · [fret](#fret) · [fuel](#fuel) · [further](#further)
 
 ---
 
@@ -13,6 +13,7 @@
 - The screen **fades** to black when your hero dies. — Екран плавно темніє, коли твій герой гине. _(гра)_
 - The toast message **fades out** after two seconds. — Спливне повідомлення плавно зникає за дві секунди. _(розробка)_
 - My old T-shirt has **faded** after so many washes. — Моя стара футболка виблякла після стількох прань.
+
 
 
 ---
@@ -35,6 +36,7 @@
 🔗 **Пов'язане:** [failure](#failure) — іменник.
 
 
+
 ---
 
 ## failure
@@ -55,6 +57,7 @@
 🔗 **Пов'язане:** [fail](#fail).
 
 
+
 ---
 
 ## fair
@@ -73,6 +76,7 @@
 - adj: It's not **fair** that she does all the work. — Нечесно, що всю роботу робить вона.
 - adj: He has **fair** hair and blue eyes. — У нього світле волосся і блакитні очі.
 - n: We met at a job **fair** last spring. — Ми познайомились на ярмарку вакансій минулої весни.
+
 
 ---
 
@@ -99,6 +103,7 @@
 🔗 **Пов'язане:** [asleep](a.md#asleep) · всі форми fall/feel — [irregular-verbs.md](../irregular-verbs.md).
 
 
+
 ---
 
 ## fault
@@ -116,6 +121,7 @@
 - It's not your **fault** that the boss is unbeatable. — Це не твоя вина, що бос непереможний. _(гра)_
 
 
+
 ---
 
 ## feat
@@ -129,6 +135,7 @@
 - Beating the boss without armour was a real **feat**. — Перемогти боса без обладунків — справжній подвиг. _(гра)_
 - My character picked a new **feat** at level four. — Мій персонаж узяв новий талант на четвертому рівні. _(D&D)_
 - Zero-downtime migration is **no small feat**. — Міграція без даунтайму — неабияке досягнення. _(розробка)_
+
 
 
 ---
@@ -159,6 +166,7 @@
 - adj: My grandfather is 80 and still very **fit**. — Дідусеві 80, і він досі у чудовій формі.
 - n: The new library is **a good fit for** our stack. — Нова бібліотека добре лягає на наш стек. _(розробка)_
 
+
 ---
 
 ## fix
@@ -178,6 +186,7 @@
 - v: Can you **fix** the lid? It doesn't close. — Полагодиш кришку? Вона не закривається.
 - n: This is just **a quick fix** — we'll rewrite it later. — Це лише швидке латання, потім перепишемо.
 
+
 ---
 
 ## flap
@@ -189,6 +198,7 @@
 - verb: The dragon **flapped** its wings and rose into the sky. — Дракон замахав крилами і здійнявся в небо. _(фентезі)_
 - verb: The banner **flapped** in the cold wind. — Знамено лопотіло на холодному вітрі.
 - noun: Close the tent **flap** — it's freezing outside. — Закрий полог намету — надворі мороз.
+
 
 
 ---
@@ -210,6 +220,7 @@
 - adj: My phone battery is **flat** again. — У мене знову сів телефон.
 - n: We rent a small **flat** near the station. — Ми орендуємо маленьку квартиру біля вокзалу.
 
+
 ---
 
 ## flatness
@@ -221,6 +232,7 @@
 - Designers love the **flatness** of modern icons. — Дизайнери люблять «пласкість» сучасних іконок. _(UI)_
 
 🔗 Пов'язане: [flatten](#flatten); база — прикметник **flat**.
+
 
 
 ---
@@ -235,6 +247,7 @@
 - **Flatten** the nested array before saving it. — Розплющ вкладений масив перед збереженням. _(розробка)_
 
 🔗 Пов'язане: [flatness](#flatness); база — прикметник **flat**.
+
 
 
 ---
@@ -253,6 +266,7 @@
 - n: These Ethiopian beans have a fruity **flavour**. — У цих ефіопських зерен фруктовий присмак.
 - v: The soup is **flavoured** with ginger. — Суп присмачений імбиром.
 
+
 ---
 
 ## fluency
@@ -263,6 +277,7 @@
 **Приклади:**
 - **Fluency** comes from speaking, not from grammar drills. — Вільне мовлення приходить із розмов, а не з вправ на граматику.
 - He answers interview questions with surprising **fluency**. — На співбесіді він відповідає напрочуд вільно. _(робота)_
+
 
 
 ---
@@ -277,6 +292,7 @@
 **Приклади:**
 - A famous game designer wrote the **foreword** to this artbook. — Передмову до цього артбука написав відомий геймдизайнер. _(ігри)_
 - I always skip the **foreword** and start with chapter one. — Я завжди пропускаю передмову і починаю з першого розділу.
+
 
 
 ---
@@ -296,6 +312,18 @@
 - Someone **forged** my signature on the contract. — Хтось підробив мій підпис на контракті.
 
 
+
+---
+
+## fortress
+**fortress** /ˈfɔːtrəs/ — <code>noun</code> (іменник) — фортеця
+
+**Пояснення:** велика укріплена споруда для оборони. Синонім **fort** (менший, військовий). Переносно — щось неприступне: a fortress of a house.
+
+**Приклади:**
+- The Khotyn **fortress** stands on the bank of the Dniester. — Хотинська фортеця стоїть на березі Дністра.
+- The old **fortress** turned into a museum. — Стара фортеця перетворилась на музей.
+
 ---
 
 ## fortunately
@@ -310,6 +338,7 @@
 - **Unfortunately,** the patch broke old save files. — На жаль, патч зламав старі збереження. _(гра)_
 
 
+
 ---
 
 ## foundation
@@ -320,6 +349,7 @@
 **Приклади:**
 - Grammar is the **foundation** of the language. — Граматика — фундамент мови.
 - The **foundation** funds medical research. — Фонд фінансує медичні дослідження.
+
 
 
 ---
@@ -336,6 +366,7 @@
 - noun: Press the string at the third **fret**. — Затисни струну на третьому ладу. _(гітара)_
 
 
+
 ---
 
 ## fuel
@@ -347,6 +378,7 @@
 - noun: The airship burns crystals as **fuel**. — Дирижабль спалює кристали як паливо. _(фентезі)_
 - noun: Coffee is a developer's **fuel**. — Кава — паливо розробника. _(жарт)_
 - verb: His angry comments only **fuelled** the argument. — Його злі коментарі лише підживили суперечку.
+
 
 
 ---

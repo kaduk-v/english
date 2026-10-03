@@ -1,6 +1,6 @@
 # P
 
-**Зміст:** [participate](#participate) · [pass](#pass) · [passage](#passage) · [passed](#passed) · [pavement](#pavement) · [peasant](#peasant) · [peep](#peep) · [perform](#perform) · [performance](#performance) · [permit](#permit) · [pillar](#pillar) · [placement](#placement) · [pleasure](#pleasure) · [plenty](#plenty) · [portion](#portion) · [precise](#precise) · [pressure](#pressure) · [pretty](#pretty) · [projectile](#projectile) · [proper](#proper) · [proud](#proud) · [punish](#punish) · [punishment](#punishment) · [purpose](#purpose)
+**Зміст:** [participate](#participate) · [pass](#pass) · [passage](#passage) · [passed](#passed) · [pavement](#pavement) · [peasant](#peasant) · [peep](#peep) · [perform](#perform) · [performance](#performance) · [permanently](#permanently) · [permit](#permit) · [pillar](#pillar) · [placement](#placement) · [pleasure](#pleasure) · [plenty](#plenty) · [portion](#portion) · [precise](#precise) · [pressure](#pressure) · [pretty](#pretty) · [projectile](#projectile) · [proper](#proper) · [proud](#proud) · [punish](#punish) · [punishment](#punishment) · [purpose](#purpose)
 
 ---
 
@@ -12,6 +12,7 @@
 **Приклади:**
 - Over 500 players **participated in** the tournament. — Понад 500 гравців взяли участь у турнірі.
 - She rarely **participates in** meetings. — Вона рідко бере участь у зустрічах.
+
 
 
 ---
@@ -29,6 +30,7 @@
 - noun: You need a **pass** to enter the building. — Потрібна перепустка, щоб увійти в будівлю.
 
 
+
 ---
 
 ## passage
@@ -41,6 +43,7 @@
 - Read this **passage** aloud. — Прочитай цей уривок уголос.
 
 🔗 Пов'язане: [pass](#pass)
+
 
 
 ---
@@ -60,6 +63,7 @@
 🔗 Пов'язане: [pass](#pass)
 
 
+
 ---
 
 ## pavement
@@ -72,6 +76,7 @@
 - Ice covered the **pavement** all winter. — Тротуар усю зиму був укритий льодом.
 
 
+
 ---
 
 ## peasant
@@ -82,6 +87,7 @@
 **Приклади:**
 - **Peasants** gather wood and build farms. — Селяни збирають дерево й будують ферми. _(стратегії)_
 - The **peasants** revolted against the cruel king. — Селяни повстали проти жорстокого короля.
+
 
 
 ---
@@ -98,6 +104,7 @@
 - noun: Take a **peep** at the new design. — Зиркни на новий дизайн.
 
 
+
 ---
 
 ## perform
@@ -108,6 +115,7 @@
 **Приклади:**
 - The surgeon **performed** the operation. — Хірург виконав операцію.
 - The app **performs** well under load. — Застосунок добре працює під навантаженням.
+
 
 ---
 
@@ -120,6 +128,18 @@
 - Her **performance** on stage was amazing. — Її виступ на сцені був неймовірний.
 - We improved the app's **performance** by 40%. — Ми покращили продуктивність застосунку на 40%.
 
+
+---
+
+## permanently
+**permanently** /ˈpɜːmənəntli/ — <code>adverb</code> (прислівник) — назавжди, постійно, на постійній основі
+
+**Пояснення:** прислівник від **permanent** (постійний, незмінний). Антонім — **temporarily** (тимчасово). Часто про переїзд, роботу, закриття: close permanently — закритися назавжди.
+
+**Приклади:**
+- They moved to Lviv **permanently** last year. — Вони назавжди переїхали до Львова минулого року.
+- The café closed **permanently** in March. — Кав'ярня остаточно закрилась у березні.
+
 ---
 
 ## permit
@@ -130,6 +150,7 @@
 **Приклади:**
 - verb: The rules don't **permit** players **to** leave early. — Правила не дозволяють гравцям іти раніше.
 - noun: You need a **permit** to park here. — Тобі потрібен дозвіл, щоб паркуватися тут.
+
 
 
 ---
@@ -144,6 +165,7 @@
 - Encapsulation is one of the **pillars** of OOP. — Інкапсуляція — одна з опор ООП.
 
 
+
 ---
 
 ## placement
@@ -154,6 +176,7 @@
 **Приклади:**
 - The **placement** of this button feels wrong. — Розташування цієї кнопки здається невдалим.
 - She did a six-month **placement** at an IT company. — Вона пройшла піврічне стажування в ІТ-компанії.
+
 
 
 ---
@@ -175,6 +198,7 @@
 - — Could you grind it for me? — **With pleasure.** — Змелеш мені? — Із задоволенням.
 - — Thanks for your help! — **My pleasure.** — Дякую за допомогу! — Нема за що.
 
+
 ---
 
 ## plenty
@@ -185,6 +209,7 @@
 **Приклади:**
 - Don't hurry, we have **plenty of** time. — Не поспішай, у нас удосталь часу.
 - There are **plenty of** side quests in this game. — У цій грі повно побічних квестів.
+
 
 
 ---
@@ -201,6 +226,7 @@
 - The **portions** in this café are huge. — Порції в цьому кафе величезні.
 
 
+
 ---
 
 ## precise
@@ -213,6 +239,7 @@
 **Приклади:**
 - Give me the **precise** steps to reproduce the bug. — Дай точні кроки, щоб відтворити баг.
 - The sniper needs one **precise** shot. — Снайперу потрібен один точний постріл.
+
 
 
 ---
@@ -229,6 +256,7 @@
 - Stop **putting pressure on** me, the fix is almost ready. — Перестань на мене тиснути, фікс майже готовий.
 
 
+
 ---
 
 ## pretty
@@ -240,6 +268,7 @@
 - adverb: The new build is **pretty** stable. — Нова збірка досить стабільна.
 - adverb: I'm **pretty** sure the bug is in the cache. — Я майже впевнений, що баг у кеші.
 - adjective: What a **pretty** garden! — Який гарненький сад!
+
 
 
 ---
@@ -254,6 +283,7 @@
 - Arrows and stones are simple **projectiles**. — Стріли й каміння — прості снаряди.
 
 
+
 ---
 
 ## proper
@@ -266,6 +296,7 @@
 **Приклади:**
 - We released without **proper** testing — and got ten bugs. — Ми зарелізились без належного тестування — і зловили десять багів.
 - Sit on a **proper** chair, not on a box. — Сядь на нормальний стілець, а не на коробку.
+
 
 
 ---
@@ -285,6 +316,7 @@
 - You should be **proud of yourself**. — Тобі варто пишатися собою.
 
 
+
 ---
 
 ## punish
@@ -300,6 +332,7 @@
 - The game **punishes** you **for** greedy plays. — Гра карає тебе за жадібні дії.
 
 
+
 ---
 
 ## punishment
@@ -311,6 +344,7 @@
 - The **punishment** for desertion was severe. — Покарання за дезертирство було суворим.
 
 🔗 Пов'язане: [punish](#punish)
+
 
 
 ---

@@ -1,6 +1,6 @@
 # R
 
-**Зміст:** [rapid](#rapid) · [rare](#rare) · [rarely](#rarely) · [rather](#rather) · [ray](#ray) · [reach](#reach) · [realize](#realize) · [refer](#refer) · [regard](#regard) · [regardless](#regardless) · [regret](#regret) · [relatable](#relatable) · [rely](#rely) · [remain](#remain) · [rent](#rent) · [rescue](#rescue) · [research](#research) · [resistance](#resistance) · [respond](#respond) · [rest](#rest) · [resume](#resume) · [reveal](#reveal) · [revert](#revert) · [rid](#rid) · [roll](#roll) · [rope](#rope) · [rough](#rough) · [royal](#royal) · [rush](#rush)
+**Зміст:** [rapid](#rapid) · [rare](#rare) · [rarely](#rarely) · [rather](#rather) · [ray](#ray) · [reach](#reach) · [realize](#realize) · [recognize](#recognize) · [refer](#refer) · [regard](#regard) · [regardless](#regardless) · [regret](#regret) · [relatable](#relatable) · [rely](#rely) · [remain](#remain) · [rent](#rent) · [rescue](#rescue) · [research](#research) · [resistance](#resistance) · [respond](#respond) · [rest](#rest) · [resume](#resume) · [reveal](#reveal) · [revert](#revert) · [rid](#rid) · [rise](#rise) · [roll](#roll) · [rope](#rope) · [rough](#rough) · [royal](#royal) · [rush](#rush)
 
 ---
 
@@ -13,6 +13,7 @@
 - The app showed **rapid** growth after launch. — Застосунок показав стрімке зростання після запуску.
 - His health bar dropped at a **rapid** rate. — Його смужка здоров'я танула зі стрімкою швидкістю.
 - Technology changes **rapidly**. — Технології змінюються стрімко.
+
 
 
 ---
@@ -30,6 +31,7 @@
 - This crash is **rare** — one report per thousand users. — Цей збій рідкісний — один звіт на тисячу користувачів.
 - I finally got a **rare** sword from that boss. — З того боса мені нарешті випав рідкісний меч.
 - How would you like your steak? — **Rare**, please. — Як вам просмажити стейк? — З кров'ю, будь ласка.
+
 
 
 ---
@@ -50,6 +52,7 @@
 - We **rarely** touch that legacy module. — Ми рідко чіпаємо той легасі-модуль.
 
 
+
 ---
 
 ## rather
@@ -68,6 +71,7 @@
 - The dungeon was **rather** difficult for our level. — Підземелля було доволі складним для нашого рівня.
 
 
+
 ---
 
 ## ray
@@ -79,6 +83,7 @@
 - A **ray** of sunlight broke through the clouds. — Промінь сонця пробився крізь хмари.
 - The mage hit the skeleton with a **ray** of frost. — Маг вдарив скелета крижаним променем.
 - **Ray** tracing makes reflections in games look real. — Трасування променів робить відображення в іграх реалістичними.
+
 
 
 ---
@@ -97,6 +102,7 @@
 - We finally **reached** an agreement. — Ми нарешті досягли згоди.
 
 
+
 ---
 
 ## realize
@@ -112,6 +118,23 @@
 - He **realized** that the NPC had been lying the whole game. — Він зрозумів, що NPC брехав усю гру.
 
 
+
+---
+
+## recognize
+**recognize** /ˈrekəɡnaɪz/ — <code>verb</code> (дієслово) — впізнати; визнати
+
+**Пояснення:** два значення: (1) впізнати когось / щось, бо вже бачив (recognize a face, a voice); (2) визнати офіційно або погодитись, що щось правда (recognize a mistake, recognize a country). BrE — **recognise**. Іменник — **recognition**.
+
+**💡 Конструкції:**
+- **recognize** sb / sth — впізнати: I didn't **recognize** you with the beard. — Я не впізнав тебе з бородою.
+- **recognize that …** — визнати, що: She **recognized that** the plan had failed. — Вона визнала, що план провалився.
+- **recognize** sb **as** … — визнати кимось: He's **recognized as** an expert. — Його визнають експертом.
+
+**Приклади:**
+- Do you **recognize** this song? — Впізнаєш цю пісню?
+- The company finally **recognized** the problem. — Компанія нарешті визнала проблему.
+
 ---
 
 ## refer
@@ -126,6 +149,7 @@
 **Приклади:**
 - When in doubt, **refer to** the official docs. — Коли сумніваєшся, звертайся до офіційної документації.
 - In MMOs, "tank" **refers to** the player who takes the damage. — У MMO «танк» означає гравця, який приймає шкоду на себе.
+
 
 
 ---
@@ -147,6 +171,7 @@
 🔗 **Пов'язане:** [regardless](#regardless).
 
 
+
 ---
 
 ## regardless
@@ -161,6 +186,7 @@
 - **Regardless of** the result, the team did a great job. — Незалежно від результату, команда попрацювала чудово.
 
 🔗 **Пов'язане:** [regard](#regard).
+
 
 
 ---
@@ -180,6 +206,7 @@
 - noun: I have no **regrets** about moving into backend. — Я не шкодую, що пішов у бекенд.
 
 
+
 ---
 
 ## relatable
@@ -191,6 +218,7 @@
 - The hero is **relatable**: he's scared, but he still goes. — Герой життєвий: йому страшно, але він іде.
 - That meme about debugging at 2 a.m. is so **relatable**. — Той мем про дебаг о другій ночі — прямо про мене.
 - I can really **relate to** this song. — Я справді впізнаю себе в цій пісні.
+
 
 
 ---
@@ -210,6 +238,7 @@
 - Don't **rely on** luck — save the game manually. — Не покладайся на удачу — зберігай гру вручну.
 
 
+
 ---
 
 ## remain
@@ -221,6 +250,7 @@
 - The server **remained** stable under heavy load. — Сервер залишався стабільним під великим навантаженням.
 - Only two side quests **remain** before the finale. — До фіналу залишилося лише два побічні квести.
 - Please **remain** seated until the plane stops. — Будь ласка, залишайтеся на місцях, доки літак не зупиниться.
+
 
 
 ---
@@ -240,6 +270,7 @@
 - v: We **rented** a car for the weekend. — Ми орендували авто на вихідні.
 - n: The **rent** is due on the first of the month. — Оренду треба платити першого числа.
 
+
 ---
 
 ## rescue
@@ -253,6 +284,7 @@
 - My teammate **came to the rescue** with a hotfix. — Тіммейт прийшов на порятунок із хотфіксом.
 
 
+
 ---
 
 ## research
@@ -263,6 +295,7 @@
 **Приклади:**
 - noun: I did some **research** before buying. — Я провів невелике дослідження перед покупкою. _(не «a research»)_
 - verb: She's **researching** the best framework. — Вона досліджує найкращий фреймворк.
+
 
 
 ---
@@ -284,6 +317,7 @@
 🔗 **Пов'язане:** [surrender](s.md#surrender) — протилежне за змістом.
 
 
+
 ---
 
 ## respond
@@ -294,6 +328,7 @@
 **Приклади:**
 - He didn't **respond to** my message. — Він не відповів на моє повідомлення.
 - The team **responded** quickly **to** the incident. — Команда швидко відреагувала на інцидент.
+
 
 
 ---
@@ -313,6 +348,7 @@
 - After the trip we **rested** for two days. — Після подорожі ми відпочивали два дні.
 
 
+
 ---
 
 ## resume
@@ -330,6 +366,7 @@
 - Recruiters spend ten seconds on each **résumé**. — Рекрутери витрачають десять секунд на кожне резюме.
 
 
+
 ---
 
 ## reveal
@@ -341,6 +378,7 @@
 - The trailer **revealed** the new map. — Трейлер показав нову мапу.
 - The logs **revealed** the real cause of the crash. — Логи розкрили справжню причину збою.
 - At the end, the stranger **reveals** that he is the king. — У кінці незнайомець розкриває, що він король.
+
 
 
 ---
@@ -360,6 +398,7 @@
 - He **reverted** my commit without asking. — Він відкотив мій коміт, не спитавши.
 
 
+
 ---
 
 ## rid
@@ -374,6 +413,24 @@
 - I paid for premium to **get rid of** the ads. — Я заплатив за преміум, щоб позбутися реклами.
 - Drink some tea to **get rid of** that cold. — Випий чаю, щоб позбутися застуди.
 
+
+
+---
+
+## rise
+**rise** /raɪz/ — 1. <code>verb</code> (дієслово) — підніматися, зростати 2. <code>noun</code> (іменник) — зростання, підвищення
+
+**Пояснення:** неправильне дієслово: **rise – rose – risen**. Щось піднімається **саме** (без об'єкта): the sun rises, prices rise. ⚠️ Не плутай із **raise** (raise – raised – raised) — підняти **щось** (з об'єктом): raise prices, raise your hand. Тест: є «що піднімають»? → raise; піднімається само → rise.
+
+**💡 Конструкції:**
+- **rise** (само): Prices **rose** by 10%. — Ціни зросли на 10%.
+- **raise** sth (з об'єктом): We **raised** prices. — Ми підняли ціни.
+- **a rise in** sth — зростання чогось: a **rise in** rent — зростання оренди
+- **a pay rise** (BrE) — підвищення зарплати (AmE — a raise)
+
+**Приклади:**
+- v: The sun **rises** at six in summer. — Влітку сонце сходить о шостій.
+- n: There was a sharp **rise in** coffee prices. — Стався різкий стрибок цін на каву.
 
 ---
 
@@ -392,6 +449,7 @@
 - noun: I grabbed a coffee and a cinnamon **roll**. — Я взяв каву й булочку з корицею.
 
 
+
 ---
 
 ## rope
@@ -407,6 +465,7 @@
 - My mentor **showed me the ropes** during the first sprint. — Ментор увів мене в курс справи за перший спринт.
 
 
+
 ---
 
 ## rough
@@ -417,6 +476,7 @@
 **Приклади:**
 - Three days of debugging — that sounds **rough**. — Три дні дебагу — це, мабуть, важко.
 - We went through a **rough** patch, but the team pulled through. — Ми пройшли через важкий період, але команда впоралась.
+
 
 
 ---
@@ -432,6 +492,7 @@
 - The **royal** guard protects the castle gates. — Королівська варта охороняє браму замку.
 - The quest giver turned out to be the **royal** heir. — Той, хто дав квест, виявився королівським спадкоємцем.
 - We watched the **royal** wedding on TV. — Ми дивилися королівське весілля по телевізору.
+
 
 
 ---

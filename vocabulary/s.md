@@ -1,6 +1,6 @@
 # S
 
-**Зміст:** [safety](#safety) · [scratch](#scratch) · [seer](#seer) · [sensible](#sensible) · [sequence](#sequence) · [series](#series) · [serve](#serve) · [settle](#settle) · [shape](#shape) · [shift gears](#shift-gears) · [shout](#shout) · [sip](#sip) · [sketch](#sketch) · [slam](#slam) · [slay](#slay) · [slide](#slide) · [smooth](#smooth) · [smoothness](#smoothness) · [so](#so) · [soft](#soft) · [solve](#solve) · [sore](#sore) · [sour](#sour) · [spark](#spark) · [spawn](#spawn) · [spear](#spear) · [spell](#spell) · [spend](#spend) · [spire](#spire) · [spot](#spot) · [standalone](#standalone) · [strength](#strength) · [strip](#strip) · [strive](#strive) · [struggle](#struggle) · [subdivision](#subdivision) · [success](#success) · [successful](#successful) · [such](#such) · [suffer](#suffer) · [supply](#supply) · [surprisingly](#surprisingly) · [surrender](#surrender) · [suspend](#suspend) · [swing](#swing)
+**Зміст:** [safety](#safety) · [scratch](#scratch) · [seer](#seer) · [sensible](#sensible) · [sequence](#sequence) · [series](#series) · [serve](#serve) · [settle](#settle) · [shape](#shape) · [shift gears](#shift-gears) · [shout](#shout) · [sibling](#sibling) · [sip](#sip) · [sketch](#sketch) · [slam](#slam) · [slay](#slay) · [slide](#slide) · [smooth](#smooth) · [smoothness](#smoothness) · [so](#so) · [soft](#soft) · [solve](#solve) · [sore](#sore) · [sour](#sour) · [spark](#spark) · [spawn](#spawn) · [spear](#spear) · [spell](#spell) · [spend](#spend) · [spire](#spire) · [spot](#spot) · [standalone](#standalone) · [strength](#strength) · [strip](#strip) · [strive](#strive) · [struggle](#struggle) · [subdivision](#subdivision) · [success](#success) · [successful](#successful) · [such](#such) · [suffer](#suffer) · [supply](#supply) · [surprisingly](#surprisingly) · [surrender](#surrender) · [suspend](#suspend) · [swing](#swing)
 
 ---
 
@@ -18,6 +18,7 @@
 🔗 **Пов'язане:** safe — безпечний (прикметник).
 
 
+
 ---
 
 ## scratch
@@ -31,6 +32,7 @@
 - verb: The cat **scratched** the new sofa. — Кіт подряпав новий диван.
 - noun: The phone fell, but there isn't a single **scratch** on it. — Телефон упав, але на ньому жодної подряпини.
 - We built the drag-and-drop engine **from scratch**. — Ми написали рушій drag-and-drop з нуля.
+
 
 
 ---
@@ -47,6 +49,7 @@
 - In *Werewolf*, the **Seer** learns one player's role each night. — У «Перевертнях» Провидець щоночі дізнається роль одного гравця.
 
 
+
 ---
 
 ## sensible
@@ -57,6 +60,7 @@
 **Приклади:**
 - That's a **sensible** decision given the deadline. — Це розсудливе рішення з огляду на дедлайн.
 - She gave me some **sensible** advice. — Вона дала мені розсудливу пораду.
+
 
 
 ---
@@ -73,6 +77,7 @@
 - Press the runes in the right **sequence** to open the gate. — Натисни руни в правильній послідовності, щоб відкрити браму. _(фентезі)_
 
 
+
 ---
 
 ## series
@@ -83,6 +88,7 @@
 **Приклади:**
 - He watches a new **series** every evening. — Він дивиться новий серіал щовечора.
 - We had a **series** of problems last week. — Минулого тижня в нас була низка проблем.
+
 
 
 ---
@@ -100,6 +106,7 @@
 - The old tower **serves as** a lighthouse. — Стара вежа слугує маяком.
 
 
+
 ---
 
 ## settle
@@ -115,6 +122,7 @@
 - The card animation **settles** into its final position. — Анімація картки осідає в кінцеву позицію. _(мобільна розробка)_
 
 
+
 ---
 
 ## shape
@@ -127,6 +135,7 @@
 - verb: These experiences **shaped** who I am. — Цей досвід сформував мене таким, який я є.
 
 
+
 ---
 
 ## shift gears
@@ -137,6 +146,7 @@
 **Приклади:**
 - Let's **shift gears** and talk about your last project. — Давай перемкнемось і поговоримо про твій останній проєкт.
 - After the outage, the team **shifted gears** to focus on monitoring. — Після збою команда переключилась на моніторинг.
+
 
 
 ---
@@ -154,6 +164,18 @@
 - noun: We heard a **shout** from the forest. — Ми почули крик із лісу.
 
 
+
+---
+
+## sibling
+**sibling** /ˈsɪblɪŋ/ — <code>noun</code> (іменник) — брат або сестра (без уточнення статі)
+
+**Пояснення:** формальне / нейтральне слово, коли стать не важлива або йдеться про обох: Do you have any **siblings**? — У тебе є брати чи сестри? У живій розмові частіше кажуть brother / sister. Споріднене: **sibling rivalry** — суперництво між братами й сестрами.
+
+**Приклади:**
+- I have two **siblings** — a brother and a sister. — У мене двоє: брат і сестра.
+- You should be proud of your **sibling**. — Тобі варто пишатися своїм братом / сестрою.
+
 ---
 
 ## sip
@@ -170,6 +192,7 @@
 - v: I **sip** it slowly at my desk. — Я повільно п'ю її маленькими ковтками за столом.
 - n: Just one **sip** — it's still too hot. — Лише ковток — ще надто гаряче.
 
+
 ---
 
 ## sketch
@@ -182,6 +205,7 @@
 - verb: She **sketched** the map of the dungeon in her journal. — Вона накидала мапу підземелля у своєму щоденнику. _(фентезі)_
 
 
+
 ---
 
 ## slam
@@ -192,6 +216,7 @@
 **Приклади:**
 - verb: Don't **slam** the door, the baby is sleeping. — Не грюкай дверима, малий спить.
 - verb: The boss **slams** the ground — dodge the shockwave! — Бос гатить по землі — ухиляйся від ударної хвилі! _(гра)_
+
 
 
 ---
@@ -211,6 +236,7 @@
 🔗 **Пов'язане:** [spire](#spire) — гра **Slay the Spire**.
 
 
+
 ---
 
 ## slide
@@ -222,6 +248,7 @@
 - verb: Swipe left and the card **slides** away. — Свайпни вліво — і картка плавно з'їжджає. _(мобільна розробка)_
 - verb: He **slid** across the ice and hit the wall. — Він проковзнув по льоду і врізався в стіну.
 - noun: The last **slide** shows our roadmap. — Останній слайд показує наш роадмап.
+
 
 
 ---
@@ -240,6 +267,7 @@
 🔗 **Пов'язане:** [smoothness](#smoothness) — плавність, гладкість.
 
 
+
 ---
 
 ## smoothness
@@ -251,6 +279,7 @@
 - Users notice the **smoothness** of scrolling right away. — Користувачі одразу помічають плавність скролу.
 
 🔗 **Пов'язане:** [smooth](#smooth) — гладкий, плавний.
+
 
 
 ---
@@ -265,6 +294,7 @@
 **Приклади:**
 - adverb: This library is **so** heavy! — Ця бібліотека така важка!
 - conjunction: The test failed, **so** I checked the logs. — Тест упав, тому я перевірив логи.
+
 
 
 ---
@@ -282,6 +312,7 @@
 - The lamp gives a **soft**, warm light. — Лампа дає м'яке тепле світло.
 
 
+
 ---
 
 ## solve
@@ -294,6 +325,7 @@
 **Приклади:**
 - Caching **solved** our performance problem. — Кешування розв'язало нашу проблему з продуктивністю.
 - **Solve** the riddle to open the ancient door. — Розгадай загадку, щоб відчинити прадавні двері. _(фентезі)_
+
 
 
 ---
@@ -309,6 +341,7 @@
 - I have a **sore** throat, I'll skip the call today. — У мене болить горло, я сьогодні пропущу дзвінок.
 - My arms are **sore** after yesterday's workout. — Руки болять після вчорашнього тренування.
 - My eyes are **sore** after ten hours of coding. — Очі болять після десяти годин за кодом.
+
 
 
 ---
@@ -328,6 +361,7 @@
 - Light-roast coffee can taste slightly **sour**. — Кава світлого обсмаження може мати легку кислинку.
 - He gave me a **sour** look and left. — Він кисло глянув на мене й пішов.
 
+
 ---
 
 ## spark
@@ -338,6 +372,7 @@
 **Приклади:**
 - noun: **Sparks** flew from the wizard's staff. — З посоха чарівника летіли іскри. _(фентезі)_
 - verb: The update **sparked** a heated discussion in the community. — Оновлення розпалило гарячу дискусію у спільноті.
+
 
 
 ---
@@ -355,6 +390,7 @@
 - Node can **spawn** a child process for heavy tasks. — Node може запустити дочірній процес для важких задач.
 
 
+
 ---
 
 ## spear
@@ -365,6 +401,7 @@
 **Приклади:**
 - The city guards carry long **spears**. — Міські вартові носять довгі списи. _(фентезі)_
 - This **spear** deals bonus damage to cavalry. — Цей спис завдає бонусної шкоди кавалерії. _(гра)_
+
 
 
 ---
@@ -383,6 +420,7 @@
 🔗 **Пов'язане:** spelling — правопис, написання.
 
 
+
 ---
 
 ## spend
@@ -397,6 +435,7 @@
 - He **spends** hours **practising** every day. — Він проводить години, тренуючись, щодня.
 
 
+
 ---
 
 ## spire
@@ -409,6 +448,7 @@
 - You can see the cathedral's **spire** from anywhere in the city. — Шпиль собору видно з будь-якої точки міста.
 
 🔗 **Пов'язане:** [slay](#slay) — гра **Slay the Spire** = «Убий Шпиль».
+
 
 
 ---
@@ -426,6 +466,7 @@
 - verb: Can you **spot** the bug in this function? — Бачиш баг у цій функції?
 
 
+
 ---
 
 ## standalone
@@ -436,6 +477,7 @@
 **Приклади:**
 - We shipped the exporter as a **standalone** CLI tool. — Ми випустили експортер як окремий CLI-інструмент.
 - The DLC works as a **standalone** game — you don't need the original. — Це DLC працює як самостійна гра — оригінал не потрібен. _(гра)_
+
 
 
 ---
@@ -454,6 +496,7 @@
 🔗 **Пов'язане:** strong — сильний (прикметник).
 
 
+
 ---
 
 ## strip
@@ -465,6 +508,7 @@
 - verb: The function **strips** extra spaces from the input. — Функція прибирає зайві пробіли з введеного тексту.
 - verb: The traitor was **stripped** of his knight title. — Зрадника позбавили лицарського титулу. _(фентезі)_
 - noun: Tear off a **strip** of paper. — Відірви смужку паперу.
+
 
 
 ---
@@ -481,6 +525,7 @@
 - The young squire **strove to** become a true knight. — Юний зброєносець прагнув стати справжнім лицарем. _(фентезі)_
 
 
+
 ---
 
 ## struggle
@@ -492,6 +537,7 @@
 - verb: Many learners **struggle with** articles. — Багато хто мучиться з артиклями.
 - verb: I **struggled to** speak at first. — Спершу мені було важко говорити.
 - noun: Learning to speak was a real **struggle**. — Навчитися говорити було справжньою боротьбою.
+
 
 
 ---
@@ -508,6 +554,7 @@
 - The guild's army is split into five **subdivisions**. — Армія гільдії поділена на п'ять підрозділів. _(гра)_
 
 
+
 ---
 
 ## success
@@ -520,6 +567,7 @@
 - **Success** in learning English comes from daily practice. — Успіх у вивченні англійської приходить від щоденної практики.
 
 🔗 **Пов'язане:** [successful](#successful) — успішний; succeed — досягати успіху.
+
 
 
 ---
@@ -536,6 +584,7 @@
 🔗 **Пов'язане:** [success](#success) — успіх.
 
 
+
 ---
 
 ## such
@@ -548,6 +597,7 @@
 **Приклади:**
 - I've never played **such** a beautiful game. — Я ще не грав у таку красиву гру.
 - Why did they make **such** a complicated API? — Нащо вони зробили такий заплутаний API?
+
 
 
 ---
@@ -565,6 +615,7 @@
 - The village **suffered** greatly under the dragon's raids. — Село дуже потерпало від набігів дракона. _(фентезі)_
 
 
+
 ---
 
 ## supply
@@ -580,6 +631,7 @@
 - verb: This module **supplies** data to all screens. — Цей модуль постачає дані всім екранам.
 
 
+
 ---
 
 ## surprisingly
@@ -592,6 +644,7 @@
 - The test was **surprisingly** easy. — Тест виявився на диво легким.
 
 🔗 **Пов'язане:** [surprised / surprising](../grammar/b1/adjectives-adverbs.md) — пара -ed/-ing.
+
 
 
 ---
@@ -612,6 +665,7 @@
 🔗 **Пов'язане:** [resistance](r.md#resistance) — протилежне за змістом.
 
 
+
 ---
 
 ## suspend
@@ -625,6 +679,7 @@
 - His account was **suspended** for cheating. — Його акаунт заблокували за читерство. _(гра)_
 - The OS **suspends** background processes to save battery. — ОС призупиняє фонові процеси, щоб економити батарею.
 - The bridge is **suspended** on thick chains. — Міст підвішений на товстих ланцюгах. _(фентезі)_
+
 
 
 ---

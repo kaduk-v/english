@@ -4,7 +4,7 @@
 
 **Легенда:** `v` = verb (дієслово) · `n` = noun (іменник) · `adj` = adjective (прикметник) · `adv` = adverb (прислівник) · `prep` = preposition (прийменник) · `conj` = conjunction (сполучник) · `det` = determiner (означник) · `phrase` = стала фраза
 
-**Всього слів: 410**
+**Всього слів: 428**
 
 | Слово | ЧМ | Переклад | Нюанс |
 |-------|----|----------|-------|
@@ -20,12 +20,14 @@
 | [advantage](a.md#advantage) | n | перевага | 💡 Патерни |
 | [affect](a.md#affect) | v | впливати на | 💡 affect (v) vs effect (n) —… |
 | [affirm](a.md#affirm) | v | стверджувати, підтверджувати (формально) | — |
+| [afford](a.md#afford) | v | мати змогу, дозволити собі | 💡 can / can't afford · can't afford to do |
 | [afterwards](a.md#afterwards) | adv | потім, згодом, після того | — |
 | [against](a.md#against) | prep | проти; об, до (опора); всупереч | 💡 Сталі патерни |
 | [agree](a.md#agree) | v | погоджуватися | 💡 Конструкції |
 | [aid](a.md#aid) | n / v | допомога, підтримка; допомагати, сприяти… | — |
 | [ally](a.md#ally) | n / v | союзник; об'єднуватися в союз | — |
 | [alongside](a.md#alongside) | prep / adv | поруч (з), разом з | — |
+| [altitude](a.md#altitude) | n | висота над рівнем моря | 💡 altitude ≠ height |
 | [ammo](a.md#ammo) | n | патрони, боєприпаси | — |
 | [among](a.md#among) | prep | серед, поміж | 💡 among vs between |
 | [ancient](a.md#ancient) | adj | стародавній, древній | — |
@@ -41,6 +43,7 @@
 | [asleep](a.md#asleep) | adj | сплячий, у стані сну | 💡 fall asleep, не feel |
 | [assign](a.md#assign) | v | призначати, доручати, розподіляти | 💡 assign |
 | [assignment](a.md#assignment) | n | завдання; призначення; присвоєння | — |
+| [attend](a.md#attend) | v | відвідувати, бути присутнім | 💡 attend sth — без прийменника |
 | [attic](a.md#attic) | n | горище | — |
 | [attitude](a.md#attitude) | n | ставлення, підхід; позиція | — |
 | [aware](a.md#aware) | adj | обізнаний, свідомий (чогось) | 💡 aware of |
@@ -82,6 +85,7 @@
 | [complaint](c.md#complaint) | n | скарга | — |
 | [complete](c.md#complete) | adj / v | повний, цілковитий; завершений… | 💡 complete vs finish |
 | [complicate](c.md#complicate) | v | ускладнювати | — |
+| [compound](c.md#compound) | n / adj / v | сполука; складений; посилювати | 💡 compound word · compound interest |
 | [comprehensive](c.md#comprehensive) | adj | всеосяжний, вичерпний, повний | 💡 Не плутай |
 | [concern](c.md#concern) | n / v | занепокоєння; питання, що стосується… | 💡 Сталі конструкції |
 | [confidence](c.md#confidence) | n | впевненість; довіра | 💡 confidence in |
@@ -93,6 +97,7 @@
 | [convenient](c.md#convenient) | adj | зручний | 💡 convenient for sb · it's convenient to do · ≠ comfortable |
 | [correspond](c.md#correspond) | v | відповідати (чомусь), збігатися; листуватися | 💡 correspond to/with |
 | [cosy](c.md#cosy) | adj | затишний | — |
+| [counter](c.md#counter) | n / v | прилавок, стійка; лічильник; заперечити | 💡 behind the counter |
 | [creature](c.md#creature) | n | істота, створіння | — |
 | [creepy](c.md#creepy) | adj | моторошний, жаский | — |
 | [crisp](c.md#crisp) | adj / n | хрусткий; чіткий, різкий; свіжий (про… | 💡 BrE vs AmE (дзеркало до chip) |
@@ -109,6 +114,7 @@
 | [delve](d.md#delve) | v | заглиблюватися, копатися (у темі)… | — |
 | [derive](d.md#derive) | v | отримувати, виводити (з чогось); походити… | 💡 Прийменник from |
 | [desert](d.md#desert) | n / v | пустеля; покинути, дезертирувати | 💡 Три слова, які легко переплутати |
+| [design](d.md#design) | n / v | дизайн, проєкт; проєктувати | 💡 be designed for · by design |
 | [despite](d.md#despite) | prep | попри, незважаючи на | 💡 despite + іменник/V-ing, БЕЗ… |
 | [detailed](d.md#detailed) | adj | детальний, докладний | — |
 | [develop](d.md#develop) | v | розвивати(ся); розробляти; проявляти (плівку) | — |
@@ -142,6 +148,7 @@
 | [entire](e.md#entire) | adj | цілий, весь (= whole) | — |
 | [equipment](e.md#equipment) | n | обладнання; спорядження, екіпірування | 💡 Незлічуване |
 | [essential](e.md#essential) | adj | необхідний, найважливіший, ключовий | 💡 Конструкції |
+| [establishment](e.md#establishment) | n | заклад; заснування | 💡 формальне; у розмові — a place |
 | [evaluate](e.md#evaluate) | v | оцінювати (якість, значення, варіанти) | — |
 | [eventually](e.md#eventually) | adv | врешті-решт, зрештою | 💡 False friend |
 | [evidence](e.md#evidence) | n | доказ(и), свідчення | 💡 Незлічуване |
@@ -173,6 +180,7 @@
 | [fluency](f.md#fluency) | n | вільне володіння (мовою), плавність мовлення | — |
 | [foreword](f.md#foreword) | n | передмова (у книжці) | 💡 foreword vs forward (!) |
 | [forge](f.md#forge) | v / n | кувати; (фігурально) створювати міцний… | 💡 Два обличчя forge |
+| [fortress](f.md#fortress) | n | фортеця | — |
 | [fortunately](f.md#fortunately) | adv | на щастя | 💡 Як вставні слова |
 | [foundation](f.md#foundation) | n | фундамент, основа; фонд (організація)… | — |
 | [fret](f.md#fret) | v / n | хвилюватися, перейматися; лад (на грифі… | 💡 Don't fret! |
@@ -205,6 +213,7 @@
 | [immediately](i.md#immediately) | adv | негайно, одразу | — |
 | [immense](i.md#immense) | adj | величезний, безмежний | — |
 | [in-person](i.md#in-person) | adj | особистий, наживо (не онлайн) | — |
+| [income](i.md#income) | n | дохід | 💡 income ≠ profit ≠ salary |
 | [indeed](i.md#indeed) | adv | справді, дійсно | 💡 Підсилення / підтвердження |
 | [inn](i.md#inn) | n | заїжджий двір, корчма, невеликий готель | 💡 Омофони inn vs in |
 | [inner](i.md#inner) | adj | внутрішній | — |
@@ -215,14 +224,17 @@
 | [intended](i.md#intended) | adj | запланований, задуманий; призначений | — |
 | [intention](i.md#intention) | n | намір | — |
 | [into](i.md#into) | prep | у, всередину (рух); на (перетворення) | 💡 be into sth |
+| [invent](i.md#invent) | v | винайти; вигадати | 💡 invent ≠ discover |
 | [invoke](i.md#invoke) | v | викликати (функцію); прикликати (духа… | — |
 | [involve](i.md#involve) | v | включати, передбачати (містити в собі)… | 💡 Структури |
 | [issue](i.md#issue) | n / v | проблема, питання; випуск; видавати | 💡 have an issue with |
 | [judge](j.md#judge) | n / v | суддя; судити, оцінювати | 💡 Розмовне та сталі фрази |
 | [lack](l.md#lack) | n / v | брак, нестача; бракувати | 💡 a lack of (n) · lack sth без of (v) |
 | [late](l.md#late) | adj / adv | пізній; який запізнився; пізно, із запізненням | 💡 late vs lately — ПАРА, не плутай |
+| [latency](l.md#latency) | n | затримка, латентність | 💡 latency (техн.) ≠ delay (побут.) |
 | [launch](l.md#launch) | v / n | запускати (продукт, застосунок, ракету)… | — |
 | [lay](l.md#lay) | v | класти, покласти (щось кудись) | 💡 НЕ плутай `lay` і `lie` |
+| [lead](l.md#lead) | v / n | вести, очолювати; лідерство; лід | 💡 lead – led – led · lead to |
 | [leadership](l.md#leadership) | n | лідерство, керівництво | — |
 | [least](l.md#least) | det / adv | найменший, найменше | 💡 Сталі фрази |
 | [legacy](l.md#legacy) | n | спадщина, спадок; (IT) старий, успадкований… | — |
@@ -283,6 +295,7 @@
 | [peep](p.md#peep) | v / n | підглядати, зазирнути (швидко, крадькома)… | 💡 not a peep |
 | [perform](p.md#perform) | v | виконувати (завдання/дію); виступати (на… | — |
 | [performance](p.md#performance) | n | виступ; продуктивність, показники | — |
+| [permanently](p.md#permanently) | adv | назавжди, постійно | 💡 ≠ temporarily |
 | [permit](p.md#permit) | v / n | дозволяти; дозвіл (документ) | 💡 Наголос змінюється |
 | [pillar](p.md#pillar) | n | колона, стовп; опора (переносно) | — |
 | [placement](p.md#placement) | n | розміщення, розташування; стажування (BrE) | — |
@@ -308,6 +321,7 @@
 | [ray](r.md#ray) | n | промінь | — |
 | [reach](r.md#reach) | v | дотягнутися, досягти; зв'язатися з кимось | 💡 Конструкція |
 | [realize](r.md#realize) | v | усвідомити, зрозуміти (часто раптом) | 💡 False friend! |
+| [recognize](r.md#recognize) | v | впізнати; визнати | 💡 recognize sb · recognize that |
 | [refer](r.md#refer) | v | звертатися (до джерела); стосуватися, означати | 💡 refer to |
 | [regard](r.md#regard) | v / n | вважати (regard as); повага; стосунок | 💡 regard as · with regard to |
 | [regardless](r.md#regardless) | adv | все одно; regardless of — незалежно від | 💡 regardless of |
@@ -325,6 +339,7 @@
 | [reveal](r.md#reveal) | v | розкривати, показувати (те, що було приховане) | — |
 | [revert](r.md#revert) | v | повернутися до попереднього стану; відкотити | 💡 revert to |
 | [rid](r.md#rid) | v | позбавляти (вживається майже лише у фразі… | 💡 get rid of |
+| [rise](r.md#rise) | v / n | підніматися, зростати; зростання | 💡 rise – rose – risen · rise (само) ≠ raise sth |
 | [roll](r.md#roll) | v / n | котити(ся); кидати (кубик); кидок (кубика)… | 💡 roll out |
 | [rope](r.md#rope) | n | мотузка, канат | 💡 learn the ropes |
 | [rough](r.md#rough) | adj | грубий, шорсткий; важкий, суворий (період) | — |
@@ -341,6 +356,7 @@
 | [shape](s.md#shape) | n / v | форма; (фізичний) стан; формувати, надавати… | 💡 Сталі вирази |
 | [shift gears](s.md#shift-gears) | phrase | змінити тему/підхід, перемкнутися | — |
 | [shout](s.md#shout) | v / n | кричати; крик, вигук | 💡 Прийменник міняє зміст |
+| [sibling](s.md#sibling) | n | брат або сестра | 💡 нейтральне до статі |
 | [sip](s.md#sip) | v / n | пити маленькими ковтками; ковток | 💡 sip sth (без прийменника) · take a sip of |
 | [sketch](s.md#sketch) | n / v | ескіз, начерк; накидати, робити начерк | — |
 | [slam](s.md#slam) | v / n | грюкати, з силою кидати/зачиняти; грюкіт… | — |
@@ -377,6 +393,7 @@
 | [swing](s.md#swing) | v / n | розмахувати; гойдати(ся); гойдалка; замах… | — |
 | [take](t.md#take) | v | брати, взяти; займати (час); робити (у… | 💡 Часті сталі вирази |
 | [tend](t.md#tend) | v | мати схильність, зазвичай робити | 💡 Конструкція `tend to` +… |
+| [terrible](t.md#terrible) | adj | жахливий, дуже поганий | 💡 be terrible at · feel terrible |
 | [thankful](t.md#thankful) | adj | вдячний; радий, що | 💡 thankful for / that |
 | [thick](t.md#thick) | adj | товстий; густий, щільний | 💡 thick fog, through thick and thin |
 | [thirsty](t.md#thirsty) | adj | спраглий, який хоче пити | 💡 be thirsty |
@@ -396,6 +413,7 @@
 | [uncover](u.md#uncover) | v | розкрити, виявити (приховане); зняти покриття | — |
 | [underestimate](u.md#underestimate) | v | недооцінювати | 💡 underestimate sth (без прийменника) · ≠ overestimate |
 | [unintended](u.md#unintended) | adj | ненавмисний, незапланований | — |
+| [unity](u.md#unity) | n | єдність | 💡 Unity — ігровий рушій |
 | [unless](u.md#unless) | conj | якщо не, доки не | 💡 unless = if not |
 | [upfront](u.md#upfront) | adj / adv | відвертий, прямий; заздалегідь, наперед | — |
 | [upon](u.md#upon) | prep | формальний варіант; : на; при, після (події) | 💡 Сталі формули |

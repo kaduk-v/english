@@ -1,6 +1,6 @@
 # U
 
-**Зміст:** [ultimately](#ultimately) · [uncover](#uncover) · [underestimate](#underestimate) · [unintended](#unintended) · [unless](#unless) · [upfront](#upfront) · [upon](#upon) · [upset](#upset) · [upwards](#upwards) · [urgent](#urgent) · [useless](#useless)
+**Зміст:** [ultimately](#ultimately) · [uncover](#uncover) · [underestimate](#underestimate) · [unintended](#unintended) · [unity](#unity) · [unless](#unless) · [upfront](#upfront) · [upon](#upon) · [upset](#upset) · [upwards](#upwards) · [urgent](#urgent) · [useless](#useless)
 
 ---
 
@@ -16,6 +16,7 @@
 - **Ultimately**, it's your decision. — Зрештою, це твоє рішення.
 
 
+
 ---
 
 ## uncover
@@ -26,6 +27,7 @@
 **Приклади:**
 - The logs helped us **uncover** a hidden bug. — Логи допомогли нам виявити прихований баг.
 - The heroes **uncovered** the wizard's secret plot. — Герої розкрили таємну змову чарівника.
+
 
 
 ---
@@ -43,6 +45,7 @@
 - Don't **underestimate** the boss on the last level. — Не недооцінюй боса на останньому рівні. _(гра)_
 - We **underestimated** the task and missed the deadline. — Ми недооцінили задачу й пропустили дедлайн. _(розробка)_
 
+
 ---
 
 ## unintended
@@ -57,6 +60,22 @@
 - Deleting that config had **unintended** consequences. — Видалення того конфіга мало непередбачені наслідки.
 
 
+
+---
+
+## unity
+**unity** /ˈjuːnəti/ — <code>noun</code> (іменник, незлічуваний) — єдність, згуртованість
+
+**Пояснення:** стан, коли люди або частини діють як одне ціле. Прикметник — **united** (об'єднаний: the United States). Дієслово — **unite** (об'єднувати). У розробці **Unity** — назва ігрового рушія (з великої, без артикля).
+
+**💡 Сталі вирази:**
+- **national unity** — національна єдність
+- **in unity** — у єдності, разом
+
+**Приклади:**
+- The team showed real **unity** after the loss. — Після поразки команда показала справжню згуртованість. _(спорт)_
+- I started to learn **Unity** a few months ago. — Я почав вчити Unity кілька місяців тому. _(рушій)_
+
 ---
 
 ## unless
@@ -69,6 +88,7 @@
 - **Unless** it rains, we'll play outside. — Якщо не буде дощу, гратимемо надворі.
 
 
+
 ---
 
 ## upfront
@@ -79,6 +99,7 @@
 **Приклади:**
 - Thanks for being **upfront** about your salary expectations. — Дякую, що чесно сказав про очікування щодо зарплати.
 - The agency asks for 50% payment **upfront**. — Агентство просить 50% оплати наперед.
+
 
 
 ---
@@ -95,6 +116,7 @@
 - The token refreshes **upon** login. — Токен оновлюється при вході.
 
 
+
 ---
 
 ## upset
@@ -105,6 +127,7 @@
 **Приклади:**
 - She was **upset about** losing the ranked match. — Вона була засмучена через програш у ранговому матчі.
 - Don't let one bad review **upset** you. — Не дозволяй одному поганому відгуку засмучувати тебе.
+
 
 
 ---
@@ -119,6 +142,7 @@
 - The download numbers are moving **upwards**. — Кількість завантажень зростає.
 
 
+
 ---
 
 ## urgent
@@ -129,6 +153,7 @@
 **Приклади:**
 - We got an **urgent** bug report from production. — Ми отримали терміновий баг-репорт із продакшену.
 - It's not **urgent** — it can wait until Monday. — Це не терміново — може почекати до понеділка.
+
 
 
 ---

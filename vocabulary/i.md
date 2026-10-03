@@ -1,6 +1,6 @@
 # I
 
-**Зміст:** [immediately](#immediately) · [immense](#immense) · [indeed](#indeed) · [inn](#inn) · [inner](#inner) · [in-person](#in-person) · [inspire](#inspire) · [instability](#instability) · [insufficient](#insufficient) · [intend](#intend) · [intended](#intended) · [intention](#intention) · [into](#into) · [invoke](#invoke) · [involve](#involve) · [issue](#issue)
+**Зміст:** [immediately](#immediately) · [immense](#immense) · [in-person](#in-person) · [income](#income) · [indeed](#indeed) · [inn](#inn) · [inner](#inner) · [inspire](#inspire) · [instability](#instability) · [insufficient](#insufficient) · [intend](#intend) · [intended](#intended) · [intention](#intention) · [into](#into) · [invent](#invent) · [invoke](#invoke) · [involve](#involve) · [issue](#issue)
 
 ---
 
@@ -13,6 +13,7 @@
 - The app crashed **immediately** after launch. — Застосунок упав одразу після запуску.
 - Call me **immediately** if the server goes down. — Подзвони мені негайно, якщо сервер впаде.
 
+
 ---
 
 ## immense
@@ -23,6 +24,35 @@
 **Приклади:**
 - The dragon guarded an **immense** treasure. — Дракон охороняв величезний скарб.
 - Refactoring legacy code takes an **immense** amount of time. — Рефакторинг старого коду забирає величезну кількість часу.
+
+
+---
+
+## in-person
+**in-person** /ɪnˈpɜːsn/ — <code>adjective</code> (прикметник) — особистий, наживо (не онлайн)
+
+**Пояснення:** протилежність remote/online — зустріч чи подія, де люди фізично присутні разом.
+
+**Приклади:**
+- We have one **in-person** team day a month. — У нас один день наживо з командою на місяць.
+- The **in-person** interview went well. — Співбесіда наживо пройшла добре.
+
+
+---
+
+## income
+**income** /ˈɪnkʌm/ — <code>noun</code> (іменник) — дохід
+
+**Пояснення:** гроші, які отримуєш регулярно — зарплата, оренда, бізнес. Порівняй: **salary** — зарплата (частина доходу), **profit** — прибуток (дохід мінус витрати), **revenue** — виручка компанії. Антонім — **expenses** (витрати).
+
+**💡 Сталі вирази:**
+- **a source of income** — джерело доходу
+- **low / high income** — низький / високий дохід
+- **income tax** — податок на доходи
+
+**Приклади:**
+- The bar is not my main **source of income**. — Бар — не моє головне джерело доходу.
+- Her **income** doubled after she changed jobs. — Її дохід подвоївся після зміни роботи.
 
 ---
 
@@ -39,6 +69,7 @@
 - The new build is very fast **indeed**. — Нова збірка і справді дуже швидка.
 - "Is he a good player?" — "He is **indeed**." — «Він хороший гравець?» — «Справді хороший».
 
+
 ---
 
 ## inn
@@ -52,6 +83,7 @@
 - The party met a mysterious stranger at the **inn**. — Загін зустрів таємничого незнайомця в корчмі.
 - We stayed at a small **inn** near the lake. — Ми зупинилися в маленькому готелику біля озера.
 
+
 ---
 
 ## inner
@@ -63,16 +95,6 @@
 - The **inner** door of the dungeon was locked. — Внутрішні двері підземелля були замкнені.
 - An **inner** function can access the outer function's variables. — Внутрішня функція має доступ до змінних зовнішньої. _(closures)_
 
----
-
-## in-person
-**in-person** /ɪnˈpɜːsn/ — <code>adjective</code> (прикметник) — особистий, наживо (не онлайн)
-
-**Пояснення:** протилежність remote/online — зустріч чи подія, де люди фізично присутні разом.
-
-**Приклади:**
-- We have one **in-person** team day a month. — У нас один день наживо з командою на місяць.
-- The **in-person** interview went well. — Співбесіда наживо пройшла добре.
 
 ---
 
@@ -87,6 +109,7 @@
 - The film **inspired** me **to** start running. — Фільм надихнув мене почати бігати.
 - The design was **inspired by** nature. — Дизайн був натхненний природою.
 
+
 ---
 
 ## instability
@@ -98,6 +121,7 @@
 - The old codebase suffered from constant **instability**. — Стара кодова база постійно страждала від нестабільності.
 - Political **instability** affected the market. — Політична нестабільність вплинула на ринок.
 
+
 ---
 
 ## insufficient
@@ -108,6 +132,7 @@
 **Приклади:**
 - The server has **insufficient** memory to run the build. — Серверу бракує пам'яті, щоб запустити збірку.
 - You have **insufficient** gold to buy this sword. — У тебе недостатньо золота, щоб купити цей меч.
+
 
 ---
 
@@ -124,6 +149,7 @@
 
 **🔗 Пов'язане:** [intended](#intended), [intention](#intention)
 
+
 ---
 
 ## intended
@@ -137,6 +163,7 @@
 
 **🔗 Пов'язане:** [intend](#intend), [intention](#intention)
 
+
 ---
 
 ## intention
@@ -149,6 +176,7 @@
 - His **intentions** were good. — Його наміри були добрі.
 
 **🔗 Пов'язане:** [intend](#intend), [intended](#intended)
+
 
 ---
 
@@ -164,6 +192,22 @@
 - The compiler turns TypeScript **into** JavaScript. — Компілятор перетворює TypeScript на JavaScript.
 - She's really **into** board games. — Вона дуже захоплюється настільними іграми.
 
+
+---
+
+## invent
+**invent** /ɪnˈvent/ — <code>verb</code> (дієслово) — винайти; вигадати
+
+**Пояснення:** створити те, чого раніше не існувало (винахід) — або вигадати (історію, виправдання). Іменники: **invention** (винахід), **inventor** (винахідник). Не плутай із **discover** — відкрити те, що вже існувало (discover a planet).
+
+**💡 Конструкції:**
+- **invent** sth — винайти: **invent** the telephone — винайти телефон
+- **invent** a story / an excuse — вигадати історію / виправдання: He **invented** an excuse. — Він вигадав виправдання.
+
+**Приклади:**
+- Who **invented** the first computer mouse? — Хто винайшов першу комп'ютерну мишу?
+- Did you **invent** that village, or is it real? — Ти вигадав те село, чи воно справжнє?
+
 ---
 
 ## invoke
@@ -174,6 +218,7 @@
 **Приклади:**
 - The handler **invokes** a callback function. — Обробник викликає колбек-функцію.
 - The wizard **invoked** an ancient spirit. — Чарівник прикликав стародавнього духа.
+
 
 ---
 
@@ -187,6 +232,7 @@
 **Приклади:**
 - The job **involves** travelling a lot. — Робота передбачає багато подорожей.
 - He got **involved in** the project last month. — Він долучився до проєкту минулого місяця.
+
 
 ---
 

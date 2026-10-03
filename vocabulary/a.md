@@ -1,6 +1,6 @@
 # A
 
-**Зміст:** [accidentally](#accidentally) · [accrue](#accrue) · [accuracy](#accuracy) · [across](#across) · [actually](#actually) · [addict](#addict) · [addition](#addition) · [adjust](#adjust) · [admit](#admit) · [advantage](#advantage) · [affect](#affect) · [affirm](#affirm) · [afterwards](#afterwards) · [against](#against) · [agree](#agree) · [aid](#aid) · [ally](#ally) · [alongside](#alongside) · [ammo](#ammo) · [among](#among) · [ancient](#ancient) · [apart](#apart) · [apply](#apply) · [appreciate](#appreciate) · [appropriately](#appropriately) · [approximate](#approximate) · [approximation](#approximation) · [arbitrary](#arbitrary) · [arise](#arise) · [arrange](#arrange) · [asleep](#asleep) · [assign](#assign) · [assignment](#assignment) · [attic](#attic) · [attitude](#attitude) · [aware](#aware) · [awful](#awful)
+**Зміст:** [accidentally](#accidentally) · [accrue](#accrue) · [accuracy](#accuracy) · [across](#across) · [actually](#actually) · [addict](#addict) · [addition](#addition) · [adjust](#adjust) · [admit](#admit) · [advantage](#advantage) · [affect](#affect) · [affirm](#affirm) · [afford](#afford) · [afterwards](#afterwards) · [against](#against) · [agree](#agree) · [aid](#aid) · [ally](#ally) · [alongside](#alongside) · [altitude](#altitude) · [ammo](#ammo) · [among](#among) · [ancient](#ancient) · [apart](#apart) · [apply](#apply) · [appreciate](#appreciate) · [appropriately](#appropriately) · [approximate](#approximate) · [approximation](#approximation) · [arbitrary](#arbitrary) · [arise](#arise) · [arrange](#arrange) · [asleep](#asleep) · [assign](#assign) · [assignment](#assignment) · [attend](#attend) · [attic](#attic) · [attitude](#attitude) · [aware](#aware) · [awful](#awful)
 
 ---
 
@@ -13,6 +13,7 @@
 - I **accidentally** deleted the production database. — Я випадково видалив продакшн-базу даних.
 - He **accidentally** sold his legendary sword to a vendor. — Він випадково продав свій легендарний меч торговцю. _(гра)_
 
+
 ---
 
 ## accrue
@@ -24,6 +25,7 @@
 - Interest **accrues** on the loan every month. — Відсотки за кредитом нараховуються щомісяця.
 - Technical debt **accrues** fast when you skip code reviews. — Технічний борг швидко накопичується, коли пропускаєш код-рев'ю.
 
+
 ---
 
 ## accuracy
@@ -34,6 +36,7 @@
 **Приклади:**
 - The sniper rifle has 95% **accuracy**. — Снайперська гвинтівка має 95% влучності. _(гра)_
 - Check the **accuracy** of the data before sending the report. — Перевір точність даних перед відправкою звіту.
+
 
 ---
 
@@ -51,6 +54,7 @@
 - The hero walked **across** the bridge into the ancient city. — Герой перейшов через міст до стародавнього міста. _(фентезі)_
 - This setting is synced **across** all your devices. — Це налаштування синхронізується на всіх твоїх пристроях.
 
+
 ---
 
 ## actually
@@ -65,6 +69,7 @@
 **Приклади:**
 - **Actually**, the bug was in my code, not in the library. — Насправді баг був у моєму коді, а не в бібліотеці.
 - I thought the boss would be hard, but **actually** it was easy. — Я думав, бос буде складним, а насправді було легко. _(гра)_
+
 
 ---
 
@@ -82,6 +87,7 @@
 - My brother is a real RPG **addict**. — Мій брат — справжній RPG-залежний.
 - I'm **addicted to** coffee — two cups before noon. — Я залежний від кави — дві чашки до обіду.
 
+
 ---
 
 ## addition
@@ -97,6 +103,7 @@
 - The new healer is a great **addition** to our raid team. — Новий хілер — чудове поповнення нашої рейд-команди. _(гра)_
 - **In addition to** the backend, I now maintain the mobile app. — Окрім бекенду, я тепер підтримую мобільний застосунок.
 
+
 ---
 
 ## adjust
@@ -109,6 +116,7 @@
 **Приклади:**
 - **Adjust** the brightness in the game settings. — Відрегулюй яскравість у налаштуваннях гри.
 - She quickly **adjusted to** the new team. — Вона швидко пристосувалася до нової команди.
+
 
 ---
 
@@ -125,6 +133,7 @@
 - I have to **admit** that your solution is faster. — Мушу визнати, що твоє рішення швидше.
 - He **admitted stealing** the loot from the guild bank. — Він зізнався, що вкрав лут із банку гільдії. _(гра)_
 
+
 ---
 
 ## advantage
@@ -139,6 +148,7 @@
 **Приклади:**
 - Archers have an **advantage over** infantry on the hills. — Лучники мають перевагу над піхотою на пагорбах. _(фентезі)_
 - **Take advantage of** the sale and grab the DLC now. — Скористайся розпродажем і бери DLC зараз.
+
 
 ---
 
@@ -157,6 +167,7 @@
 - Lag **affects** your aim in shooters. — Лаг впливає на твою влучність у шутерах.
 - The memory leak **affected** server performance. — Витік пам'яті вплинув на продуктивність сервера.
 
+
 ---
 
 ## affirm
@@ -168,6 +179,22 @@
 - The team lead **affirmed** that the release is on schedule. — Тімлід підтвердив, що реліз іде за графіком.
 - The king **affirmed** his loyalty to the alliance. — Король підтвердив свою вірність альянсу. _(фентезі)_
 
+
+---
+
+## afford
+**afford** /əˈfɔːd/ — <code>verb</code> (дієслово) — мати змогу (дозволити собі) — за грошима, часом, ризиком
+
+**Пояснення:** майже завжди з **can / can't / could**: I can't afford it — я не можу собі цього дозволити. Не лише про гроші: can't afford to lose — не можу дозволити собі програти. Прикметник — **affordable** (доступний за ціною).
+
+**💡 Конструкції:**
+- **can / can't afford** sth — мати / не мати змоги купити: I **can't afford** a new flat. — Я не можу собі дозволити нову квартиру.
+- **can't afford to** do sth — не можу дозволити собі зробити (ризиковано): We **can't afford to** lose this client. — Ми не можемо дозволити собі втратити цього клієнта.
+
+**Приклади:**
+- Can you **afford** six months of rent before the bar opens? — Ти можеш дозволити собі шість місяців оренди до відкриття бару?
+- I **can't afford to** wait another year. — Я не можу дозволити собі чекати ще рік.
+
 ---
 
 ## afterwards
@@ -178,6 +205,7 @@
 **Приклади:**
 - We deployed the fix and ran the tests **afterwards**. — Ми задеплоїли фікс, а потім прогнали тести.
 - First finish the quest — you can explore **afterwards**. — Спершу закінчи квест, а досліджувати будеш потім. _(гра)_
+
 
 ---
 
@@ -197,6 +225,7 @@
 - Validate user input **against** the schema. — Перевіряй користувацький ввід за схемою.
 - Sharing your account is **against** the rules. — Ділитися акаунтом — проти правил.
 
+
 ---
 
 ## agree
@@ -215,6 +244,7 @@
 - I **agree with** your point about testing. — Я згоден із твоєю думкою щодо тестування.
 - They finally **agreed on** a release date. — Вони нарешті домовились про дату релізу.
 
+
 ---
 
 ## aid
@@ -227,6 +257,7 @@
 - noun: He learned **first aid** before the trip. — Він вивчив першу допомогу перед поїздкою.
 - verb: The app **aids** users in tracking their habits. — Застосунок допомагає користувачам відстежувати звички.
 
+
 ---
 
 ## ally
@@ -237,6 +268,7 @@
 **Приклади:**
 - noun: The elves are our oldest **allies**. — Ельфи — наші найдавніші союзники. _(фентезі)_
 - verb: The two guilds **allied with** each other against the dragon. — Дві гільдії об'єдналися в союз проти дракона.
+
 
 ---
 
@@ -249,6 +281,18 @@
 - The bike was parked **alongside** the car. — Велосипед стояв поруч із машиною.
 - I worked **alongside** two backend engineers on this feature. — Я працював разом із двома бекенд-інженерами над цією фічею.
 
+
+---
+
+## altitude
+**altitude** /ˈæltɪtjuːd/ — <code>noun</code> (іменник) — висота (над рівнем моря)
+
+**Пояснення:** висота положення — літака, гори, міста. Не плутай із **height** — висота самого предмета або зріст (the height of the building, my height). Сталий вираз: **at high altitude** — на великій висоті.
+
+**Приклади:**
+- The plane is flying **at an altitude of** ten kilometres. — Літак летить на висоті десять кілометрів.
+- Water boils at a lower temperature **at high altitude**. — На великій висоті вода кипить за нижчої температури.
+
 ---
 
 ## ammo
@@ -259,6 +303,7 @@
 **Приклади:**
 - I'm out of **ammo** — cover me! — У мене скінчилися патрони — прикрий мене! _(гра)_
 - Grab some **ammo** before the boss room. — Візьми патронів перед кімнатою боса.
+
 
 ---
 
@@ -276,6 +321,7 @@
 - This framework is popular **among** backend developers. — Цей фреймворк популярний серед бекенд-розробників.
 - The impostor was hiding **among** us the whole match. — Зрадник ховався серед нас увесь матч. _(гра)_
 
+
 ---
 
 ## ancient
@@ -286,6 +332,7 @@
 **Приклади:**
 - The party found an **ancient** temple full of traps. — Загін знайшов стародавній храм, повний пасток. _(фентезі)_
 - This build server is **ancient** — a deploy takes an hour. — Цей білд-сервер древній — деплой триває годину.
+
 
 ---
 
@@ -302,6 +349,7 @@
 - The two towers stand three miles **apart**. — Дві вежі стоять за три милі одна від одної. _(фентезі)_
 - My old headset finally fell **apart**. — Моя стара гарнітура нарешті розвалилася.
 
+
 ---
 
 ## apply
@@ -315,6 +363,7 @@
 **Приклади:**
 - I applied **for** a backend developer position. — Я подав заявку на позицію backend-розробника.
 - This rule doesn't apply **to** you. — Це правило до тебе не стосується.
+
 
 ---
 
@@ -331,6 +380,7 @@
 - **I'd appreciate it if** you could review my PR today. — Буду вдячний, якщо переглянеш мій PR сьогодні.
 - Players **appreciate** honest patch notes. — Гравці цінують чесні патчноути. _(гра)_
 
+
 ---
 
 ## appropriately
@@ -341,6 +391,7 @@
 **Приклади:**
 - Name your variables **appropriately**, not just `x` and `tmp`. — Називай змінні належним чином, а не просто `x` і `tmp`.
 - Dress **appropriately** — the dungeon is freezing. — Одягнися відповідно — у підземеллі крижаний холод. _(фентезі)_
+
 
 ---
 
@@ -358,6 +409,7 @@
 - adjective: The **approximate** download time is two hours. — Орієнтовний час завантаження — дві години.
 - verb: This function **approximates** π using a series. — Ця функція приблизно обчислює π через ряд.
 
+
 ---
 
 ## approximation
@@ -367,6 +419,7 @@
 - My estimate is a rough **approximation**, not a promise. — Моя оцінка — грубе наближення, а не обіцянка.
 
 🔗 Пов'язане: [approximate](#approximate)
+
 
 ---
 
@@ -378,6 +431,7 @@
 **Приклади:**
 - The vulnerability allows **arbitrary** code execution. — Вразливість дозволяє виконання довільного коду.
 - The 30-item limit is completely **arbitrary**. — Ліміт у 30 елементів цілком довільний.
+
 
 ---
 
@@ -396,6 +450,7 @@
 - If any questions **arise**, ping me in Slack. — Якщо виникнуть питання, пінгуй мене у Slack.
 - A strange error **arose** after the update. — Після оновлення виникла дивна помилка.
 
+
 ---
 
 ## arrange
@@ -411,6 +466,7 @@
 **Приклади:**
 - Let's **arrange** a call with the client for Monday. — Домовмося про дзвінок із клієнтом на понеділок.
 - She **arranged** her potions **by** rarity. — Вона розставила зілля за рідкісністю. _(гра)_
+
 
 ---
 
@@ -430,6 +486,7 @@
 
 🔗 **Пов'язане:** [fall](f.md#fall) — fall asleep / fall off / fall down.
 
+
 ---
 
 ## assign
@@ -442,6 +499,7 @@
 **Приклади:**
 - The manager assigned the bug **to** me. — Менеджер призначив баг на мене.
 - They assigned her **to** the new project. — Її приставили до нового проєкту.
+
 
 ---
 
@@ -456,6 +514,22 @@
 
 🔗 Пов'язане: [assign](#assign)
 
+
+---
+
+## attend
+**attend** /əˈtend/ — <code>verb</code> (дієслово) — відвідувати, бути присутнім (на зустрічі, курсі, заході)
+
+**Пояснення:** формальніше за go to. ⚠️ **Без прийменника:** attend a meeting, attend school — хоча українською «бути **на** зустрічі». Іменники: **attendance** (відвідуваність), **attendee** (учасник заходу).
+
+**💡 Конструкції:**
+- **attend** sth — відвідати (без прийменника): I **attended** the conference. — Я був на конференції. ❌ attend at / on
+- **attend to** sth — зайнятися чимось, приділити увагу (інше значення): I'll **attend to** it later. — Я займусь цим пізніше.
+
+**Приклади:**
+- Did you **attend** the talk about taxes? — Ти був на доповіді про податки?
+- About fifty people **attended** the meetup. — На мітап прийшло близько п'ятдесяти людей.
+
 ---
 
 ## attic
@@ -467,6 +541,7 @@
 - We found grandpa's old chess set in the **attic**. — Ми знайшли дідів старий шаховий набір на горищі.
 - The quest key was hidden in the **attic** of the abandoned house. — Квестовий ключ був схований на горищі покинутого будинку. _(гра)_
 
+
 ---
 
 ## attitude
@@ -477,6 +552,7 @@
 **Приклади:**
 - Her **attitude towards** testing changed after that prod incident. — Її ставлення до тестування змінилося після того інциденту на проді.
 - A positive **attitude** helps on long projects. — Позитивний настрій допомагає в довгих проєктах.
+
 
 ---
 
@@ -492,6 +568,7 @@
 **Приклади:**
 - We're **aware of** the bug and working on a fix. — Ми знаємо про баг і працюємо над виправленням. _(класика підтримки)_
 - Always be **aware of** enemies behind you. — Завжди пам'ятай про ворогів у себе за спиною. _(гра)_
+
 
 ---
 

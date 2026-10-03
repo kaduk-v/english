@@ -1,6 +1,6 @@
 # L
 
-**Зміст:** [lack](#lack) · [late](#late) · [launch](#launch) · [lay](#lay) · [leadership](#leadership) · [least](#least) · [legacy](#legacy) · [leverage](#leverage) · [lid](#lid) · [lifelike](#lifelike) · [like](#like) · [literally](#literally) · [look](#look)
+**Зміст:** [lack](#lack) · [late](#late) · [latency](#latency) · [launch](#launch) · [lay](#lay) · [lead](#lead) · [leadership](#leadership) · [least](#least) · [legacy](#legacy) · [leverage](#leverage) · [lid](#lid) · [lifelike](#lifelike) · [like](#like) · [literally](#literally) · [look](#look)
 
 ---
 
@@ -19,6 +19,7 @@
 - n: The main problem is a **lack of** communication. — Головна проблема — брак комунікації.
 - v: The team **lacks** a strong defender. — Команді бракує сильного захисника. _(спорт)_
 
+
 ---
 
 ## late
@@ -36,6 +37,22 @@
 - adv: We deployed the fix **late** at night. — Ми задеплоїли фікс пізно вночі.
 
 
+
+---
+
+## latency
+**latency** /ˈleɪtənsi/ — <code>noun</code> (іменник) — затримка (у передачі даних); латентність
+
+**Пояснення:** час між запитом і відповіддю — у мережі, в API, у грі. Технічний термін; у побуті «затримка» — **delay**. Прикметник — **low-latency** (з малою затримкою).
+
+**💡 Сталі вирази:**
+- **low / high latency** — мала / велика затримка
+- **reduce latency** — зменшити затримку
+
+**Приклади:**
+- The **latency** between the server and the game is 40 ms. — Затримка між сервером і грою — 40 мс.
+- We moved the database closer to the users to **reduce latency**. — Ми перенесли базу ближче до користувачів, щоб зменшити затримку. _(розробка)_
+
 ---
 
 ## launch
@@ -46,6 +63,7 @@
 **Приклади:**
 - verb: We plan to **launch** the app in September. — Ми плануємо запустити застосунок у вересні.
 - noun: The **launch** of the new console was a huge success. — Запуск нової консолі був величезним успіхом.
+
 
 
 ---
@@ -63,6 +81,24 @@
 - **Lay** your cards on the table. — Виклади карти на стіл. _(також ідіома: говори відверто)_
 
 
+
+---
+
+## lead
+**lead** /liːd/ — 1. <code>verb</code> (дієслово) — вести, очолювати; приводити до 2. <code>noun</code> (іменник) — лідерство, перевага; (IT) лід, керівник команди
+
+**Пояснення:** неправильне дієслово: **lead – led – led** /led/. Основне значення — бути попереду і вести за собою: lead a team, lead the way. Іменник: be in the lead — бути попереду; a team lead — тімлід. ⚠️ Інше слово з тим самим написанням — **lead** /led/ «свинець».
+
+**💡 Конструкції:**
+- **lead** a team / a project — очолювати: She **leads** the backend team. — Вона очолює бекенд-команду.
+- **lead to** sth — призводити до: Stress **leads to** mistakes. — Стрес призводить до помилок.
+- **lead the way** — показувати дорогу, йти першим
+- **be in the lead** — вести в рахунку: Our team **is in the lead**. — Наша команда попереду.
+
+**Приклади:**
+- v: Who **led** the project last year? — Хто очолював проєкт минулого року?
+- n: The **lead** reviewed my code. — Лід переглянув мій код. _(розробка)_
+
 ---
 
 ## leadership
@@ -73,6 +109,7 @@
 **Приклади:**
 - Good **leadership** keeps a team motivated. — Хороше лідерство тримає команду вмотивованою.
 - The **leadership** made a final decision. — Керівництво ухвалило остаточне рішення.
+
 
 
 ---
@@ -92,6 +129,7 @@
 - This is the **least** useful feature in the app. — Це найменш корисна функція в застосунку.
 
 
+
 ---
 
 ## legacy
@@ -104,6 +142,7 @@
 - The old king left a great **legacy**. — Старий король залишив велику спадщину.
 
 
+
 ---
 
 ## leverage
@@ -114,6 +153,7 @@
 **Приклади:**
 - verb: We can **leverage** our existing users to launch the new app. — Ми можемо задіяти наявних користувачів, щоб запустити новий застосунок.
 - noun: Experience gives you **leverage** in negotiations. — Досвід дає тобі перевагу в переговорах.
+
 
 
 ---
@@ -131,6 +171,7 @@
 - Put the **lid** on the pot and let it simmer. — Накрий каструлю кришкою й дай покипіти.
 - The **lid** of the jar is stuck — I can't open it. — Кришка банки застрягла — не можу відкрити.
 
+
 ---
 
 ## lifelike
@@ -141,6 +182,7 @@
 **Приклади:**
 - The new engine renders **lifelike** characters. — Новий рушій рендерить реалістичних персонажів.
 - The statue was so **lifelike** that I said hello to it. — Статуя була такою «живою», що я привітався з нею.
+
 
 
 ---
@@ -169,6 +211,7 @@
 🔗 **Пов'язане:** повна теорія `sound/look/feel + like` — [adjectives-adverbs §7](../grammar/b1/adjectives-adverbs.md#look-sound-feel-like-іменник).
 
 
+
 ---
 
 ## literally
@@ -181,6 +224,7 @@
 **Приклади:**
 - The error message **literally** says "unknown error". — Повідомлення буквально каже «невідома помилка».
 - I **literally** have five minutes before the call. — У мене реально п'ять хвилин до дзвінка.
+
 
 ---
 

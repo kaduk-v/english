@@ -1,6 +1,6 @@
 # C
 
-**Зміст:** [capture](#capture) · [care](#care) · [carve](#carve) · [cast](#cast) · [catch someone's eye](#catch-someone-s-eye) · [cause](#cause) · [certain](#certain) · [certainly](#certainly) · [chip](#chip) · [clamp](#clamp) · [clarity](#clarity) · [cohesive](#cohesive) · [come](#come) · [commit](#commit) · [comparison](#comparison) · [complain](#complain) · [complaint](#complaint) · [complete](#complete) · [complicate](#complicate) · [comprehensive](#comprehensive) · [concern](#concern) · [confidence](#confidence) · [consequence](#consequence) · [consistency](#consistency) · [construction](#construction) · [contribute](#contribute) · [convenience](#convenience) · [convenient](#convenient) · [correspond](#correspond) · [cosy](#cosy) · [creature](#creature) · [creepy](#creepy) · [crisp](#crisp) · [crowd](#crowd) · [cupboard](#cupboard) · [curious](#curious) · [curtain](#curtain) · [customize](#customize)
+**Зміст:** [capture](#capture) · [care](#care) · [carve](#carve) · [cast](#cast) · [catch someone's eye](#catch-someone-s-eye) · [cause](#cause) · [certain](#certain) · [certainly](#certainly) · [chip](#chip) · [clamp](#clamp) · [clarity](#clarity) · [cohesive](#cohesive) · [come](#come) · [commit](#commit) · [comparison](#comparison) · [complain](#complain) · [complaint](#complaint) · [complete](#complete) · [complicate](#complicate) · [compound](#compound) · [comprehensive](#comprehensive) · [concern](#concern) · [confidence](#confidence) · [consequence](#consequence) · [consistency](#consistency) · [construction](#construction) · [contribute](#contribute) · [convenience](#convenience) · [convenient](#convenient) · [correspond](#correspond) · [cosy](#cosy) · [counter](#counter) · [creature](#creature) · [creepy](#creepy) · [crisp](#crisp) · [crowd](#crowd) · [cupboard](#cupboard) · [curious](#curious) · [curtain](#curtain) · [customize](#customize)
 
 ---
 
@@ -13,6 +13,7 @@
 - v: The enemy **captured** the castle at night. — Вороги захопили замок уночі. _(фентезі)_
 - v: We **capture** logs from every service. — Ми фіксуємо логи з кожного сервісу. _(розробка)_
 - n: The **capture** of the fortress ended the war. — Захоплення фортеці завершило війну.
+
 
 
 ---
@@ -33,6 +34,7 @@
 - n: Handle this old save file with **care**. — Поводься з цим старим сейвом обережно. _(гра)_
 
 
+
 ---
 
 ## carve
@@ -43,6 +45,7 @@
 **Приклади:**
 - The dwarves **carved** a city out of the mountain. — Гноми висікли ціле місто в горі. _(фентезі)_
 - He **carved** his name on the old tree. — Він вирізав своє ім'я на старому дереві.
+
 
 
 ---
@@ -62,6 +65,7 @@
 - n: The **cast** of the show is amazing. — Акторський склад серіалу неймовірний.
 
 
+
 ---
 
 ## catch someone's eye
@@ -72,6 +76,7 @@
 **Приклади:**
 - What **caught your eye** about this role? — Що привернуло вашу увагу в цій вакансії?
 - The bright red car **caught my eye** immediately. — Яскраво-червона машина одразу впала мені в око.
+
 
 
 ---
@@ -89,6 +94,7 @@
 - n: We finally found the **cause of** the memory leak. — Ми нарешті знайшли причину витоку пам'яті. _(розробка)_
 - v: One wrong config line **caused** the whole outage. — Один неправильний рядок конфіга спричинив увесь збій. _(розробка)_
 - v: The curse **caused** the king **to sleep** for a hundred years. — Прокляття змусило короля проспати сто років. _(фентезі)_
+
 
 
 ---
@@ -109,6 +115,7 @@
 - The quest requires a **certain** level of patience. — Цей квест вимагає певного рівня терпіння. _(гра)_
 
 
+
 ---
 
 ## certainly
@@ -121,6 +128,7 @@
 **Приклади:**
 - This is **certainly** the best solution so far. — Це, безумовно, найкраще рішення наразі.
 - "Can you help me?" — "**Certainly**." — «Можеш допомогти?» — «Звичайно».
+
 
 
 ---
@@ -140,6 +148,7 @@
 - v: I **chipped** my favourite mug this morning. — Я сьогодні вранці відколов шматочок улюбленої чашки. _(побут)_
 
 
+
 ---
 
 ## clamp
@@ -150,6 +159,7 @@
 **Приклади:**
 - n: Hold the boards together with a **clamp**. — Стисни дошки струбциною.
 - v: **Clamp** the value between 0 and 100. — Обмеж значення межами від 0 до 100. _(розробка)_
+
 
 
 ---
@@ -164,6 +174,7 @@
 - She explained the plan with great **clarity**. — Вона пояснила план дуже чітко.
 
 
+
 ---
 
 ## cohesive
@@ -174,6 +185,7 @@
 **Приклади:**
 - The UI finally feels **cohesive**. — Інтерфейс нарешті відчувається цілісним. _(розробка/дизайн)_
 - A **cohesive** team wins more raids than five lone heroes. — Згуртована команда виграє більше рейдів, ніж п'ятеро одинаків. _(гра)_
+
 
 
 ---
@@ -189,6 +201,7 @@
 - **Come** here and look at this error. — Іди сюди, глянь на цю помилку. _(розробка)_
 - Winter is **coming**. — Зима наближається. _(фентезі-класика)_
 - She **came** to the party with her brother. — Вона прийшла на вечірку з братом.
+
 
 
 ---
@@ -208,6 +221,7 @@
 - The villain **committed** a terrible crime. — Лиходій скоїв жахливий злочин. _(фентезі)_
 
 
+
 ---
 
 ## comparison
@@ -220,6 +234,7 @@
 **Приклади:**
 - Here's a quick **comparison** of the two databases. — Ось коротке порівняння двох баз даних. _(розробка)_
 - **In comparison with** the old version, the game loads twice as fast. — У порівнянні зі старою версією гра вантажиться вдвічі швидше. _(гра)_
+
 
 
 ---
@@ -241,6 +256,7 @@
 - I complained **to** the waiter **about** the cold soup. — Я поскаржився **офіціантові на** холодний суп.
 
 
+
 ---
 
 ## complaint
@@ -251,6 +267,7 @@
 **Приклади:**
 - Customers made a lot of complaints **about** the new update. — Клієнти подали багато скарг **на** нове оновлення.
 - I'd like to make a complaint. — Я хотів би подати скаргу. _(типова фраза в готелі/сервісі)_
+
 
 
 ---
@@ -268,6 +285,7 @@
 - v: You must **complete** the quest before nightfall. — Ти маєш завершити квест до ночі. _(гра)_
 
 
+
 ---
 
 ## complicate
@@ -279,6 +297,19 @@
 - Don't **complicate** the architecture with extra layers. — Не ускладнюй архітектуру зайвими шарами. _(розробка)_
 - The new law only **complicates** the process. — Новий закон лише ускладнює процес.
 
+
+
+---
+
+## compound
+**compound** /ˈkɒmpaʊnd/ — 1. <code>noun</code> (іменник) — сполука; складене слово 2. <code>adjective</code> (прикметник) — складений, складний 3. <code>verb</code> /kəmˈpaʊnd/ — ускладнювати, посилювати
+
+**Пояснення:** те, що складається з кількох частин. Хімія — сполука (a chemical compound); мова — складне слово (**compound word**: coffee shop, grandfather); фінанси — **compound interest** (складні відсотки). Дієслово (наголос на другому складі) — погіршувати, нашаровувати: compound the problem.
+
+**Приклади:**
+- n: "Grandfather" is a **compound** word. — «Grandfather» — складене слово.
+- adj: **Compound** interest grows faster every year. — Складні відсотки ростуть швидше щороку.
+- v: Bad weather **compounded** the delay. — Погана погода ще й посилила затримку.
 
 ---
 
@@ -294,6 +325,7 @@
 **Приклади:**
 - The docs include a **comprehensive** API reference. — Документація містить вичерпний довідник API. _(розробка)_
 - We need a **comprehensive** plan, not a quick fix. — Нам потрібен всеосяжний план, а не швидка латка.
+
 
 
 ---
@@ -314,6 +346,7 @@
 - v: Her silence **concerns** me. — Її мовчання мене непокоїть.
 
 
+
 ---
 
 ## confidence
@@ -328,6 +361,7 @@
 - She answered with quiet **confidence**. — Вона відповіла зі спокійною впевненістю.
 
 
+
 ---
 
 ## consequence
@@ -338,6 +372,7 @@
 **Приклади:**
 - Every choice in this game has **consequences**. — Кожен вибір у цій грі має наслідки. _(гра)_
 - **As a consequence of** the bug, we lost some logs. — Внаслідок бага ми втратили частину логів. _(розробка)_
+
 
 
 ---
@@ -352,6 +387,7 @@
 - Practise daily — **consistency** beats motivation. — Практикуйся щодня: послідовність перемагає мотивацію.
 
 
+
 ---
 
 ## construction
@@ -362,6 +398,7 @@
 **Приклади:**
 - The castle is still under **construction**. — Замок ще будується. _(гра-стратегія)_
 - This grammar **construction** is very common in English. — Ця граматична конструкція дуже поширена в англійській.
+
 
 
 ---
@@ -376,6 +413,7 @@
 - Stress **contributes to** many illnesses. — Стрес сприяє багатьом хворобам.
 
 
+
 ---
 
 ## convenience
@@ -386,6 +424,7 @@
 **Приклади:**
 - The CLI has shortcuts for **convenience**. — У CLI є скорочення для зручності. _(розробка)_
 - Reply **at your convenience**. — Дайте відповідь, коли вам буде зручно.
+
 
 
 ---
@@ -405,6 +444,7 @@
 - Packaged coffee is **convenient** — it's easy to store. — Пакетована кава зручна — її легко зберігати.
 - The station is very **convenient** for the office. — Вокзал дуже зручно розташований відносно офісу.
 
+
 ---
 
 ## correspond
@@ -421,6 +461,7 @@
 - The wizard **corresponded with** scholars from distant lands. — Чарівник листувався з ученими з далеких земель. _(фентезі)_
 
 
+
 ---
 
 ## cosy
@@ -432,6 +473,23 @@
 - We found a **cosy** little café near the station. — Ми знайшли затишну кав'ярню біля станції.
 - Her room is small but **cosy**. — Її кімната маленька, але затишна.
 
+
+
+---
+
+## counter
+**counter** /ˈkaʊntə/ — 1. <code>noun</code> (іменник) — прилавок, стійка; лічильник 2. <code>verb</code> (дієслово) — заперечити, протидіяти
+
+**Пояснення:** іменник — стійка в барі / магазині (behind the counter — за стійкою) або лічильник (a counter in a loop). Дієслово — відповісти на аргумент, протидіяти. Префікс **counter-** — «проти-, зустрічний»: counterattack, counterargument.
+
+**💡 Сталі вирази:**
+- **behind the counter** — за стійкою / прилавком (працювати)
+- **over the counter** — без рецепта (ліки)
+
+**Приклади:**
+- n: Will this be your first time **behind the counter**? — Це буде твій перший раз за стійкою?
+- n: The **counter** resets every loop. — Лічильник скидається на кожній ітерації. _(розробка)_
+- v: She **countered** every argument calmly. — Вона спокійно відбивала кожен аргумент.
 
 ---
 
@@ -445,6 +503,7 @@
 - Summon a **creature** card to defend your hero. — Виклич карту істоти, щоб захистити героя. _(гра)_
 
 
+
 ---
 
 ## creepy
@@ -455,6 +514,7 @@
 **Приклади:**
 - This abandoned mine is really **creepy**. — Ця покинута шахта справді моторошна. _(гра/горор)_
 - He kept staring at me — so **creepy**. — Він постійно витріщався на мене — аж моторошно. _(розм.)_
+
 
 
 ---
@@ -476,6 +536,7 @@
 - n: He bought a packet of **crisps**. — Він купив пачку чипсів. _(BrE)_
 
 
+
 ---
 
 ## crowd
@@ -493,6 +554,7 @@
 - n: A huge **crowd** gathered in front of the stadium. — Перед стадіоном зібрався величезний натовп. _(спорт)_
 - v: Fans **crowded** around the players after the match. — Фанати обступили гравців після матчу.
 
+
 ---
 
 ## cupboard
@@ -503,6 +565,7 @@
 **Приклади:**
 - The cups are in the **cupboard** above the sink. — Чашки в шафці над мийкою.
 - My grinder lives in the **cupboard** next to the plates. — Моя кавомолка живе в шафці біля тарілок.
+
 
 ---
 
@@ -518,6 +581,7 @@
 - A **curious** light appeared in the forest. — Дивне світло з'явилося в лісі. _(фентезі)_
 
 
+
 ---
 
 ## curtain
@@ -528,6 +592,7 @@
 **Приклади:**
 - Close the **curtains**, the sun is on my screen. — Затули штори, сонце світить на екран. _(побут/розробка)_
 - The **curtain** rose and the play began. — Завіса піднялася, і вистава почалася.
+
 
 
 ---

@@ -1,8 +1,92 @@
 # Фразові дієслова
 
-Як і [irregular-verbs.md](irregular-verbs.md) — це не підручниковий повний список, а слова, які реально трапились у твоїх уроках/чатах/розмовах. Росте з практики.
+Як і [irregular-verbs.md](irregular-verbs.md) — це не підручниковий повний список, а слова, які реально трапились у твоїх уроках/чатах/розмовах. Росте з практики. Поруч із фразовими дієсловами тут і **сталі фрази** (позначені *(фраза)*), які треба брати цілим чанком — by the way, at all, for a while тощо.
 
-**Зміст:** [figure out](#figure-out) · [find out](#find-out) · [follow up](#follow-up) · [get back (to sb)](#get-back-to-sb) · [give up](#give-up) · [go on](#go-on) · [look forward to](#look-forward-to) · [on the side](#on-the-side) · [sort out / get sorted](#sort-out--get-sorted) · [take down](#take-down) · [turn off / turn on](#turn-off--turn-on) · [turn out](#turn-out) · [wake up](#wake-up) · [work out](#work-out) · [write up](#write-up)
+**Зміст:** [any good](#any-good) · [at a time](#at-a-time) · [at all](#at-all) · [at once](#at-once) · [be based on](#be-based-on) · [by the way](#by-the-way) · [cross over](#cross-over) · [figure out](#figure-out) · [find out](#find-out) · [follow up](#follow-up) · [for a while](#for-a-while) · [get back (to sb)](#get-back-to-sb) · [give up](#give-up) · [go on](#go-on) · [look forward to](#look-forward-to) · [on the side](#on-the-side) · [over time](#over-time) · [sort out / get sorted](#sort-out-get-sorted) · [straight away](#straight-away) · [take down](#take-down) · [turn off / turn on](#turn-off-turn-on) · [turn out](#turn-out) · [wake up](#wake-up) · [work out](#work-out) · [write up](#write-up)
+
+---
+
+## any good
+**any good** /ˈeni ɡʊd/ — *(фраза)* хоч трохи хороший, «чи годиться?»
+
+**Пояснення:** `any` перед прикметником у питаннях і запереченнях — «хоч якось». **Is it any good?** — «Воно взагалі нормальне?»; **not any good** / **no good** — нікудишній. Також: any better — хоч трохи краще, any different — хоч чимось інший.
+
+**Приклади:**
+- Is this coffee **any good**? — Ця кава взагалі нормальна?
+- The old tutorial isn't **any good** anymore. — Старий туторіал уже нікуди не годиться.
+- Is the new version **any better**? — Нова версія хоч трохи краща?
+
+---
+
+## at a time
+**at a time** /ət ə taɪm/ — *(фраза)* за раз, по … за один раз
+
+**Пояснення:** скільки одиниць одночасно: one **at a time** — по одному; two steps **at a time** — через сходинку. Не плутай з **at the time** — «у той час, тоді» і **at once** (див. нижче).
+
+**Приклади:**
+- Fix one bug **at a time**. — Виправляй по одному багу за раз.
+- The lift takes six people **at a time**. — Ліфт бере шістьох за раз.
+- I was a student **at the time**. — На той час я був студентом. *(інша фраза!)*
+
+---
+
+## at all
+**at all** /ət ɔːl/ — *(фраза)* взагалі, зовсім (підсилення заперечення або питання)
+
+**Пояснення:** стоїть у кінці заперечного речення або питання: not … **at all** — зовсім не; **Do you … at all?** — ти взагалі…? Ввічлива відповідь на «дякую» / «вибач»: **Not at all.** — Нема за що / Зовсім ні.
+
+**Приклади:**
+- It's no bother **at all**. — Це зовсім не клопіт.
+- I didn't like the film **at all**. — Мені фільм зовсім не сподобався.
+- Do you play **at all**? — Ти взагалі граєш?
+
+---
+
+## at once
+**at once** /ət wʌns/ — *(фраза)* 1. негайно, одразу 2. одночасно, всі разом
+
+**Пояснення:** два значення за контекстом: «зроби **at once**» — негайно; «всі говорили **at once**» — одночасно. Синонім для (1) — **straight away**, **immediately**; для (2) — **at the same time**.
+
+**Приклади:**
+- Call the doctor **at once**. — Негайно виклич лікаря.
+- Everyone started talking **at once**. — Усі заговорили одночасно.
+- Don't open ten tabs **at once**. — Не відкривай десять вкладок одразу.
+
+---
+
+## be based on
+**be based on** /bi beɪst ɒn/ — ґрунтуватися на, бути заснованим на
+
+**Пояснення:** майже завжди в пасивній формі з `be`: **is / was / will be based on**. Дієслово `base sth on sth` існує (We based the game on a real village), але частіше — конструкція з be. ❌ will based on · ❌ is base on — потрібні і `be`, і `-ed`.
+
+**Приклади:**
+- The film **is based on** a true story. — Фільм заснований на реальних подіях.
+- My game **will be based on** a real village. — Моя гра базуватиметься на реальному селі.
+- We **based** the design **on** user feedback. — Ми побудували дизайн на відгуках користувачів.
+
+---
+
+## by the way
+**by the way** (BTW) /baɪ ðə weɪ/ — *(фраза)* до речі, між іншим
+
+**Пояснення:** вводить нову тему або щось, що згадалось принагідно. Стоїть на початку або в кінці речення, відділяється комою. У чатах — **BTW**.
+
+**Приклади:**
+- I'm Andriy, **by the way**. — Я Андрій, до речі.
+- **By the way**, did you fix that bug? — До речі, ти виправив той баг?
+- What's your name, **by the way**? — Як тебе звати, до речі?
+
+---
+
+## cross over
+**cross over** /krɒs ˈəʊvə/ — перейти на інший бік; перейти з однієї сфери / групи в іншу
+
+**Пояснення:** буквально — перетнути (дорогу, річку); переносно — змінити табір, жанр, платформу: cross over from backend to mobile. Іменник **crossover** — кросовер (жанровий мікс; авто).
+
+**Приклади:**
+- Let's **cross over** to the other side of the street. — Перейдімо на інший бік вулиці.
+- She **crossed over** from design to development. — Вона перейшла з дизайну в розробку.
+- The game is a **crossover** between a farm sim and an RPG. — Гра — кросовер між фермерським симулятором і RPG.
 
 ---
 
@@ -13,6 +97,7 @@
 - It took me three days to **figure out** the bug. — Мені знадобилось три дні, щоб розібратися з багом.
 - Let's **figure out** a better approach together. — Давай разом придумаємо кращий підхід.
 - I couldn't **figure out** why the tests were failing. — Я не міг зрозуміти, чому тести падають.
+
 
 ---
 
@@ -26,6 +111,7 @@
 - I **found out** about the bug from a user. — Я дізнався про баг від користувача.
 - Let me **find out** who is on call today. — Дай дізнаюся, хто сьогодні на чергуванні.
 
+
 ---
 
 ## follow up
@@ -36,6 +122,19 @@
 - We should **follow up** on that bug report. — Нам варто простежити за цим баг-репортом.
 - He **followed up** with the client after the demo. — Він зв'язався з клієнтом повторно після демо.
 
+
+---
+
+## for a while
+**for a while** /fər ə waɪl/ — *(фраза)* деякий час, якийсь час
+
+**Пояснення:** невизначена тривалість — від кількох хвилин до років, залежно від контексту. Варіанти: **for a short while** — недовго; **for quite a while** — доволі довго; **after a while** — через деякий час; **once in a while** — вряди-годи.
+
+**Приклади:**
+- I stopped posting **for a while** and then came back. — Я перестав постити на деякий час, а потім повернувся.
+- Let the tea brew **for a while**. — Дай чаю трохи настоятись.
+- **After a while** the crowd went home. — Через якийсь час натовп розійшовся.
+
 ---
 
 ## get back (to sb)
@@ -45,6 +144,7 @@
 - I'll **get back to you** by Friday. — Я зв'яжусь із тобою до п'ятниці.
 - She never **got back to me** about the offer. — Вона так і не відповіла мені щодо пропозиції.
 - Let me check with the team and **get back to you** tomorrow. — Дай мені звіритися з командою і я зв'яжусь із тобою завтра.
+
 
 ---
 
@@ -58,6 +158,7 @@
 - I **gave up** coffee for two weeks and failed on day nine. — Я кинув каву на два тижні і зірвався на дев'ятий день.
 - She **gave up** trying to fix the old laptop. — Вона перестала намагатись полагодити старий ноутбук.
 
+
 ---
 
 ## go on
@@ -67,6 +168,7 @@
 - What's **going on** with the deployment? — Що відбувається з деплоєм?
 - Please, **go on** — I'm listening. — Продовжуй, будь ласка, я слухаю.
 - The meeting **went on** for almost two hours. — Зустріч тривала майже дві години.
+
 
 ---
 
@@ -80,6 +182,7 @@
 - We **look forward to** working with you. — Ми з нетерпінням чекаємо на співпрацю з вами.
 - She's **looking forward to** seeing the new season. — Вона дуже чекає новий сезон.
 
+
 ---
 
 ## on the side
@@ -92,6 +195,19 @@
 - He's a backend developer, but he builds mobile apps **on the side**. — Він бекенд-розробник, але паралельно робить мобільні застосунки. _(розробка)_
 - I do a bit of freelance **on the side**. — Трохи фрілансю на додачу до основної роботи.
 
+
+---
+
+## over time
+**over time** /ˈəʊvə taɪm/ — *(фраза)* з часом, поступово
+
+**Пояснення:** зміна, що відбувається повільно, протягом тривалого періоду. ⚠️ Не плутай з **overtime** (одним словом) — понаднормова робота: work overtime.
+
+**Приклади:**
+- The page grew slowly **over time**. — Сторінка росла повільно, з часом.
+- Habits change **over time**. — Звички з часом змінюються.
+- I worked **overtime** last week. — Минулого тижня я працював понаднормово. *(інше слово!)*
+
 ---
 
 ## sort out / get sorted
@@ -102,6 +218,19 @@
 - We finally **sorted out** the deployment issue. — Ми нарешті розібралися з проблемою деплою.
 - Don't worry, it'll **get sorted** by tomorrow. — Не хвилюйся, до завтра все владнається.
 - Can you **sort out** the invoice mess before Friday? — Можеш розібратися з плутаниною в рахунках до п'ятниці?
+
+
+---
+
+## straight away
+**straight away** /streɪt əˈweɪ/ — *(фраза)* одразу, негайно
+
+**Пояснення:** розмовний синонім **immediately** / **right away** (AmE) / **at once**. Стоїть у кінці речення.
+
+**Приклади:**
+- Save every answer in your document **straight away**. — Зберігай кожну відповідь у документ одразу.
+- I'll fix it **straight away**. — Виправлю негайно.
+- She recognized him **straight away**. — Вона впізнала його одразу.
 
 ---
 
@@ -115,6 +244,7 @@
 - We **took** the old server **down** for maintenance. — Ми вимкнули старий сервер на обслуговування.
 - The DDoS attack **took** the website **down** for hours. — DDoS-атака вивела сайт з ладу на кілька годин.
 
+
 ---
 
 ## turn off / turn on
@@ -126,6 +256,7 @@
 - Please **turn off** the music — I can't work. — Вимкни, будь ласка, музику — я не можу працювати.
 - **Turn it off** and **on** again. — Вимкни і ввімкни знову. _(класика техпідтримки)_
 - I **turned on** notifications for that channel. — Я увімкнув сповіщення для того каналу.
+
 
 ---
 
@@ -139,6 +270,7 @@
 - Everyone thought the plan was risky, but it **turned out** fine. — Усі думали, що план ризикований, але все вийшло добре.
 - **It turned out that** the bug was in the config, not in the code. — Виявилось, що баг був у конфігу, а не в коді. _(розробка)_
 
+
 ---
 
 ## wake up
@@ -151,6 +283,7 @@
 - Don't **wake her up** — she fell asleep just an hour ago. — Не буди її — вона заснула лише годину тому.
 - The alarm **wakes me up** every morning. — Будильник будить мене щоранку.
 
+
 ---
 
 ## work out
@@ -162,6 +295,7 @@
 - I **work out** three times a week. — Я тренуюсь тричі на тиждень. _(спорт)_
 - We tried the new schedule, but it didn't **work out**. — Ми спробували новий розклад, але не спрацювало.
 - Can you **work out** how much we spent on coffee? — Можеш вирахувати, скільки ми витратили на каву?
+
 
 ---
 

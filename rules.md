@@ -36,6 +36,7 @@
   - замість **тире** між двома іменниками / іменником і дією: ❌ My dream — make a game. → ✅ My dream **is to** make a game.
 - **«Скільки … є?» / «Чи є …?»** — `are there` / `is there`: ❌ How many rooms in your flat? → ✅ How many rooms **are there** in your flat? · ✅ **Is there** a kitchen?
 - **Зворотний бік:** перед звичайним дієсловом `be` НЕ ставиться: ❌ It is not support me. → ✅ It **does not / will not support** me.
+- **`not` vs `no`:** `not` — перед прикметником / дієсловом / прислівником (It's **not** fair · I'm **not** sure); `no` — перед іменником, заміняє артикль (There is **no** place · I have **no** doubt). ❌ It's no fair.
 - Безособове речення → постав **it** (немає «порожнього» підмета):
   - ❌ Is cold. → ✅ **It** is cold. · ❌ Was late. → ✅ **It** was late.
   - Шаблон: **It is / It was + adj** (погода, час, оцінка): It is interesting. It was cold.
@@ -162,6 +163,10 @@
 | **before** + time | до (раніше за) | Call me **before** noon. |
 | **until** + time | до (тривалість дії) | I'll wait **until** 5 p.m. |
 | **in / within** + тривалість | за (проміжок, за який щось ЗАВЕРШИЛИ) | We fixed it **in / within an hour**. *(НЕ «by an hour» — `by` це дедлайн-точка, а не тривалість)* |
+
+**«Через» = причина → `because of` + іменник** (або `due to`): ✅ different **because of** moisture · late **because of** the rain. `through` — тільки «крізь»: through the window. ❌ different through moisture.
+
+**Розклад (зустріч, потяг, урок) — Present Simple + `on` день / `at` час:** ✅ The meeting **starts at** 9:15 **on** Friday. (`is starting` — про особисту домовленість, теж можливо.)
 
 **Платформи й мережі — `on`:** on Threads, on Instagram, on YouTube, on the internet, on TV. ❌ in Threads.
 

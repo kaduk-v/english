@@ -1,6 +1,6 @@
 # T
 
-**Зміст:** [take](#take) · [tend](#tend) · [thankful](#thankful) · [thick](#thick) · [thirsty](#thirsty) · [though](#though) · [thought](#thought) · [threat](#threat) · [towards](#towards) · [town](#town) · [traitor](#traitor) · [treat](#treat) · [tremors](#tremors) · [trick](#trick) · [turn out](#turn-out) · [tweak](#tweak) · [typically](#typically)
+**Зміст:** [take](#take) · [tend](#tend) · [terrible](#terrible) · [thankful](#thankful) · [thick](#thick) · [thirsty](#thirsty) · [though](#though) · [thought](#thought) · [threat](#threat) · [towards](#towards) · [town](#town) · [traitor](#traitor) · [treat](#treat) · [tremors](#tremors) · [trick](#trick) · [turn out](#turn-out) · [tweak](#tweak) · [typically](#typically)
 
 ---
 
@@ -13,6 +13,7 @@
 - The match **takes** two hours. — Матч триває дві години.
 - Let's **take a break**. — Зробімо перерву.
 - Where did the event **take place**? — Де відбулася подія?
+
 
 
 ---
@@ -29,6 +30,23 @@
 - I **tend to** stay up late when I play online. — Я зазвичай засиджуюся допізна, коли граю онлайн.
 
 
+
+---
+
+## terrible
+**terrible** /ˈterəbl/ — <code>adjective</code> (прикметник) — жахливий, страшний; дуже поганий
+
+**Пояснення:** сильне слово для «погано»: terrible weather, a terrible mistake, a terrible service. Розмовно — підсилювач: I'm terrible at maths — я жахливо погано знаю математику. Прислівник — **terribly** (жахливо; розм. «дуже»: terribly sorry).
+
+**💡 Конструкції:**
+- **be terrible at** sth — бути дуже поганим у чомусь: I'm **terrible at** names. — Я жахливо запам'ятовую імена.
+- **feel terrible** — почуватися жахливо (фізично або через провину): I **feel terrible** about it. — Мені дуже соромно через це.
+- **terribly sorry** — страшенно шкода (ввічливе)
+
+**Приклади:**
+- My first post was **terrible** — eleven views. — Мій перший пост був жахливий — одинадцять переглядів.
+- The coffee shop had a beautiful interior and **terrible** service. — У кав'ярні був гарний інтер'єр і жахливий сервіс.
+
 ---
 
 ## thankful
@@ -44,6 +62,7 @@
 **Приклади:**
 - I'm **thankful that** the tests caught the bug before release. — Я вдячний, що тести зловили баг до релізу.
 - **Thankfully**, nobody was hurt. — На щастя, ніхто не постраждав.
+
 
 
 ---
@@ -63,6 +82,7 @@
 - The fog was so **thick** that we couldn't see the road. — Туман був такий густий, що ми не бачили дороги.
 - She has **thick** dark hair. — У неї густе темне волосся.
 
+
 ---
 
 ## thirsty
@@ -73,6 +93,7 @@
 **Приклади:**
 - After the long dungeon run I was really **thirsty**. — Після довгого забігу підземеллям мені дуже хотілося пити.
 - The young knight was **thirsty for** adventure. — Юний лицар прагнув пригод.
+
 
 
 ---
@@ -92,6 +113,7 @@
 - The update is buggy. I like the new design, **though**. — Оновлення глючне. Але новий дизайн мені подобається, проте.
 
 
+
 ---
 
 ## thought
@@ -102,6 +124,7 @@
 **Приклади:**
 - I **thought** you were offline. — Я думав, ти офлайн.
 - She shared her **thoughts** about the new feature. — Вона поділилася думками про нову фічу.
+
 
 
 ---
@@ -116,6 +139,7 @@
 - The virus is a serious **threat**. — Вірус — серйозна загроза.
 
 
+
 ---
 
 ## towards
@@ -128,6 +152,7 @@
 **Приклади:**
 - The NPC slowly walked **towards** the gate. — NPC повільно йшов у бік воріт.
 - His attitude **towards** testing has changed. — Його ставлення до тестування змінилося.
+
 
 
 ---
@@ -145,6 +170,7 @@
 - He moved from a **village** to the **city**. — Він переїхав із села у велике місто.
 
 
+
 ---
 
 ## traitor
@@ -155,6 +181,7 @@
 **Приклади:**
 - The king trusted him, but he was a **traitor**. — Король довіряв йому, але він був зрадником.
 - In this game one player is secretly a **traitor**. — У цій грі один гравець — таємний зрадник.
+
 
 
 ---
@@ -175,6 +202,7 @@
 - Ice cream is her favourite **treat**. — Морозиво — її улюблений смаколик.
 
 
+
 ---
 
 ## tremors
@@ -185,6 +213,7 @@
 **Приклади:**
 - Small **tremors** shook the village before the dragon appeared. — Слабкі поштовхи струснули село, перш ніж з'явився дракон.
 - Too much coffee gives me hand **tremors**. — Від завеликої кількості кави в мене тремтять руки.
+
 
 
 ---
@@ -201,6 +230,7 @@
 - Restarting the app usually **does the trick**. — Перезапуск застосунку зазвичай спрацьовує.
 - The goblin **tricked** us **into** opening the gate. — Гоблін хитрістю змусив нас відчинити ворота.
 - He showed me a cool card **trick**. — Він показав мені класний картковий фокус.
+
 
 
 ---
@@ -221,6 +251,7 @@
 - It **turned out that** the bug was in the config, not the code. — Виявилося, що баг був у конфігу, а не в коді.
 
 
+
 ---
 
 ## tweak
@@ -231,6 +262,7 @@
 **Приклади:**
 - I **tweaked** the animation timing and now it feels smooth. — Я підкрутив тайминг анімації, і тепер вона плавна.
 - The release includes a few small UI **tweaks**. — У релізі кілька дрібних UI-правок.
+
 
 
 ---

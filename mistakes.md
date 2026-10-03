@@ -376,3 +376,8 @@
 | **instead** Victor / experience **how** to start | **instead of** Victor / experience **of** how to start | тема уроку: instead of + іменник; experience of | 03.10 · Діалог 3 |
 | to win **in** this game | to win this game | дієслово без прийменника там, де українська його ставить (виграти в) — як answer the question, call me → [§8](rules.md#8-прийменники-з-дієсловами) | 04.10 · Урок 12 Р10 |
 | in **cache** *(готівкою)* | in **cash** | *(омофон, не рахується)* cash — готівка, cache — кеш | 04.10 · Урок 12 Р10 |
+| I'**ll paid** in cash | I'**ll pay** | після will — база (як can't find, didn't fall) | 05.10 · Урок 12 Р11 |
+| different **through** moisture | different **because of** moisture | калька «через»: причина — because of; through — лише «крізь» → [§9](rules.md#9-прийменники-часу-і-дедлайнів) | 05.10 · Урок 12 Р11 |
+| The meeting **is starting in** Friday *(дриль)* | The meeting **starts on** Friday | помилку не знайдено (in Friday), а правильне starts змінено; день → on; розклад → Present Simple | 05.10 · Урок 12 Р11 |
+| Is there **place** like that? | Is there **a** place like that? | однинний злічуваний без артикля — повтор патерну Діалогу 3; no заміняє a, прибрав no — поверни a | 05.10 · Урок 12 Р11 |
+| It's **no** fair | It's **not** fair | no + іменник (no place); not + прикметник (not fair) → [§1](rules.md#1-дієслово-та-підмет) | 05.10 · Урок 12 Р11 |

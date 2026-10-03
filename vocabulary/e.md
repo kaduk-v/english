@@ -1,6 +1,6 @@
 # E
 
-**Зміст:** [eager](#eager) · [edge](#edge) · [effective](#effective) · [efficient](#efficient) · [effort](#effort) · [either way](#either-way) · [embrace](#embrace) · [emphasize](#emphasize) · [enclosed](#enclosed) · [encounter](#encounter) · [endless](#endless) · [endorse](#endorse) · [enforce](#enforce) · [engage](#engage) · [ensure](#ensure) · [entire](#entire) · [equipment](#equipment) · [essential](#essential) · [evaluate](#evaluate) · [eventually](#eventually) · [evidence](#evidence) · [exactly](#exactly) · [excite](#excite) · [excited](#excited) · [exciting](#exciting) · [excuse](#excuse) · [exhausted](#exhausted) · [explode](#explode) · [exploit](#exploit) · [explore](#explore) · [expose](#expose) · [extremely](#extremely)
+**Зміст:** [eager](#eager) · [edge](#edge) · [effective](#effective) · [efficient](#efficient) · [effort](#effort) · [either way](#either-way) · [embrace](#embrace) · [emphasize](#emphasize) · [enclosed](#enclosed) · [encounter](#encounter) · [endless](#endless) · [endorse](#endorse) · [enforce](#enforce) · [engage](#engage) · [ensure](#ensure) · [entire](#entire) · [equipment](#equipment) · [essential](#essential) · [establishment](#establishment) · [evaluate](#evaluate) · [eventually](#eventually) · [evidence](#evidence) · [exactly](#exactly) · [excite](#excite) · [excited](#excited) · [exciting](#exciting) · [excuse](#excuse) · [exhausted](#exhausted) · [explode](#explode) · [exploit](#exploit) · [explore](#explore) · [expose](#expose) · [extremely](#extremely)
 
 ---
 
@@ -17,6 +17,7 @@
 - Junior devs are often **eager to** take on hard tasks. — Джуни часто рвуться братися за складні задачі.
 - The players were **eager for** the new season. — Гравці не могли дочекатися нового сезону.
 
+
 ---
 
 ## edge
@@ -28,6 +29,7 @@
 - Don't stand so close to the **edge** of the cliff. — Не стій так близько до краю скелі.
 - The tests failed on an **edge** case: an empty array. — Тести впали на граничному випадку: порожньому масиві.
 - Faster loading gives our app an **edge** over competitors. — Швидше завантаження дає нашому застосунку перевагу над конкурентами.
+
 
 ---
 
@@ -45,6 +47,7 @@
 - Caching is an **effective** way to speed up the API. — Кешування — дієвий спосіб пришвидшити API.
 - This potion is **effective** against poison. — Це зілля дієве проти отрути.
 
+
 ---
 
 ## efficient
@@ -57,6 +60,7 @@
 **Приклади:**
 - Binary search is more **efficient** than a full scan. — Бінарний пошук ефективніший за повний перебір.
 - She's an **efficient** manager: short meetings, clear decisions. — Вона продуктивна менеджерка: короткі мітинги, чіткі рішення.
+
 
 ---
 
@@ -72,6 +76,7 @@
 - He **made an effort** to speak only English. — Він доклав зусиль говорити лише англійською.
 - She **puts** a lot of **effort into** her training. — Вона вкладає багато зусиль у тренування.
 
+
 ---
 
 ## either way
@@ -82,6 +87,7 @@
 **Приклади:**
 - We'll get back to you by Friday, **either way**. — Ми зв'яжемось із вами до п'ятниці, у будь-якому разі.
 - I'm fine with tea or coffee — **either way** works for me. — Мені підійде чай чи кава — будь-який варіант.
+
 
 ---
 
@@ -94,6 +100,7 @@
 - verb: The team **embraced** TypeScript without complaints. — Команда охоче прийняла TypeScript без нарікань.
 - verb: She **embraced** her brother at the airport. — Вона обійняла брата в аеропорту.
 - noun: He held the child in a warm **embrace**. — Він тримав дитину в теплих обіймах.
+
 
 ---
 
@@ -108,6 +115,7 @@
 - The mentor **emphasized** the importance of tests. — Ментор наголосив на важливості тестів.
 - The tutorial **emphasizes** practice over theory. — Посібник робить акцент на практиці, а не на теорії.
 
+
 ---
 
 ## enclosed
@@ -121,6 +129,7 @@
 - The arena is an **enclosed** space with no escape routes. — Арена — замкнений простір без шляхів відступу.
 - Please find the **enclosed** invoice. — Рахунок додано до листа.
 
+
 ---
 
 ## encounter
@@ -131,6 +140,7 @@
 **Приклади:**
 - verb: We **encountered** a bug in production. — Ми натрапили на баг у проді.
 - noun: It was a strange **encounter**. — Це була дивна зустріч.
+
 
 ---
 
@@ -143,6 +153,7 @@
 - An **endless** runner is a game you can't actually finish. — Ендлес-ранер — гра, яку насправді неможливо пройти до кінця.
 - We had **endless** discussions about the project name. — У нас були нескінченні суперечки про назву проєкту.
 
+
 ---
 
 ## endorse
@@ -154,6 +165,7 @@
 - A famous streamer **endorsed** the new RPG. — Відомий стример підтримав нову RPG своїм ім'ям.
 - Two colleagues **endorsed** my Node.js skills on LinkedIn. — Двоє колег підтвердили мої навички Node.js у LinkedIn.
 
+
 ---
 
 ## enforce
@@ -164,6 +176,7 @@
 **Приклади:**
 - ESLint **enforces** our code style automatically. — ESLint автоматично забезпечує дотримання нашого код-стайлу.
 - The city guards **enforce** the king's law. — Міська варта стежить за виконанням королівського закону.
+
 
 ---
 
@@ -181,6 +194,7 @@
 - We **engage with** users through in-app feedback. — Ми взаємодіємо з користувачами через відгуки в застосунку.
 - The knights **engaged in** battle at dawn. — Лицарі вступили в бій на світанку.
 
+
 ---
 
 ## ensure
@@ -197,6 +211,7 @@
 - Validation **ensures** that the email field isn't empty. — Валідація гарантує, що поле email не порожнє.
 - **Ensure** you have a backup before the migration. — Подбай про бекап перед міграцією.
 
+
 ---
 
 ## entire
@@ -207,6 +222,7 @@
 **Приклади:**
 - He watched the **entire** series in one weekend. — Він подивився весь серіал за один вікенд.
 - The **entire** team was against the idea. — Уся команда була проти ідеї.
+
 
 ---
 
@@ -222,6 +238,7 @@
 **Приклади:**
 - The knight checked his **equipment** before the raid. — Лицар перевірив своє спорядження перед рейдом.
 - The studio bought new recording **equipment**. — Студія купила нове звукозаписувальне обладнання.
+
 
 ---
 
@@ -239,6 +256,18 @@
 - Backups are **essential** — do them daily. — Бекапи життєво необхідні — роби їх щодня.
 - Water is **essential for** survival in the desert. — Вода необхідна для виживання в пустелі.
 
+
+---
+
+## establishment
+**establishment** /ɪˈstæblɪʃmənt/ — <code>noun</code> (іменник) — заклад; заснування; (the establishment) істеблішмент
+
+**Пояснення:** формальне слово для бізнесу з приміщенням — кафе, бар, готель, магазин («заклад»). У розмові кажуть простіше: a place, a café, a bar. Друге значення — акт заснування (the establishment of a company). Дієслово — **establish** (заснувати, встановити).
+
+**Приклади:**
+- He runs three small **establishments** in Lviv. — Він тримає три невеликі заклади у Львові.
+- The **establishment** of the company took a year. — Заснування компанії зайняло рік.
+
 ---
 
 ## evaluate
@@ -249,6 +278,7 @@
 **Приклади:**
 - We **evaluated** three databases before choosing Postgres. — Ми оцінили три бази даних, перш ніж обрати Postgres.
 - The interpreter **evaluates** the expression step by step. — Інтерпретатор обчислює вираз крок за кроком.
+
 
 ---
 
@@ -262,6 +292,7 @@
 **Приклади:**
 - We searched the logs for hours and **eventually** found the leak. — Ми годинами копалися в логах і врешті-решт знайшли витік.
 - Keep practising — **eventually** English will feel natural. — Продовжуй практикуватися — зрештою англійська стане природною.
+
 
 ---
 
@@ -280,6 +311,7 @@
 - The logs show no **evidence of** a memory leak. — У логах немає ознак витоку пам'яті.
 - The detective found new **evidence that** the butler lied. — Детектив знайшов нові докази того, що дворецький збрехав.
 
+
 ---
 
 ## exactly
@@ -290,6 +322,7 @@
 **Приклади:**
 - It's **exactly** what I needed. — Це саме те, що мені було потрібно.
 - The bus leaves at **exactly** 8:00. — Автобус відходить рівно о 8:00.
+
 
 ---
 
@@ -306,6 +339,7 @@
 **Приклади:**
 - New frameworks don't **excite** me as much as they used to. — Нові фреймворки вже не захоплюють мене так, як колись.
 - The trailer **excited** the whole community. — Трейлер викликав захват у всієї спільноти.
+
 
 ---
 
@@ -324,6 +358,7 @@
 
 🔗 Пов'язане: [excite](#excite)
 
+
 ---
 
 ## exciting
@@ -336,6 +371,7 @@
 - It's an **exciting** time to be a backend developer. — Зараз захопливий час, щоб бути бекенд-розробником.
 
 🔗 Пов'язане: [excite](#excite)
+
 
 ---
 
@@ -353,6 +389,7 @@
 - Her explanations sounded like **excuses**, not facts. — Її пояснення звучали як виправдання, а не факти.
 - "**Excuse** me, where's the exit?" — «Вибачте, де вихід?»
 
+
 ---
 
 ## exhausted
@@ -364,6 +401,7 @@
 - After the night deploy I was completely **exhausted**. — Після нічного деплою я був геть виснажений.
 - The party was **exhausted** after the ten-hour raid. — Після десятигодинного рейду загін був виснажений.
 
+
 ---
 
 ## explode
@@ -374,6 +412,7 @@
 **Приклади:**
 - Shoot the red barrel and it **explodes**. — Вистрели в червону бочку — і вона вибухне.
 - After the update, the number of users **exploded**. — Після оновлення кількість користувачів різко зросла.
+
 
 ---
 
@@ -389,6 +428,7 @@
 - verb: Players **exploited** a glitch to farm gold. — Гравці користувалися глюком, щоб фармити золото.
 - noun: The attacker used a zero-day **exploit**. — Зловмисник застосував zero-day експлойт.
 
+
 ---
 
 ## explore
@@ -399,6 +439,7 @@
 **Приклади:**
 - Let's **explore** the map before starting the level. — Розвідаймо мапу перед стартом рівня.
 - We're **exploring** new options for the backend. — Ми досліджуємо нові варіанти для бекенду.
+
 
 ---
 
@@ -413,6 +454,7 @@
 - The service **exposes** a REST API on port 3000. — Сервіс відкриває REST API на порту 3000.
 - Never **expose** your API keys in a public repo. — Ніколи не світи свої API-ключі в публічному репозиторії.
 - The article **exposed** the studio's crunch culture. — Стаття викрила культуру кранчів у студії.
+
 
 ---
 

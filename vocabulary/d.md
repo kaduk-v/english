@@ -1,6 +1,6 @@
 # D
 
-**Зміст:** [damage](#damage) · [definitely](#definitely) · [deliberate](#deliberate) · [deliberately](#deliberately) · [deliver](#deliver) · [delve](#delve) · [derive](#derive) · [desert](#desert) · [despite](#despite) · [detailed](#detailed) · [develop](#develop) · [difference](#difference) · [different](#different) · [directly](#directly) · [disadvantage](#disadvantage) · [disappoint](#disappoint) · [discourage](#discourage) · [distinguish](#distinguish) · [doubt](#doubt) · [dozen](#dozen) · [drain](#drain) · [drive](#drive) · [dungeon](#dungeon)
+**Зміст:** [damage](#damage) · [definitely](#definitely) · [deliberate](#deliberate) · [deliberately](#deliberately) · [deliver](#deliver) · [delve](#delve) · [derive](#derive) · [desert](#desert) · [design](#design) · [despite](#despite) · [detailed](#detailed) · [develop](#develop) · [difference](#difference) · [different](#different) · [directly](#directly) · [disadvantage](#disadvantage) · [disappoint](#disappoint) · [discourage](#discourage) · [distinguish](#distinguish) · [doubt](#doubt) · [dozen](#dozen) · [drain](#drain) · [drive](#drive) · [dungeon](#dungeon)
 
 ---
 
@@ -18,6 +18,7 @@
 - noun: The flood caused serious **damage to** the old bridge. — Повінь завдала серйозної шкоди старому мосту.
 - verb: I dropped my phone and **damaged** the screen. — Я впустив телефон і пошкодив екран.
 
+
 ---
 
 ## definitely
@@ -30,6 +31,7 @@
 - I'll **definitely** finish this task today. — Я точно закінчу цю задачу сьогодні.
 - "Will you come to the meetup?" — "**Definitely!**" — «Прийдеш на мітап?» — «Однозначно!»
 
+
 ---
 
 ## deliberate
@@ -41,6 +43,7 @@
 - adjective: It's not a bug — it's a **deliberate** design decision. — Це не баг, а навмисне дизайнерське рішення.
 - adjective: He took a slow, **deliberate** step toward the dragon. — Він зробив повільний, обдуманий крок до дракона.
 - verb: The jury **deliberated** for three hours. — Присяжні радилися три години.
+
 
 ---
 
@@ -55,6 +58,7 @@
 
 🔗 Пов'язане: [deliberate](#deliberate)
 
+
 ---
 
 ## deliver
@@ -67,6 +71,7 @@
 - Our team **delivers** new features every sprint. — Наша команда здає нові фічі щоспринту.
 - She **delivered** a great talk at the conference. — Вона виголосила чудову доповідь на конференції.
 
+
 ---
 
 ## delve
@@ -77,6 +82,7 @@
 **Приклади:**
 - I **delved into** the legacy code to find the bug. — Я закопався в легасі-код, щоб знайти баг.
 - The dwarves **delved** too deep into the mountain. — Гноми закопалися надто глибоко в гору.
+
 
 ---
 
@@ -94,6 +100,7 @@
 - We **derive** this value **from** the user's settings. — Ми виводимо це значення з налаштувань користувача.
 - She **derives** real joy **from** coding. — Вона отримує справжню радість від програмування.
 
+
 ---
 
 ## desert
@@ -107,6 +114,23 @@
 **Приклади:**
 - noun: The Sahara is the biggest **desert** in the world. — Сахара — найбільша пустеля світу.
 - verb: He **deserted** his friends. — Він покинув своїх друзів.
+
+
+---
+
+## design
+**design** /dɪˈzaɪn/ — 1. <code>noun</code> (іменник) — дизайн, проєкт, задум 2. <code>verb</code> (дієслово) — проєктувати, розробляти
+
+**Пояснення:** і зовнішній вигляд, і план будови чогось. Дієслово — продумати й створити (інтерфейс, будинок, систему). Людина — **designer**.
+
+**💡 Конструкції:**
+- **design** sth — спроєктувати: We **designed** the API first. — Спочатку ми спроєктували API.
+- **be designed for** / **to do** sth — призначений для: This chair **is designed for** long work. — Це крісло призначене для довгої роботи.
+- **by design** — навмисно, так задумано: It works like this **by design**. — Так і задумано.
+
+**Приклади:**
+- n: I love the **design** of this bar — chairs made of beer crates. — Мені подобається дизайн цього бару — стільці з пивних ящиків.
+- v: Who **designed** the first level? — Хто спроєктував перший рівень? _(гра)_
 
 ---
 
@@ -125,6 +149,7 @@
 - **Despite** losing the first round, she won the match. — Попри програний перший раунд, вона виграла матч.
 - **Although** the boss was hard, we defeated him. — Хоча бос був складний, ми його здолали.
 
+
 ---
 
 ## detailed
@@ -136,6 +161,7 @@
 - Write a **detailed** description of the bug in the ticket. — Напиши в тікеті детальний опис багу.
 - The wiki has a **detailed** guide for every boss. — У вікі є докладний гайд на кожного боса.
 
+
 ---
 
 ## develop
@@ -146,6 +172,7 @@
 **Приклади:**
 - She's **developing** a mobile app in React Native. — Вона розробляє мобільний застосунок на React Native.
 - Reading **develops** your vocabulary. — Читання розвиває твій словниковий запас.
+
 
 ---
 
@@ -164,6 +191,7 @@
 
 🔗 Пов'язане: [different](#different)
 
+
 ---
 
 ## different
@@ -181,6 +209,7 @@
 
 🔗 Пов'язане: [difference](#difference)
 
+
 ---
 
 ## directly
@@ -191,6 +220,7 @@
 **Приклади:**
 - The app talks **directly** to the database. — Застосунок звертається безпосередньо до бази даних.
 - Ask him **directly** instead of guessing. — Спитай його прямо, замість того щоб гадати.
+
 
 ---
 
@@ -204,6 +234,7 @@
 - Melee heroes are **at a disadvantage** against flying units. — Герої ближнього бою у невигідному становищі проти летючих юнітів.
 
 🔗 Пов'язане: [advantage](a.md#advantage)
+
 
 ---
 
@@ -222,6 +253,7 @@
 - I was **disappointed with** the new patch. — Я був розчарований новим патчем.
 - The sequel was **disappointing**. — Продовження виявилося розчаруванням.
 
+
 ---
 
 ## discourage
@@ -234,6 +266,7 @@
 - The results were **discouraging**, but we kept going. — Результати були обеcкуражливими, але ми продовжили.
 
 🔗 Пов'язане: [disappoint](#disappoint) — та сама -ed/-ing логіка.
+
 
 ---
 
@@ -249,6 +282,7 @@
 **Приклади:**
 - Beginners don't always **distinguish between** an error and a warning. — Початківці не завжди розрізняють помилку й попередження.
 - It's hard to **distinguish** the fake site **from** the real one. — Важко відрізнити фейковий сайт від справжнього.
+
 
 ---
 
@@ -266,6 +300,7 @@
 - verb: I **doubt** this quick fix will survive the code review. — Сумніваюся, що цей швидкий фікс переживе код-рев'ю.
 - noun: There's **no doubt** she's the strongest player on the server. — Немає сумніву, що вона найсильніша гравчиня на сервері.
 
+
 ---
 
 ## dozen
@@ -282,6 +317,7 @@
 - Buy **a dozen** eggs on your way home. — Купи дюжину яєць дорогою додому.
 - I've closed **dozens of** tickets this week. — Я закрив десятки тікетів цього тижня.
 
+
 ---
 
 ## drain
@@ -294,6 +330,7 @@
 - verb: The vampire's spell **drains** your mana. — Закляття вампіра висмоктує твою ману.
 - noun: The water went down the **drain**. — Вода стекла у злив.
 
+
 ---
 
 ## drive
@@ -305,6 +342,7 @@
 - What **drove** your decision to switch teams? — Що спонукало твоє рішення перейти в іншу команду?
 - Customer feedback **drives** our roadmap. — Відгуки клієнтів визначають наш план розробки.
 - noun: She has real **drive**. — У неї справжня жага до успіху.
+
 
 ---
 

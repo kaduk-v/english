@@ -1288,3 +1288,103 @@
 Одне-три короткі речення про сьогодні.
 
 *Після перевірки Р11 — Раунд 12, потім Діалог 4.*
+
+### Відповіді учня
+
+1. I won the game yesterday evening.
+2. There is no place like that in our city.
+3. The meeting is starting at 9:15 at the office on Friday.
+4. I'll paid in cash. Give me a lid for the cup, please.
+5. The flavour is different through moisture because the beans were in the cupboard without a lid.
+6. My goal is to open a small bar. Running the bar is hard, but my brother likes it. There is no place like that in our city. We'll either open this year or wait for a better opportunity.
+7. Я виграв у грі вночі в пятницю. Туман був густий, тому ми гралися на кухні замість саду. Мій брат відповідав на кожне питання швидко. Немає сумніву що він розумніший за мене.
+8. win, answer, call — бере об'єкт напряму, тому не потрібно прийменника. Як перевірити — я не знаю.
+9. a) I won the game yesterday. b) There is no place like that in our city. c) Call me at 6pm. d) The meeting is starting in Friday. e) She answered my email. f) Put the lid on the table.
+10. a) There is no coffee like that in our city. b) There is no coffee like that in our cupboard. c) There are no places like these in our city. d) Is there place like that in our city?
+11. He answered each question quickly. There is no park in this city. How many lids do you have? It's no fair.
+
+**Щоденник:** I was learning English for a few hours today. Learning English is hard for me, but I study every day.
+
+### Перевірка Раунду 11 — ❌ (5 помилок)
+
+**Коротко:** мішені раунду — чисто: `won the game` ×2, `answered my email`, `answered each question`, `Call me`, `There is no …` ×5 як повні речення, `at 9:15 at the office on Friday` — три прийменники в одному реченні без зриву, `in cash`, `without a lid`, `on the table`. Зворотний переклад — без граматичних розбіжностей, а `We'll either open this year or wait` навіть природніше за оригінал. П'ять помилок — усі поза мішенями: `I'll paid` (will + минулий час), `through moisture` (калька «через»), у дрилі 9d не знайдено `in Friday`, зате змінено правильне `starts`, `Is there place` без артикля, `It's no fair` замість `not`. Щоденник — обидва речення правильні.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 4 | I**'ll paid** | I**'ll pay** | Після `will` — тільки базова форма. `will` уже несе час; `paid` — минулий — зайвий. Те саме правило, що `can't find`, `didn't fall`. |
+| 5 | different **through** moisture | different **because of** moisture | Калька: українське «через» має два значення — «крізь» (through the window) і «з причини». Причина — завжди `because of` (або `due to`). `through` — тільки рух крізь. |
+| 9d | The meeting **is starting in** Friday | The meeting **starts on** Friday | Помилку не знайдено: `in Friday` лишилось, а правильне `starts` змінено на `is starting`. День тижня — завжди `on`: on Friday, on Monday morning. І для розкладу (зустріч, потяг, урок) — Present Simple: `starts`. *(У п.3 `is starting` я не рахую — так теж кажуть про домовлену зустріч, але для розкладу стандарт — `starts`.)* |
+| 10d | Is there **place** like that | Is there **a** place like that | Однинний злічуваний без артикля — повтор патерну Діалогу 3. У зразку `no place` артикля не було, бо `no` його заміняє; прибрав `no` — повернувся `a`. |
+| 11 | It's **no** fair | It's **not** fair | `no` стоїть перед іменником (no place, no doubt); перед прикметником — `not`: not fair, not bad. |
+| 10c | places like **these** | places like **that** | *(не рахую)* `like that` = «такі» (ідіома), воно не змінюється з множиною. `like these` — «як оці конкретні». |
+| 7 | «вночі в п'ятницю» | «у п'ятницю ввечері» | *(не рахую)* `Friday night` — вечір п'ятниці, не ніч. |
+| 1–3, 6, 8, 9a–c/e/f, 10a/b, 11 (умови) | — | ✅ | Міні-текст 3/3; слова: lids, fair. |
+
+*Повна теорія — у [prepositions.md](../grammar/a1-a2/prepositions.md) і `rules.md` (§1, §8, §9).*
+
+**П.8 — як перевірити, чи потрібен прийменник.** Тест на `it`: якщо після дієслова можна одразу поставити `it` / `him` / `me` — прийменника немає. *Win it. Answer it. Call me. Attend it. Enter it.* Якщо `it` одразу не ліпиться і просить слово між ними — прийменник є: *look **at** it, wait **for** it, listen **to** it, depend **on** it.* Другий тест — чесніший: ти не можеш це вивести, це треба знати. Тому дієслово запам'ятовуй разом із тим, що після нього: не `answer`, а `answer the question`; не `listen`, а `listen to music`. У `rules.md` §8 — список обох груп.
+
+---
+
+## Раунд 12
+
+**Слова раунду:** afford · attend · income · terrible · design · recognize · rise *(нові, усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені, по одній на речення:** `will` + база (I'll pay) · `because of` + іменник (не through) · `on` + день, розклад — Present Simple (starts) · `a` + однинний злічуваний у питанні (Is there a …?) · `not` + прикметник / `no` + іменник · дієслова без прийменника: `attend the meeting`, `afford it`.
+
+**Перед здачею:** після `will / can / could` — база? «Через» — це причина (`because of`) чи крізь (`through`)? Однинний злічуваний — з артиклем?
+
+### Частина 1 — UA → EN
+
+1. Я заплачу за каву завтра.
+2. Я не можу дозволити собі нову квартиру через оренду.
+3. Зустріч починається о десятій у понеділок.
+
+### Частина 2 — ситуація → речення
+
+4. Колега питає, чи ти будеш на конференції в п'ятницю. Відповідай: так, будеш, і це не дорого. *(2 короткі речення; `attend`)*
+5. Друг питає, чи є біля твого дому гарне кафе. Відповідай: гарного немає, а те, що є, — жахливе. *(2 короткі речення; `terrible`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 11. Назад англійською, **не дивлячись в оригінал**:
+   > Я виграв у грі в п'ятницю ввечері. Туман був густий, тому ми грали на кухні замість саду. Мій брат відповідав на кожне питання швидко. Немає сумніву, що він розумніший за мене.
+
+### Частина 4 — EN → UA
+
+7. > I can't afford a new laptop this year because of the rent. My income is not high, but it's not terrible. I'll attend the conference on Saturday. The design of the new office is nice.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому `It's not fair`, але `There is no place`? Коли `not`, а коли `no`?
+
+### Частина 6 — дриль: чанки
+
+9. По 10 секунд на фразу:
+    a) я заплачу готівкою
+    b) через дощ
+    c) у п'ятницю ввечері
+    d) чи є тут кафе?
+    e) це не чесно
+    f) бути на зустрічі
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **I can't afford a new flat because of the rent.** 4 варіанти, у кожному змінено тільки одне:
+    a) підмет → `she`
+    b) що не можу дозволити → інше (a car / a holiday)
+    c) причина → інша (because of my low income / because of the prices)
+    d) час → минулий рік *(`can't` → `couldn't`)*
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення**, тема на вибір. 3 умови:
+    - **одне речення** з `will` + дієслово;
+    - **одне речення** з `because of` + іменник;
+    - **два слова зі списку раунду** (afford · attend · income · terrible · design · recognize · rise).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.
+
+*Після перевірки Р12 — Діалог 4.*

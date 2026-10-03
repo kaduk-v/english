@@ -1050,3 +1050,37 @@
 Одне-три короткі речення про сьогодні.
 
 *Після перевірки Р9 — Діалог 3.*
+
+### Відповіді учня
+
+1. How many rooms are there in your flat?
+2. The answer is obvious.
+3. The game won't support me financially this year.
+4. How many are there rooms? Is there a kitchen?
+5. You speak English well. I'm proud of you.
+6. My flat is on the first floor. The kitchen is small, but it is a nice place. The lemons on the table are sour. This lid is not fit for the pot.
+7. В моїй квартирі три кімнати. Мій власний маленький столик поруч з вікном. Проблема очевидна: мені потрібно більше простору. Великий диван не поміститься тут.
+8. It will not support me, а не It is not support me - бо support дієслово. is можемо використати для Continuous (It's is not supporting me)
+9. a) The film is based on a true story. b) The answer is obvious. c) How many rooms are there in your flat? d) I can't speak English. e) The sofa won't fit here. f) I'm proud of my own little project.
+10. a) There is one room in my flat. b) There are three rooms in my office. c) There aren't three rooms in my flat. d) Are there three rooms in my flat?
+11. Is there any free space on this drive? Are there many people at the event? This water is not fit for drinking. I paid rent yesterday. The bug is obvious.
+
+### Перевірка Раунду 9 — ❌ (2 помилки)
+
+**Коротко:** дві помилки на весь раунд — найчистіший раунд за весь урок. Усі мішені закриті: `are there` / `is there` ×6 (включно з двома власними питаннями в міні-тексті), `obvious` після be ×3, `won't support` / `won't fit` без зайвого `is`, `based on`, `my own little project`, `speak English`. Зворотний переклад — три речення з чотирьох слово в слово. Дриль 6/6, рамка 4/4, міні-текст 3/3. Окремо: `This water is not fit for drinking` — `fit` як прикметник «придатний», вжито правильно і природно. Дві помилки: порядок слів у питанні (`How many are there rooms?`) і `is not fit for the pot`, де потрібне дієслово `doesn't fit`.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 4 | How many **are there rooms**? | How many **rooms are there**? | `How many` + іменник — нерозривна пара, вона йде першою цілком: *how many rooms*. Потім — `are there`. У п.1 того ж раунду і в дрилі 9c ти написав правильно — тут порядок з'їхав, бо речення коротше й без місця в кінці. |
+| 6 | This lid **is not fit for** the pot | This lid **doesn't fit** the pot | Той самий патерн, що `This is not support me` у Р8: перед звичайним дієсловом `is` не ставиться. «Не підходить» — дія → `doesn't fit` + об'єкт без прийменника. Твоє ж `is not fit for drinking` у п.11 — інше: там `fit` — прикметник «придатний». Про розмір і форму — дієслово. |
+| 1–3, 5, 7–11 | — | ✅ | be у питаннях — 6/6. Прийменники — 0 помилок третій раунд поспіль. |
+
+*Повна теорія — у [to-be.md](../grammar/a1-a2/to-be.md) і `rules.md` (§1, §17).*
+
+**Головне:** за п'ять раундів нового формату — від 13 помилок до 2. Прийменники, тема уроку, не зривались з Р7. Те, що лишилось, — одиничні зриви, не патерни. Наступний — Діалог 3, і це головна перевірка: чи тримається be, коли увага на змісті, а не на чек-листі.
+
+---
+
+## 💬 Діалог 3 (після Раунду 9)
+
+Студент називає роль Claude і тему. 10 повідомлень від кожної сторони, без виправлень по ходу. Після діалогу — розбір і Раунд 10.

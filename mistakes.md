@@ -362,3 +362,5 @@
 | it's **obviously** | it's **obvious** | після be — прикметник, не прислівник | 02.10 · Урок 12 Р8 |
 | How many **room ∅** in your flat? | How many **rooms are there** in your flat? | 🎯 be-omission у питанні: how many + множина + are there | 02.10 · Урок 12 Р8 |
 | still I can't speak **on** English / I'm sad **a little** / **gain** Intermediate level *(щоденник)* | I still can't speak English / I'm **a little** sad / **reach** the Intermediate level | 🔴 speak on English — старий леак; a little перед прикметником; reach a level | 02.10 · Урок 12 Р8 щоденник |
+| How many **are there rooms**? | How many **rooms are there**? | how many + іменник — нерозривно, потім are there; у п.1 того ж раунду — правильно | 03.10 · Урок 12 Р9 |
+| This lid **is not fit for** the pot | This lid **doesn't fit** the pot | повтор патерну Р8 (This is not support): перед дієсловом is не ставиться; fit як дієслово — без for; is fit for = прикметник «придатний» (This water is not fit for drinking ✅) → [§17](rules.md#17-часто-плутані-слова) | 03.10 · Урок 12 Р9 |

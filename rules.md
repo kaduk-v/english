@@ -248,6 +248,7 @@
 - **Чанки, які не перекладаються словами:** «час від часу» = **from time to time** (❌ time by time) · «із задоволенням» = **with pleasure** / I'd love to (❌ I'd pleasure) · «яка різниця» = **the difference between** (❌ which difference) · «половина чогось» = **half a** cup / hour (❌ a half of cup) · «поділити на» = **divide into** (❌ divide in).
 - **by** (транспорт, спосіб: by bus, by email) vs **with** (інструмент у руках: with a knife, with a Moka pot): ✅ I make coffee **with a** Moka pot. ❌ by Moka pot.
 - **grind → ground → ground** («молоти»; *ground coffee* — мелена кава) vs **grounded** (від дієслова *ground* — заземлити / залишити без прогулянок: *He's grounded*). ❌ grounded coffee · ❌ Please ground it → ✅ Please **grind** it.
+- **fit** дієслово («підходити за розміром», без прийменника і без be): ✅ This lid **doesn't fit** the pot. ❌ is not fit for the pot · vs **be fit for** прикметник («придатний»): ✅ This water **is not fit for** drinking.
 - **lack** /læk/ («брак, нестача»: a lack of time) vs **leak** /liːk/ («витік»: a memory leak). ❌ a leak of time.
 - **series** («серіал»; однина = множина: a series, two series) / **show** vs **serial** (прикметник «серійний»: a serial number). ❌ that serial → ✅ that **series**.
 - **change jobs / trains / hands** — «змінити роботу / пересісти / перейти з рук у руки» — множина без артикля: ✅ I want to **change jobs**. ❌ change a job.

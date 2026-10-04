@@ -2,7 +2,7 @@
 
 Як і [irregular-verbs.md](irregular-verbs.md) — це не підручниковий повний список, а слова, які реально трапились у твоїх уроках/чатах/розмовах. Росте з практики. Поруч із фразовими дієсловами тут і **сталі фрази** (позначені *(фраза)*), які треба брати цілим чанком — by the way, at all, for a while тощо.
 
-**Зміст:** [any good](#any-good) · [at a time](#at-a-time) · [at all](#at-all) · [at once](#at-once) · [be based on](#be-based-on) · [by the way](#by-the-way) · [cross over](#cross-over) · [figure out](#figure-out) · [find out](#find-out) · [follow up](#follow-up) · [for a while](#for-a-while) · [get back (to sb)](#get-back-to-sb) · [give up](#give-up) · [go on](#go-on) · [look forward to](#look-forward-to) · [on the side](#on-the-side) · [over time](#over-time) · [sort out / get sorted](#sort-out-get-sorted) · [straight away](#straight-away) · [take down](#take-down) · [turn off / turn on](#turn-off-turn-on) · [turn out](#turn-out) · [wake up](#wake-up) · [work out](#work-out) · [write up](#write-up)
+**Зміст:** [any good](#any-good) · [at a time](#at-a-time) · [at all](#at-all) · [at once](#at-once) · [be based on](#be-based-on) · [by the way](#by-the-way) · [come back](#come-back) · [cross over](#cross-over) · [figure out](#figure-out) · [find out](#find-out) · [follow up](#follow-up) · [for a while](#for-a-while) · [get back (to sb)](#get-back-to-sb) · [give up](#give-up) · [go on](#go-on) · [level up](#level-up) · [look forward to](#look-forward-to) · [on the side](#on-the-side) · [over time](#over-time) · [sort out / get sorted](#sort-out-get-sorted) · [straight away](#straight-away) · [take back](#take-back) · [take down](#take-down) · [turn off / turn on](#turn-off-turn-on) · [turn out](#turn-out) · [wake up](#wake-up) · [work out](#work-out) · [write up](#write-up)
 
 ---
 
@@ -16,6 +16,7 @@
 - The old tutorial isn't **any good** anymore. — Старий туторіал уже нікуди не годиться.
 - Is the new version **any better**? — Нова версія хоч трохи краща?
 
+
 ---
 
 ## at a time
@@ -27,6 +28,7 @@
 - Fix one bug **at a time**. — Виправляй по одному багу за раз.
 - The lift takes six people **at a time**. — Ліфт бере шістьох за раз.
 - I was a student **at the time**. — На той час я був студентом. *(інша фраза!)*
+
 
 ---
 
@@ -40,6 +42,7 @@
 - I didn't like the film **at all**. — Мені фільм зовсім не сподобався.
 - Do you play **at all**? — Ти взагалі граєш?
 
+
 ---
 
 ## at once
@@ -51,6 +54,7 @@
 - Call the doctor **at once**. — Негайно виклич лікаря.
 - Everyone started talking **at once**. — Усі заговорили одночасно.
 - Don't open ten tabs **at once**. — Не відкривай десять вкладок одразу.
+
 
 ---
 
@@ -64,6 +68,7 @@
 - My game **will be based on** a real village. — Моя гра базуватиметься на реальному селі.
 - We **based** the design **on** user feedback. — Ми побудували дизайн на відгуках користувачів.
 
+
 ---
 
 ## by the way
@@ -75,6 +80,19 @@
 - I'm Andriy, **by the way**. — Я Андрій, до речі.
 - **By the way**, did you fix that bug? — До речі, ти виправив той баг?
 - What's your name, **by the way**? — Як тебе звати, до речі?
+
+
+---
+
+## come back
+**come back** /kʌm bæk/ — повернутися (до місця або до справи)
+
+**Пояснення:** про повернення туди, де вже був, або до заняття, яке кинув. З об'єктом — **come back to** sth: come back to a game, come back to the topic. Частка невідокремлювана. Порівняй **go back** — піти назад (від мовця), **get back** — повернутися (розмовно, часто додому).
+
+**Приклади:**
+- I stopped playing Elden Ring, but I'll **come back** later. — Я кинув Elden Ring, але повернуся пізніше.
+- When an idea keeps **coming back**, it usually means something. — Коли ідея постійно повертається, це зазвичай щось означає.
+- Let's **come back to** this question tomorrow. — Повернімося до цього питання завтра.
 
 ---
 
@@ -88,6 +106,7 @@
 - She **crossed over** from design to development. — Вона перейшла з дизайну в розробку.
 - The game is a **crossover** between a farm sim and an RPG. — Гра — кросовер між фермерським симулятором і RPG.
 
+
 ---
 
 ## figure out
@@ -97,6 +116,7 @@
 - It took me three days to **figure out** the bug. — Мені знадобилось три дні, щоб розібратися з багом.
 - Let's **figure out** a better approach together. — Давай разом придумаємо кращий підхід.
 - I couldn't **figure out** why the tests were failing. — Я не міг зрозуміти, чому тести падають.
+
 
 
 ---
@@ -112,6 +132,7 @@
 - Let me **find out** who is on call today. — Дай дізнаюся, хто сьогодні на чергуванні.
 
 
+
 ---
 
 ## follow up
@@ -121,6 +142,7 @@
 - I'll **follow up** with an email tomorrow. — Я надішлю follow-up email завтра.
 - We should **follow up** on that bug report. — Нам варто простежити за цим баг-репортом.
 - He **followed up** with the client after the demo. — Він зв'язався з клієнтом повторно після демо.
+
 
 
 ---
@@ -135,6 +157,7 @@
 - Let the tea brew **for a while**. — Дай чаю трохи настоятись.
 - **After a while** the crowd went home. — Через якийсь час натовп розійшовся.
 
+
 ---
 
 ## get back (to sb)
@@ -144,6 +167,7 @@
 - I'll **get back to you** by Friday. — Я зв'яжусь із тобою до п'ятниці.
 - She never **got back to me** about the offer. — Вона так і не відповіла мені щодо пропозиції.
 - Let me check with the team and **get back to you** tomorrow. — Дай мені звіритися з командою і я зв'яжусь із тобою завтра.
+
 
 
 ---
@@ -159,6 +183,7 @@
 - She **gave up** trying to fix the old laptop. — Вона перестала намагатись полагодити старий ноутбук.
 
 
+
 ---
 
 ## go on
@@ -169,6 +194,19 @@
 - Please, **go on** — I'm listening. — Продовжуй, будь ласка, я слухаю.
 - The meeting **went on** for almost two hours. — Зустріч тривала майже дві години.
 
+
+
+---
+
+## level up
+**level up** /ˈlevl ʌp/ — підняти рівень (персонажа); перен. — прокачатися, вийти на новий рівень
+
+**Пояснення:** з ігор, тепер і в розмовній мові про навички. Без об'єкта — сам прокачався (I leveled up); з об'єктом — прокачати щось (level up your English). Минулий час — **leveled up** (AmE) / **levelled up** (BrE).
+
+**Приклади:**
+- I farmed souls until I **leveled up** a few times. — Я фармив душі, поки не підняв рівень кілька разів. _(гра)_
+- Kill twenty wolves and you'll **level up**. — Вбий двадцять вовків, і піднімеш рівень.
+- This course helped me **level up** my English. — Цей курс допоміг мені прокачати англійську.
 
 ---
 
@@ -181,6 +219,7 @@
 - I'm **looking forward to** the weekend. — Чекаю не дочекаюся вихідних.
 - We **look forward to** working with you. — Ми з нетерпінням чекаємо на співпрацю з вами.
 - She's **looking forward to** seeing the new season. — Вона дуже чекає новий сезон.
+
 
 
 ---
@@ -196,6 +235,7 @@
 - I do a bit of freelance **on the side**. — Трохи фрілансю на додачу до основної роботи.
 
 
+
 ---
 
 ## over time
@@ -208,6 +248,7 @@
 - Habits change **over time**. — Звички з часом змінюються.
 - I worked **overtime** last week. — Минулого тижня я працював понаднормово. *(інше слово!)*
 
+
 ---
 
 ## sort out / get sorted
@@ -218,6 +259,7 @@
 - We finally **sorted out** the deployment issue. — Ми нарешті розібралися з проблемою деплою.
 - Don't worry, it'll **get sorted** by tomorrow. — Не хвилюйся, до завтра все владнається.
 - Can you **sort out** the invoice mess before Friday? — Можеш розібратися з плутаниною в рахунках до п'ятниці?
+
 
 
 ---
@@ -232,6 +274,19 @@
 - I'll fix it **straight away**. — Виправлю негайно.
 - She recognized him **straight away**. — Вона впізнала його одразу.
 
+
+---
+
+## take back
+**take back** /teɪk bæk/ — 1. забрати назад, повернути (річ у магазин) 2. забрати свої слова назад
+
+**Пояснення:** частка відокремлювана: take **it** back, take back the shoes. Сталий вираз — **I take it back** / **I take my words back** — «беру свої слова назад», коли визнаєш, що помилився.
+
+**Приклади:**
+- I thought the level was easy, but soon I **took my words back**. — Я думав, рівень легкий, але скоро взяв свої слова назад. _(гра)_
+- These shoes don't fit — I'll **take them back** to the shop. — Ці черевики не підходять — віднесу їх назад у магазин.
+- Okay, you were right. I **take it back**. — Гаразд, ти мав рацію. Беру свої слова назад.
+
 ---
 
 ## take down
@@ -243,6 +298,7 @@
 - A memory leak **took down** the whole service. — Витік пам'яті вивів з ладу весь сервіс.
 - We **took** the old server **down** for maintenance. — Ми вимкнули старий сервер на обслуговування.
 - The DDoS attack **took** the website **down** for hours. — DDoS-атака вивела сайт з ладу на кілька годин.
+
 
 
 ---
@@ -258,6 +314,7 @@
 - I **turned on** notifications for that channel. — Я увімкнув сповіщення для того каналу.
 
 
+
 ---
 
 ## turn out
@@ -269,6 +326,7 @@
 - The morning meeting **turned out** to be very useful. — Ранкова зустріч виявилась дуже корисною.
 - Everyone thought the plan was risky, but it **turned out** fine. — Усі думали, що план ризикований, але все вийшло добре.
 - **It turned out that** the bug was in the config, not in the code. — Виявилось, що баг був у конфігу, а не в коді. _(розробка)_
+
 
 
 ---
@@ -284,6 +342,7 @@
 - The alarm **wakes me up** every morning. — Будильник будить мене щоранку.
 
 
+
 ---
 
 ## work out
@@ -295,6 +354,7 @@
 - I **work out** three times a week. — Я тренуюсь тричі на тиждень. _(спорт)_
 - We tried the new schedule, but it didn't **work out**. — Ми спробували новий розклад, але не спрацювало.
 - Can you **work out** how much we spent on coffee? — Можеш вирахувати, скільки ми витратили на каву?
+
 
 
 ---

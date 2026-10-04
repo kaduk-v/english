@@ -1429,3 +1429,111 @@
 ## 💬 Діалог 4 (після Раунду 12)
 
 Студент називає роль Claude і тему. 10 повідомлень від кожної сторони, без виправлень по ходу. Після діалогу — розбір і Раунд 13.
+
+**Роль і тема (задав студент, 04.10):** Claude — геймер, фанат souls-like; пояснює, що це за ігри, як вони побудовані, чому подобаються і чому варто спробувати. Студент сам виявився ветераном жанру (Demon's Souls, Dark Souls, Lords of the Fallen).
+
+### Репліки студента (10)
+
+1. I played Demon's Souls and it was hard and unclear at first but then I liked it
+2. I started the game with magician character and I died from the first enemies again and again for a few hours. And I thought "I'm doing something wrong! It can't be so hard". And then I changed the type of my character. I choose the knight one. And it changed everything.
+3. Oh, yes. I collected souls to level up and I underestimated the common enemy, and it killed me on the way to the point where I lost my souls. One simple mistake, and you lose everything.
+4. It was Flamelurker. I remembered all his steps, area of moving, each type of attack and when I finally beat it I started "cheating". I choose location with a few strong enemies on start, beat them and begin location from the start and did it many times until I level up a few times. Then I run ahead.
+5. I was confused a little because I didn't expect to beat him. Were many better attempts before but final attempt was not perfect but the most efficient
+6. I usually play for an hour in the evening. Sometimes for a few hours, sometimes for half an hour. I tried to play Elden Ring but it is so huge game. I stopped it and will come back later. Now I play Lords of the Fallen.
+7. After Demon's Souls I finished the first part of Dark Souls and stated the third one. But Lords of the Fallen is another level. Sometimes running is too easy and I think "Is it a really souls like game?" but soon I take my words back. So the boss Folard stopped me. I can't even land a few hits on him.
+8. The main problem is to destroy the parasite that is to protects by wolf. While the parasite is alive I can't damage him. If I died appears the third enemy on this boss location in Umbral. The third one is big stone head.
+9. I lost my energy in fight with another boss that looks like a death. His appearance was like common enemies. So I jumped at him and starting fight him but I died. Never mind it, Kinrangr Guardian Folard is definitely harder then this one
+10. The first thing will find the point to save game)
+
+### Розбір Діалогу 4 — 21 помилка
+
+**Коротко:** найживіший діалог з усіх — ти не відповідав на питання, а розповідав історії: як помер магом і перейшов на лицаря, як загубив душі через звичайного ворога, як фармив перед Flamelurker. Чудові фрази: `I underestimated the common enemy, and it killed me on the way to the point where I lost my souls` (слово зі словника + складне відносне речення), `One simple mistake, and you lose everything`, `I take my words back`, `I can't even land a few hits on him`, `not perfect but the most efficient`. **Прийменники — лише 2 зриви на десять довгих реплік** (`died from`, `on start`), а правильних — понад двадцять: `for an hour in the evening`, `for half an hour` (у Р3 було `a half hour`), `at first`, `jumped at him`, `in Umbral`, `on the way to the point`. be тримався — одна дірка в `Were many better attempts`. **Новий головний патерн — розповідь у минулому з'їжджає в теперішнє:** `I choose`, `begin`, `until I level up`, `I run ahead` — п'ять разів. Перші дієслова історії в минулому (`started`, `died`, `thought`, `changed`), а коли розповідь розганяється, дієслово повертається в базову форму. Другий — **артиклі, 8 пропусків**, той самий шар, що в Діалозі 3.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 2, 4 | I **choose** the knight / I **choose** location / **begin** location / until I **level up** / I **run** ahead | I **chose** / I **chose** / **started** the location again / until I **leveled up** / I **ran** ahead | 🆕 Розповідь про минуле — усі дії в Past Simple, до кінця історії. Ти почав правильно (`started`, `died`, `thought`, `changed`), а на швидкості дієслово «злетіло» в базову форму. choose → **chose**, begin → **began**, run → **ran**. Українською «вибираю / біжу» в живій розповіді про минуле — норма («і тут я біжу…»), англійською — ні. |
+| 2 | with **magician character** | with **a mage** / with **a magician** | Однинний злічуваний без артикля. *(У іграх клас зазвичай — `mage` або `sorcerer`.)* |
+| 2 | I died **from** the first enemies | I died **to** the first enemies / the first enemies **killed** me | Тема уроку. `die from / of` — причина смерті (хвороба, рана): die of hunger. У грі «помер від ворога» — геймерське `died to` або просто `killed me`. |
+| 4 | I chose **location** | I chose **a location** | Перша згадка → `a`. |
+| 4 | **on start** | **at the start** / near the start | Тема уроку. Початок — точка → `at the start`, `at the beginning`; і з артиклем. |
+| 5 | I was confused **a little** | I was **a little** confused | 🔴 Повтор щоденника Р8 (`sad a little`). «Трохи» стоїть **перед** прикметником: a little confused, a bit tired. |
+| 5 | **Were** many better attempts before | **There were** many better attempts before | «Були кращі спроби» — це `There were`. Без `there` речення починається з дієслова, а підмета немає. Єдиний пропуск be-конструкції за діалог. |
+| 5 | **final attempt** | **the final attempt** | `final`, `first`, `last` — одна така спроба → `the`. Те саме, що `the first sip`, `the first level`. |
+| 6 | it is **so huge game** | it's **such a huge game** / it's **so huge** | `so` — перед прикметником без іменника: it's so huge. Якщо після прикметника є іменник — `such a`: such a huge game. |
+| 7 | Is it **a really** souls like game? | Is it **really a** souls-like game? | `really` (справді) стосується всього «чи це souls-like?» і стоїть перед артиклем. `a really souls-like game` = «по-справжньому соулсовий» — інший зміст. |
+| 8 | the parasite that **is to protects** by wolf | the parasite that **a wolf protects** | Два дієслова в присудку (як `will be provide` у Діалозі 2) і `-s` після `to`. Найпростіше — активна форма: *that a wolf protects*. І `wolf` — з `a`. |
+| 8 | If I died **appears the third enemy** | If I die, **a third enemy appears** | Порядок слів. Українською «з'являється третій ворог» — дієслово першим; англійською підмет **завжди перед** дієсловом. І правило гри (завжди так) → `If I die`, теперішній. `a third` — ще один, не «той третій». |
+| 8 | is **big stone head** | is **a big stone head** | Однинний злічуваний без артикля. |
+| 9 | in **fight** with | in **a fight** with | Однинний злічуваний без артикля. |
+| 9 | **starting fight** him | **started fighting** him | Дві помилки в двох словах: (1) минулий час — `started`; (2) після `start` — `-ing` або `to` + дієслово: started fighting / started to fight. |
+| 10 | The first thing **will find** the point | The first thing **I'll do is find** a checkpoint | Підмет зник: «перша річ знайде точку». Конструкція: *The first thing I'll do is* + дієслово. *(`checkpoint` — точка збереження; і `save the game` з артиклем.)* |
+| 4, 7, 9 | I **remembered** all his steps, area of moving · **stated** · looks like **a death** · harder **then** · Never mind **it** | I **learned** all his moves · started · looks like **Death** · harder **than** · Never mind | *(не рахую)* «Запам'ятав» тут = вивчив (`learned`); `moves` — рухи / атаки. `stated` — описка. Смерть як персонаж — з великої, без артикля. `then` / `than` — 🔴 повтор Р12: than = ніж. |
+| 6 | Now I **play** Lords of the Fallen | Now I**'m playing** | *(не рахую)* «Зараз граю» (цими днями) — природніше Present Continuous. |
+
+*Повна теорія — у [past-simple.md](../grammar/a1-a2/past-simple.md), [articles.md](../grammar/a1-a2/articles.md), [prepositions.md](../grammar/a1-a2/prepositions.md) і `rules.md` (§3, §5, §12, §16).*
+
+**Головне:** за чотири діалоги прийменники пройшли шлях від головної проблеми (Діалог 1) до двох зривів на найдовшу розмову. Тема уроку в живому мовленні працює. Те, що лишилось, — не прийменники: час у розповіді й артиклі. Раунд 13 — про них.
+
+---
+
+## Раунд 13
+
+**Слова раунду:** recognize · terrible · fortress · invent · lead · rise · permanently *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені, по одній на речення:** розповідь у минулому — **усі** дієслова в Past Simple (chose, began, ran, fought, led, rose) · `a` при першій згадці · `such a` + прикметник + іменник / `so` + прикметник · `There were …` · підмет перед дієсловом (*a third enemy appears*) · `a little` + прикметник · `start` + -ing.
+
+**Перед здачею:** у кожному реченні про минуле — дієслово в минулому? Перевір **останнє** дієслово речення: саме воно з'їжджає. Однинний злічуваний іменник — з `a` / `the`?
+
+### Частина 1 — UA → EN
+
+1. Учора я вибрав лицаря і пробіг увесь рівень.
+2. Це така велика фортеця!
+3. Минулого тижня було багато поганих спроб.
+
+### Частина 2 — ситуація → речення
+
+4. Друг питає, як ти переміг боса. Розкажи: ти вивчив його атаки, потім почав битися і переміг з третьої спроби. *(2–3 короткі речення, усе в минулому)*
+5. Друг питає, чи впізнав ти нового персонажа в серіалі. Відповідай: так, одразу; але актор був жахливий. *(2 короткі речення; `recognize`, `terrible`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 12. Назад англійською, **не дивлячись в оригінал**:
+   > Я не можу дозволити собі новий ноутбук цього року через оренду. Мій дохід не високий, але це не жахливо. Я відвідаю конференцію в суботу. Дизайн нового офісу чудовий.
+
+### Частина 4 — EN → UA
+
+7. > Last year my friend invented a small board game. He led a team of four people. The price of the box rose twice. In the end, he closed the project permanently.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому в розповіді про минуле *I chose a location, beat the enemies and ran ahead* — усі три дієслова в минулому, хоча українською можна сказати «я вибираю локацію, б'ю ворогів і біжу далі»? І яке дієслово в довгому реченні найчастіше «злітає» в теперішній?
+
+### Частина 6 — дриль: знайди помилку
+
+9. У кожному — **рівно одна** помилка. Мінімальне виправлення, час не міняй:
+    a) Yesterday I choose the knight.
+    b) It is so big fortress.
+    c) Were many enemies in the room.
+    d) I was tired a little.
+    e) If I die, appears a big stone head.
+    f) He started fight the boss at midnight.
+    g) I killed him on the final attempt.
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **I chose a knight and ran through the whole level.** 4 варіанти, у кожному змінено тільки одне:
+    a) підмет → `she`
+    b) клас → інший (a mage / a thief) *(артикль!)*
+    c) заперечення *(«я не вибрав… і не пробіг…»)*
+    d) питання *(«Ти вибрав…?»)*
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення**, історія з минулого (гра, подорож, робота). 3 умови:
+    - **усі** дієслова в Past Simple;
+    - **одне речення** з `such a` або `There were`;
+    - **два слова зі списку раунду** (recognize · terrible · fortress · invent · lead · rise · permanently).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.

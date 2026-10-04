@@ -82,6 +82,8 @@
 **Після `didn't` — ЗАВЖДИ базова форма:**
 - ✅ He **didn't go**. (не ~~didn't went~~) · ✅ I **didn't meet** him.
 
+**Розповідь про минуле — Past Simple до кінця історії.** Українською в живій розповіді можна перейти на теперішній («і тут я біжу…»), англійською — ні. ✅ I **chose** a location, **beat** the enemies and **ran** ahead. ❌ I chose a location, beat them and run ahead. Перевіряй **останнє** дієслово речення — воно «злітає» першим.
+
 ## 4. Used to
 
 Минула звичка / стан, якого вже нема («раніше я…»).
@@ -245,6 +247,10 @@
 - **quite** = «доволі» зі звичайними прикметниками (quite good); = «повністю» із сильними (quite **right / sure / impossible**).
 - **definitely** = «точно, безумовно» (100%): позиція — перед смисловим дієсловом / після be / після will. ✅ I will **definitely** come.
 - **sort of / kind of** = «наче, доволі, трохи» (пом'якшення): It's **kind of** cold. · I **sort of** agree.
+
+- **a little / a bit** — перед прикметником: ✅ I was **a little** confused. ❌ I was confused a little.
+- **so** + прикметник (без іменника) vs **such a** + прикметник + іменник: ✅ It's **so** huge. · It's **such a** huge game. ❌ so huge game.
+- **really** («справді») — перед артиклем: ✅ Is it **really a** good game? (`a really good game` — «дуже хороша гра», інший зміст.)
 
 ## 17. Часто плутані слова
 

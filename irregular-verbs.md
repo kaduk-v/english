@@ -211,4 +211,44 @@
 
 ---
 
+### choose – chose – chosen
+| Форма | Переклад | Приклад |
+|---|---|---|
+| choose /tʃuːz/ | вибирати | I always **choose** the knight in RPGs. — Я завжди вибираю лицаря в RPG. |
+| chose /tʃəʊz/ | вибрав(-ла) | Yesterday I **chose** a mage and died in five minutes. — Учора я вибрав мага і помер за п'ять хвилин. |
+| chosen | *(Present Perfect / Passive — пізніше; просто форма)* | She was **chosen** as the team lead. — Її обрали тімлідом. |
+
+> ⚠️ **choose** /uː/ — довге «у»; **chose** /əʊ/ — «оу». На письмі різниця — одна літера **o**: ch**oo**se → ch**o**se.
+
+---
+
+### begin – began – begun
+| Форма | Переклад | Приклад |
+|---|---|---|
+| begin | починати | The match **begins** at eight. — Матч починається о восьмій. |
+| began | почав(-ла) | We **began** the level again from the start. — Ми почали рівень знову з початку. |
+| begun | *(Present Perfect — пізніше; просто форма)* | The meeting has already **begun**. — Зустріч уже почалася. |
+
+---
+
+### run – ran – run
+| Форма | Переклад | Приклад |
+|---|---|---|
+| run | бігати; керувати | I **run** every morning. — Я бігаю щоранку. |
+| ran | біг(-ла), пробіг(-ла) | Then I **ran** ahead to the next checkpoint. — Потім я побіг далі до наступної точки збереження. |
+| run | *(Present Perfect — пізніше; збігається з базовою)* | We've **run** out of coffee. — У нас скінчилась кава. |
+
+---
+
+### fight – fought – fought
+| Форма | Переклад | Приклад |
+|---|---|---|
+| fight | битися | I **fight** the boss every evening. — Я б'юся з босом щовечора. |
+| fought | бився(-лась) | We **fought** for an hour and lost. — Ми билися годину і програли. |
+| fought | *(Present Perfect — пізніше)* | I've **fought** him twenty times. — Я бився з ним двадцять разів. |
+
+> 💡 Та сама сім'я **-ought**, що think → thought, buy → bought, bring → brought.
+
+---
+
 _Додаю нову секцію щоразу, коли в раунді з'являється нове неправильне дієслово (правильно вжите чи ні — байдуже, головне що воно вже твоє)._

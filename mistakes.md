@@ -386,3 +386,15 @@
 | I'll **paid** in cash *(чанк)* | I'll **pay** in cash | 🔴 повтор Р11 у чанку — після will тільки база | 04.10 · Урок 12 Р12 |
 | **is here a cafe?** | **Is there a café here?** | «чи є тут» = питання від there is: міняються лише there ↔ is, here — в кінець | 04.10 · Урок 12 Р12 |
 | because **of** I don't have enough money | because I don't have | дзеркало Р11: because of + іменник; because + підмет + дієслово → [§9](rules.md#9-прийменники-часу-і-дедлайнів) | 04.10 · Урок 12 Р12 |
+| I **choose** / **begin** / until I **level up** / I **run** ahead *(розповідь про минуле)* | I **chose** / **began** / leveled **up** / I **ran** | 🆕 **розповідь з'їжджає в теперішнє** ×5: перші дієслова історії в минулому, на швидкості — база; українська «і тут я біжу» → [§3](rules.md#3-past-simple) | 04.10 · Урок 12 Діалог 4 |
+| with **magician character** / I chose **location** / **big stone head** / in **fight** with / by **wolf** | **a** mage / **a** location / **a** big stone head / in **a** fight / **a** wolf | 🔴 артиклі — 8 пропусків (як Діалог 3, 7) → [§5](rules.md#5-артиклі-та-присвійні) | 04.10 · Діалог 4 |
+| **final attempt** | **the** final attempt | final / first / last — одна така → the | 04.10 · Діалог 4 |
+| I died **from** the first enemies / **on start** | died **to** / the enemies killed me / **at the start** | die from = причина смерті (хвороба); початок — at the start | 04.10 · Діалог 4 |
+| I was confused **a little** | I was **a little** confused | 🔴 повтор щоденника Р8 (sad a little): a little перед прикметником → [§16](rules.md#16-прислівники-нюанси) | 04.10 · Діалог 4 |
+| **Were** many better attempts | **There were** many better attempts | «були» = There were; без there речення без підмета | 04.10 · Діалог 4 |
+| it is **so huge game** | **such a huge game** / **so huge** | so + прикметник; such a + прикметник + іменник → [§16](rules.md#16-прислівники-нюанси) | 04.10 · Діалог 4 |
+| Is it **a really** souls like game? | Is it **really a** souls-like game? | really («справді») — перед артиклем → [§16](rules.md#16-прислівники-нюанси) | 04.10 · Діалог 4 |
+| the parasite that **is to protects** by wolf | the parasite that **a wolf protects** | два дієслова в присудку (як will be provide, Д2) + -s після to | 04.10 · Діалог 4 |
+| If I died **appears the third enemy** | If I die, **a third enemy appears** | підмет — перед дієсловом (калька «з'являється ворог»); правило гри → теперішній | 04.10 · Діалог 4 |
+| **starting fight** him | **started fighting** him | минулий час + start + -ing → [§12](rules.md#12-схеми-дієслів) | 04.10 · Діалог 4 |
+| The first thing **will find** the point | The first thing **I'll do is find** a checkpoint | підмет зник; конструкція The first thing I'll do is + V | 04.10 · Діалог 4 |

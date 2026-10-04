@@ -1537,3 +1537,106 @@
 ### Щоденник *(необов'язково)*
 
 Одне-три короткі речення про сьогодні.
+
+### Відповіді учня
+
+1. Yesterday, I chose the knight and ran through the entire level.
+2. This is such the big fortress.
+3. Last week, were many bad attempts.
+4. I learned his attacks. Then I started fighting and beat him on the third attempt.
+5. Yes, I recognized him immediately. The actor was terrible.
+6. I can't afford a new laptop this year because of the rent. My income is not hight, but is not terrible. I'll attend the conference on Saturday. The design of new office is nice.
+7. Минулого року мій друг винайшов маленьку настільну гру. Він очолював команду з чотирьох людей. Ціна коробки зросла вдвічі. В кінці, він закрив проєкт назавжди.
+8. В англійській якщо початок речення в минулому, то решта речення також має бути в минулому, послідовність фактів. Найчастіше злітають дієслова після сполучників, при перекладі думки на англійську.
+9. a) Yesterday I chose the knight. b) It is such big fortress. c) There were many enemies in the room. d) I was a little tired. e) If I die, a big stone head appears. f) He started fighting the boss at midnight. g) I beat him on my final attempt.
+10. a) She chose a knight and ran through the whole level. b) I chose a mage and ran through the whole level. c) I didn't choose a knight and ran through the whole level. d) Did I choose a knight and ran through the whole level?
+11. I chose a vampire and beat the boss on the first attempt. There were a few dogs in the cave. The map leads me the entire game. I didn't recognize him at first because he was far from me. The final boss lives in the old fortress at the top of the hill. I invented a new mobile game. The rent of the flat rises every six months.
+
+### Перевірка Раунду 13 — ❌ (8 помилок)
+
+**Коротко:** головна мішень — розповідь у минулому — закрита: `chose … and ran`, `learned … started fighting … beat`, `recognized`, `chose a vampire and beat the boss`, `didn't recognize him … because he was far` — жодне дієслово не «злетіло» в теперішній, і `start` + -ing теж на місці. Пояснення в п.8 влучне: «злітають дієслова після сполучників» — саме так. Прийменники теми — чисто (`on the third attempt`, `at midnight`, `at the top of the hill`, `far from me`, `because of the rent`, `on Saturday`). Помилки — у трьох місцях. (1) `such` без `a` — двічі (`such the big`, `such big`). (2) `There were` — у дрилі є, у перекладі «Минулого тижня було…» — немає: речення, що починається з часу, знову забуло про `there`. (3) Новий патерн: **`did / didn't` діє на обидва дієслова** — `didn't choose … and ran`, `Did I choose … and ran`.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 2 | such **the** big fortress | such **a** big fortress | `such` завжди з `a / an` перед однинним злічуваним: such **a** big fortress, such **an** old game. `the` після `such` не буває. |
+| 9b | It is **such big** fortress | It is **such a** big fortress | Те саме — `a` зник. Чанк треба запам'ятати з артиклем усередині: **such a** + прикметник + іменник. `such` без `a` можливе тільки з множиною або незлічуваним: such big fortresses, such good coffee. |
+| 3 | Last week, **were** many bad attempts | Last week **there were** many bad attempts | Повтор Діалогу 4. У дрилі (9c) ти написав `There were` правильно, а в перекладі — ні: речення почалося з `Last week`, і `there` не знайшло собі місця. Обставина часу підметом не є; після неї потрібне `there were`. |
+| 6 | but **is** not terrible | but **it's** not terrible | Підмет зник після `but`. Друге речення має свій підмет: *My income is not high, but **it's** not terrible.* Українською «але не жахливий» — без «він», англійською — з `it`. |
+| 6 | the design of **new office** | the design of **the new office** | Конкретний новий офіс → `the`. В оригіналі було `the`. |
+| 10c | I didn't choose a knight and **ran** | I didn't choose a knight and **didn't run** / …**or run** | 🆕 `didn't` забирає час у дієслова, і це стосується **обох** дієслів після `and`: другого теж — базова форма. *I didn't choose … and ran* означає «не вибрав, але пробіг» — інший зміст. Заперечення обох дій: *didn't choose … or run* / *didn't choose … and didn't run*. |
+| 10d | Did I choose a knight and **ran** | Did **you** choose a knight and **run** | Те саме: `did` уже несе минулий час для всього питання, обидва дієслова — в базовій формі: choose … and **run**. *(Підмет `I` у питанні «Чи вибрав я…?» звучить дивно — природніше `you`; не рахую.)* |
+| 11 | The map **leads me the entire game** | The map **led me through** the entire game | Тема уроку + час. `lead` вимагає напрямку: lead sb **to** a place, lead sb **through** a game. Без прийменника речення обривається. І розповідь — минулий: `led`. |
+| 6 | **hight** | **high** | *(не рахую — описка)* |
+| 7 | «Ціна коробки зросла **вдвічі**» | «Ціна коробки зросла **двічі**» | *(не рахую — моє речення двозначне)* `twice` у `rose twice` — «два рази» (двічі). «Вдвічі» — `doubled` або `rose by half / twice as much`. |
+| 9g | I beat him on **my** final attempt | — | *(не рахую — моя помилка)* У реченні g помилки не було: `on the final attempt` — правильно. Дякую, що не «виправив» його в бік помилки. |
+| 11 | 7 речень · `lives`, `rises` у теперішньому | 3–4 речення, всі в минулому | *(не рахую)* Умова «усі дієслова в Past Simple» — про історію; `lives`, `rises` — граматично правильні загальні факти, але це не розповідь. `The rent **for** the flat` — так кажуть частіше. |
+| 1, 4, 5, 8, 9a/c–f, 10a/b, 11 (інше) | — | ✅ | Слова: recognize ×2, terrible, fortress, invent, lead. |
+
+*Повна теорія — у [past-simple.md](../grammar/a1-a2/past-simple.md) (§4 форми), [articles.md](../grammar/a1-a2/articles.md) і `rules.md` (§1, §3, §16).*
+
+**Головне:** Past Simple у розповіді, що в діалозі «злітав» п'ять разів, тут тримається у всіх реченнях. Нове місце — `did / didn't` + **два** дієслова: друге після `and` теж має бути в базовій формі.
+
+---
+
+## Раунд 14
+
+**Слова раунду:** sibling · counter · establishment · latency · income · guide · thick *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені, по одній на речення:** `such a` + прикметник + іменник · `There was / There were` після обставини часу · `didn't / did` + **обидва** дієслова в базовій формі · підмет у другій частині після `but` · `lead / guide sb through / to` · `the` + конкретний іменник.
+
+**Перед здачею:** є `didn't` або `did`? Тоді **кожне** дієслово після нього — база, навіть після `and`. Речення починається з часу (Last week, Yesterday)? Де підмет — `there` / `I` / `it`?
+
+### Частина 1 — UA → EN
+
+1. Учора в кафе було багато людей.
+2. Я не замовив каву і не сів за стійку.
+3. Це такий гарний заклад!
+
+### Частина 2 — ситуація → речення
+
+4. Друг питає, чи ти пішов на конференцію. Ні: ти не купив квиток і не прочитав розклад. *(1–2 короткі речення, з `didn't`)*
+5. Новий колега питає про гайд. Скажи: гайд провів тебе через увесь проєкт, але він був дуже товстий. *(2 короткі речення; `guide`, `thick`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 13. Назад англійською, **не дивлячись в оригінал**:
+   > Минулого року мій друг винайшов маленьку настільну гру. Він очолював команду з чотирьох людей. Ціна коробки зросла двічі. Зрештою він закрив проєкт назавжди.
+
+### Частина 4 — EN → UA
+
+7. > My sibling works behind the counter in a small establishment. Her income is not high, but it's stable. Last month there were problems with the card terminal. The latency was terrible, and people didn't wait or pay.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому `I didn't choose a knight and **run**`, а не `and **ran**`? Що саме «робить» `didn't` з дієсловами після нього?
+
+### Частина 6 — дриль: чанки
+
+9. По 10 секунд на фразу:
+    a) такий старий заклад
+    b) минулого тижня було багато людей
+    c) не купив і не прочитав
+    d) провести мене через гру
+    e) за стійкою
+    f) але це не жахливо
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **I didn't buy a ticket or read the schedule.** 4 варіанти, у кожному змінено тільки одне:
+    a) підмет → `my sibling`
+    b) питання *(«Ти купив квиток і прочитав розклад?»)*
+    c) ствердження *(«Я купив квиток і прочитав розклад»)*
+    d) дії → інші (order a coffee / sit at the counter)
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення**, історія з минулого. 3 умови:
+    - **одне речення** з `didn't` + два дієслова;
+    - **одне речення** з `such a` або `There were`;
+    - **два слова зі списку раунду** (sibling · counter · establishment · latency · income · guide · thick).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.
+
+*Після Р15 — Діалог 5.*

@@ -398,3 +398,8 @@
 | If I died **appears the third enemy** | If I die, **a third enemy appears** | підмет — перед дієсловом (калька «з'являється ворог»); правило гри → теперішній | 04.10 · Діалог 4 |
 | **starting fight** him | **started fighting** him | минулий час + start + -ing → [§12](rules.md#12-схеми-дієслів) | 04.10 · Діалог 4 |
 | The first thing **will find** the point | The first thing **I'll do is find** a checkpoint | підмет зник; конструкція The first thing I'll do is + V | 04.10 · Діалог 4 |
+| This is such **the** big fortress / It is **such big** fortress | **such a** big fortress | such + a/an + прикметник + однинний іменник; the після such не буває → [§16](rules.md#16-прислівники-нюанси) | 05.10 · Урок 12 Р13 |
+| Last week, **were** many bad attempts | Last week **there were** | 🔴 повтор Д4 — у дрилі правильно, у перекладі після обставини часу there зникає | 05.10 · Урок 12 Р13 |
+| My income is not high, but **is** not terrible | but **it's** not terrible | друге речення після but — свій підмет → [§1](rules.md#1-дієслово-та-підмет) | 05.10 · Урок 12 Р13 |
+| I didn't choose a knight and **ran** / Did I choose … and **ran** | didn't choose … **or run** / Did you choose … and **run** | 🆕 did / didn't діє на **обидва** дієслова після and — друге теж база → [§3](rules.md#3-past-simple) | 05.10 · Урок 12 Р13 |
+| The map **leads me the entire game** | The map **led me through** the entire game | lead sb to / through — напрямок обов'язковий; розповідь → led | 05.10 · Урок 12 Р13 |

@@ -84,6 +84,8 @@
 
 **Розповідь про минуле — Past Simple до кінця історії.** Українською в живій розповіді можна перейти на теперішній («і тут я біжу…»), англійською — ні. ✅ I **chose** a location, **beat** the enemies and **ran** ahead. ❌ I chose a location, beat them and run ahead. Перевіряй **останнє** дієслово речення — воно «злітає» першим.
 
+**`did / didn't` діє на обидва дієслова після `and` / `or`:** ✅ I **didn't buy** a ticket **or read** the schedule. · ✅ **Did** you **choose** a knight and **run** through the level? ❌ I didn't choose a knight and ran. (`didn't choose … and ran` = «не вибрав, але пробіг».)
+
 ## 4. Used to
 
 Минула звичка / стан, якого вже нема («раніше я…»).
@@ -249,6 +251,7 @@
 - **sort of / kind of** = «наче, доволі, трохи» (пом'якшення): It's **kind of** cold. · I **sort of** agree.
 
 - **a little / a bit** — перед прикметником: ✅ I was **a little** confused. ❌ I was confused a little.
+- **such** — завжди з **a / an** перед однинним злічуваним, ніколи з `the`: ✅ **such a** big fortress. ❌ such the big / such big fortress. Без `a` — тільки множина або незлічуване: such big fortresses, such good coffee.
 - **so** + прикметник (без іменника) vs **such a** + прикметник + іменник: ✅ It's **so** huge. · It's **such a** huge game. ❌ so huge game.
 - **really** («справді») — перед артиклем: ✅ Is it **really a** good game? (`a really good game` — «дуже хороша гра», інший зміст.)
 

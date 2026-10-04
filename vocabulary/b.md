@@ -14,9 +14,9 @@
 - **bail (on something/somebody)** _розм._ — «звалити», кинути, скасувати в останню мить: he **bailed on** us — він нас кинув / злиняв.
 
 **Приклади:**
-- n: He was released on **bail** before the trial. — Його відпустили під заставу до суду.
-- v: The publisher **bailed out** the failing studio. — Видавець врятував проблемну студію грошима.
-- v: Sorry, I have to **bail on** tonight's raid. — Вибач, мушу злиняти з сьогоднішнього рейду. _(гра, розм.)_
+- <code>n:</code> He was released on **bail** before the trial. — Його відпустили під заставу до суду.
+- <code>v:</code> The publisher **bailed out** the failing studio. — Видавець врятував проблемну студію грошима.
+- <code>v:</code> Sorry, I have to **bail on** tonight's raid. — Вибач, мушу злиняти з сьогоднішнього рейду. _(гра, розм.)_
 
 
 ---
@@ -27,8 +27,9 @@
 **Пояснення:** пряме значення — великий дикий звір або чудовисько (казки, фентезі: Beauty and the Beast). У сленгу — захоплена оцінка людини чи речі, що вражає силою або потужністю.
 
 **Приклади:**
-- The knight fought a terrible **beast** in the cave. — Лицар бився зі страшним чудовиськом у печері. _(фентезі)_
-- This new server is a **beast** — it handles millions of requests. — Цей новий сервер — просто звір: тягне мільйони запитів. _(розробка, розм.)_
+- <code>n:</code> The knight fought a terrible **beast** in the cave. — Лицар бився зі страшним чудовиськом у печері. _(фентезі)_
+- <code>n:</code> This new server is a **beast** — it handles millions of requests. — Цей новий сервер — просто звір: тягне мільйони запитів. _(розробка, розм.)_
+- <code>n:</code> That goalkeeper is an absolute **beast**. — Цей воротар — справжній звір. _(спорт, розм.)_
 
 
 ---
@@ -41,8 +42,9 @@
 **💡 belong to** + кому/чому — належати **комусь** (власність) або бути членом **чогось** (команда, клуб, гільдія): The sword **belongs to** the king. / I **belong to** a chess club.
 
 **Приклади:**
-- This account **belongs to** another user. — Цей акаунт належить іншому користувачеві. _(розробка)_
-- After a month in the new team, I finally feel I **belong** here. — Після місяця в новій команді я нарешті відчуваю, що я тут на своєму місці.
+- <code>v:</code> This account **belongs to** another user. — Цей акаунт належить іншому користувачеві. _(розробка)_
+- <code>v:</code> After a month in the new team, I finally feel I **belong** here. — Після місяця в новій команді я нарешті відчуваю, що я тут на своєму місці.
+- <code>v:</code> I **belong to** a small running club. — Я член невеликого бігового клубу. _(спорт)_
 
 
 ---
@@ -55,8 +57,9 @@
 - **beside** (без `-s`) = «поряд, біля» (місце): beside me — поряд зі мною.
 
 **Приклади:**
-- adv: I'm tired. **Besides**, it's already late. — Я втомився. До того ж уже пізно.
-- prep: **Besides** football, he plays chess. — Окрім футболу, він грає в шахи.
+- <code>adv:</code> I'm tired. **Besides**, it's already late. — Я втомився. До того ж уже пізно.
+- <code>prep:</code> **Besides** football, he plays chess. — Окрім футболу, він грає в шахи.
+- <code>prep:</code> **Besides** coffee, the café sells great cakes. — Окрім кави, кав'ярня продає чудові торти.
 
 
 ---
@@ -67,9 +70,9 @@
 **Пояснення:** щось «по той бік» межі — у просторі (за горами), у часі (після якоїсь миті) або абстрактно, поза можливостями: **beyond repair** — не підлягає ремонту, **beyond me** — вище мого розуміння.
 
 **Приклади:**
-- prep: The dragon lives **beyond** the mountains. — Дракон живе за горами. _(фентезі)_
-- prep: Why this bug happens only on Fridays is **beyond** me. — Чому цей баг стається лише по п'ятницях — поза моїм розумінням. _(розробка)_
-- adv: From the tower we saw the river and the forest **beyond**. — З вежі ми бачили річку і ліс далі за нею.
+- <code>prep:</code> The dragon lives **beyond** the mountains. — Дракон живе за горами. _(фентезі)_
+- <code>prep:</code> Why this bug happens only on Fridays is **beyond** me. — Чому цей баг стається лише по п'ятницях — поза моїм розумінням. _(розробка)_
+- <code>adv:</code> From the tower we saw the river and the forest **beyond**. — З вежі ми бачили річку і ліс далі за нею.
 
 
 ---
@@ -80,8 +83,9 @@
 **Пояснення:** протилежність incremental/gradual (поступовому) підходу — усе змінюється чи запускається одним великим ризикованим кроком, а не маленькими безпечними кроками.
 
 **Приклади:**
-- We avoided a **big-bang** rewrite and migrated service by service instead. — Ми уникнули переписування «одним махом» і мігрували сервіс за сервісом.
-- A **big-bang** release without proper testing is risky. — Реліз «одним махом» без належного тестування — ризикований.
+- <code>adj:</code> We avoided a **big-bang** rewrite and migrated service by service instead. — Ми уникнули переписування «одним махом» і мігрували сервіс за сервісом.
+- <code>adj:</code> A **big-bang** release without proper testing is risky. — Реліз «одним махом» без належного тестування — ризикований.
+- <code>adj:</code> Our team prefers small updates to one **big-bang** launch. — Наша команда надає перевагу невеликим оновленням, а не одному запуску «одним махом».
 
 
 ---
@@ -97,9 +101,9 @@
 - **bitter cold** — лютий холод
 
 **Приклади:**
-- This coffee is too **bitter** — I ground it too fine. — Ця кава надто гірка — я змолов її надто дрібно.
-- Losing the final was a **bitter** lesson for the team. — Програш у фіналі став гірким уроком для команди. _(спорт)_
-- He's still **bitter** about the layoffs. — Він досі озлоблений через скорочення.
+- <code>adj:</code> This coffee is too **bitter** — I ground it too fine. — Ця кава надто гірка — я змолов її надто дрібно.
+- <code>adj:</code> Losing the final was a **bitter** lesson for the team. — Програш у фіналі став гірким уроком для команди. _(спорт)_
+- <code>adj:</code> He's still **bitter** about the layoffs. — Він досі озлоблений через скорочення.
 
 ---
 
@@ -109,8 +113,9 @@
 **Пояснення:** майстер, що кує залізо: зброю, підкови, інструменти. Базове слово фентезі-світів і RPG — саме у коваля лагодять та покращують спорядження.
 
 **Приклади:**
-- Take your sword to the **blacksmith** to upgrade it. — Віднеси меч ковалю, щоб покращити його. _(гра)_
-- The village **blacksmith** made horseshoes and tools. — Сільський коваль робив підкови та інструменти.
+- <code>n:</code> Take your sword to the **blacksmith** to upgrade it. — Віднеси меч ковалю, щоб покращити його. _(гра)_
+- <code>n:</code> The village **blacksmith** made horseshoes and tools. — Сільський коваль робив підкови та інструменти.
+- <code>n:</code> My grandfather worked as a **blacksmith** in his village. — Мій дідусь працював ковалем у своєму селі.
 
 
 ---
@@ -121,8 +126,9 @@
 **Пояснення:** те, чим накриваються в ліжку. Переносно — суцільний шар, що все вкриває: **a blanket of snow/fog** — сніговий покрив / пелена туману.
 
 **Приклади:**
-- She wrapped herself in a warm **blanket** and kept playing. — Вона загорнулася в теплу ковдру і грала далі. _(побут)_
-- A **blanket** of fog covered the old village. — Пелена туману вкрила старе село. _(фентезі)_
+- <code>n:</code> She wrapped herself in a warm **blanket** and kept playing. — Вона загорнулася в теплу ковдру і грала далі. _(побут)_
+- <code>n:</code> A **blanket** of fog covered the old village. — Пелена туману вкрила старе село. _(фентезі)_
+- <code>n:</code> Take an extra **blanket** if you get cold at night. — Візьми ще одну ковдру, якщо вночі змерзнеш.
 
 
 ---
@@ -133,9 +139,9 @@
 **Пояснення:** пряме значення — вибух або потужний порив повітря чи звуку. Розмовне: **have a blast** — чудово відірватися. В іграх дієслово blast — «рознести» ворогів чимось потужним.
 
 **Приклади:**
-- n: The **blast** destroyed the castle gate. — Вибух зруйнував браму замку. _(фентезі)_
-- n: The party was great — we had a **blast**! — Вечірка була супер: ми відірвалися на повну! _(розм.)_
-- v: **Blast** the enemies with your fire spell. — Рознеси ворогів вогняним закляттям. _(гра)_
+- <code>n:</code> The **blast** destroyed the castle gate. — Вибух зруйнував браму замку. _(фентезі)_
+- <code>n:</code> The party was great — we had a **blast**! — Вечірка була супер: ми відірвалися на повну! _(розм.)_
+- <code>v:</code> **Blast** the enemies with your fire spell. — Рознеси ворогів вогняним закляттям. _(гра)_
 
 
 ---
@@ -146,9 +152,9 @@
 **Пояснення:** плавно поєднати різне так, щоб вийшло однорідне ціле (смаки, кольори, стилі, жанри). Фразове **blend in** — зливатися з оточенням, не виділятися.
 
 **Приклади:**
-- v: The game **blends** RPG and strategy elements. — Гра поєднує елементи RPG і стратегії. _(гра)_
-- v: The rogue **blended in** with the crowd. — Розбійник злився з натовпом. _(фентезі)_
-- n: This coffee is a **blend** of two beans. — Ця кава — суміш двох сортів зерен.
+- <code>v:</code> The game **blends** RPG and strategy elements. — Гра поєднує елементи RPG і стратегії. _(гра)_
+- <code>v:</code> The rogue **blended in** with the crowd. — Розбійник злився з натовпом. _(фентезі)_
+- <code>n:</code> This coffee is a **blend** of two beans. — Ця кава — суміш двох сортів зерен.
 
 
 ---
@@ -159,8 +165,9 @@
 **Пояснення:** зробити щось більшим, сильнішим чи швидшим: продуктивність, продажі, впевненість, характеристики персонажа. Звичне слово в іграх та IT: speed boost, boost performance.
 
 **Приклади:**
-- v: Caching **boosts** the API's performance. — Кешування підвищує продуктивність API. _(розробка)_
-- n: This potion gives you a temporary speed **boost**. — Це зілля дає тимчасовий приріст швидкості. _(гра)_
+- <code>v:</code> Caching **boosts** the API's performance. — Кешування підвищує продуктивність API. _(розробка)_
+- <code>n:</code> This potion gives you a temporary speed **boost**. — Це зілля дає тимчасовий приріст швидкості. _(гра)_
+- <code>v:</code> A good coffee **boosts** my energy in the morning. — Хороша кава додає мені енергії зранку.
 
 
 ---
@@ -178,9 +185,9 @@
 - **Does it bother you if …?** — Тобі не заважатиме, якщо …?
 
 **Приклади:**
-- v: Coffee in the evening doesn't **bother** my sleep. — Кава ввечері не заважає моєму сну.
-- v: **Don't bother** — I've already fixed it. — Не переймайся, я вже виправив.
-- n: It's no **bother** at all. — Це зовсім не клопіт.
+- <code>v:</code> Coffee in the evening doesn't **bother** my sleep. — Кава ввечері не заважає моєму сну.
+- <code>v:</code> **Don't bother** — I've already fixed it. — Не переймайся, я вже виправив.
+- <code>n:</code> It's no **bother** at all. — Це зовсім не клопіт.
 
 ---
 
@@ -195,8 +202,9 @@
 - **breach** a contract / the wall — порушити контракт / пробити стіну.
 
 **Приклади:**
-- The company reported a **data breach** last week. — Компанія повідомила про витік даних минулого тижня.
-- Missing the deadline is a **breach of** contract. — Зрив дедлайну — це порушення контракту.
+- <code>n:</code> The company reported a **data breach** last week. — Компанія повідомила про витік даних минулого тижня.
+- <code>n:</code> Missing the deadline is a **breach of** contract. — Зрив дедлайну — це порушення контракту.
+- <code>v:</code> If you **breach** the contract, you'll pay a fine. — Якщо порушиш контракт, заплатиш штраф.
 
 
 ---
@@ -213,9 +221,9 @@
 - **a strong / weak brew** — міцна / слабка заварка
 
 **Приклади:**
-- v: I **brew** coffee in the kitchen every morning. — Щоранку заварюю каву на кухні.
-- v: Trouble was **brewing** in the team. — У команді назрівав конфлікт.
-- n: This is a strong **brew** — add some milk. — Це міцна заварка — додай молока.
+- <code>v:</code> I **brew** coffee in the kitchen every morning. — Щоранку заварюю каву на кухні.
+- <code>v:</code> Trouble was **brewing** in the team. — У команді назрівав конфлікт.
+- <code>n:</code> This is a strong **brew** — add some milk. — Це міцна заварка — додай молока.
 
 ---
 
@@ -225,9 +233,9 @@
 **Пояснення:** короткий у часі або в словах: a brief meeting, a brief answer. Стала фраза: **in brief** — коротко кажучи. Дієслово — стисло ввести когось у курс справи перед завданням.
 
 **Приклади:**
-- adj: Let's keep the stand-up **brief**. — Нехай стендап буде коротким. _(робота)_
-- n: The designer sent me the project **brief**. — Дизайнер надіслав мені бриф проєкту.
-- v: The captain **briefed** the team before the mission. — Капітан проінструктував загін перед місією. _(гра)_
+- <code>adj:</code> Let's keep the stand-up **brief**. — Нехай стендап буде коротким. _(робота)_
+- <code>n:</code> The designer sent me the project **brief**. — Дизайнер надіслав мені бриф проєкту.
+- <code>v:</code> The captain **briefed** the team before the mission. — Капітан проінструктував загін перед місією. _(гра)_
 
 
 ---
@@ -240,8 +248,9 @@
 **💡 broad vs wide:** обидва «широкий», але **wide** — про вимірювану відстань (a wide road — широка дорога), а **broad** — про охоплення і сталі фрази: broad experience, broad smile, broad daylight.
 
 **Приклади:**
-- The warrior had **broad** shoulders. — Воїн мав широкі плечі. _(фентезі)_
-- The library supports a **broad** range of databases. — Бібліотека підтримує широкий спектр баз даних. _(розробка)_
+- <code>adj:</code> The warrior had **broad** shoulders. — Воїн мав широкі плечі. _(фентезі)_
+- <code>adj:</code> The library supports a **broad** range of databases. — Бібліотека підтримує широкий спектр баз даних. _(розробка)_
+- <code>adj:</code> The thief stole the bike in **broad** daylight. — Злодій украв велосипед серед білого дня.
 
 
 ---
@@ -252,6 +261,6 @@
 **Пояснення:** важка ноша — фізична або моральна (обов'язки, витрати, відповідальність). Найчастіше переносно: the burden of responsibility — тягар відповідальності.
 
 **Приклади:**
-- n: The hero carries the **burden** of the whole kingdom. — Герой несе тягар цілого королівства. _(фентезі)_
-- n: Legacy code is a heavy **burden** for the team. — Легасі-код — важкий тягар для команди. _(розробка)_
-- v: I don't want to **burden** you with my problems. — Не хочу обтяжувати тебе своїми проблемами.
+- <code>n:</code> The hero carries the **burden** of the whole kingdom. — Герой несе тягар цілого королівства. _(фентезі)_
+- <code>n:</code> Legacy code is a heavy **burden** for the team. — Легасі-код — важкий тягар для команди. _(розробка)_
+- <code>v:</code> I don't want to **burden** you with my problems. — Не хочу обтяжувати тебе своїми проблемами.

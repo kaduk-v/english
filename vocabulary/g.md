@@ -13,8 +13,9 @@
 - **win** — вигравати змагання: win a match.
 
 **Приклади:**
-- verb: You **gain** experience with every project. — Ти набуваєш досвіду з кожним проєктом.
-- noun: No pain, no **gain**. — Без зусиль немає результату. _(сталий вислів)_
+- <code>v:</code> You **gain** experience with every project. — Ти набуваєш досвіду з кожним проєктом.
+- <code>n:</code> No pain, no **gain**. — Без зусиль немає результату. _(сталий вислів)_
+- <code>v:</code> I **gained** three kilos over the holidays. — За свята я набрав три кілограми.
 
 
 ---
@@ -25,9 +26,9 @@
 **Пояснення:** порожнє місце між двома речами; фігурально — брак знань чи розрив між рівнями (skill gap). У CSS `gap` — відстань між елементами flex/grid.
 
 **Приклади:**
-- Mind the **gap** between the train and the platform. — Зважай на проміжок між потягом і платформою. _(славнозвісне оголошення лондонського метро)_
-- The code review revealed a **gap** in our error handling. — Код-рев'ю виявило прогалину в нашій обробці помилок. _(розробка)_
-- There's a huge skill **gap** between bronze and gold ranks. — Між бронзовим і золотим рангами — величезний розрив у скілі. _(гра)_
+- <code>n:</code> Mind the **gap** between the train and the platform. — Зважай на проміжок між потягом і платформою. _(славнозвісне оголошення лондонського метро)_
+- <code>n:</code> The code review revealed a **gap** in our error handling. — Код-рев'ю виявило прогалину в нашій обробці помилок. _(розробка)_
+- <code>n:</code> There's a huge skill **gap** between bronze and gold ranks. — Між бронзовим і золотим рангами — величезний розрив у скілі. _(гра)_
 
 
 ---
@@ -38,9 +39,9 @@
 **Пояснення:** великі «двері» у стіні, паркані чи мурі міста; в аеропорту — вихід на посадку. У фентезі та іграх — ще й магічний портал між світами.
 
 **Приклади:**
-- The guards close the castle **gate** at sunset. — Вартові зачиняють браму замку на заході сонця. _(фентезі)_
-- Boarding starts at **gate** 12 in twenty minutes. — Посадка почнеться біля виходу 12 за двадцять хвилин. _(подорож)_
-- A portal **gate** to the demon realm opened above the city. — Портальна брама у світ демонів відкрилася над містом. _(гра)_
+- <code>n:</code> The guards close the castle **gate** at sunset. — Вартові зачиняють браму замку на заході сонця. _(фентезі)_
+- <code>n:</code> Boarding starts at **gate** 12 in twenty minutes. — Посадка почнеться біля виходу 12 за двадцять хвилин. _(подорож)_
+- <code>n:</code> A portal **gate** to the demon realm opened above the city. — Портальна брама у світ демонів відкрилася над містом. _(гра)_
 
 
 ---
@@ -52,8 +53,9 @@
 Фразові: **give up** — здаватися; **give in** — поступитися.
 
 **Приклади:**
-- Give **me** a second. / Give a second **to me**. — Дай мені секунду.
-- Don't **give up** — you're close. — Не здавайся — ти близько.
+- <code>v:</code> Give **me** a second. / Give a second **to me**. — Дай мені секунду.
+- <code>v:</code> Don't **give up** — you're close. — Не здавайся — ти близько.
+- <code>v:</code> My sister **gave** me this mug for my birthday. — Сестра подарувала мені цю чашку на день народження.
 
 
 ---
@@ -64,9 +66,9 @@
 **Пояснення:** рівне м'яке світло без полум'я (жарини, неон, екран у темряві); фігурально — «світитися» від щастя чи гордості.
 
 **Приклади:**
-- verb: The magic runes **glowed** blue in the dark. — Магічні руни світилися синім у темряві. _(фентезі)_
-- verb: She was **glowing** with pride after the release. — Вона аж світилася від гордості після релізу.
-- noun: The **glow** of the monitor was the only light in the room. — Сяйво монітора було єдиним світлом у кімнаті. _(будні розробника)_
+- <code>v:</code> The magic runes **glowed** blue in the dark. — Магічні руни світилися синім у темряві. _(фентезі)_
+- <code>v:</code> She was **glowing** with pride after the release. — Вона аж світилася від гордості після релізу.
+- <code>n:</code> The **glow** of the monitor was the only light in the room. — Сяйво монітора було єдиним світлом у кімнаті. _(будні розробника)_
 
 
 ---
@@ -77,8 +79,9 @@
 **Пояснення:** розмови про чуже особисте життя — часто неперевірені або недобрі. Іменник незлічуваний: some gossip, a piece of gossip.
 
 **Приклади:**
-- noun: Office **gossip** spreads faster than any newsletter. — Офісні плітки ширяться швидше за будь-яку розсилку. _(робота)_
-- verb: They were **gossiping** about the new team lead. — Вони пліткували про нового тимліда. _(робота)_
+- <code>n:</code> Office **gossip** spreads faster than any newsletter. — Офісні плітки ширяться швидше за будь-яку розсилку. _(робота)_
+- <code>v:</code> They were **gossiping** about the new team lead. — Вони пліткували про нового тимліда. _(робота)_
+- <code>n:</code> I don't want to hear any **gossip** about my friends. — Я не хочу чути жодних пліток про своїх друзів.
 
 
 ---
@@ -91,9 +94,9 @@
 **💡 Розмовне grab:** **grab a coffee** — вискочити на каву; **grab a bite** — перекусити; **grab a seat** — сідай, займи місце.
 
 **Приклади:**
-- The goblin **grabbed** the amulet and ran. — Ґоблін схопив амулет і дременув. _(фентезі)_
-- Let's **grab a coffee** before the stand-up. — Хапнемо по каві перед стендапом. _(робота)_
-- **Grab a seat** — the demo is starting. — Сідай — демо починається.
+- <code>v:</code> The goblin **grabbed** the amulet and ran. — Ґоблін схопив амулет і дременув. _(фентезі)_
+- <code>v:</code> Let's **grab a coffee** before the stand-up. — Хапнемо по каві перед стендапом. _(робота)_
+- <code>v:</code> **Grab a seat** — the demo is starting. — Сідай — демо починається.
 
 
 ---
@@ -109,9 +112,9 @@
 - наказ / інфінітив — базова форма: Please **grind** it for a Moka pot. ❌ Please ground it
 
 **Приклади:**
-- v: I **grind** the beans right before brewing. — Я мелю зерна безпосередньо перед заварюванням.
-- v: She **ground** the coffee too fine. — Вона змолола каву надто дрібно.
-- n: A Moka pot needs a medium-fine **grind**. — Гейзерній кавоварці потрібен середньо-дрібний помел.
+- <code>v:</code> I **grind** the beans right before brewing. — Я мелю зерна безпосередньо перед заварюванням.
+- <code>v:</code> She **ground** the coffee too fine. — Вона змолола каву надто дрібно.
+- <code>n:</code> A Moka pot needs a medium-fine **grind**. — Гейзерній кавоварці потрібен середньо-дрібний помел.
 
 ---
 
@@ -121,8 +124,9 @@
 **Пояснення:** пристрій, що меле. Уточнюється словом перед ним: a **coffee grinder** — кавомолка, a **pepper grinder** — млинок для перцю, an **angle grinder** — болгарка. У каві розрізняють **burr grinder** (жорновий) і **blade grinder** (ножовий).
 
 **Приклади:**
-- My **grinder** lives in the cupboard next to the cups. — Моя кавомолка живе в шафці біля чашок.
-- A burr **grinder** gives a more even grind than a blade one. — Жорнова кавомолка дає рівніший помел, ніж ножова.
+- <code>n:</code> My **grinder** lives in the cupboard next to the cups. — Моя кавомолка живе в шафці біля чашок.
+- <code>n:</code> A burr **grinder** gives a more even grind than a blade one. — Жорнова кавомолка дає рівніший помел, ніж ножова.
+- <code>n:</code> My neighbour cut the old pipe with an angle **grinder**. — Сусід розрізав стару трубу болгаркою. _(побут)_
 
 ---
 
@@ -132,8 +136,9 @@
 **Пояснення:** той, хто захищає когось або щось (від **guard** — охороняти). У фентезі — хранитель брами, скарбу чи лісу; у праві — опікун дитини.
 
 **Приклади:**
-- A stone golem is the **guardian** of the dungeon. — Кам'яний ґолем — хранитель підземелля. _(гра/фентезі)_
-- After the accident her uncle became her legal **guardian**. — Після аварії її дядько став її законним опікуном.
+- <code>n:</code> A stone golem is the **guardian** of the dungeon. — Кам'яний ґолем — хранитель підземелля. _(гра/фентезі)_
+- <code>n:</code> After the accident her uncle became her legal **guardian**. — Після аварії її дядько став її законним опікуном.
+- <code>n:</code> Parents or **guardians** must sign this form. — Батьки або опікуни мають підписати цю форму.
 
 
 ---
@@ -148,9 +153,9 @@
 - **Guess what!** — Вгадай що! / Уяви собі! _(вступ до новини)_
 
 **Приклади:**
-- verb: I didn't know the answer, so I just **guessed**. — Я не знав відповіді, тож просто вгадував.
-- verb: **Guess what!** We won the hackathon! — Уяви собі! Ми виграли хакатон! _(розробка)_
-- noun: My best **guess** is a memory leak. — Моє найімовірніше припущення — витік пам'яті. _(Node.js)_
+- <code>v:</code> I didn't know the answer, so I just **guessed**. — Я не знав відповіді, тож просто вгадував.
+- <code>v:</code> **Guess what!** We won the hackathon! — Уяви собі! Ми виграли хакатон! _(розробка)_
+- <code>n:</code> My best **guess** is a memory leak. — Моє найімовірніше припущення — витік пам'яті. _(Node.js)_
 
 
 ---
@@ -166,8 +171,9 @@
 - **step-by-step guide** — покрокова інструкція.
 
 **Приклади:**
-- The **guide** showed us the old town. — Гід показав нам старе місто.
-- This **guide** explains how to set up the project. — Цей посібник пояснює, як налаштувати проєкт.
+- <code>n:</code> The **guide** showed us the old town. — Гід показав нам старе місто.
+- <code>n:</code> This **guide** explains how to set up the project. — Цей посібник пояснює, як налаштувати проєкт.
+- <code>v:</code> On my first day, the team lead **guided** me **through** the setup. — У перший день тимлід покроково провів мене через налаштування. _(робота)_
 
 🔗 **Пов'язане:** [guideline](#guideline).
 
@@ -180,5 +186,6 @@
 **Пояснення:** офіційна порада, як робити щось правильно; м'якша за правило (rule). У розробці — style guidelines, community guidelines, App Store guidelines.
 
 **Приклади:**
-- Follow the API design **guidelines** before adding new endpoints. — Дотримуйся настанов із дизайну API, перш ніж додавати нові ендпоїнти. _(розробка)_
-- The store rejected the app for violating the **guidelines**. — Магазин відхилив застосунок за порушення настанов. _(мобільна розробка)_
+- <code>n:</code> Follow the API design **guidelines** before adding new endpoints. — Дотримуйся настанов із дизайну API, перш ніж додавати нові ендпоїнти. _(розробка)_
+- <code>n:</code> The store rejected the app for violating the **guidelines**. — Магазин відхилив застосунок за порушення настанов. _(мобільна розробка)_
+- <code>n:</code> The doctor gave me some simple **guidelines** for healthy sleep. — Лікар дав мені кілька простих рекомендацій щодо здорового сну.

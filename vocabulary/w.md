@@ -10,8 +10,9 @@
 **💡 Найчастіше з up:** **wake up** — прокинутися АБО розбудити когось: I **wake up** at 7. **Wake** me **up** at 8. Форми: wake – **woke** – **woken**.
 
 **Приклади:**
-- I **woke up** at noon after the night raid. — Я прокинувся опівдні після нічного рейду.
-- Don't **wake** the sleeping dragon. — Не буди сплячого дракона.
+- <code>v:</code> I **woke up** at noon after the night raid. — Я прокинувся опівдні після нічного рейду.
+- <code>v:</code> Don't **wake** the sleeping dragon. — Не буди сплячого дракона.
+- <code>v:</code> Please **wake** me **up** at eight. — Розбуди мене, будь ласка, о восьмій.
 
 ---
 
@@ -21,8 +22,9 @@
 **Пояснення:** геймерське значення — стрибок між локаціями (warp zone, warp to town). Побутове — «повело», деформувалося (дерево від вологи); у sci-fi — викривлення простору (warp speed).
 
 **Приклади:**
-- Use the portal to **warp** back to town. — Скористайся порталом, щоб телепортуватися назад у місто.
-- The old wooden door **warped** and won't close. — Старі дерев'яні двері повело, і вони не зачиняються.
+- <code>v:</code> Use the portal to **warp** back to town. — Скористайся порталом, щоб телепортуватися назад у місто.
+- <code>v:</code> The old wooden door **warped** and won't close. — Старі дерев'яні двері повело, і вони не зачиняються.
+- <code>n:</code> Step into the **warp** to reach the next level. — Зайди у варп, щоб потрапити на наступний рівень. _(гра)_
 
 ---
 
@@ -32,8 +34,9 @@
 **💡 Незлічуване** (без `a`, без `-s`). Прикметник — **wealthy** (заможний, = rich). Вираз: **a wealth of** experience/knowledge — ціла скарбниця досвіду/знань. Рима-підказка: **health** /helθ/ → **wealth** /welθ/.
 
 **Приклади:**
-- The dragon guards its **wealth** deep in the mountain. — Дракон стереже свої багатства глибоко в горі.
-- Good health matters more than **wealth**. — Добре здоров'я важливіше за багатство.
+- <code>n:</code> The dragon guards its **wealth** deep in the mountain. — Дракон стереже свої багатства глибоко в горі.
+- <code>n:</code> Good health matters more than **wealth**. — Добре здоров'я важливіше за багатство.
+- <code>n:</code> Our new coach has **a wealth of** experience. — У нашого нового тренера величезний досвід. _(спорт)_
 
 ---
 
@@ -45,8 +48,9 @@
 **💡 Написання — виняток:** **e перед i** (w-e-i-r-d), всупереч звичному «i before e». Мнемоніка: the spelling of "weird" is weird.
 
 **Приклади:**
-- The API returns **weird** data after midnight. — Після півночі API повертає дивні дані.
-- That NPC gives me a **weird** feeling. — Від того NPC у мене дивне відчуття.
+- <code>adj:</code> The API returns **weird** data after midnight. — Після півночі API повертає дивні дані.
+- <code>adj:</code> That NPC gives me a **weird** feeling. — Від того NPC у мене дивне відчуття.
+- <code>adj:</code> That's **weird** — I left my keys right here. — Дивно — я ж залишив ключі саме тут.
 
 ---
 
@@ -58,21 +62,21 @@
 **💡 good vs well:** good — прикметник (The app is **good**), well — прислівник (The app works **well**). Про здоров'я: I'm **well** — я в нормі; **Get well soon!** — Одужуй! Бонус: well як іменник — криниця (a wishing well).
 
 **Приклади:**
-- The offline mode works really **well**. — Офлайн-режим працює дуже добре.
-- **Well**, let's try again. — Ну що ж, спробуймо ще раз.
-- I don't feel **well** today. — Я сьогодні недобре почуваюся.
+- <code>adv:</code> The offline mode works really **well**. — Офлайн-режим працює дуже добре.
+- <code>interj:</code> **Well**, let's try again. — Ну що ж, спробуймо ще раз.
+- <code>adj:</code> I don't feel **well** today. — Я сьогодні недобре почуваюся.
 
 ---
 
 ## whatever
-**whatever** /wɒtˈevə/ — 1. **pronoun / determiner** (займенник) — будь-що, що завгодно; що б не 2. **interjection** (розмовний вигук) — та байдуже, як скажеш
+**whatever** /wɒtˈevə/ — 1. <code>pronoun</code> (займенник) / <code>determiner</code> (детермінатив) — будь-що, що завгодно; що б не 2. <code>interjection</code> (розмовний вигук) — та байдуже, як скажеш
 
 **💡 Відтінок вигуку:** окреме «Whatever.» у відповідь звучить **байдуже або зневажливо** (як «та пофіг») — обережно з незнайомими та в робочих чатах.
 
 **Приклади:**
-- Pick **whatever** weapon suits your build. — Бери будь-яку зброю, що пасує твоєму білду.
-- **Whatever** happens, don't restart the server. — Що б не сталося, не перезапускай сервер.
-- "You're wrong." — "**Whatever**." — «Ти помиляєшся». — «Та байдуже». _(розмовне, зневажливий тон)_
+- <code>det:</code> Pick **whatever** weapon suits your build. — Бери будь-яку зброю, що пасує твоєму білду.
+- <code>pron:</code> **Whatever** happens, don't restart the server. — Що б не сталося, не перезапускай сервер.
+- <code>interj:</code> "You're wrong." — "**Whatever**." — «Ти помиляєшся». — «Та байдуже». _(розмовне, зневажливий тон)_
 
 ---
 
@@ -82,8 +86,9 @@
 **Пояснення:** ставить два факти поруч і підкреслює контраст між ними. Слово **письмового стилю** — документація, статті, контракти (у юридичних текстах ним починають пункти). У розмові природніше while або but.
 
 **Приклади:**
-- SQL databases use tables, **whereas** NoSQL stores documents. — SQL-бази використовують таблиці, тоді як NoSQL зберігає документи.
-- The free plan allows three lists, **whereas** the paid one is unlimited. — Безкоштовний план дає три списки, тоді як платний — без обмежень.
+- <code>conj:</code> SQL databases use tables, **whereas** NoSQL stores documents. — SQL-бази використовують таблиці, тоді як NoSQL зберігає документи.
+- <code>conj:</code> The free plan allows three lists, **whereas** the paid one is unlimited. — Безкоштовний план дає три списки, тоді як платний — без обмежень.
+- <code>conj:</code> I love tea, **whereas** my sister only drinks coffee. — Я люблю чай, тоді як моя сестра п'є лише каву.
 
 ---
 
@@ -97,8 +102,9 @@
 **💡 Омофон:** **weather** /ˈweðə/ — погода! Звучать однаково — на слух розрізняй за контекстом: Whether the **weather** is good or not, we'll play.
 
 **Приклади:**
-- I'm not sure **whether** the fix works. — Я не впевнений, чи працює виправлення.
-- It depends **on whether** the tests pass. — Це залежить від того, чи пройдуть тести.
+- <code>conj:</code> I'm not sure **whether** the fix works. — Я не впевнений, чи працює виправлення.
+- <code>conj:</code> It depends **on whether** the tests pass. — Це залежить від того, чи пройдуть тести.
+- <code>conj:</code> I can't decide **whether to** buy the ticket. — Не можу вирішити, чи купувати квиток.
 
 ---
 
@@ -108,8 +114,9 @@
 **💡 Незлічуване:** без `-s`, без `a`. Кажи: **great wisdom**, **words of wisdom** _(не «a wisdom»)_.
 
 **Приклади:**
-- With age comes **wisdom**. — З віком приходить мудрість.
-- Thanks for the **words of wisdom**. — Дякую за мудрі слова.
+- <code>n:</code> With age comes **wisdom**. — З віком приходить мудрість.
+- <code>n:</code> Thanks for the **words of wisdom**. — Дякую за мудрі слова.
+- <code>n:</code> Old fairy tales are full of **wisdom**. — Старі казки сповнені мудрості.
 
 ---
 
@@ -121,8 +128,9 @@
 **🔗 Пов'язане:** [wisdom](#wisdom) — мудрість.
 
 **Приклади:**
-- **Choose wisely** — you can only pick one class. — Обирай мудро: можна взяти лише один клас.
-- Spend your time **wisely**. — Витрачай час мудро.
+- <code>adv:</code> **Choose wisely** — you can only pick one class. — Обирай мудро: можна взяти лише один клас.
+- <code>adv:</code> Spend your time **wisely**. — Витрачай час мудро.
+- <code>adv:</code> She spent her first salary **wisely**. — Свою першу зарплату вона витратила розважливо.
 
 ---
 
@@ -132,18 +140,20 @@
 **Пояснення:** «не виходячи за межу» — часу, простору чи правил. within a week = протягом тижня (до його кінця).
 
 **Приклади:**
-- I'll respond **within** 24 hours. — Я відповім протягом 24 годин.
-- Stay **within** the budget. — Тримайся в межах бюджету.
+- <code>prep:</code> I'll respond **within** 24 hours. — Я відповім протягом 24 годин.
+- <code>prep:</code> Stay **within** the budget. — Тримайся в межах бюджету.
+- <code>prep:</code> The hotel is **within** walking distance of the beach. — Від готелю до пляжу можна дійти пішки. _(подорож)_
 
 ---
 
 ## worth
-**worth** /wɜːθ/ — **adjective / preposition** (прикметник / прийменник) — вартий, який вартує
+**worth** /wɜːθ/ — 1. <code>adjective</code> (прикметник) 2. <code>preposition</code> (прийменник) — вартий, який вартує
 
 **💡 Структури:**
 - **be worth** + noun — вартий чогось: It's worth **£50**.
 - **be worth** + V-ing — вартий того, щоб зробити: It's worth **trying** _(не «worth to try»!)_.
 
 **Приклади:**
-- This game is **worth** every penny. — Ця гра варта кожної копійки.
-- The museum is **worth** visiting. — Музей вартий того, щоб його відвідати.
+- <code>adj:</code> This game is **worth** every penny. — Ця гра варта кожної копійки.
+- <code>prep:</code> The museum is **worth** visiting. — Музей вартий того, щоб його відвідати.
+- <code>prep:</code> The trip was long, but it was **worth** it. — Подорож була довга, але вона була того варта. _(подорож)_

@@ -10,9 +10,9 @@
 **Пояснення:** дуже швидкий, особливо про зміни, розвиток, зростання. Формальніше за `fast`: rapid growth, rapid progress. Прислівник — **rapidly**.
 
 **Приклади:**
-- The app showed **rapid** growth after launch. — Застосунок показав стрімке зростання після запуску.
-- His health bar dropped at a **rapid** rate. — Його смужка здоров'я танула зі стрімкою швидкістю.
-- Technology changes **rapidly**. — Технології змінюються стрімко.
+- <code>adj:</code> The app showed **rapid** growth after launch. — Застосунок показав стрімке зростання після запуску.
+- <code>adj:</code> His health bar dropped at a **rapid** rate. — Його смужка здоров'я танула зі стрімкою швидкістю.
+- <code>adv:</code> Technology changes **rapidly**. — Технології змінюються стрімко.
 
 
 
@@ -28,9 +28,9 @@
 - **steak rare** — стейк з кров'ю (шкала: rare → medium → well-done).
 
 **Приклади:**
-- This crash is **rare** — one report per thousand users. — Цей збій рідкісний — один звіт на тисячу користувачів.
-- I finally got a **rare** sword from that boss. — З того боса мені нарешті випав рідкісний меч.
-- How would you like your steak? — **Rare**, please. — Як вам просмажити стейк? — З кров'ю, будь ласка.
+- <code>adj:</code> This crash is **rare** — one report per thousand users. — Цей збій рідкісний — один звіт на тисячу користувачів.
+- <code>adj:</code> I finally got a **rare** sword from that boss. — З того боса мені нарешті випав рідкісний меч.
+- <code>adj:</code> How would you like your steak? — **Rare**, please. — Як вам просмажити стейк? — З кров'ю, будь ласка.
 
 
 
@@ -47,9 +47,9 @@
 - I **have rarely** seen such clean code.
 
 **Приклади:**
-- I **rarely** play on weekdays. — У будні я рідко граю.
-- She is **rarely** wrong about estimates. — Вона рідко помиляється в оцінках часу.
-- We **rarely** touch that legacy module. — Ми рідко чіпаємо той легасі-модуль.
+- <code>adv:</code> I **rarely** play on weekdays. — У будні я рідко граю.
+- <code>adv:</code> She is **rarely** wrong about estimates. — Вона рідко помиляється в оцінках часу.
+- <code>adv:</code> We **rarely** touch that legacy module. — Ми рідко чіпаємо той легасі-модуль.
 
 
 
@@ -66,9 +66,9 @@
 - **rather + adj/adv** — досить, доволі (часто з відтінком «на жаль»): The build is **rather** slow.
 
 **Приклади:**
-- I'd **rather** fix this bug now than after the release. — Я б краще виправив цей баг зараз, ніж після релізу.
-- We render on the server **rather than** on the client. — Ми рендеримо на сервері, а не на клієнті.
-- The dungeon was **rather** difficult for our level. — Підземелля було доволі складним для нашого рівня.
+- <code>adv:</code> I'd **rather** fix this bug now than after the release. — Я б краще виправив цей баг зараз, ніж після релізу.
+- <code>adv:</code> We render on the server **rather than** on the client. — Ми рендеримо на сервері, а не на клієнті.
+- <code>adv:</code> The dungeon was **rather** difficult for our level. — Підземелля було доволі складним для нашого рівня.
 
 
 
@@ -80,9 +80,9 @@
 **Пояснення:** вузька смуга світла чи енергії: a ray of sunlight. Переносно — **a ray of hope** (промінь надії).
 
 **Приклади:**
-- A **ray** of sunlight broke through the clouds. — Промінь сонця пробився крізь хмари.
-- The mage hit the skeleton with a **ray** of frost. — Маг вдарив скелета крижаним променем.
-- **Ray** tracing makes reflections in games look real. — Трасування променів робить відображення в іграх реалістичними.
+- <code>n:</code> A **ray** of sunlight broke through the clouds. — Промінь сонця пробився крізь хмари.
+- <code>n:</code> The mage hit the skeleton with a **ray** of frost. — Маг вдарив скелета крижаним променем.
+- <code>n:</code> **Ray** tracing makes reflections in games look real. — Трасування променів робить відображення в іграх реалістичними.
 
 
 
@@ -98,8 +98,9 @@
 - **reach out to** sb — теж «зв'язатися», трохи м'якше/неформальніше.
 
 **Приклади:**
-- What's the best email to **reach** you at? — На яку пошту краще з тобою зв'язатися?
-- We finally **reached** an agreement. — Ми нарешті досягли згоди.
+- <code>v:</code> What's the best email to **reach** you at? — На яку пошту краще з тобою зв'язатися?
+- <code>v:</code> We finally **reached** an agreement. — Ми нарешті досягли згоди.
+- <code>v:</code> I can't **reach** the top shelf without a chair. — Я не дотягнуся до верхньої полиці без стільця.
 
 
 
@@ -113,9 +114,9 @@
 **💡 False friend!** realize ≠ «реалізувати» (проєкт/фічу). Для «реалізувати» кажи **implement**: ❌ We realized a new feature → ✅ We **implemented** a new feature.
 
 **Приклади:**
-- I suddenly **realized** I had pushed to the wrong branch. — Я раптом усвідомив, що запушив не в ту гілку.
-- She didn't **realize** how late it was. — Вона не усвідомлювала, наскільки вже пізно.
-- He **realized** that the NPC had been lying the whole game. — Він зрозумів, що NPC брехав усю гру.
+- <code>v:</code> I suddenly **realized** I had pushed to the wrong branch. — Я раптом усвідомив, що запушив не в ту гілку.
+- <code>v:</code> She didn't **realize** how late it was. — Вона не усвідомлювала, наскільки вже пізно.
+- <code>v:</code> He **realized** that the NPC had been lying the whole game. — Він зрозумів, що NPC брехав усю гру.
 
 
 
@@ -132,8 +133,9 @@
 - **recognize** sb **as** … — визнати кимось: He's **recognized as** an expert. — Його визнають експертом.
 
 **Приклади:**
-- Do you **recognize** this song? — Впізнаєш цю пісню?
-- The company finally **recognized** the problem. — Компанія нарешті визнала проблему.
+- <code>v:</code> Do you **recognize** this song? — Впізнаєш цю пісню?
+- <code>v:</code> The company finally **recognized** the problem. — Компанія нарешті визнала проблему.
+- <code>v:</code> She **recognized that** she was wrong and said sorry. — Вона визнала, що помилялася, і вибачилася.
 
 ---
 
@@ -147,8 +149,9 @@
 - означати, стосуватися: the term "PR" **refers to** "pull request".
 
 **Приклади:**
-- When in doubt, **refer to** the official docs. — Коли сумніваєшся, звертайся до офіційної документації.
-- In MMOs, "tank" **refers to** the player who takes the damage. — У MMO «танк» означає гравця, який приймає шкоду на себе.
+- <code>v:</code> When in doubt, **refer to** the official docs. — Коли сумніваєшся, звертайся до офіційної документації.
+- <code>v:</code> In MMOs, "tank" **refers to** the player who takes the damage. — У MMO «танк» означає гравця, який приймає шкоду на себе.
+- <code>v:</code> Which film are you **referring to**? — Який фільм ти маєш на увазі? _(фільми)_
 
 
 
@@ -165,8 +168,9 @@
 - **Best regards / Kind regards** — з повагою (підпис у листі).
 
 **Приклади:**
-- I **regard** him **as** the best reviewer on the team. — Я вважаю його найкращим рев'юером у команді.
-- **With regard to** the deadline, we need one more week. — Щодо дедлайну — нам потрібен ще тиждень.
+- <code>v:</code> I **regard** him **as** the best reviewer on the team. — Я вважаю його найкращим рев'юером у команді.
+- <code>n:</code> **With regard to** the deadline, we need one more week. — Щодо дедлайну — нам потрібен ще тиждень.
+- <code>n:</code> Give my **regards** to your parents. — Передавай вітання батькам.
 
 🔗 **Пов'язане:** [regardless](#regardless).
 
@@ -182,8 +186,9 @@
 **💡 Конструкція:** **regardless of** + іменник / whether / what: regardless of the cost · regardless of what he says. ⚠️ Слова «irregardless» не існує — поширена помилка навіть у носіїв.
 
 **Приклади:**
-- We'll ship on Friday **regardless**. — Ми випустимо в п'ятницю все одно.
-- **Regardless of** the result, the team did a great job. — Незалежно від результату, команда попрацювала чудово.
+- <code>adv:</code> We'll ship on Friday **regardless**. — Ми випустимо в п'ятницю все одно.
+- <code>adv:</code> **Regardless of** the result, the team did a great job. — Незалежно від результату, команда попрацювала чудово.
+- <code>adv:</code> We go running every morning, **regardless of** the weather. — Ми бігаємо щоранку незалежно від погоди. _(спорт)_
 
 🔗 **Пов'язане:** [regard](#regard).
 
@@ -201,9 +206,9 @@
 - **regret to say / to inform** — на жаль, мушу сказати (формальний вступ до поганих новин): We **regret to inform** you…
 
 **Приклади:**
-- verb: I **regret buying** this game — it got boring fast. — Шкодую, що купив цю гру: вона швидко набридла.
-- verb: We **regret to inform** you that the position is closed. — На жаль, мусимо повідомити, що вакансію закрито.
-- noun: I have no **regrets** about moving into backend. — Я не шкодую, що пішов у бекенд.
+- <code>v:</code> I **regret buying** this game — it got boring fast. — Шкодую, що купив цю гру: вона швидко набридла.
+- <code>v:</code> We **regret to inform** you that the position is closed. — На жаль, мусимо повідомити, що вакансію закрито.
+- <code>n:</code> I have no **regrets** about moving into backend. — Я не шкодую, що пішов у бекенд.
 
 
 
@@ -215,9 +220,9 @@
 **Пояснення:** такий, у якому легко впізнати себе чи свій досвід (персонаж, жарт, ситуація); дуже частотне розмовне слово в інтернеті. Від **relate to** — асоціювати себе з.
 
 **Приклади:**
-- The hero is **relatable**: he's scared, but he still goes. — Герой життєвий: йому страшно, але він іде.
-- That meme about debugging at 2 a.m. is so **relatable**. — Той мем про дебаг о другій ночі — прямо про мене.
-- I can really **relate to** this song. — Я справді впізнаю себе в цій пісні.
+- <code>adj:</code> The hero is **relatable**: he's scared, but he still goes. — Герой життєвий: йому страшно, але він іде.
+- <code>adj:</code> That meme about debugging at 2 a.m. is so **relatable**. — Той мем про дебаг о другій ночі — прямо про мене.
+- <code>adj:</code> I can really **relate to** this song. — Я справді впізнаю себе в цій пісні.
 
 
 
@@ -233,9 +238,9 @@
 - rely **on** sb **to do** sth — розраховувати, що хтось зробить.
 
 **Приклади:**
-- The app **relies on** SQLite for local storage. — Застосунок покладається на SQLite для локального збереження.
-- You can **rely on** her to review the PR today. — Можеш розраховувати, що вона перегляне PR сьогодні.
-- Don't **rely on** luck — save the game manually. — Не покладайся на удачу — зберігай гру вручну.
+- <code>v:</code> The app **relies on** SQLite for local storage. — Застосунок покладається на SQLite для локального збереження.
+- <code>v:</code> You can **rely on** her to review the PR today. — Можеш розраховувати, що вона перегляне PR сьогодні.
+- <code>v:</code> Don't **rely on** luck — save the game manually. — Не покладайся на удачу — зберігай гру вручну.
 
 
 
@@ -247,9 +252,9 @@
 **Пояснення:** 1) продовжувати бути в тому самому стані: remain calm — зберігати спокій; 2) залишитися, коли решта зникла чи пішла. Формальніше за `stay`.
 
 **Приклади:**
-- The server **remained** stable under heavy load. — Сервер залишався стабільним під великим навантаженням.
-- Only two side quests **remain** before the finale. — До фіналу залишилося лише два побічні квести.
-- Please **remain** seated until the plane stops. — Будь ласка, залишайтеся на місцях, доки літак не зупиниться.
+- <code>v:</code> The server **remained** stable under heavy load. — Сервер залишався стабільним під великим навантаженням.
+- <code>v:</code> Only two side quests **remain** before the finale. — До фіналу залишилося лише два побічні квести.
+- <code>v:</code> Please **remain** seated until the plane stops. — Будь ласка, залишайтеся на місцях, доки літак не зупиниться.
 
 
 
@@ -267,8 +272,9 @@
 - **for rent** — здається (оголошення)
 
 **Приклади:**
-- v: We **rented** a car for the weekend. — Ми орендували авто на вихідні.
-- n: The **rent** is due on the first of the month. — Оренду треба платити першого числа.
+- <code>v:</code> We **rented** a car for the weekend. — Ми орендували авто на вихідні.
+- <code>n:</code> The **rent** is due on the first of the month. — Оренду треба платити першого числа.
+- <code>v:</code> She **rents out** her flat to students. — Вона здає свою квартиру студентам.
 
 
 ---
@@ -279,9 +285,9 @@
 **Пояснення:** витягти когось із небезпечної ситуації: **rescue sb from sth**. Стала фраза — **come to the rescue** (прийти на порятунок).
 
 **Приклади:**
-- verb: The knight **rescued** the villagers from the dragon. — Лицар врятував селян від дракона.
-- noun: The **rescue** team found the climbers at night. — Рятувальна команда знайшла альпіністів уночі.
-- My teammate **came to the rescue** with a hotfix. — Тіммейт прийшов на порятунок із хотфіксом.
+- <code>v:</code> The knight **rescued** the villagers from the dragon. — Лицар врятував селян від дракона.
+- <code>n:</code> The **rescue** team found the climbers at night. — Рятувальна команда знайшла альпіністів уночі.
+- <code>n:</code> My teammate **came to the rescue** with a hotfix. — Тіммейт прийшов на порятунок із хотфіксом.
 
 
 
@@ -293,8 +299,9 @@
 **💡 УВАГА:** як іменник — **незлічуване**. НЕ кажи «a research» чи «researches». Правильно: **some research / a piece of research / research studies**.
 
 **Приклади:**
-- noun: I did some **research** before buying. — Я провів невелике дослідження перед покупкою. _(не «a research»)_
-- verb: She's **researching** the best framework. — Вона досліджує найкращий фреймворк.
+- <code>n:</code> I did some **research** before buying. — Я провів невелике дослідження перед покупкою. _(не «a research»)_
+- <code>v:</code> She's **researching** the best framework. — Вона досліджує найкращий фреймворк.
+- <code>n:</code> Before the trip, I did a lot of **research** on cheap hotels. — Перед поїздкою я довго шукав інформацію про дешеві готелі. _(подорож)_
 
 
 
@@ -311,8 +318,9 @@
 - **the Resistance** — рух опору (з великої літери).
 
 **Приклади:**
-- The new process met strong **resistance** from the team. — Новий процес наштовхнувся на сильний опір команди.
-- This armor gives +20 fire **resistance**. — Ця броня дає +20 до опору вогню.
+- <code>n:</code> The new process met strong **resistance** from the team. — Новий процес наштовхнувся на сильний опір команди.
+- <code>n:</code> This armor gives +20 fire **resistance**. — Ця броня дає +20 до опору вогню.
+- <code>n:</code> There is always some **resistance to** change in big companies. — У великих компаніях завжди є певний опір змінам.
 
 🔗 **Пов'язане:** [surrender](s.md#surrender) — протилежне за змістом.
 
@@ -326,8 +334,9 @@
 **💡 respond to** sth/sb — відповідати **на** (завжди з `to`, не «respond on»). Формальніше за `answer`. Іменник — **response**.
 
 **Приклади:**
-- He didn't **respond to** my message. — Він не відповів на моє повідомлення.
-- The team **responded** quickly **to** the incident. — Команда швидко відреагувала на інцидент.
+- <code>v:</code> He didn't **respond to** my message. — Він не відповів на моє повідомлення.
+- <code>v:</code> The team **responded** quickly **to** the incident. — Команда швидко відреагувала на інцидент.
+- <code>v:</code> How did the audience **respond to** the new film? — Як глядачі відреагували на новий фільм? _(фільми)_
 
 
 
@@ -344,8 +353,9 @@
 - **rest** без додатка — відпочивати: You should **rest**.
 
 **Приклади:**
-- I'll finish this, and you can do **the rest**. — Я закінчу це, а ти можеш зробити решту.
-- After the trip we **rested** for two days. — Після подорожі ми відпочивали два дні.
+- <code>n:</code> I'll finish this, and you can do **the rest**. — Я закінчу це, а ти можеш зробити решту.
+- <code>v:</code> After the trip we **rested** for two days. — Після подорожі ми відпочивали два дні.
+- <code>n:</code> Let's stop and **take a rest** for ten minutes. — Давай зупинимося й відпочинемо десять хвилин.
 
 
 
@@ -361,9 +371,9 @@
 - **résumé** /ˈrezjʊmeɪ/ — іменник «резюме» (документ про досвід роботи; у BrE частіше кажуть **CV**).
 
 **Приклади:**
-- Press Start to **resume** the game. — Натисни Start, щоб продовжити гру.
-- The download **resumed** when the Wi-Fi came back. — Завантаження відновилося, коли повернувся Wi-Fi.
-- Recruiters spend ten seconds on each **résumé**. — Рекрутери витрачають десять секунд на кожне резюме.
+- <code>v:</code> Press Start to **resume** the game. — Натисни Start, щоб продовжити гру.
+- <code>v:</code> The download **resumed** when the Wi-Fi came back. — Завантаження відновилося, коли повернувся Wi-Fi.
+- <code>v:</code> Recruiters spend ten seconds on each **résumé**. — Рекрутери витрачають десять секунд на кожне резюме.
 
 
 
@@ -375,9 +385,9 @@
 **Пояснення:** показати чи повідомити щось приховане або таємне: reveal a secret / a plan / the truth. У ґеймерів — ще й «анонс-показ»: a trailer reveal.
 
 **Приклади:**
-- The trailer **revealed** the new map. — Трейлер показав нову мапу.
-- The logs **revealed** the real cause of the crash. — Логи розкрили справжню причину збою.
-- At the end, the stranger **reveals** that he is the king. — У кінці незнайомець розкриває, що він король.
+- <code>v:</code> The trailer **revealed** the new map. — Трейлер показав нову мапу.
+- <code>v:</code> The logs **revealed** the real cause of the crash. — Логи розкрили справжню причину збою.
+- <code>v:</code> At the end, the stranger **reveals** that he is the king. — У кінці незнайомець розкриває, що він король.
 
 
 
@@ -394,8 +404,9 @@
 - ⚠️ В індійській діловій англійській `revert` = «відповісти на лист» (I'll revert soon) — у британській/американській так не кажуть.
 
 **Приклади:**
-- After the update failed, we **reverted to** the previous version. — Після невдалого оновлення ми повернулись до попередньої версії.
-- He **reverted** my commit without asking. — Він відкотив мій коміт, не спитавши.
+- <code>v:</code> After the update failed, we **reverted to** the previous version. — Після невдалого оновлення ми повернулись до попередньої версії.
+- <code>v:</code> He **reverted** my commit without asking. — Він відкотив мій коміт, не спитавши.
+- <code>v:</code> After the holidays, I quickly **reverted to** my old habits. — Після свят я швидко повернувся до старих звичок.
 
 
 
@@ -409,9 +420,9 @@
 **💡 get rid of** — стала фраза «позбутися» (речі, проблеми, звички): get rid of old code / of a headache / of ads.
 
 **Приклади:**
-- Let's **get rid of** this legacy module. — Позбудьмося цього легасі-модуля.
-- I paid for premium to **get rid of** the ads. — Я заплатив за преміум, щоб позбутися реклами.
-- Drink some tea to **get rid of** that cold. — Випий чаю, щоб позбутися застуди.
+- <code>v:</code> Let's **get rid of** this legacy module. — Позбудьмося цього легасі-модуля.
+- <code>v:</code> I paid for premium to **get rid of** the ads. — Я заплатив за преміум, щоб позбутися реклами.
+- <code>v:</code> Drink some tea to **get rid of** that cold. — Випий чаю, щоб позбутися застуди.
 
 
 
@@ -429,8 +440,9 @@
 - **a pay rise** (BrE) — підвищення зарплати (AmE — a raise)
 
 **Приклади:**
-- v: The sun **rises** at six in summer. — Влітку сонце сходить о шостій.
-- n: There was a sharp **rise in** coffee prices. — Стався різкий стрибок цін на каву.
+- <code>v:</code> The sun **rises** at six in summer. — Влітку сонце сходить о шостій.
+- <code>n:</code> There was a sharp **rise in** coffee prices. — Стався різкий стрибок цін на каву.
+- <code>v:</code> The river **rose** after three days of rain. — Після трьох днів дощу рівень річки піднявся.
 
 ---
 
@@ -442,11 +454,11 @@
 **💡 roll out** (dev) — поступово випустити фічу/оновлення на користувачів: **roll out** a feature; сам процес — **rollout**. Протилежне — **roll back** (відкотити).
 
 **Приклади:**
-- verb: The ball **rolled** under the sofa. — М'яч закотився під диван.
-- verb: **Roll** the dice — you need 15 or higher. — Кидай кубик — потрібно 15 або більше.
-- verb: We'll **roll out** dark mode to 10% of users first. — Спочатку ми викотимо темну тему на 10% користувачів.
-- noun: My first **roll** was a natural 20! — Мій перший кидок — «чиста» двадцятка!
-- noun: I grabbed a coffee and a cinnamon **roll**. — Я взяв каву й булочку з корицею.
+- <code>v:</code> The ball **rolled** under the sofa. — М'яч закотився під диван.
+- <code>v:</code> **Roll** the dice — you need 15 or higher. — Кидай кубик — потрібно 15 або більше.
+- <code>v:</code> We'll **roll out** dark mode to 10% of users first. — Спочатку ми викотимо темну тему на 10% користувачів.
+- <code>n:</code> My first **roll** was a natural 20! — Мій перший кидок — «чиста» двадцятка!
+- <code>n:</code> I grabbed a coffee and a cinnamon **roll**. — Я взяв каву й булочку з корицею.
 
 
 
@@ -460,9 +472,9 @@
 **💡 learn the ropes** — ідіома «розібратися, що до чого», освоїтися в новій справі. Також **show sb the ropes** — ввести когось у курс справи.
 
 **Приклади:**
-- We climbed down the tower on a **rope**. — Ми спустилися з вежі по мотузці.
-- Tie the boat to the pier with this **rope**. — Прив'яжи човен до пірса цією мотузкою.
-- My mentor **showed me the ropes** during the first sprint. — Ментор увів мене в курс справи за перший спринт.
+- <code>n:</code> We climbed down the tower on a **rope**. — Ми спустилися з вежі по мотузці.
+- <code>n:</code> Tie the boat to the pier with this **rope**. — Прив'яжи човен до пірса цією мотузкою.
+- <code>n:</code> My mentor **showed me the ropes** during the first sprint. — Ментор увів мене в курс справи за перший спринт.
 
 
 
@@ -474,8 +486,9 @@
 **Пояснення:** часто переносно про складний період чи досвід: **a rough week**, **a rough patch** (важкий період). ⚠️ Вимова закінчення `-ough` тут /ʌf/ — не плутай з `though` /əʊ/ чи `through` /uː/, вони римуються по-різному, хоч і пишуться схоже.
 
 **Приклади:**
-- Three days of debugging — that sounds **rough**. — Три дні дебагу — це, мабуть, важко.
-- We went through a **rough** patch, but the team pulled through. — Ми пройшли через важкий період, але команда впоралась.
+- <code>adj:</code> Three days of debugging — that sounds **rough**. — Три дні дебагу — це, мабуть, важко.
+- <code>adj:</code> We went through a **rough** patch, but the team pulled through. — Ми пройшли через важкий період, але команда впоралась.
+- <code>adj:</code> My hands are **rough** after working in the garden. — У мене шорсткі руки після роботи в саду.
 
 
 
@@ -489,9 +502,9 @@
 **💡 battle royale** /ˌbætl rɔɪˈɑːl/ — жанр ігор «кожен сам за себе» (Fortnite, PUBG). Зверни увагу: пишеться з `-e` на кінці й наголос інший — слово прийшло з французької.
 
 **Приклади:**
-- The **royal** guard protects the castle gates. — Королівська варта охороняє браму замку.
-- The quest giver turned out to be the **royal** heir. — Той, хто дав квест, виявився королівським спадкоємцем.
-- We watched the **royal** wedding on TV. — Ми дивилися королівське весілля по телевізору.
+- <code>adj:</code> The **royal** guard protects the castle gates. — Королівська варта охороняє браму замку.
+- <code>adj:</code> The quest giver turned out to be the **royal** heir. — Той, хто дав квест, виявився королівським спадкоємцем.
+- <code>adj:</code> We watched the **royal** wedding on TV. — Ми дивилися королівське весілля по телевізору.
 
 
 
@@ -508,7 +521,7 @@
 - (ігри) **rush** — швидка агресивна атака на старті: they **rushed** our base.
 
 **Приклади:**
-- verb: Don't **rush** me — I'm reading the stack trace. — Не підганяй мене — я читаю stack trace.
-- verb: The enemy team **rushed** our base at level one. — Ворожа команда зарашила нашу базу на першому рівні.
-- noun: Sorry, can't talk — I'm in a **rush**. — Вибач, не можу говорити — я поспішаю.
-- noun: The metro is packed during **rush hour**. — У годину пік метро напхане.
+- <code>v:</code> Don't **rush** me — I'm reading the stack trace. — Не підганяй мене — я читаю stack trace.
+- <code>v:</code> The enemy team **rushed** our base at level one. — Ворожа команда зарашила нашу базу на першому рівні.
+- <code>n:</code> Sorry, can't talk — I'm in a **rush**. — Вибач, не можу говорити — я поспішаю.
+- <code>n:</code> The metro is packed during **rush hour**. — У годину пік метро напхане.

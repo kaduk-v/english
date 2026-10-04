@@ -14,8 +14,9 @@
 - **obey the rules / the law / an order** — дотримуватись правил / закону / виконувати наказ.
 
 **Приклади:**
-- The dog **obeys** only one person. — Собака слухається лише однієї людини.
-- Players must **obey** the server rules. — Гравці мають дотримуватись правил сервера.
+- <code>v:</code> The dog **obeys** only one person. — Собака слухається лише однієї людини.
+- <code>v:</code> Players must **obey** the server rules. — Гравці мають дотримуватись правил сервера.
+- <code>v:</code> Good drivers **obey** the speed limit. — Хороші водії дотримуються обмеження швидкості.
 
 
 ---
@@ -31,8 +32,9 @@
 - іменник: **an object** — предмет; у програмуванні — об'єкт (a JavaScript **object**).
 
 **Приклади:**
-- He definitely won't **object to** the new schedule. — Він точно не заперечуватиме проти нового графіка.
-- The **object** on the table is a sensor. — Предмет на столі — це сенсор.
+- <code>v:</code> He definitely won't **object to** the new schedule. — Він точно не заперечуватиме проти нового графіка.
+- <code>n:</code> The **object** on the table is a sensor. — Предмет на столі — це сенсор.
+- <code>v:</code> Mark **objected to** working late on Fridays. — Марк був проти того, щоб працювати допізна в п'ятницю.
 
 🔗 **Пов'язане:** [objection](#objection) — іменник «заперечення».
 
@@ -50,8 +52,9 @@
 - дієслово — [object to](#object) sth (заперечувати проти) — окрема картка вище.
 
 **Приклади:**
-- She agreed to the new terms **without any objections**. — Вона погодилась на нові умови без жодних заперечень.
-- Does anyone have an **objection to** this decision? — У когось є заперечення проти цього рішення?
+- <code>n:</code> She agreed to the new terms **without any objections**. — Вона погодилась на нові умови без жодних заперечень.
+- <code>n:</code> Does anyone have an **objection to** this decision? — У когось є заперечення проти цього рішення?
+- <code>n:</code> I have no **objection to** pizza for dinner. — Я не проти піци на вечерю.
 
 🔗 **Пов'язане:** [agree](a.md#agree) — часто йдуть поруч у реченні (agreed... without objections).
 
@@ -69,8 +72,9 @@
 - **powers of observation** — спостережливість
 
 **Приклади:**
-- Her **observation** about the bug turned out to be right. — Її спостереження щодо бага виявилось правильним. _(розробка)_
-- The patient stayed **under observation** overnight. — Пацієнт залишався під наглядом до ранку.
+- <code>n:</code> Her **observation** about the bug turned out to be right. — Її спостереження щодо бага виявилось правильним. _(розробка)_
+- <code>n:</code> The patient stayed **under observation** overnight. — Пацієнт залишався під наглядом до ранку.
+- <code>n:</code> Can I **make an observation**? You never take breaks. — Можна зауваження? Ти ніколи не робиш перерв.
 
 ---
 
@@ -80,8 +84,9 @@
 **Пояснення:** те, що заважає пройти або досягти мети — фізично чи переносно.
 
 **Приклади:**
-- The knight jumped over every **obstacle** on the course. — Лицар перестрибнув кожну перешкоду на трасі.
-- Lack of tests is the main **obstacle** to a fast release. — Брак тестів — головна перешкода для швидкого релізу.
+- <code>n:</code> The knight jumped over every **obstacle** on the course. — Лицар перестрибнув кожну перешкоду на трасі.
+- <code>n:</code> Lack of tests is the main **obstacle** to a fast release. — Брак тестів — головна перешкода для швидкого релізу.
+- <code>n:</code> Bad weather was the biggest **obstacle** on our trip. — Погана погода була найбільшою перешкодою в нашій подорожі. _(подорож)_
 
 
 ---
@@ -98,8 +103,9 @@
 - **state the obvious** — казати очевидне
 
 **Приклади:**
-- The answer is **obvious** — restart the server. — Відповідь очевидна — перезапусти сервер. _(розробка)_
-- It was **obvious** from her face that she was tired. — З її обличчя було очевидно, що вона втомлена.
+- <code>adj:</code> The answer is **obvious** — restart the server. — Відповідь очевидна — перезапусти сервер. _(розробка)_
+- <code>adj:</code> It was **obvious** from her face that she was tired. — З її обличчя було очевидно, що вона втомлена.
+- <code>adj:</code> I didn't buy it **for obvious reasons** — it was too expensive. — Я не купив це зі зрозумілих причин — воно було надто дороге.
 
 ---
 
@@ -109,8 +115,9 @@
 **Пояснення:** коли щось зрозуміло без пояснень; часто стоїть на початку речення.
 
 **Приклади:**
-- **Obviously**, the server is down again. — Очевидно, сервер знову лежить.
-- He was **obviously** tired after the raid. — Він був явно втомлений після рейду.
+- <code>adv:</code> **Obviously**, the server is down again. — Очевидно, сервер знову лежить.
+- <code>adv:</code> He was **obviously** tired after the raid. — Він був явно втомлений після рейду.
+- <code>adv:</code> — Are you coming to the party? — **Obviously**! — Ти прийдеш на вечірку? — Ну звісно!
 
 
 ---
@@ -121,8 +128,9 @@
 **Пояснення:** щось трапляється не регулярно, зрідка. Прислівник **occasionally** — див. [grammar/b1/adjectives-adverbs.md](../grammar/b1/adjectives-adverbs.md) (прислівники частоти).
 
 **Приклади:**
-- We have **occasional** in-person meetings, but mostly work remotely. — У нас рідкісні особисті зустрічі, але переважно працюємо віддалено.
-- An **occasional** bug is normal; constant crashes aren't. — Зрідкачасний баг — це нормально; постійні збої — ні.
+- <code>adj:</code> We have **occasional** in-person meetings, but mostly work remotely. — У нас рідкісні особисті зустрічі, але переважно працюємо віддалено.
+- <code>adj:</code> An **occasional** bug is normal; constant crashes aren't. — Зрідкачасний баг — це нормально; постійні збої — ні.
+- <code>adj:</code> I drink coffee every day and an **occasional** cup of tea. — Я п'ю каву щодня і зрідка — чашку чаю. _(кава)_
 
 
 ---
@@ -133,7 +141,9 @@
 **Пояснення:** скільки місць чи кімнат зайнято; слово з мови готелів та оренди.
 
 **Приклади:**
-- The hotel has 90% **occupancy** in summer. — Улітку готель заповнений на 90%.
+- <code>n:</code> The hotel has 90% **occupancy** in summer. — Улітку готель заповнений на 90%.
+- <code>n:</code> Low **occupancy** in winter is normal for seaside hotels. — Низька заповненість узимку — норма для готелів біля моря. _(подорож)_
+- <code>n:</code> The room has a maximum **occupancy** of four people. — Номер розрахований максимум на чотирьох людей.
 
 🔗 Пов'язане: [occupy](#occupy)
 
@@ -146,8 +156,9 @@
 **Пояснення:** про місце або людину — «зайнятий»; про територію — «окупований».
 
 **Приклади:**
-- Sorry, this seat is **occupied**. — Вибачте, це місце зайняте.
-- The **occupied** city waited for liberation. — Окуповане місто чекало на звільнення.
+- <code>adj:</code> Sorry, this seat is **occupied**. — Вибачте, це місце зайняте.
+- <code>adj:</code> The **occupied** city waited for liberation. — Окуповане місто чекало на звільнення.
+- <code>adj:</code> The bathroom is **occupied**, wait a minute. — Ванна зайнята, зачекай хвилинку.
 
 🔗 Пов'язане: [occupy](#occupy)
 
@@ -160,8 +171,9 @@
 **Пояснення:** заповнювати простір чи час; у військовому значенні — захопити й утримувати територію.
 
 **Приклади:**
-- The database **occupies** half of the disk. — База даних займає половину диска.
-- Enemy troops **occupied** the fortress. — Ворожі війська окупували фортецю.
+- <code>v:</code> The database **occupies** half of the disk. — База даних займає половину диска.
+- <code>v:</code> Enemy troops **occupied** the fortress. — Ворожі війська окупували фортецю.
+- <code>v:</code> Video games **occupy** most of his free time. — Відеоігри займають більшу частину його вільного часу. _(гра)_
 
 
 ---
@@ -174,8 +186,9 @@
 - **occur to** somebody — спасти на думку: It never **occurred to** me. — Мені й на думку не спадало.
 
 **Приклади:**
-- The bug **occurs** only in release builds. — Баг трапляється лише в релізних збірках.
-- It suddenly **occurred to** me that the token had expired. — Мені раптом спало на думку, що токен протермінувався.
+- <code>v:</code> The bug **occurs** only in release builds. — Баг трапляється лише в релізних збірках.
+- <code>v:</code> It suddenly **occurred to** me that the token had expired. — Мені раптом спало на думку, що токен протермінувався.
+- <code>v:</code> An error **occurred** while saving the file. — Під час збереження файлу сталася помилка. _(розробка)_
 
 
 ---
@@ -188,8 +201,9 @@
 **💡 No offence!** — Без образ! _(BrE пишеться offence, AmE — offense)_
 
 **Приклади:**
-- I didn't mean to **offend** you. — Я не хотів тебе образити.
-- He **was offended** by the joke about his code. — Його образив жарт про його код.
+- <code>v:</code> I didn't mean to **offend** you. — Я не хотів тебе образити.
+- <code>v:</code> He **was offended** by the joke about his code. — Його образив жарт про його код.
+- <code>v:</code> Be careful — that question can **offend** some people. — Обережно — це питання може декого образити.
 
 
 ---
@@ -202,8 +216,9 @@
 **💡 Антонім:** **by accident** / [accidentally](a.md#accidentally) — випадково. Did you delete it **on purpose** or **by accident**? — Ти видалив це навмисно чи випадково?
 
 **Приклади:**
-- He lost the duel **on purpose**. — Він програв дуель навмисно.
-- I skipped that level **on purpose**. — Я пропустив той рівень спеціально.
+- <code>phrase:</code> He lost the duel **on purpose**. — Він програв дуель навмисно.
+- <code>phrase:</code> I skipped that level **on purpose**. — Я пропустив той рівень спеціально.
+- <code>phrase:</code> Did you break the cup **on purpose** or by accident? — Ти розбив чашку навмисно чи випадково?
 
 🔗 Пов'язане: [purpose](p.md#purpose)
 
@@ -222,8 +237,9 @@
 - **opportunity for** sth — можливість для: **opportunities for** growth.
 
 **Приклади:**
-- This project is a great **opportunity to** work with a new team. — Цей проєкт — чудова нагода попрацювати з новою командою.
-- Don't **miss the opportunity** — the offer ends on Friday. — Не упусти нагоду — пропозиція діє до п'ятниці.
+- <code>n:</code> This project is a great **opportunity to** work with a new team. — Цей проєкт — чудова нагода попрацювати з новою командою.
+- <code>n:</code> Don't **miss the opportunity** — the offer ends on Friday. — Не упусти нагоду — пропозиція діє до п'ятниці.
+- <code>n:</code> I **took the opportunity** to practise my English with Sam. — Я скористався нагодою попрактикувати англійську з Семом.
 
 
 ---
@@ -236,8 +252,9 @@
 - **as opposed to** — на відміну від, а не: We test on real devices, **as opposed to** emulators.
 
 **Приклади:**
-- My parents **are opposed to** the idea. — Мої батьки проти цієї ідеї.
-- I write TypeScript, **as opposed to** plain JavaScript. — Я пишу TypeScript, а не звичайний JavaScript.
+- <code>adj:</code> My parents **are opposed to** the idea. — Мої батьки проти цієї ідеї.
+- <code>adj:</code> I write TypeScript, **as opposed to** plain JavaScript. — Я пишу TypeScript, а не звичайний JavaScript.
+- <code>adj:</code> Many fans **were opposed to** the new club logo. — Багато фанатів були проти нового логотипа клубу. _(спорт)_
 
 
 ---
@@ -248,8 +265,9 @@
 **Пояснення:** нічим не особливий. Вираз **out of the ordinary** — незвичайний, поза буденністю.
 
 **Приклади:**
-- It looked like an **ordinary** sword, but it was magic. — Меч виглядав звичайним, але був чарівним.
-- Nothing **out of the ordinary** happened yesterday. — Учора не сталося нічого незвичайного.
+- <code>adj:</code> It looked like an **ordinary** sword, but it was magic. — Меч виглядав звичайним, але був чарівним.
+- <code>adj:</code> Nothing **out of the ordinary** happened yesterday. — Учора не сталося нічого незвичайного.
+- <code>adj:</code> It was just an **ordinary** Monday at the office. — Це був звичайнісінький понеділок в офісі.
 
 
 ---
@@ -260,8 +278,9 @@
 **Пояснення:** префікс **out-** = «пере-», зробити довше або краще за когось: outrun (перегнати), outplay (переграти).
 
 **Приклади:**
-- Elves **outlive** humans by centuries. — Ельфи переживають людей на століття.
-- This legacy code will **outlive** us all. — Цей легасі-код переживе нас усіх.
+- <code>v:</code> Elves **outlive** humans by centuries. — Ельфи переживають людей на століття.
+- <code>v:</code> This legacy code will **outlive** us all. — Цей легасі-код переживе нас усіх.
+- <code>v:</code> Some parrots **outlive** their owners. — Деякі папуги переживають своїх власників.
 
 
 ---
@@ -272,8 +291,9 @@
 **💡 Наголос змінюється:** дієслово over**HAUL**, іменник **OVER**haul — як у [permit](p.md#permit).
 
 **Приклади:**
-- verb: We completely **overhauled** the settings screen. — Ми повністю переробили екран налаштувань.
-- noun: The combat system needs a full **overhaul**. — Бойова система потребує повної переробки.
+- <code>v:</code> We completely **overhauled** the settings screen. — Ми повністю переробили екран налаштувань.
+- <code>n:</code> The combat system needs a full **overhaul**. — Бойова система потребує повної переробки.
+- <code>n:</code> My old bike needs a complete **overhaul**. — Моєму старому велосипеду потрібен капітальний ремонт.
 
 
 ---
@@ -284,5 +304,6 @@
 **Пояснення:** коли дві речі частково накладаються — у просторі, часі або за змістом. Наголос: дієслово over**LAP**, іменник **OVER**lap.
 
 **Приклади:**
-- verb: The two buttons **overlap** on small screens. — Дві кнопки накладаються одна на одну на малих екранах.
-- noun: There is a big **overlap** between our tasks. — Наші завдання значно перетинаються.
+- <code>v:</code> The two buttons **overlap** on small screens. — Дві кнопки накладаються одна на одну на малих екранах.
+- <code>n:</code> There is a big **overlap** between our tasks. — Наші завдання значно перетинаються.
+- <code>v:</code> My holiday **overlaps** with my sister's wedding. — Моя відпустка частково збігається з весіллям сестри.

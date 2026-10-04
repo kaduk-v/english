@@ -16,8 +16,9 @@
 - **be lacking in** sth — бракувати чогось (рідше): The plan **is lacking in** detail. — Плану бракує деталей.
 
 **Приклади:**
-- n: The main problem is a **lack of** communication. — Головна проблема — брак комунікації.
-- v: The team **lacks** a strong defender. — Команді бракує сильного захисника. _(спорт)_
+- <code>n:</code> The main problem is a **lack of** communication. — Головна проблема — брак комунікації.
+- <code>v:</code> The team **lacks** a strong defender. — Команді бракує сильного захисника. _(спорт)_
+- <code>n:</code> I made silly mistakes because of **a lack of** sleep. — Я робив дурні помилки через брак сну.
 
 
 ---
@@ -33,8 +34,9 @@
 - Тобто `lately` — НЕ «прислівник від late»; прислівник «пізно» — це теж `late`.
 
 **Приклади:**
-- adj: Sorry, I'll be **late for** the stand-up. — Вибач, я запізнюся на стендап.
-- adv: We deployed the fix **late** at night. — Ми задеплоїли фікс пізно вночі.
+- <code>adj:</code> Sorry, I'll be **late for** the stand-up. — Вибач, я запізнюся на стендап.
+- <code>adv:</code> We deployed the fix **late** at night. — Ми задеплоїли фікс пізно вночі.
+- <code>adv:</code> The train arrived twenty minutes **late**. — Потяг прибув із запізненням на двадцять хвилин. _(подорож)_
 
 
 
@@ -50,8 +52,9 @@
 - **reduce latency** — зменшити затримку
 
 **Приклади:**
-- The **latency** between the server and the game is 40 ms. — Затримка між сервером і грою — 40 мс.
-- We moved the database closer to the users to **reduce latency**. — Ми перенесли базу ближче до користувачів, щоб зменшити затримку. _(розробка)_
+- <code>n:</code> The **latency** between the server and the game is 40 ms. — Затримка між сервером і грою — 40 мс.
+- <code>n:</code> We moved the database closer to the users to **reduce latency**. — Ми перенесли базу ближче до користувачів, щоб зменшити затримку. _(розробка)_
+- <code>n:</code> High **latency** makes online games almost unplayable. — Через велику затримку в онлайн-ігри майже неможливо грати. _(гра)_
 
 ---
 
@@ -61,8 +64,9 @@
 **Пояснення:** офіційно розпочати щось нове: випустити продукт на ринок, запустити сервіс чи ракету. Іменник — сам запуск: product **launch**, **launch** day.
 
 **Приклади:**
-- verb: We plan to **launch** the app in September. — Ми плануємо запустити застосунок у вересні.
-- noun: The **launch** of the new console was a huge success. — Запуск нової консолі був величезним успіхом.
+- <code>v:</code> We plan to **launch** the app in September. — Ми плануємо запустити застосунок у вересні.
+- <code>n:</code> The **launch** of the new console was a huge success. — Запуск нової консолі був величезним успіхом.
+- <code>v:</code> They **launched** the rocket early in the morning. — Ракету запустили рано-вранці.
 
 
 
@@ -77,8 +81,9 @@
 - Пастка: форма минулого від `lie` — теж «lay». Тому `lay` буває двох різних дієслів!
 
 **Приклади:**
-- She **laid** the controller on the desk. — Вона поклала джойстик на стіл.
-- **Lay** your cards on the table. — Виклади карти на стіл. _(також ідіома: говори відверто)_
+- <code>v:</code> She **laid** the controller on the desk. — Вона поклала джойстик на стіл.
+- <code>v:</code> **Lay** your cards on the table. — Виклади карти на стіл. _(також ідіома: говори відверто)_
+- <code>v:</code> I **laid** my jacket on the chair and sat down. — Я поклав куртку на стілець і сів.
 
 
 
@@ -96,8 +101,9 @@
 - **be in the lead** — вести в рахунку: Our team **is in the lead**. — Наша команда попереду.
 
 **Приклади:**
-- v: Who **led** the project last year? — Хто очолював проєкт минулого року?
-- n: The **lead** reviewed my code. — Лід переглянув мій код. _(розробка)_
+- <code>v:</code> Who **led** the project last year? — Хто очолював проєкт минулого року?
+- <code>n:</code> The **lead** reviewed my code. — Лід переглянув мій код. _(розробка)_
+- <code>v:</code> Too much coffee **leads to** bad sleep. — Забагато кави призводить до поганого сну.
 
 ---
 
@@ -107,15 +113,16 @@
 **Пояснення:** якість лідера АБО керівна група. У значенні «якість» — незлічуване (без `a`, без `-s`).
 
 **Приклади:**
-- Good **leadership** keeps a team motivated. — Хороше лідерство тримає команду вмотивованою.
-- The **leadership** made a final decision. — Керівництво ухвалило остаточне рішення.
+- <code>n:</code> Good **leadership** keeps a team motivated. — Хороше лідерство тримає команду вмотивованою.
+- <code>n:</code> The **leadership** made a final decision. — Керівництво ухвалило остаточне рішення.
+- <code>n:</code> The team won the cup under her **leadership**. — Команда виграла кубок під її керівництвом. _(спорт)_
 
 
 
 ---
 
 ## least
-**least** /liːst/ — **determiner / adverb** (детермінатив / прислівник) — найменший, найменше
+**least** /liːst/ — 1. <code>determiner</code> (детермінатив) 2. <code>adverb</code> (прислівник) — найменший, найменше
 
 **Пояснення:** найвищий ступінь від `little`: little → less → **least** (мало → менше → найменше). Протилежне — `most`.
 
@@ -125,8 +132,9 @@
 - **last but not least** — останній за порядком, але не за важливістю.
 
 **Приклади:**
-- The update takes **at least** five minutes. — Оновлення триває щонайменше п'ять хвилин.
-- This is the **least** useful feature in the app. — Це найменш корисна функція в застосунку.
+- <code>adv:</code> The update takes **at least** five minutes. — Оновлення триває щонайменше п'ять хвилин.
+- <code>adv:</code> This is the **least** useful feature in the app. — Це найменш корисна функція в застосунку.
+- <code>det:</code> She has the **least** experience in the team, but she learns fast. — У неї найменше досвіду в команді, але вона швидко вчиться.
 
 
 
@@ -138,8 +146,9 @@
 **Пояснення:** те, що лишилося від попередників. У розробці стоїть перед іменником як прикметник: **legacy code** — старий код, який досі працює, але його страшно чіпати; legacy system, legacy API.
 
 **Приклади:**
-- Nobody wants to touch the **legacy** code. — Ніхто не хоче чіпати легасі-код.
-- The old king left a great **legacy**. — Старий король залишив велику спадщину.
+- <code>n:</code> Nobody wants to touch the **legacy** code. — Ніхто не хоче чіпати легасі-код.
+- <code>n:</code> The old king left a great **legacy**. — Старий король залишив велику спадщину.
+- <code>n:</code> Her real **legacy** is the school she built in her village. — Її справжня спадщина — школа, яку вона збудувала у своєму селі.
 
 
 
@@ -151,8 +160,9 @@
 **Пояснення:** бізнес/IT-жаргон: «залучити те, що вже маєш, собі на користь». Дієслово ≈ use effectively.
 
 **Приклади:**
-- verb: We can **leverage** our existing users to launch the new app. — Ми можемо задіяти наявних користувачів, щоб запустити новий застосунок.
-- noun: Experience gives you **leverage** in negotiations. — Досвід дає тобі перевагу в переговорах.
+- <code>v:</code> We can **leverage** our existing users to launch the new app. — Ми можемо задіяти наявних користувачів, щоб запустити новий застосунок.
+- <code>n:</code> Experience gives you **leverage** in negotiations. — Досвід дає тобі перевагу в переговорах.
+- <code>v:</code> She **leveraged** her language skills to get a job abroad. — Вона використала свої мовні навички, щоб отримати роботу за кордоном.
 
 
 
@@ -168,8 +178,9 @@
 - **keep a lid on** sth — тримати під контролем, не давати вирватись: keep a **lid on** costs — стримувати витрати
 
 **Приклади:**
-- Put the **lid** on the pot and let it simmer. — Накрий каструлю кришкою й дай покипіти.
-- The **lid** of the jar is stuck — I can't open it. — Кришка банки застрягла — не можу відкрити.
+- <code>n:</code> Put the **lid** on the pot and let it simmer. — Накрий каструлю кришкою й дай покипіти.
+- <code>n:</code> The **lid** of the jar is stuck — I can't open it. — Кришка банки застрягла — не можу відкрити.
+- <code>n:</code> Close the laptop **lid** when you leave your desk. — Закривай кришку ноутбука, коли відходиш від столу.
 
 
 ---
@@ -180,8 +191,9 @@
 **Пояснення:** який виглядає як справжній чи живий — про графіку, анімацію, портрет, ляльку. Часте слово в оглядах ігор.
 
 **Приклади:**
-- The new engine renders **lifelike** characters. — Новий рушій рендерить реалістичних персонажів.
-- The statue was so **lifelike** that I said hello to it. — Статуя була такою «живою», що я привітався з нею.
+- <code>adj:</code> The new engine renders **lifelike** characters. — Новий рушій рендерить реалістичних персонажів.
+- <code>adj:</code> The statue was so **lifelike** that I said hello to it. — Статуя була такою «живою», що я привітався з нею.
+- <code>adj:</code> The dinosaurs in the museum look very **lifelike**. — Динозаври в музеї виглядають як живі.
 
 
 
@@ -204,9 +216,9 @@
 - **be like** (розмовне) — «бути як»: He's **like** a brother to me. — Він мені як брат.
 
 **Приклади:**
-- I don't **like** meetings before 10 a.m. — Мені не подобаються зустрічі до 10 ранку.
-- It looks **like rain**. — Схоже на дощ.
-- What was the interview **like**? — Якою була співбесіда? / Як пройшла співбесіда?
+- <code>v:</code> I don't **like** meetings before 10 a.m. — Мені не подобаються зустрічі до 10 ранку.
+- <code>prep:</code> It looks **like rain**. — Схоже на дощ.
+- <code>prep:</code> What was the interview **like**? — Якою була співбесіда? / Як пройшла співбесіда?
 
 🔗 **Пов'язане:** повна теорія `sound/look/feel + like` — [adjectives-adverbs §7](../grammar/b1/adjectives-adverbs.md#look-sound-feel-like-іменник).
 
@@ -222,8 +234,9 @@
 **💡 Пари:** **literally** (буквально) ↔ **figuratively** (переносно). Не плутай з **literary** (літературний): a literary text.
 
 **Приклади:**
-- The error message **literally** says "unknown error". — Повідомлення буквально каже «невідома помилка».
-- I **literally** have five minutes before the call. — У мене реально п'ять хвилин до дзвінка.
+- <code>adv:</code> The error message **literally** says "unknown error". — Повідомлення буквально каже «невідома помилка».
+- <code>adv:</code> I **literally** have five minutes before the call. — У мене реально п'ять хвилин до дзвінка.
+- <code>adv:</code> "Break a leg" doesn't **literally** mean "break your leg". — Вислів «Break a leg» не означає буквально «зламай ногу».
 
 
 ---
@@ -246,6 +259,6 @@
 **💡 Іменник:** **have / take a look (at)** — глянути: Can you **take a look at** my code? — Глянеш мій код?
 
 **Приклади:**
-- v: Don't **look at** the phone during the film. — Не дивись у телефон під час фільму.
-- v: The new office **looks** great. — Новий офіс виглядає чудово.
-- n: He gave me a strange **look**. — Він дивно на мене глянув.
+- <code>v:</code> Don't **look at** the phone during the film. — Не дивись у телефон під час фільму.
+- <code>v:</code> The new office **looks** great. — Новий офіс виглядає чудово.
+- <code>n:</code> He gave me a strange **look**. — Він дивно на мене глянув.

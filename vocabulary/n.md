@@ -12,8 +12,9 @@
 **💡 narrow down** — звузити (список, пошук): I **narrowed down** the bug to one function. — Я звузив пошук бага до однієї функції.
 
 **Приклади:**
-- adjective: The bridge was too **narrow** for two carts. — Міст був занадто вузький для двох возів.
-- verb: We **narrowed** the list **down** to three candidates. — Ми звузили список до трьох кандидатів.
+- <code>adj:</code> The bridge was too **narrow** for two carts. — Міст був занадто вузький для двох возів.
+- <code>v:</code> We **narrowed** the list **down** to three candidates. — Ми звузили список до трьох кандидатів.
+- <code>adj:</code> We walked down a **narrow** street in the old town. — Ми йшли вузькою вуличкою в старому місті. _(подорож)_
 
 ---
 
@@ -25,8 +26,9 @@
 **💡 Структури:** **negotiate with** somebody (з ким) · **negotiate a deal / a salary** (про що — без прийменника).
 
 **Приклади:**
-- I **negotiated** a higher salary at the interview. — Я домовився про вищу зарплату на співбесіді.
-- The king refused to **negotiate with** the dragon. — Король відмовився вести переговори з драконом.
+- <code>v:</code> I **negotiated** a higher salary at the interview. — Я домовився про вищу зарплату на співбесіді.
+- <code>v:</code> The king refused to **negotiate with** the dragon. — Король відмовився вести переговори з драконом.
+- <code>v:</code> At the market, Anna always **negotiates** the price. — На ринку Анна завжди домовляється про ціну.
 
 ---
 
@@ -36,7 +38,9 @@
 **Пояснення:** процес домовляння; зазвичай у множині **negotiations**.
 
 **Приклади:**
-- The peace **negotiations** lasted three days. — Мирні переговори тривали три дні.
+- <code>n:</code> The peace **negotiations** lasted three days. — Мирні переговори тривали три дні.
+- <code>n:</code> After long **negotiations**, the club signed a new striker. — Після довгих переговорів клуб підписав нового нападника. _(спорт)_
+- <code>n:</code> Salary **negotiation** is always stressful for me. — Переговори про зарплату — для мене завжди стрес.
 
 🔗 Пов'язане: [negotiate](#negotiate)
 
@@ -48,8 +52,9 @@
 **Пояснення:** кажуть, коли щось уже неважливо, або щоб заспокоїти після помилки/вибачення. Пишеться зазвичай окремо: **never mind** (не «nevermind»).
 
 **Приклади:**
-- — What did you say? — Oh, **never mind**. — Та нічого, забудь.
-- You lost? **Never mind**, next time. — Програв? Нічого, наступного разу.
+- <code>phrase:</code> — What did you say? — Oh, **never mind**. — Та нічого, забудь.
+- <code>phrase:</code> You lost? **Never mind**, next time. — Програв? Нічого, наступного разу.
+- <code>phrase:</code> **Never mind**, I found my keys. — Не зважай, я вже знайшов ключі.
 
 ---
 
@@ -64,8 +69,9 @@
 - **give a nod** — кивнути; **get the nod** — отримати схвалення (розм.).
 
 **Приклади:**
-- He **nodded** without saying a word. — Він кивнув, не сказавши ні слова.
-- The manager **gave** the plan **a nod**. — Менеджер схвалив план.
+- <code>v:</code> He **nodded** without saying a word. — Він кивнув, не сказавши ні слова.
+- <code>n:</code> The manager **gave** the plan **a nod**. — Менеджер схвалив план.
+- <code>v:</code> He **nodded off** during the long film. — Він задрімав під час довгого фільму. _(фільми)_
 
 ---
 
@@ -77,8 +83,9 @@
 **💡 Письмове слово:** = **nevertheless**; обидва формальні, типові для текстів. У розмові частіше скажуть **still** чи **anyway**.
 
 **Приклади:**
-- The quest was dangerous; he went **nonetheless**. — Квест був небезпечний; він усе ж пішов.
-- The code is ugly but **nonetheless** works. — Код негарний, але все ж працює.
+- <code>adv:</code> The quest was dangerous; he went **nonetheless**. — Квест був небезпечний; він усе ж пішов.
+- <code>adv:</code> The code is ugly but **nonetheless** works. — Код негарний, але все ж працює.
+- <code>adv:</code> It was raining; **nonetheless**, we finished the match. — Ішов дощ; проте ми дограли матч. _(спорт)_
 
 ---
 
@@ -88,7 +95,9 @@
 **Пояснення:** про умову чи правило, які не можна змінити.
 
 **Приклади:**
-- Code review before merge is **non-negotiable**. — Код-рев'ю перед мерджем не обговорюється.
+- <code>adj:</code> Code review before merge is **non-negotiable**. — Код-рев'ю перед мерджем не обговорюється.
+- <code>adj:</code> For me, eight hours of sleep is **non-negotiable**. — Для мене вісім годин сну — це не обговорюється.
+- <code>adj:</code> Sorry, the price is **non-negotiable**. — Вибачте, ціна не обговорюється.
 
 🔗 Пов'язане: [negotiate](#negotiate)
 
@@ -100,8 +109,9 @@
 **Пояснення:** про людину, яка лізе в чужі справи. Розмовне, з негативним відтінком.
 
 **Приклади:**
-- Our **nosy** neighbour watches everyone. — Наш допитливий сусід стежить за всіма.
-- Don't be so **nosy** — it's private. — Не пхай носа — це особисте.
+- <code>adj:</code> Our **nosy** neighbour watches everyone. — Наш допитливий сусід стежить за всіма.
+- <code>adj:</code> Don't be so **nosy** — it's private. — Не пхай носа — це особисте.
+- <code>adj:</code> My **nosy** cousin always tries to read my messages. — Мій надто цікавий двоюрідний брат завжди намагається читати мої повідомлення.
 
 ---
 
@@ -111,9 +121,9 @@
 **💡 Два обличчя:** дієслово — «помітити»; іменник — «оголошення» (на дошці, дверях) АБО «попередження заздалегідь»: **two weeks' notice** — заява за два тижні (перед звільненням), **at short notice** — в останній момент, без попередження.
 
 **Приклади:**
-- verb: Did you **notice** the new button in the app? — Ти помітив нову кнопку в застосунку?
-- noun: The **notice** on the door says "Closed". — Оголошення на дверях каже «Зачинено».
-- noun: She handed in her **two weeks' notice**. — Вона подала заяву про звільнення за два тижні.
+- <code>v:</code> Did you **notice** the new button in the app? — Ти помітив нову кнопку в застосунку?
+- <code>n:</code> The **notice** on the door says "Closed". — Оголошення на дверях каже «Зачинено».
+- <code>n:</code> She handed in her **two weeks' notice**. — Вона подала заяву про звільнення за два тижні.
 
 ---
 
@@ -123,6 +133,8 @@
 **Пояснення:** такий, що легко помітити.
 
 **Приклади:**
-- The lag is **noticeable** on older phones. — Затримка помітна на старіших телефонах.
+- <code>adj:</code> The lag is **noticeable** on older phones. — Затримка помітна на старіших телефонах.
+- <code>adj:</code> There's a **noticeable** difference between these two coffees. — Між цими двома видами кави відчутна різниця. _(кава)_
+- <code>adj:</code> After a month at the gym, the change was **noticeable**. — Після місяця в спортзалі зміни були помітні.
 
 🔗 Пов'язане: [notice](#notice)

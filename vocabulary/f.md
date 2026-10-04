@@ -75,10 +75,10 @@
 - **fair-haired** — світловолосий
 
 **Приклади:**
-- <code>adj:</code> It's not **fair** that she does all the work. — Нечесно, що всю роботу робить вона.
-- <code>adj:</code> He has **fair** hair and blue eyes. — У нього світле волосся і блакитні очі.
+- <code>adj</code> It's not **fair** that she does all the work. — Нечесно, що всю роботу робить вона.
+- <code>adj</code> He has **fair** hair and blue eyes. — У нього світле волосся і блакитні очі.
 - <code>n</code> We met at a job **fair** last spring. — Ми познайомились на ярмарку вакансій минулої весни.
-- <code>adv:</code> Our team always **plays fair**, even in the final. — Наша команда завжди грає чесно, навіть у фіналі. _(спорт)_
+- <code>adv</code> Our team always **plays fair**, even in the final. — Наша команда завжди грає чесно, навіть у фіналі. _(спорт)_
 
 
 ---
@@ -221,8 +221,8 @@
 - **flat out** — на повну (working flat out) або навідріз (refuse flat out)
 
 **Приклади:**
-- <code>adj:</code> The road is completely **flat** here — good for cycling. — Дорога тут зовсім рівна — добре для велосипеда.
-- <code>adj:</code> My phone battery is **flat** again. — У мене знову сів телефон.
+- <code>adj</code> The road is completely **flat** here — good for cycling. — Дорога тут зовсім рівна — добре для велосипеда.
+- <code>adj</code> My phone battery is **flat** again. — У мене знову сів телефон.
 - <code>n</code> We rent a small **flat** near the station. — Ми орендуємо маленьку квартиру біля вокзалу.
 
 
@@ -347,9 +347,9 @@
 **💡 Як вставні слова:** ставляться на початку речення і відділяються комою: **Fortunately,** ... / **Unfortunately,** ... — це коментар до всього речення, а не до одного слова.
 
 **Приклади:**
-- <code>adv:</code> **Fortunately,** I had a backup of the database. — На щастя, у мене був бекап бази даних. _(розробка)_
-- <code>adv:</code> **Unfortunately,** the patch broke old save files. — На жаль, патч зламав старі збереження. _(гра)_
-- <code>adv:</code> **Fortunately,** the rain stopped before the match. — На щастя, дощ ущух перед матчем. _(спорт)_
+- <code>adv</code> **Fortunately,** I had a backup of the database. — На щастя, у мене був бекап бази даних. _(розробка)_
+- <code>adv</code> **Unfortunately,** the patch broke old save files. — На жаль, патч зламав старі збереження. _(гра)_
+- <code>adv</code> **Fortunately,** the rain stopped before the match. — На щастя, дощ ущух перед матчем. _(спорт)_
 
 
 
@@ -409,6 +409,6 @@
 - I have no **further** questions. — Більше запитань не маю.
 
 **Приклади:**
-- <code>adj:</code> For **further** information, see the docs. — По додаткову інформацію звертайся до документації. _(розробка)_
-- <code>adv:</code> Let's discuss this **further** tomorrow. — Обговорімо це докладніше завтра.
-- <code>adv:</code> The cave goes much **further** than the map shows. — Печера тягнеться значно далі, ніж показує мапа. _(фентезі)_
+- <code>adj</code> For **further** information, see the docs. — По додаткову інформацію звертайся до документації. _(розробка)_
+- <code>adv</code> Let's discuss this **further** tomorrow. — Обговорімо це докладніше завтра.
+- <code>adv</code> The cave goes much **further** than the map shows. — Печера тягнеться значно далі, ніж показує мапа. _(фентезі)_

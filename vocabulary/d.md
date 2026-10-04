@@ -14,9 +14,9 @@
 - Шкода **чомусь** = **damage TO** sth: the storm caused **damage to** the roof.
 
 **Приклади:**
-- <code>n:</code> The fire sword deals extra **damage** to ice monsters. — Вогняний меч завдає додатковий урон крижаним монстрам.
-- <code>n:</code> The flood caused serious **damage to** the old bridge. — Повінь завдала серйозної шкоди старому мосту.
-- <code>v:</code> I dropped my phone and **damaged** the screen. — Я впустив телефон і пошкодив екран.
+- <code>n</code> The fire sword deals extra **damage** to ice monsters. — Вогняний меч завдає додатковий урон крижаним монстрам.
+- <code>n</code> The flood caused serious **damage to** the old bridge. — Повінь завдала серйозної шкоди старому мосту.
+- <code>v</code> I dropped my phone and **damaged** the screen. — Я впустив телефон і пошкодив екран.
 
 
 ---
@@ -27,9 +27,9 @@
 **Пояснення:** показує повну впевненість, без сумнівів. Часто як коротка відповідь: «Definitely!» = «Однозначно!». Запам'ятай написання: defi**nite**ly (не «definately»).
 
 **Приклади:**
-- <code>adv:</code> This is **definitely** the best game of the year. — Це однозначно найкраща гра року.
-- <code>adv:</code> I'll **definitely** finish this task today. — Я точно закінчу цю задачу сьогодні.
-- <code>adv:</code> "Will you come to the meetup?" — "**Definitely!**" — «Прийдеш на мітап?» — «Однозначно!»
+- <code>adv</code> This is **definitely** the best game of the year. — Це однозначно найкраща гра року.
+- <code>adv</code> I'll **definitely** finish this task today. — Я точно закінчу цю задачу сьогодні.
+- <code>adv</code> "Will you come to the meetup?" — "**Definitely!**" — «Прийдеш на мітап?» — «Однозначно!»
 
 
 ---
@@ -40,9 +40,9 @@
 **Пояснення:** прикметник описує дію, зроблену свідомо, а не випадково (a deliberate lie — навмисна брехня). Дієслово — формальне «довго зважувати рішення». Зверни увагу: кінцівка звучить по-різному — /rət/ у прикметника, /reɪt/ у дієслова.
 
 **Приклади:**
-- <code>adj:</code> It's not a bug — it's a **deliberate** design decision. — Це не баг, а навмисне дизайнерське рішення.
-- <code>adj:</code> He took a slow, **deliberate** step toward the dragon. — Він зробив повільний, обдуманий крок до дракона.
-- <code>v:</code> The jury **deliberated** for three hours. — Присяжні радилися три години.
+- <code>adj</code> It's not a bug — it's a **deliberate** design decision. — Це не баг, а навмисне дизайнерське рішення.
+- <code>adj</code> He took a slow, **deliberate** step toward the dragon. — Він зробив повільний, обдуманий крок до дракона.
+- <code>v</code> The jury **deliberated** for three hours. — Присяжні радилися три години.
 
 
 ---
@@ -53,9 +53,9 @@
 **Пояснення:** «зробити щось спеціально»; протилежне до accidentally (випадково).
 
 **Приклади:**
-- <code>adv:</code> He **deliberately** left the door open. — Він навмисно залишив двері відчиненими.
-- <code>adv:</code> I **deliberately** kept the API simple. — Я навмисно зробив API простим.
-- <code>adv:</code> The defender **deliberately** kicked the ball out. — Захисник навмисно вибив м'яч за межі поля. _(спорт)_
+- <code>adv</code> He **deliberately** left the door open. — Він навмисно залишив двері відчиненими.
+- <code>adv</code> I **deliberately** kept the API simple. — Я навмисно зробив API простим.
+- <code>adv</code> The defender **deliberately** kicked the ball out. — Захисник навмисно вибив м'яч за межі поля. _(спорт)_
 
 🔗 Пов'язане: [deliberate](#deliberate)
 
@@ -68,9 +68,9 @@
 **Пояснення:** привезти або передати щось адресату. У розробці — «поставити» користувачам готову фічу чи реліз. Іменник: **delivery** (доставка).
 
 **Приклади:**
-- <code>v:</code> The courier **delivered** the package in two days. — Кур'єр доставив посилку за два дні.
-- <code>v:</code> Our team **delivers** new features every sprint. — Наша команда здає нові фічі щоспринту.
-- <code>v:</code> She **delivered** a great talk at the conference. — Вона виголосила чудову доповідь на конференції.
+- <code>v</code> The courier **delivered** the package in two days. — Кур'єр доставив посилку за два дні.
+- <code>v</code> Our team **delivers** new features every sprint. — Наша команда здає нові фічі щоспринту.
+- <code>v</code> She **delivered** a great talk at the conference. — Вона виголосила чудову доповідь на конференції.
 
 
 ---
@@ -81,9 +81,9 @@
 **Пояснення:** досліджувати щось глибоко й детально, «закопатися» в тему. Майже завжди з **into**: delve into the code / the logs / a dungeon.
 
 **Приклади:**
-- <code>v:</code> I **delved into** the legacy code to find the bug. — Я закопався в легасі-код, щоб знайти баг.
-- <code>v:</code> The dwarves **delved** too deep into the mountain. — Гноми закопалися надто глибоко в гору.
-- <code>v:</code> Tonight I want to **delve into** the history of Rome. — Сьогодні ввечері хочу заглибитися в історію Риму.
+- <code>v</code> I **delved into** the legacy code to find the bug. — Я закопався в легасі-код, щоб знайти баг.
+- <code>v</code> The dwarves **delved** too deep into the mountain. — Гноми закопалися надто глибоко в гору.
+- <code>v</code> Tonight I want to **delve into** the history of Rome. — Сьогодні ввечері хочу заглибитися в історію Риму.
 
 
 ---
@@ -98,9 +98,9 @@
 - **be derived from** — походити від: "dungeon" **is derived from** Old French.
 
 **Приклади:**
-- <code>v:</code> The word "goblin" **derives from** Old French. — Слово «goblin» походить зі старофранцузької.
-- <code>v:</code> We **derive** this value **from** the user's settings. — Ми виводимо це значення з налаштувань користувача.
-- <code>v:</code> She **derives** real joy **from** coding. — Вона отримує справжню радість від програмування.
+- <code>v</code> The word "goblin" **derives from** Old French. — Слово «goblin» походить зі старофранцузької.
+- <code>v</code> We **derive** this value **from** the user's settings. — Ми виводимо це значення з налаштувань користувача.
+- <code>v</code> She **derives** real joy **from** coding. — Вона отримує справжню радість від програмування.
 
 
 ---
@@ -114,9 +114,9 @@
 - **dune** /djuːn/ — дюна, піщаний бархан *(частина пустелі, не сама пустеля)*
 
 **Приклади:**
-- <code>n:</code> The Sahara is the biggest **desert** in the world. — Сахара — найбільша пустеля світу.
-- <code>v:</code> He **deserted** his friends. — Він покинув своїх друзів.
-- <code>n:</code> We rode camels across the **desert** at sunset. — На заході сонця ми їхали на верблюдах через пустелю. _(подорожі)_
+- <code>n</code> The Sahara is the biggest **desert** in the world. — Сахара — найбільша пустеля світу.
+- <code>v</code> He **deserted** his friends. — Він покинув своїх друзів.
+- <code>n</code> We rode camels across the **desert** at sunset. — На заході сонця ми їхали на верблюдах через пустелю. _(подорожі)_
 
 
 ---
@@ -132,9 +132,9 @@
 - **by design** — навмисно, так задумано: It works like this **by design**. — Так і задумано.
 
 **Приклади:**
-- <code>n:</code> I love the **design** of this bar — chairs made of beer crates. — Мені подобається дизайн цього бару — стільці з пивних ящиків.
-- <code>v:</code> Who **designed** the first level? — Хто спроєктував перший рівень? _(гра)_
-- <code>v:</code> These shoes **are designed for** long runs. — Ці кросівки призначені для довгих пробіжок. _(спорт)_
+- <code>n</code> I love the **design** of this bar — chairs made of beer crates. — Мені подобається дизайн цього бару — стільці з пивних ящиків.
+- <code>v</code> Who **designed** the first level? — Хто спроєктував перший рівень? _(гра)_
+- <code>v</code> These shoes **are designed for** long runs. — Ці кросівки призначені для довгих пробіжок. _(спорт)_
 
 ---
 
@@ -149,9 +149,9 @@
 - Тобто: despite the bugs = although there were bugs.
 
 **Приклади:**
-- <code>prep:</code> **Despite** the bugs, we shipped the release on time. — Попри баги, ми випустили реліз вчасно.
-- <code>prep:</code> **Despite** losing the first round, she won the match. — Попри програний перший раунд, вона виграла матч.
-- <code>prep:</code> **Although** the boss was hard, we defeated him. — Хоча бос був складний, ми його здолали.
+- <code>prep</code> **Despite** the bugs, we shipped the release on time. — Попри баги, ми випустили реліз вчасно.
+- <code>prep</code> **Despite** losing the first round, she won the match. — Попри програний перший раунд, вона виграла матч.
+- <code>prep</code> **Although** the boss was hard, we defeated him. — Хоча бос був складний, ми його здолали.
 
 
 ---
@@ -162,9 +162,9 @@
 **Пояснення:** такий, що містить багато подробиць (details). Часте в роботі: a detailed report / detailed instructions.
 
 **Приклади:**
-- <code>adj:</code> Write a **detailed** description of the bug in the ticket. — Напиши в тікеті детальний опис багу.
-- <code>adj:</code> The wiki has a **detailed** guide for every boss. — У вікі є докладний гайд на кожного боса.
-- <code>adj:</code> The recipe has **detailed** steps with photos. — У рецепті є детальні кроки з фото. _(кулінарія)_
+- <code>adj</code> Write a **detailed** description of the bug in the ticket. — Напиши в тікеті детальний опис багу.
+- <code>adj</code> The wiki has a **detailed** guide for every boss. — У вікі є докладний гайд на кожного боса.
+- <code>adj</code> The recipe has **detailed** steps with photos. — У рецепті є детальні кроки з фото. _(кулінарія)_
 
 
 ---
@@ -175,9 +175,9 @@
 **Пояснення:** поступово ставати кращим/більшим або створювати щось складне. У IT — розробляти ПЗ. Іменники: **development** (розробка), **developer** (розробник).
 
 **Приклади:**
-- <code>v:</code> She's **developing** a mobile app in React Native. — Вона розробляє мобільний застосунок на React Native.
-- <code>v:</code> Reading **develops** your vocabulary. — Читання розвиває твій словниковий запас.
-- <code>v:</code> The young striker **developed** quickly in his first season. — Молодий нападник швидко розвинувся за свій перший сезон. _(спорт)_
+- <code>v</code> She's **developing** a mobile app in React Native. — Вона розробляє мобільний застосунок на React Native.
+- <code>v</code> Reading **develops** your vocabulary. — Читання розвиває твій словниковий запас.
+- <code>v</code> The young striker **developed** quickly in his first season. — Молодий нападник швидко розвинувся за свій перший сезон. _(спорт)_
 
 
 ---
@@ -192,9 +192,9 @@
 - **It makes no difference.** — Це нічого не змінює / без різниці.
 
 **Приклади:**
-- <code>n:</code> What's the **difference** between `let` and `const`? — Яка різниця між `let` і `const`?
-- <code>n:</code> Daily practice **makes a big difference** in language learning. — Щоденна практика дуже змінює результат у вивченні мови.
-- <code>n:</code> Tea or coffee? It makes no **difference** to me. — Чай чи кава? Мені без різниці.
+- <code>n</code> What's the **difference** between `let` and `const`? — Яка різниця між `let` і `const`?
+- <code>n</code> Daily practice **makes a big difference** in language learning. — Щоденна практика дуже змінює результат у вивченні мови.
+- <code>n</code> Tea or coffee? It makes no **difference** to me. — Чай чи кава? Мені без різниці.
 
 🔗 Пов'язане: [different](#different)
 
@@ -211,9 +211,9 @@
 - Ще трапляються: different to (розмовне BrE), different than (AmE). У письмі тримайся **different from**.
 
 **Приклади:**
-- <code>adj:</code> The mobile version is **different from** the desktop one. — Мобільна версія відрізняється від десктопної.
-- <code>adj:</code> Each class in the game has a **different** playstyle. — Кожен клас у грі має інший стиль гри.
-- <code>adj:</code> We grew up in **different** cities but met at university. — Ми виросли в різних містах, але познайомилися в університеті.
+- <code>adj</code> The mobile version is **different from** the desktop one. — Мобільна версія відрізняється від десктопної.
+- <code>adj</code> Each class in the game has a **different** playstyle. — Кожен клас у грі має інший стиль гри.
+- <code>adj</code> We grew up in **different** cities but met at university. — Ми виросли в різних містах, але познайомилися в університеті.
 
 🔗 Пов'язане: [difference](#difference)
 
@@ -226,9 +226,9 @@
 **Пояснення:** без посередників чи проміжних кроків; також «прямо, відверто» про розмову.
 
 **Приклади:**
-- <code>adv:</code> The app talks **directly** to the database. — Застосунок звертається безпосередньо до бази даних.
-- <code>adv:</code> Ask him **directly** instead of guessing. — Спитай його прямо, замість того щоб гадати.
-- <code>adv:</code> This train goes **directly** to the airport. — Цей потяг їде прямо до аеропорту. _(подорожі)_
+- <code>adv</code> The app talks **directly** to the database. — Застосунок звертається безпосередньо до бази даних.
+- <code>adv</code> Ask him **directly** instead of guessing. — Спитай його прямо, замість того щоб гадати.
+- <code>adv</code> This train goes **directly** to the airport. — Цей потяг їде прямо до аеропорту. _(подорожі)_
 
 
 ---
@@ -239,9 +239,9 @@
 **Пояснення:** протилежність advantage (префікс dis- = «не-»). Вираз: **be at a disadvantage** — бути в невигідному становищі.
 
 **Приклади:**
-- <code>n:</code> The main **disadvantage** of this library is its size. — Головний недолік цієї бібліотеки — її розмір.
-- <code>n:</code> Melee heroes are **at a disadvantage** against flying units. — Герої ближнього бою у невигідному становищі проти летючих юнітів.
-- <code>n:</code> One **disadvantage** of city life is the noise. — Один із мінусів життя в місті — шум.
+- <code>n</code> The main **disadvantage** of this library is its size. — Головний недолік цієї бібліотеки — її розмір.
+- <code>n</code> Melee heroes are **at a disadvantage** against flying units. — Герої ближнього бою у невигідному становищі проти летючих юнітів.
+- <code>n</code> One **disadvantage** of city life is the noise. — Один із мінусів життя в місті — шум.
 
 🔗 Пов'язане: [advantage](a.md#advantage)
 
@@ -259,9 +259,9 @@
 - Прийменники: disappointed **with/by** sth, disappointed **in** sb.
 
 **Приклади:**
-- <code>v:</code> I don't want to **disappoint** the team. — Я не хочу розчарувати команду.
-- <code>v:</code> I was **disappointed with** the new patch. — Я був розчарований новим патчем.
-- <code>v:</code> The sequel was **disappointing**. — Продовження виявилося розчаруванням.
+- <code>v</code> I don't want to **disappoint** the team. — Я не хочу розчарувати команду.
+- <code>v</code> I was **disappointed with** the new patch. — Я був розчарований новим патчем.
+- <code>v</code> The sequel was **disappointing**. — Продовження виявилося розчаруванням.
 
 
 ---
@@ -272,9 +272,9 @@
 **Пояснення:** протилежність **encourage**. Та сама -ed/-ing пара, що й disappointed/disappointing: **discouraged** — про людину (втратила мотивацію), **discouraging** — про річ/ситуацію (демотивує).
 
 **Приклади:**
-- <code>v:</code> Don't let one bad review **discourage** you. — Не дозволяй одному поганому відгуку тебе демотивувати.
-- <code>adj:</code> The results were **discouraging**, but we kept going. — Результати були невтішними, але ми продовжили.
-- <code>v:</code> The rain didn't **discourage** the fans from coming. — Дощ не відбив у фанатів бажання прийти. _(спорт)_
+- <code>v</code> Don't let one bad review **discourage** you. — Не дозволяй одному поганому відгуку тебе демотивувати.
+- <code>adj</code> The results were **discouraging**, but we kept going. — Результати були невтішними, але ми продовжили.
+- <code>v</code> The rain didn't **discourage** the fans from coming. — Дощ не відбив у фанатів бажання прийти. _(спорт)_
 
 🔗 Пов'язане: [disappoint](#disappoint) — та сама -ed/-ing логіка.
 
@@ -291,9 +291,9 @@
 - **distinguish** A **from** B — відрізняти А від Б.
 
 **Приклади:**
-- <code>v:</code> Beginners don't always **distinguish between** an error and a warning. — Початківці не завжди розрізняють помилку й попередження.
-- <code>v:</code> It's hard to **distinguish** the fake site **from** the real one. — Важко відрізнити фейковий сайт від справжнього.
-- <code>v:</code> Can you **distinguish** a wolf **from** a husky in this photo? — Ти можеш відрізнити вовка від хаскі на цьому фото?
+- <code>v</code> Beginners don't always **distinguish between** an error and a warning. — Початківці не завжди розрізняють помилку й попередження.
+- <code>v</code> It's hard to **distinguish** the fake site **from** the real one. — Важко відрізнити фейковий сайт від справжнього.
+- <code>v</code> Can you **distinguish** a wolf **from** a husky in this photo? — Ти можеш відрізнити вовка від хаскі на цьому фото?
 
 
 ---
@@ -309,9 +309,9 @@
 - **I doubt it.** — Сумніваюся. (коротка відповідь)
 
 **Приклади:**
-- <code>v:</code> I **doubt** this quick fix will survive the code review. — Сумніваюся, що цей швидкий фікс переживе код-рев'ю.
-- <code>n:</code> There's **no doubt** she's the strongest player on the server. — Немає сумніву, що вона найсильніша гравчиня на сервері.
-- <code>v:</code> "Will it stop raining soon?" — "I **doubt** it." — «Дощ скоро вщухне?» — «Сумніваюся».
+- <code>v</code> I **doubt** this quick fix will survive the code review. — Сумніваюся, що цей швидкий фікс переживе код-рев'ю.
+- <code>n</code> There's **no doubt** she's the strongest player on the server. — Немає сумніву, що вона найсильніша гравчиня на сервері.
+- <code>v</code> "Will it stop raining soon?" — "I **doubt** it." — «Дощ скоро вщухне?» — «Сумніваюся».
 
 
 ---
@@ -327,9 +327,9 @@
 - Після числівника без -s: two **dozen** roses.
 
 **Приклади:**
-- <code>n:</code> Buy **a dozen** eggs on your way home. — Купи дюжину яєць дорогою додому.
-- <code>n:</code> I've closed **dozens of** tickets this week. — Я закрив десятки тікетів цього тижня.
-- <code>n:</code> We ordered two **dozen** croissants for the team. — Ми замовили дві дюжини круасанів для команди.
+- <code>n</code> Buy **a dozen** eggs on your way home. — Купи дюжину яєць дорогою додому.
+- <code>n</code> I've closed **dozens of** tickets this week. — Я закрив десятки тікетів цього тижня.
+- <code>n</code> We ordered two **dozen** croissants for the team. — Ми замовили дві дюжини круасанів для команди.
 
 
 ---
@@ -340,9 +340,9 @@
 **Пояснення:** про рідину — витікати або зливати; про ресурси — поступово «висмоктувати» енергію, заряд чи ману.
 
 **Приклади:**
-- <code>v:</code> This app **drains** the battery in two hours. — Цей застосунок висаджує батарею за дві години.
-- <code>v:</code> The vampire's spell **drains** your mana. — Закляття вампіра висмоктує твою ману.
-- <code>n:</code> The water went down the **drain**. — Вода стекла у злив.
+- <code>v</code> This app **drains** the battery in two hours. — Цей застосунок висаджує батарею за дві години.
+- <code>v</code> The vampire's spell **drains** your mana. — Закляття вампіра висмоктує твою ману.
+- <code>n</code> The water went down the **drain**. — Вода стекла у злив.
 
 
 ---
@@ -353,9 +353,9 @@
 **Пояснення:** переносне значення дієслова — щось «жене» рішення чи зміну вперед, є мотивацією чи причиною. Неправильне дієслово: **drive — drove — driven** (див. [irregular-verbs.md](../irregular-verbs.md)).
 
 **Приклади:**
-- <code>v:</code> What **drove** your decision to switch teams? — Що спонукало твоє рішення перейти в іншу команду?
-- <code>v:</code> Customer feedback **drives** our roadmap. — Відгуки клієнтів визначають наш план розробки.
-- <code>n:</code> She has real **drive**. — У неї справжня жага до успіху.
+- <code>v</code> What **drove** your decision to switch teams? — Що спонукало твоє рішення перейти в іншу команду?
+- <code>v</code> Customer feedback **drives** our roadmap. — Відгуки клієнтів визначають наш план розробки.
+- <code>n</code> She has real **drive**. — У неї справжня жага до успіху.
 
 
 ---
@@ -366,6 +366,6 @@
 **Пояснення:** підземна в'язниця в замку; у RPG — підземна локація з монстрами та лутом, яку проходять командою.
 
 **Приклади:**
-- <code>n:</code> The prisoners were kept in a dark **dungeon**. — В'язнів тримали в темному підземеллі.
-- <code>n:</code> We cleared the new **dungeon** on the first try. — Ми зачистили новий данж із першої спроби.
-- <code>n:</code> The hero escaped from the **dungeon** through an old tunnel. — Герой утік із підземелля старим тунелем. _(фентезі)_
+- <code>n</code> The prisoners were kept in a dark **dungeon**. — В'язнів тримали в темному підземеллі.
+- <code>n</code> We cleared the new **dungeon** on the first try. — Ми зачистили новий данж із першої спроби.
+- <code>n</code> The hero escaped from the **dungeon** through an old tunnel. — Герой утік із підземелля старим тунелем. _(фентезі)_

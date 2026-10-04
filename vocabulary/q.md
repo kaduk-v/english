@@ -15,9 +15,9 @@
 - порівняй: a **quiet** office — тихий офіс · **quite** a good app — досить хороший застосунок.
 
 **Приклади:**
-- <code>adj:</code> Please be **quiet** — I'm on a call. — Будь ласка, тихіше — я на дзвінку.
-- <code>adj:</code> It was a **quiet** day: no bugs, no deploys. — День був спокійний: ні багів, ні деплоїв.
-- <code>n:</code> I need some peace and **quiet** to focus on this quest. — Мені потрібні тиша і спокій, щоб зосередитися на цьому квесті.
+- <code>adj</code> Please be **quiet** — I'm on a call. — Будь ласка, тихіше — я на дзвінку.
+- <code>adj</code> It was a **quiet** day: no bugs, no deploys. — День був спокійний: ні багів, ні деплоїв.
+- <code>n</code> I need some peace and **quiet** to focus on this quest. — Мені потрібні тиша і спокій, щоб зосередитися на цьому квесті.
 
 ---
 
@@ -32,9 +32,9 @@
 - **I quit!** — Я звільняюся! / Здаюся!
 
 **Приклади:**
-- <code>v:</code> She **quit** her job and moved to Lisbon. — Вона кинула роботу й переїхала до Лісабона.
-- <code>v:</code> I **quit** coffee for a month. — Я на місяць кинув каву.
-- <code>v:</code> My dad **quit smoking** ten years ago. — Мій тато кинув курити десять років тому.
+- <code>v</code> She **quit** her job and moved to Lisbon. — Вона кинула роботу й переїхала до Лісабона.
+- <code>v</code> I **quit** coffee for a month. — Я на місяць кинув каву.
+- <code>v</code> My dad **quit smoking** ten years ago. — Мій тато кинув курити десять років тому.
 
 ---
 
@@ -51,6 +51,6 @@
 **💡 Не плутай із [quiet](#quiet)** /ˈkwaɪət/ (тихий, 2 склади): a **quiet** office — тихий офіс · **quite** a good app — досить хороший застосунок.
 
 **Приклади:**
-- <code>adv:</code> The new update is **quite** good. — Нове оновлення досить непогане.
-- <code>adv:</code> Migrating the database was **quite a** challenge. — Міграція бази даних була неабияким викликом.
-- <code>adv:</code> "This legacy code is a nightmare." "**Quite!**" — «Цей легасі-код — жах». — «Отож!»
+- <code>adv</code> The new update is **quite** good. — Нове оновлення досить непогане.
+- <code>adv</code> Migrating the database was **quite a** challenge. — Міграція бази даних була неабияким викликом.
+- <code>adv</code> "This legacy code is a nightmare." "**Quite!**" — «Цей легасі-код — жах». — «Отож!»

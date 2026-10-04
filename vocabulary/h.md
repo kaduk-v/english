@@ -16,9 +16,9 @@
 - **life hack** — лайфхак.
 
 **Приклади:**
-- <code>v:</code> Someone **hacked into** our email server last night. — Хтось зламав наш поштовий сервер минулої ночі.
-- <code>n:</code> It's a **quick hack**, not a real fix. — Це костиль, а не справжнє виправлення.
-- <code>n:</code> Here's a life **hack**: freeze leftover coffee in an ice cube tray. — Ось лайфхак: заморожуй залишки кави у формочці для льоду.
+- <code>v</code> Someone **hacked into** our email server last night. — Хтось зламав наш поштовий сервер минулої ночі.
+- <code>n</code> It's a **quick hack**, not a real fix. — Це костиль, а не справжнє виправлення.
+- <code>n</code> Here's a life **hack**: freeze leftover coffee in an ice cube tray. — Ось лайфхак: заморожуй залишки кави у формочці для льоду.
 
 ---
 
@@ -28,9 +28,9 @@
 **Пояснення:** дієслово — про здатність впоратись зі складною ситуацією, запитом, навантаженням («система обробляє 1000 запитів», «він упорався зі скаргою клієнта»). Часто в парі з `get` у розмовному пасиві: `it gets handled` — «з цим розбираються/це вирішується».
 
 **Приклади:**
-- <code>v:</code> This worker **handles** all payment transactions. — Цей воркер обробляє всі платіжні транзакції.
-- <code>v:</code> Don't worry, the support team will **handle** it. — Не хвилюйся, команда підтримки з цим розбереться.
-- <code>n:</code> The **handle** of my favourite mug broke this morning. — Сьогодні вранці відпала ручка моєї улюбленої чашки.
+- <code>v</code> This worker **handles** all payment transactions. — Цей воркер обробляє всі платіжні транзакції.
+- <code>v</code> Don't worry, the support team will **handle** it. — Не хвилюйся, команда підтримки з цим розбереться.
+- <code>n</code> The **handle** of my favourite mug broke this morning. — Сьогодні вранці відпала ручка моєї улюбленої чашки.
 
 ---
 
@@ -45,9 +45,9 @@
 Дві букви різниці — протилежний зміст!
 
 **Приклади:**
-- <code>adv:</code> I can **hardly** hear you — the connection is bad. — Я тебе ледве чую — зв'язок поганий.
-- <code>adv:</code> He **hardly ever** plays ranked matches. — Він майже ніколи не грає рейтингових матчів. _(гра)_
-- <code>adv:</code> There's **hardly any** mana left. — Мани майже не лишилося. _(гра)_
+- <code>adv</code> I can **hardly** hear you — the connection is bad. — Я тебе ледве чую — зв'язок поганий.
+- <code>adv</code> He **hardly ever** plays ranked matches. — Він майже ніколи не грає рейтингових матчів. _(гра)_
+- <code>adv</code> There's **hardly any** mana left. — Мани майже не лишилося. _(гра)_
 
 ---
 
@@ -57,9 +57,9 @@
 **Пояснення:** серйозні життєві труднощі — фінансові, фізичні чи побутові; значно сильніше за просте difficulty.
 
 **Приклади:**
-- <code>n:</code> The villagers endured great **hardship** during the long winter. — Селяни пережили великі злигодні тієї довгої зими. _(фентезі)_
-- <code>n:</code> Economic **hardship** forced them to sell the farm. — Матеріальна скрута змусила їх продати ферму.
-- <code>n:</code> The film shows the **hardships** of life in a small mining town. — Фільм показує злигодні життя в маленькому шахтарському містечку. _(кіно)_
+- <code>n</code> The villagers endured great **hardship** during the long winter. — Селяни пережили великі злигодні тієї довгої зими. _(фентезі)_
+- <code>n</code> Economic **hardship** forced them to sell the farm. — Матеріальна скрута змусила їх продати ферму.
+- <code>n</code> The film shows the **hardships** of life in a small mining town. — Фільм показує злигодні життя в маленькому шахтарському містечку. _(кіно)_
 
 ---
 
@@ -72,9 +72,9 @@
 - **healthy** /ˈhelθi/ — прикметник «здоровий»: *a **healthy** diet*
 
 **Приклади:**
-- <code>n:</code> Stress harms your **health**. — Стрес шкодить твоєму здоров'ю.
-- <code>n:</code> She is in good **health**. — Вона при доброму здоров'ї.
-- <code>n:</code> Regular sleep is good for your mental **health**. — Регулярний сон корисний для психічного здоров'я.
+- <code>n</code> Stress harms your **health**. — Стрес шкодить твоєму здоров'ю.
+- <code>n</code> She is in good **health**. — Вона при доброму здоров'ї.
+- <code>n</code> Regular sleep is good for your mental **health**. — Регулярний сон корисний для психічного здоров'я.
 
 ---
 
@@ -84,9 +84,9 @@
 **Пояснення:** людина, що свідомо живе на самоті, далеко від людей. Класика фентезі: старий мудрець-відлюдник, який навчає героя. Бонус: **hermit crab** — рак-самітник.
 
 **Приклади:**
-- <code>n:</code> An old **hermit** in the mountains taught the hero his first spell. — Старий відлюдник у горах навчив героя першого закляття. _(фентезі)_
-- <code>n:</code> After the deadline I lived like a **hermit** for a week. — Після дедлайну я тиждень жив як відлюдник. _(розробка, жарт)_
-- <code>n:</code> A **hermit** crab carries its home on its back. — Рак-самітник носить свій дім на спині.
+- <code>n</code> An old **hermit** in the mountains taught the hero his first spell. — Старий відлюдник у горах навчив героя першого закляття. _(фентезі)_
+- <code>n</code> After the deadline I lived like a **hermit** for a week. — Після дедлайну я тиждень жив як відлюдник. _(розробка, жарт)_
+- <code>n</code> A **hermit** crab carries its home on its back. — Рак-самітник носить свій дім на спині.
 
 ---
 
@@ -100,9 +100,9 @@
 - **hesitation about/in** doing sth — вагання щодо чогось: I had some **hesitation about** joining the call.
 
 **Приклади:**
-- <code>n:</code> He accepted the offer **without hesitation**. — Він прийняв пропозицію без жодних вагань.
-- <code>n:</code> There was a moment of **hesitation** before she answered. — Була мить вагання, перш ніж вона відповіла.
-- <code>n:</code> I had some **hesitation about** buying such an expensive bike. — Я трохи вагався, чи купувати такий дорогий велосипед.
+- <code>n</code> He accepted the offer **without hesitation**. — Він прийняв пропозицію без жодних вагань.
+- <code>n</code> There was a moment of **hesitation** before she answered. — Була мить вагання, перш ніж вона відповіла.
+- <code>n</code> I had some **hesitation about** buying such an expensive bike. — Я трохи вагався, чи купувати такий дорогий велосипед.
 
 🔗 **Пов'язане:** [agree](a.md#agree) — часто разом: agreed without hesitation.
 
@@ -114,9 +114,9 @@
 **Пояснення:** деталь, на якій обертаються двері, кришка ноутбука чи скрині; фразове **hinge on something** — «усе тримається на» чомусь одному.
 
 **Приклади:**
-- <code>n:</code> The dungeon door creaked on its rusty **hinges**. — Двері підземелля рипіли на іржавих завісах. _(фентезі)_
-- <code>n:</code> My laptop **hinge** is loose after two years. — Завіса ноутбука розхиталася за два роки. _(побут)_
-- <code>v:</code> The whole plan **hinges on** one API being stable. — Увесь план тримається на стабільності одного API. _(розробка)_
+- <code>n</code> The dungeon door creaked on its rusty **hinges**. — Двері підземелля рипіли на іржавих завісах. _(фентезі)_
+- <code>n</code> My laptop **hinge** is loose after two years. — Завіса ноутбука розхиталася за два роки. _(побут)_
+- <code>v</code> The whole plan **hinges on** one API being stable. — Увесь план тримається на стабільності одного API. _(розробка)_
 
 ---
 
@@ -128,10 +128,10 @@
 **💡 hoard vs horde — омофони /hɔːd/:** **hoard** — запас/скарб, **horde** — орда, полчище: a **horde** of orcs — орда орків. Дракон спить на **hoard**, а атакує тебе **horde**. _(ігрова пастка)_
 
 **Приклади:**
-- <code>n:</code> The dragon sleeps on a **hoard** of gold. — Дракон спить на горі золота. _(фентезі)_
-- <code>v:</code> I **hoard** health potions and finish the game with 99 unused. — Я запасаю зілля лікування і проходжу гру з 99 невикористаними. _(гра)_
-- <code>v:</code> My grandmother **hoards** jars in the cupboard — just in case. — Бабуся складає банки в шафці — про всяк випадок.
-- <code>n:</code> A **horde** of goblins stormed the gate. — Орда ґоблінів ринула на браму. _(контраст: це horde!)_
+- <code>n</code> The dragon sleeps on a **hoard** of gold. — Дракон спить на горі золота. _(фентезі)_
+- <code>v</code> I **hoard** health potions and finish the game with 99 unused. — Я запасаю зілля лікування і проходжу гру з 99 невикористаними. _(гра)_
+- <code>v</code> My grandmother **hoards** jars in the cupboard — just in case. — Бабуся складає банки в шафці — про всяк випадок.
+- <code>n</code> A **horde** of goblins stormed the gate. — Орда ґоблінів ринула на браму. _(контраст: це horde!)_
 
 ---
 
@@ -141,9 +141,9 @@
 **💡 Фразові / сталі:** **hold on** — зачекай / тримайся; **hold on to** sth — триматися за щось.
 
 **Приклади:**
-- <code>v:</code> She's **holding** two controllers. — Вона тримає два джойстики.
-- <code>v:</code> They **held** a meeting yesterday. — Вони провели зустріч учора.
-- <code>v:</code> **Hold on**, I'll check. — Зачекай, я перевірю.
+- <code>v</code> She's **holding** two controllers. — Вона тримає два джойстики.
+- <code>v</code> They **held** a meeting yesterday. — Вони провели зустріч учора.
+- <code>v</code> **Hold on**, I'll check. — Зачекай, я перевірю.
 
 ---
 
@@ -157,6 +157,6 @@
 - поранити(ся) / образити: I **hurt** my knee. — Я забив коліно. / You **hurt** her feelings. — Ти образив її почуття.
 
 **Приклади:**
-- <code>v:</code> My eyes **hurt** after ten hours of coding. — Очі болять після десяти годин кодингу. _(розробка)_
-- <code>v:</code> I fell off the ladder and **hurt** my arm yesterday. — Я вчора впав із драбини й забив руку. _(минулий час — форма та сама!)_
-- <code>v:</code> Her words **hurt** him more than any sword. — Її слова поранили його дужче за будь-який меч. _(фентезі)_
+- <code>v</code> My eyes **hurt** after ten hours of coding. — Очі болять після десяти годин кодингу. _(розробка)_
+- <code>v</code> I fell off the ladder and **hurt** my arm yesterday. — Я вчора впав із драбини й забив руку. _(минулий час — форма та сама!)_
+- <code>v</code> Her words **hurt** him more than any sword. — Її слова поранили його дужче за будь-який меч. _(фентезі)_

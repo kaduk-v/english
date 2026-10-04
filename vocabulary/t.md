@@ -10,9 +10,9 @@
 **💡 Часті сталі вирази:** **take a photo** (зробити фото), **take place** (відбуватися), **take time** (займати час), **take a break** (зробити перерву), **take care** (берегтися).
 
 **Приклади:**
-- <code>v:</code> The match **takes** two hours. — Матч триває дві години.
-- <code>v:</code> Let's **take a break**. — Зробімо перерву.
-- <code>v:</code> Where did the event **take place**? — Де відбулася подія?
+- <code>v</code> The match **takes** two hours. — Матч триває дві години.
+- <code>v</code> Let's **take a break**. — Зробімо перерву.
+- <code>v</code> Where did the event **take place**? — Де відбулася подія?
 
 
 
@@ -26,9 +26,9 @@
 **💡 Конструкція `tend to` + інфінітив** — саме так це слово живе в реченні: I **tend to** forget names _(не «I tend forgetting»)_.
 
 **Приклади:**
-- <code>v:</code> Junior devs **tend to** over-engineer simple features. — Джуніори схильні переускладнювати прості фічі.
-- <code>v:</code> I **tend to** stay up late when I play online. — Я зазвичай засиджуюся допізна, коли граю онлайн.
-- <code>v:</code> Prices **tend to** go up in summer. — Улітку ціни зазвичай ростуть.
+- <code>v</code> Junior devs **tend to** over-engineer simple features. — Джуніори схильні переускладнювати прості фічі.
+- <code>v</code> I **tend to** stay up late when I play online. — Я зазвичай засиджуюся допізна, коли граю онлайн.
+- <code>v</code> Prices **tend to** go up in summer. — Улітку ціни зазвичай ростуть.
 
 
 
@@ -45,9 +45,9 @@
 - **terribly sorry** — страшенно шкода (ввічливе)
 
 **Приклади:**
-- <code>adj:</code> My first post was **terrible** — eleven views. — Мій перший пост був жахливий — одинадцять переглядів.
-- <code>adj:</code> The coffee shop had a beautiful interior and **terrible** service. — У кав'ярні був гарний інтер'єр і жахливий сервіс.
-- <code>adj:</code> I'm **terrible at** remembering birthdays. — Я жахливо запам'ятовую дні народження.
+- <code>adj</code> My first post was **terrible** — eleven views. — Мій перший пост був жахливий — одинадцять переглядів.
+- <code>adj</code> The coffee shop had a beautiful interior and **terrible** service. — У кав'ярні був гарний інтер'єр і жахливий сервіс.
+- <code>adj</code> I'm **terrible at** remembering birthdays. — Я жахливо запам'ятовую дні народження.
 
 ---
 
@@ -62,9 +62,9 @@
 - **Thankfully, …** — На щастя, … *(на початку речення)*.
 
 **Приклади:**
-- <code>adj:</code> I'm **thankful that** the tests caught the bug before release. — Я вдячний, що тести зловили баг до релізу.
-- <code>adv:</code> **Thankfully**, nobody was hurt. — На щастя, ніхто не постраждав.
-- <code>adj:</code> I'm **thankful for** good friends and good coffee. — Я вдячний за добрих друзів і добру каву.
+- <code>adj</code> I'm **thankful that** the tests caught the bug before release. — Я вдячний, що тести зловили баг до релізу.
+- <code>adv</code> **Thankfully**, nobody was hurt. — На щастя, ніхто не постраждав.
+- <code>adj</code> I'm **thankful for** good friends and good coffee. — Я вдячний за добрих друзів і добру каву.
 
 
 
@@ -81,9 +81,9 @@
 - **through thick and thin** — крізь усе, у горі й радості
 
 **Приклади:**
-- <code>adj:</code> The book is too **thick** to read in one evening. — Книжка надто товста, щоб прочитати за вечір.
-- <code>adj:</code> The fog was so **thick** that we couldn't see the road. — Туман був такий густий, що ми не бачили дороги.
-- <code>adj:</code> She has **thick** dark hair. — У неї густе темне волосся.
+- <code>adj</code> The book is too **thick** to read in one evening. — Книжка надто товста, щоб прочитати за вечір.
+- <code>adj</code> The fog was so **thick** that we couldn't see the road. — Туман був такий густий, що ми не бачили дороги.
+- <code>adj</code> She has **thick** dark hair. — У неї густе темне волосся.
 
 
 ---
@@ -94,9 +94,9 @@
 **💡 be thirsty** — хотіти пити: I'm thirsty = я хочу пити _(не «I want drink»)_. Пара: **hungry** (голодний) / **thirsty** (спраглий). Переносно: **thirsty for** + що — спраглий до (знань, помсти, пригод).
 
 **Приклади:**
-- <code>adj:</code> After the long dungeon run I was really **thirsty**. — Після довгого забігу підземеллям мені дуже хотілося пити.
-- <code>adj:</code> The young knight was **thirsty for** adventure. — Юний лицар прагнув пригод.
-- <code>adj:</code> Can I have some water? I'm really **thirsty**. — Можна мені води? Я дуже хочу пити.
+- <code>adj</code> After the long dungeon run I was really **thirsty**. — Після довгого забігу підземеллям мені дуже хотілося пити.
+- <code>adj</code> The young knight was **thirsty for** adventure. — Юний лицар прагнув пригод.
+- <code>adj</code> Can I have some water? I'm really **thirsty**. — Можна мені води? Я дуже хочу пити.
 
 
 
@@ -113,9 +113,9 @@
 - **through** /θruː/ — крізь, через (walk **through** the door)
 
 **Приклади:**
-- <code>conj:</code> **Though** the quest was hard, we finished it. — Хоча квест був складний, ми його завершили.
-- <code>adv:</code> The update is buggy. I like the new design, **though**. — Оновлення глючне. Зате новий дизайн мені подобається.
-- <code>conj:</code> We went for a walk, **though** it was cold. — Ми пішли на прогулянку, хоча було холодно.
+- <code>conj</code> **Though** the quest was hard, we finished it. — Хоча квест був складний, ми його завершили.
+- <code>adv</code> The update is buggy. I like the new design, **though**. — Оновлення глючне. Зате новий дизайн мені подобається.
+- <code>conj</code> We went for a walk, **though** it was cold. — Ми пішли на прогулянку, хоча було холодно.
 
 
 
@@ -127,9 +127,9 @@
 **💡 Не плутай** із [though](#though) /ðəʊ/ (хоча) — інша вимова й інший зміст! Часта фраза: **at first I thought…** — спершу я думав…
 
 **Приклади:**
-- <code>v:</code> I **thought** you were offline. — Я думав, ти офлайн.
-- <code>n:</code> She shared her **thoughts** about the new feature. — Вона поділилася думками про нову фічу.
-- <code>v:</code> At first I **thought** the game was too hard. — Спершу я думав, що гра надто складна. _(гра)_
+- <code>v</code> I **thought** you were offline. — Я думав, ти офлайн.
+- <code>n</code> She shared her **thoughts** about the new feature. — Вона поділилася думками про нову фічу.
+- <code>v</code> At first I **thought** the game was too hard. — Спершу я думав, що гра надто складна. _(гра)_
 
 
 
@@ -141,9 +141,9 @@
 **💡 Дієслово — `threaten`** /ˈθretn/ (погрожувати). Сталий вираз: **a threat to** sb/sth — загроза **для**.
 
 **Приклади:**
-- <code>n:</code> Climate change is a **threat to** the whole planet. — Зміна клімату — загроза для всієї планети.
-- <code>n:</code> The virus is a serious **threat**. — Вірус — серйозна загроза.
-- <code>n:</code> Bad sleep is a real **threat to** your health. — Поганий сон — справжня загроза для твого здоров'я.
+- <code>n</code> Climate change is a **threat to** the whole planet. — Зміна клімату — загроза для всієї планети.
+- <code>n</code> The virus is a serious **threat**. — Вірус — серйозна загроза.
+- <code>n</code> Bad sleep is a real **threat to** your health. — Поганий сон — справжня загроза для твого здоров'я.
 
 
 
@@ -157,9 +157,9 @@
 **💡 BrE towards / AmE toward.** Стала фраза: **attitude towards** sb/sth — ставлення **до** когось/чогось.
 
 **Приклади:**
-- <code>prep:</code> The NPC slowly walked **towards** the gate. — NPC повільно йшов у бік воріт.
-- <code>prep:</code> His attitude **towards** testing has changed. — Його ставлення до тестування змінилося.
-- <code>prep:</code> The dog ran **towards** me, wagging its tail. — Пес побіг до мене, махаючи хвостом.
+- <code>prep</code> The NPC slowly walked **towards** the gate. — NPC повільно йшов у бік воріт.
+- <code>prep</code> His attitude **towards** testing has changed. — Його ставлення до тестування змінилося.
+- <code>prep</code> The dog ran **towards** me, wagging its tail. — Пес побіг до мене, махаючи хвостом.
 
 
 
@@ -174,9 +174,9 @@
 - **city** /ˈsɪti/ — велике місто (Kyiv, London, New York)
 
 **Приклади:**
-- <code>n:</code> She lives in a small **town** near Lviv. — Вона живе в маленькому містечку біля Львова.
-- <code>n:</code> He moved from a **village** to the **city**. — Він переїхав із села у велике місто.
-- <code>n:</code> Let's go into **town** and get some coffee. — Ходімо в місто, вип'ємо кави.
+- <code>n</code> She lives in a small **town** near Lviv. — Вона живе в маленькому містечку біля Львова.
+- <code>n</code> He moved from a **village** to the **city**. — Він переїхав із села у велике місто.
+- <code>n</code> Let's go into **town** and get some coffee. — Ходімо в місто, вип'ємо кави.
 
 
 
@@ -188,9 +188,9 @@
 **Пояснення:** той, хто зрадив свою сторону — королівство, команду, друзів. Дієслово — **betray** /bɪˈtreɪ/ (зраджувати).
 
 **Приклади:**
-- <code>n:</code> The king trusted him, but he was a **traitor**. — Король довіряв йому, але він був зрадником.
-- <code>n:</code> In this game one player is secretly a **traitor**. — У цій грі один гравець — таємний зрадник.
-- <code>n:</code> Fans called him a **traitor** when he joined the rival club. — Фанати назвали його зрадником, коли він перейшов у клуб-суперник. _(спорт)_
+- <code>n</code> The king trusted him, but he was a **traitor**. — Король довіряв йому, але він був зрадником.
+- <code>n</code> In this game one player is secretly a **traitor**. — У цій грі один гравець — таємний зрадник.
+- <code>n</code> Fans called him a **traitor** when he joined the rival club. — Фанати назвали його зрадником, коли він перейшов у клуб-суперник. _(спорт)_
 
 
 
@@ -206,10 +206,10 @@
 - **Trick or treat!** — «Цукерки або шкода!» (Гелловін) → [trick](#trick)
 
 **Приклади:**
-- <code>v:</code> **Treat** your teammates with respect. — Стався до тіммейтів із повагою.
-- <code>v:</code> The healer **treated** the knight's wounds. — Цілитель обробив рани лицаря.
-- <code>n:</code> Let's grab pizza — **my treat**! — Ходімо на піцу — я пригощаю!
-- <code>n:</code> Ice cream is her favourite **treat**. — Морозиво — її улюблений смаколик.
+- <code>v</code> **Treat** your teammates with respect. — Стався до тіммейтів із повагою.
+- <code>v</code> The healer **treated** the knight's wounds. — Цілитель обробив рани лицаря.
+- <code>n</code> Let's grab pizza — **my treat**! — Ходімо на піцу — я пригощаю!
+- <code>n</code> Ice cream is her favourite **treat**. — Морозиво — її улюблений смаколик.
 
 
 
@@ -221,9 +221,9 @@
 **💡 Здебільшого множина:** один окремий поштовх — **a tremor**, але зазвичай кажуть у множині: **tremors**. Два значення: дрож у тілі (руки, голос) і слабкі землетруси.
 
 **Приклади:**
-- <code>n:</code> Small **tremors** shook the village before the dragon appeared. — Слабкі поштовхи струснули село, перш ніж з'явився дракон.
-- <code>n:</code> Too much coffee gives me hand **tremors**. — Від завеликої кількості кави в мене тремтять руки.
-- <code>n:</code> People felt light **tremors** during the night. — Уночі люди відчули слабкі поштовхи.
+- <code>n</code> Small **tremors** shook the village before the dragon appeared. — Слабкі поштовхи струснули село, перш ніж з'явився дракон.
+- <code>n</code> Too much coffee gives me hand **tremors**. — Від завеликої кількості кави в мене тремтять руки.
+- <code>n</code> People felt light **tremors** during the night. — Уночі люди відчули слабкі поштовхи.
 
 
 
@@ -238,9 +238,9 @@
 - **Trick or treat!** — гелловінське «Цукерки або шкода!» → [treat](#treat)
 
 **Приклади:**
-- <code>n:</code> Restarting the app usually **does the trick**. — Перезапуск застосунку зазвичай спрацьовує.
-- <code>v:</code> The goblin **tricked** us **into** opening the gate. — Гоблін хитрістю змусив нас відчинити ворота.
-- <code>n:</code> He showed me a cool card **trick**. — Він показав мені класний картковий фокус.
+- <code>n</code> Restarting the app usually **does the trick**. — Перезапуск застосунку зазвичай спрацьовує.
+- <code>v</code> The goblin **tricked** us **into** opening the gate. — Гоблін хитрістю змусив нас відчинити ворота.
+- <code>n</code> He showed me a cool card **trick**. — Він показав мені класний картковий фокус.
 
 
 
@@ -257,9 +257,9 @@
 - **it turns out that** + речення — виявилося, що…: **It turned out that** she was right all along.
 
 **Приклади:**
-- <code>v:</code> The meeting **turned out** to be very useful. — Зустріч виявилась дуже корисною.
-- <code>v:</code> Everything **turned out** fine in the end. — Врешті все обернулося добре.
-- <code>v:</code> It **turned out that** the bug was in the config, not the code. — Виявилося, що баг був у конфігу, а не в коді.
+- <code>v</code> The meeting **turned out** to be very useful. — Зустріч виявилась дуже корисною.
+- <code>v</code> Everything **turned out** fine in the end. — Врешті все обернулося добре.
+- <code>v</code> It **turned out that** the bug was in the config, not the code. — Виявилося, що баг був у конфігу, а не в коді.
 
 
 
@@ -271,9 +271,9 @@
 **Пояснення:** маленька точкова зміна, щоб стало краще — конфіг, анімація, баланс у грі. Улюблене слово в чейнджлогах: minor tweaks.
 
 **Приклади:**
-- <code>v:</code> I **tweaked** the animation timing and now it feels smooth. — Я підкрутив тайминг анімації, і тепер вона плавна.
-- <code>n:</code> The release includes a few small UI **tweaks**. — У релізі кілька дрібних UI-правок.
-- <code>v:</code> Just **tweak** the recipe — add less sugar. — Просто трохи зміни рецепт — додай менше цукру. _(кулінарія)_
+- <code>v</code> I **tweaked** the animation timing and now it feels smooth. — Я підкрутив тайминг анімації, і тепер вона плавна.
+- <code>n</code> The release includes a few small UI **tweaks**. — У релізі кілька дрібних UI-правок.
+- <code>v</code> Just **tweak** the recipe — add less sugar. — Просто трохи зміни рецепт — додай менше цукру. _(кулінарія)_
 
 
 
@@ -285,6 +285,6 @@
 **Пояснення:** прислівник від **typical** (типовий). Синонім usually/normally, але звучить трохи «технічніше» — часто в документації.
 
 **Приклади:**
-- <code>adv:</code> A code review **typically** takes about an hour. — Код-рев'ю зазвичай займає близько години.
-- <code>adv:</code> Bosses **typically** drop better loot on hard mode. — На складному режимі боси, як правило, дають кращий лут.
-- <code>adv:</code> We **typically** have dinner at seven. — Зазвичай ми вечеряємо о сьомій.
+- <code>adv</code> A code review **typically** takes about an hour. — Код-рев'ю зазвичай займає близько години.
+- <code>adv</code> Bosses **typically** drop better loot on hard mode. — На складному режимі боси, як правило, дають кращий лут.
+- <code>adv</code> We **typically** have dinner at seven. — Зазвичай ми вечеряємо о сьомій.

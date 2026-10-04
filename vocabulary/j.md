@@ -15,6 +15,6 @@
 - **Don't judge a book by its cover.** — Не суди книжку за обкладинкою.
 
 **Приклади:**
-- <code>n:</code> The **judges** gave our game 9 out of 10 at the game jam. — Судді поставили нашій грі 9 з 10 на геймджемі.
-- <code>v:</code> Don't **judge** the code before you read it. — Не суди код, поки не прочитаєш його.
-- <code>v:</code> I still play with cheats sometimes — don't **judge** me! — Я досі інколи граю з читами — не засуджуй мене!
+- <code>n</code> The **judges** gave our game 9 out of 10 at the game jam. — Судді поставили нашій грі 9 з 10 на геймджемі.
+- <code>v</code> Don't **judge** the code before you read it. — Не суди код, поки не прочитаєш його.
+- <code>v</code> I still play with cheats sometimes — don't **judge** me! — Я досі інколи граю з читами — не засуджуй мене!

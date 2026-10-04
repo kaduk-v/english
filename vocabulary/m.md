@@ -15,9 +15,9 @@
 - Пастка: «зробити фото» — **take** a photo (ні make, ні do).
 
 **Приклади:**
-- <code>v:</code> We need to **make** a decision about the database. — Нам треба ухвалити рішення щодо бази даних.
-- <code>v:</code> This error message doesn't **make** sense. — Це повідомлення про помилку не має сенсу.
-- <code>v:</code> I'm **making** progress with my English. — Я роблю прогрес в англійській.
+- <code>v</code> We need to **make** a decision about the database. — Нам треба ухвалити рішення щодо бази даних.
+- <code>v</code> This error message doesn't **make** sense. — Це повідомлення про помилку не має сенсу.
+- <code>v</code> I'm **making** progress with my English. — Я роблю прогрес в англійській.
 
 
 ---
@@ -33,9 +33,9 @@
 - НЕ плутай із **marshal** — маршал: звучить так само /ˈmɑːʃl/, пишеться інакше.
 
 **Приклади:**
-- <code>adj:</code> My character has mastered three **martial arts**. — Мій персонаж опанував три бойові мистецтва.
-- <code>adj:</code> The government declared **martial law**. — Уряд оголосив воєнний стан.
-- <code>adj:</code> My little brother goes to **martial arts** classes twice a week. — Мій молодший брат ходить на бойові мистецтва двічі на тиждень. _(спорт)_
+- <code>adj</code> My character has mastered three **martial arts**. — Мій персонаж опанував три бойові мистецтва.
+- <code>adj</code> The government declared **martial law**. — Уряд оголосив воєнний стан.
+- <code>adj</code> My little brother goes to **martial arts** classes twice a week. — Мій молодший брат ходить на бойові мистецтва двічі на тиждень. _(спорт)_
 
 
 ---
@@ -52,9 +52,9 @@
 - **a matter of time** — питання часу.
 
 **Приклади:**
-- <code>v:</code> It doesn't **matter** which branch you use. — Не має значення, яку гілку ти використовуєш.
-- <code>n:</code> What's the **matter**? You look tired. — Що сталося? Ти виглядаєш утомленим.
-- <code>n:</code> A crash in production is a serious **matter**. — Падіння на проді — серйозна справа.
+- <code>v</code> It doesn't **matter** which branch you use. — Не має значення, яку гілку ти використовуєш.
+- <code>n</code> What's the **matter**? You look tired. — Що сталося? Ти виглядаєш утомленим.
+- <code>n</code> A crash in production is a serious **matter**. — Падіння на проді — серйозна справа.
 
 
 ---
@@ -65,9 +65,9 @@
 **Пояснення:** про людину — досвідчена, розсудлива; про технологію/продукт — усталена, добре відпрацьована (a **mature** ecosystem).
 
 **Приклади:**
-- <code>adj:</code> That's a **mature** approach to handling conflict. — Це зрілий підхід до вирішення конфлікту.
-- <code>adj:</code> Node.js has a **mature** ecosystem of libraries. — У Node.js зріла екосистема бібліотек.
-- <code>v:</code> He **matured** a lot during his year abroad. — Він дуже подорослішав за рік за кордоном.
+- <code>adj</code> That's a **mature** approach to handling conflict. — Це зрілий підхід до вирішення конфлікту.
+- <code>adj</code> Node.js has a **mature** ecosystem of libraries. — У Node.js зріла екосистема бібліотек.
+- <code>v</code> He **matured** a lot during his year abroad. — Він дуже подорослішав за рік за кордоном.
 
 
 ---
@@ -78,9 +78,9 @@
 **Пояснення:** що має справжній сенс, вагу чи важливість. Утворене від meaning (значення) + -ful. У код-рев'ю: **meaningful names** — «промовисті» імена змінних.
 
 **Приклади:**
-- <code>adj:</code> Use **meaningful** variable names, not `x1` and `tmp`. — Використовуй змістовні імена змінних, а не `x1` і `tmp`.
-- <code>adj:</code> We had a **meaningful** conversation about the future. — У нас була змістовна розмова про майбутнє.
-- <code>adj:</code> I want a job that feels **meaningful**. — Я хочу роботу, яка має сенс.
+- <code>adj</code> Use **meaningful** variable names, not `x1` and `tmp`. — Використовуй змістовні імена змінних, а не `x1` і `tmp`.
+- <code>adj</code> We had a **meaningful** conversation about the future. — У нас була змістовна розмова про майбутнє.
+- <code>adj</code> I want a job that feels **meaningful**. — Я хочу роботу, яка має сенс.
 
 
 ---
@@ -93,9 +93,9 @@
 **💡 merely = just, тільки формальніше.** У розмові скажуть just, у тексті чи документації — часто merely: It is **merely** a suggestion. = It's **just** a suggestion. — Це лише пропозиція.
 
 **Приклади:**
-- <code>adv:</code> It's **merely** a warning, not an error. — Це лише попередження, а не помилка.
-- <code>adv:</code> He is **merely** a level-one goblin. — Він усього лише гоблін першого рівня.
-- <code>adv:</code> She was **merely** trying to help. — Вона лише намагалася допомогти.
+- <code>adv</code> It's **merely** a warning, not an error. — Це лише попередження, а не помилка.
+- <code>adv</code> He is **merely** a level-one goblin. — Він усього лише гоблін першого рівня.
+- <code>adv</code> She was **merely** trying to help. — Вона лише намагалася допомогти.
 
 
 ---
@@ -106,9 +106,9 @@
 **Пояснення:** сітка з переплетених ниток або дротів. У 3D-графіці та іграх — полігональна сітка моделі (3D **mesh**). У бекенді: **service mesh** — інфраструктурний шар зв'язку між мікросервісами. Дієслово **mesh (with)** — стикуватися, пасувати одне одному.
 
 **Приклади:**
-- <code>n:</code> The character's 3D **mesh** has too many polygons. — 3D-сітка персонажа має забагато полігонів.
-- <code>n:</code> A service **mesh** manages traffic between microservices. — Service mesh керує трафіком між мікросервісами.
-- <code>v:</code> Their play styles **mesh** well. — Їхні стилі гри добре поєднуються.
+- <code>n</code> The character's 3D **mesh** has too many polygons. — 3D-сітка персонажа має забагато полігонів.
+- <code>n</code> A service **mesh** manages traffic between microservices. — Service mesh керує трафіком між мікросервісами.
+- <code>v</code> Their play styles **mesh** well. — Їхні стилі гри добре поєднуються.
 
 
 ---
@@ -119,9 +119,9 @@
 **Пояснення:** такий, що «зносить дах»; розмовне слово про дуже сильне враження. Від фрази **blow sb's mind** — приголомшити когось: This game **blew my mind**.
 
 **Приклади:**
-- <code>adj:</code> The plot twist in the last act was **mind-blowing**. — Сюжетний поворот в останньому акті був приголомшливий.
-- <code>adj:</code> The demo looked **mind-blowing** on the big screen. — Демо на великому екрані виглядало неймовірно.
-- <code>adj:</code> The view from the top of the mountain was **mind-blowing**. — Краєвид із вершини гори був неймовірний. _(подорож)_
+- <code>adj</code> The plot twist in the last act was **mind-blowing**. — Сюжетний поворот в останньому акті був приголомшливий.
+- <code>adj</code> The demo looked **mind-blowing** on the big screen. — Демо на великому екрані виглядало неймовірно.
+- <code>adj</code> The view from the top of the mountain was **mind-blowing**. — Краєвид із вершини гори був неймовірний. _(подорож)_
 
 
 ---
@@ -132,9 +132,9 @@
 **Пояснення:** усталений спосіб дивитися на речі. Сталі: **growth mindset** (установка на зростання), **fixed mindset** (застигла установка).
 
 **Приклади:**
-- <code>n:</code> A growth **mindset** helps you learn faster. — Установка на зростання допомагає вчитися швидше.
-- <code>n:</code> You need the right **mindset** before a match. — Тобі потрібне правильне налаштування перед матчем.
-- <code>n:</code> Moving abroad changed my whole **mindset**. — Переїзд за кордон змінив увесь мій спосіб мислення.
+- <code>n</code> A growth **mindset** helps you learn faster. — Установка на зростання допомагає вчитися швидше.
+- <code>n</code> You need the right **mindset** before a match. — Тобі потрібне правильне налаштування перед матчем.
+- <code>n</code> Moving abroad changed my whole **mindset**. — Переїзд за кордон змінив увесь мій спосіб мислення.
 
 
 ---
@@ -150,9 +150,9 @@
 - **miss** a shot / a chance — промахнутися / втратити нагоду.
 
 **Приклади:**
-- <code>v:</code> I really **miss** my old team. — Я дуже сумую за старою командою.
-- <code>v:</code> He **missed** the last penalty. — Він не забив останній пенальті.
-- <code>v:</code> Hurry up, or we'll **miss** the train! — Поспішай, бо ми не встигнемо на потяг!
+- <code>v</code> I really **miss** my old team. — Я дуже сумую за старою командою.
+- <code>v</code> He **missed** the last penalty. — Він не забив останній пенальті.
+- <code>v</code> Hurry up, or we'll **miss** the train! — Поспішай, бо ми не встигнемо на потяг!
 
 
 ---
@@ -163,9 +163,9 @@
 **Пояснення:** керована бойова ракета. Не плутай з `rocket` (ракета-носій або феєрверк). Звичайне злічуване: a missile, missiles.
 
 **Приклади:**
-- <code>n:</code> The system detected an incoming **missile**. — Система виявила ракету, що наближається.
-- <code>n:</code> Anti-tank **missiles** were delivered. — Було доставлено протитанкові ракети.
-- <code>n:</code> In this game, you can shoot down enemy **missiles** with a laser. — У цій грі можна збивати ворожі ракети лазером. _(гра)_
+- <code>n</code> The system detected an incoming **missile**. — Система виявила ракету, що наближається.
+- <code>n</code> Anti-tank **missiles** were delivered. — Було доставлено протитанкові ракети.
+- <code>n</code> In this game, you can shoot down enemy **missiles** with a laser. — У цій грі можна збивати ворожі ракети лазером. _(гра)_
 
 ---
 
@@ -175,6 +175,6 @@
 **Пояснення:** сама волога — краплі, вологість у речовині чи на поверхні. Прикметник — **moist** (вологий; про торт — соковитий). Не плутай із **humidity** — вологість повітря як показник (humidity 80%).
 
 **Приклади:**
-- <code>n:</code> Keep ground coffee away from **moisture** and light. — Тримай мелену каву подалі від вологи й світла.
-- <code>n:</code> There's **moisture** on the inside of the window. — На внутрішньому боці вікна волога.
-- <code>n:</code> This cream keeps **moisture** in your skin. — Цей крем утримує вологу в шкірі.
+- <code>n</code> Keep ground coffee away from **moisture** and light. — Тримай мелену каву подалі від вологи й світла.
+- <code>n</code> There's **moisture** on the inside of the window. — На внутрішньому боці вікна волога.
+- <code>n</code> This cream keeps **moisture** in your skin. — Цей крем утримує вологу в шкірі.

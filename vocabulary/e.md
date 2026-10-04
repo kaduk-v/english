@@ -14,9 +14,9 @@
 - **eager for** sth — жадає чогось (іменника): fans **eager for** the update.
 
 **Приклади:**
-- <code>adj:</code> Junior devs are often **eager to** take on hard tasks. — Джуни часто рвуться братися за складні задачі.
-- <code>adj:</code> The players were **eager for** the new season. — Гравці не могли дочекатися нового сезону.
-- <code>adj:</code> The kids were **eager to** open their presents. — Діти не могли дочекатися, щоб розгорнути подарунки.
+- <code>adj</code> Junior devs are often **eager to** take on hard tasks. — Джуни часто рвуться братися за складні задачі.
+- <code>adj</code> The players were **eager for** the new season. — Гравці не могли дочекатися нового сезону.
+- <code>adj</code> The kids were **eager to** open their presents. — Діти не могли дочекатися, щоб розгорнути подарунки.
 
 
 ---
@@ -27,9 +27,9 @@
 **Пояснення:** лінія, де щось закінчується (край стола, прірви); гострий бік леза; невелика перевага над суперником. У розробці: **edge case** — граничний випадок.
 
 **Приклади:**
-- <code>n:</code> Don't stand so close to the **edge** of the cliff. — Не стій так близько до краю скелі.
-- <code>n:</code> The tests failed on an **edge** case: an empty array. — Тести впали на граничному випадку: порожньому масиві.
-- <code>n:</code> Faster loading gives our app an **edge** over competitors. — Швидше завантаження дає нашому застосунку перевагу над конкурентами.
+- <code>n</code> Don't stand so close to the **edge** of the cliff. — Не стій так близько до краю скелі.
+- <code>n</code> The tests failed on an **edge** case: an empty array. — Тести впали на граничному випадку: порожньому масиві.
+- <code>n</code> Faster loading gives our app an **edge** over competitors. — Швидше завантаження дає нашому застосунку перевагу над конкурентами.
 
 
 ---
@@ -45,9 +45,9 @@
 - Ідеальне рішення — і effective (розв'язує задачу), і efficient (швидко й дешево).
 
 **Приклади:**
-- <code>adj:</code> Caching is an **effective** way to speed up the API. — Кешування — дієвий спосіб пришвидшити API.
-- <code>adj:</code> This potion is **effective** against poison. — Це зілля дієве проти отрути.
-- <code>adj:</code> Short daily practice is more **effective** than one long session. — Коротка щоденна практика дієвіша, ніж одне довге заняття.
+- <code>adj</code> Caching is an **effective** way to speed up the API. — Кешування — дієвий спосіб пришвидшити API.
+- <code>adj</code> This potion is **effective** against poison. — Це зілля дієве проти отрути.
+- <code>adj</code> Short daily practice is more **effective** than one long session. — Коротка щоденна практика дієвіша, ніж одне довге заняття.
 
 
 ---
@@ -60,9 +60,9 @@
 **💡 Не плутай:** **efficient** = економно (швидко/дешево), **effective** = дієво (чи є результат взагалі) — повний розбір у картці [effective](#effective).
 
 **Приклади:**
-- <code>adj:</code> Binary search is more **efficient** than a full scan. — Бінарний пошук ефективніший за повний перебір.
-- <code>adj:</code> She's an **efficient** manager: short meetings, clear decisions. — Вона продуктивна менеджерка: короткі мітинги, чіткі рішення.
-- <code>adj:</code> Our new dishwasher is quiet and very **efficient**. — Наша нова посудомийка тиха й дуже економна.
+- <code>adj</code> Binary search is more **efficient** than a full scan. — Бінарний пошук ефективніший за повний перебір.
+- <code>adj</code> She's an **efficient** manager: short meetings, clear decisions. — Вона продуктивна менеджерка: короткі мітинги, чіткі рішення.
+- <code>adj</code> Our new dishwasher is quiet and very **efficient**. — Наша нова посудомийка тиха й дуже економна.
 
 
 ---
@@ -75,9 +75,9 @@
 - **put effort into** sth — вкладати зусилля у щось.
 
 **Приклади:**
-- <code>n:</code> Learning a language takes a lot of **effort**. — Вивчення мови вимагає багато зусиль.
-- <code>n:</code> He **made an effort** to speak only English. — Він доклав зусиль говорити лише англійською.
-- <code>n:</code> She **puts** a lot of **effort into** her training. — Вона вкладає багато зусиль у тренування.
+- <code>n</code> Learning a language takes a lot of **effort**. — Вивчення мови вимагає багато зусиль.
+- <code>n</code> He **made an effort** to speak only English. — Він доклав зусиль говорити лише англійською.
+- <code>n</code> She **puts** a lot of **effort into** her training. — Вона вкладає багато зусиль у тренування.
 
 
 ---
@@ -88,9 +88,9 @@
 **Пояснення:** результат чи наслідок однаковий, незалежно від того, який із двох варіантів обрати.
 
 **Приклади:**
-- <code>phrase:</code> We'll get back to you by Friday, **either way**. — Ми зв'яжемось із вами до п'ятниці, у будь-якому разі.
-- <code>phrase:</code> I'm fine with tea or coffee — **either way** works for me. — Мені підійде чай чи кава — будь-який варіант.
-- <code>phrase:</code> We can take the bus or walk — **either way**, we'll be late. — Можемо поїхати автобусом або піти пішки — так чи інакше, ми запізнимося.
+- <code>phrase</code> We'll get back to you by Friday, **either way**. — Ми зв'яжемось із вами до п'ятниці, у будь-якому разі.
+- <code>phrase</code> I'm fine with tea or coffee — **either way** works for me. — Мені підійде чай чи кава — будь-який варіант.
+- <code>phrase</code> We can take the bus or walk — **either way**, we'll be late. — Можемо поїхати автобусом або піти пішки — так чи інакше, ми запізнимося.
 
 
 ---
@@ -101,9 +101,9 @@
 **Пояснення:** буквально — обійняти людину; переносно — «прийняти з відкритими обіймами» нову технологію, зміну чи ідею.
 
 **Приклади:**
-- <code>v:</code> The team **embraced** TypeScript without complaints. — Команда охоче прийняла TypeScript без нарікань.
-- <code>v:</code> She **embraced** her brother at the airport. — Вона обійняла брата в аеропорту.
-- <code>n:</code> He held the child in a warm **embrace**. — Він тримав дитину в теплих обіймах.
+- <code>v</code> The team **embraced** TypeScript without complaints. — Команда охоче прийняла TypeScript без нарікань.
+- <code>v</code> She **embraced** her brother at the airport. — Вона обійняла брата в аеропорту.
+- <code>n</code> He held the child in a warm **embrace**. — Він тримав дитину в теплих обіймах.
 
 
 ---
@@ -116,9 +116,9 @@
 **💡 Без прийменника:** emphasize **sth** (не ~~emphasize on sth~~): He **emphasized** the deadline. Але з іменником — on: put **emphasis on** sth.
 
 **Приклади:**
-- <code>v:</code> The mentor **emphasized** the importance of tests. — Ментор наголосив на важливості тестів.
-- <code>v:</code> The tutorial **emphasizes** practice over theory. — Посібник робить акцент на практиці, а не на теорії.
-- <code>v:</code> The coach **emphasized** that we must defend as a team. — Тренер наголосив, що ми маємо захищатися командою. _(спорт)_
+- <code>v</code> The mentor **emphasized** the importance of tests. — Ментор наголосив на важливості тестів.
+- <code>v</code> The tutorial **emphasizes** practice over theory. — Посібник робить акцент на практиці, а не на теорії.
+- <code>v</code> The coach **emphasized** that we must defend as a team. — Тренер наголосив, що ми маємо захищатися командою. _(спорт)_
 
 
 ---
@@ -131,9 +131,9 @@
 **💡 enclosed vs attached:** у паперовому листі документ **enclosed** (вкладений у конверт), а в імейлі файл **attached** (прикріплений): Please find the **attached** report.
 
 **Приклади:**
-- <code>adj:</code> The arena is an **enclosed** space with no escape routes. — Арена — замкнений простір без шляхів відступу.
-- <code>adj:</code> Please find the **enclosed** invoice. — Рахунок додано до листа.
-- <code>adj:</code> Our dog can run freely in the **enclosed** park. — Наш пес може вільно бігати в огородженому парку.
+- <code>adj</code> The arena is an **enclosed** space with no escape routes. — Арена — замкнений простір без шляхів відступу.
+- <code>adj</code> Please find the **enclosed** invoice. — Рахунок додано до листа.
+- <code>adj</code> Our dog can run freely in the **enclosed** park. — Наш пес може вільно бігати в огородженому парку.
 
 
 ---
@@ -144,9 +144,9 @@
 **Пояснення:** формальніше за `meet`. Часто про проблеми/перешкоди: encounter a problem / an error.
 
 **Приклади:**
-- <code>v:</code> We **encountered** a bug in production. — Ми натрапили на баг у проді.
-- <code>n:</code> It was a strange **encounter**. — Це була дивна зустріч.
-- <code>v:</code> We **encountered** heavy traffic on the way to the airport. — Дорогою до аеропорту ми потрапили в сильний затор. _(подорожі)_
+- <code>v</code> We **encountered** a bug in production. — Ми натрапили на баг у проді.
+- <code>n</code> It was a strange **encounter**. — Це була дивна зустріч.
+- <code>v</code> We **encountered** heavy traffic on the way to the airport. — Дорогою до аеропорту ми потрапили в сильний затор. _(подорожі)_
 
 
 ---
@@ -157,9 +157,9 @@
 **Пояснення:** такий, що не має кінця або здається безкінечним. Суфікс **-less** = «без-»: end + less = «без кінця».
 
 **Приклади:**
-- <code>adj:</code> An **endless** runner is a game you can't actually finish. — Ендлес-ранер — гра, яку насправді неможливо пройти до кінця.
-- <code>adj:</code> We had **endless** discussions about the project name. — У нас були нескінченні суперечки про назву проєкту.
-- <code>adj:</code> The queue at passport control seemed **endless**. — Черга на паспортному контролі здавалася нескінченною.
+- <code>adj</code> An **endless** runner is a game you can't actually finish. — Ендлес-ранер — гра, яку насправді неможливо пройти до кінця.
+- <code>adj</code> We had **endless** discussions about the project name. — У нас були нескінченні суперечки про назву проєкту.
+- <code>adj</code> The queue at passport control seemed **endless**. — Черга на паспортному контролі здавалася нескінченною.
 
 
 ---
@@ -170,9 +170,9 @@
 **Пояснення:** офіційно або публічно заявити, що ти щось підтримуєш чи рекомендуєш. Знайоме з LinkedIn: endorse someone's skills — підтвердити чиїсь навички.
 
 **Приклади:**
-- <code>v:</code> A famous streamer **endorsed** the new RPG. — Відомий стример підтримав нову RPG своїм ім'ям.
-- <code>v:</code> Two colleagues **endorsed** my Node.js skills on LinkedIn. — Двоє колег підтвердили мої навички Node.js у LinkedIn.
-- <code>v:</code> The coach publicly **endorsed** the new team captain. — Тренер публічно підтримав нового капітана команди.
+- <code>v</code> A famous streamer **endorsed** the new RPG. — Відомий стример підтримав нову RPG своїм ім'ям.
+- <code>v</code> Two colleagues **endorsed** my Node.js skills on LinkedIn. — Двоє колег підтвердили мої навички Node.js у LinkedIn.
+- <code>v</code> The coach publicly **endorsed** the new team captain. — Тренер публічно підтримав нового капітана команди.
 
 
 ---
@@ -183,9 +183,9 @@
 **Пояснення:** змушувати дотримуватися правила, а не просто оголосити його. Дуже часте в IT: лінтер чи валідація **enforces** правила.
 
 **Приклади:**
-- <code>v:</code> ESLint **enforces** our code style automatically. — ESLint автоматично забезпечує дотримання нашого код-стайлу.
-- <code>v:</code> The city guards **enforce** the king's law. — Міська варта стежить за виконанням королівського закону.
-- <code>v:</code> The referee didn't **enforce** the rules, and the game got rough. — Суддя не стежив за дотриманням правил, і гра стала грубою. _(спорт)_
+- <code>v</code> ESLint **enforces** our code style automatically. — ESLint автоматично забезпечує дотримання нашого код-стайлу.
+- <code>v</code> The city guards **enforce** the king's law. — Міська варта стежить за виконанням королівського закону.
+- <code>v</code> The referee didn't **enforce** the rules, and the game got rough. — Суддя не стежив за дотриманням правил, і гра стала грубою. _(спорт)_
 
 
 ---
@@ -200,9 +200,9 @@
 - **engage with** sb/sth — взаємодіяти, контактувати: engage with users / with the community.
 
 **Приклади:**
-- <code>v:</code> Good quests **engage** players for hours. — Хороші квести захоплюють гравців на години.
-- <code>v:</code> We **engage with** users through in-app feedback. — Ми взаємодіємо з користувачами через відгуки в застосунку.
-- <code>v:</code> The knights **engaged in** battle at dawn. — Лицарі вступили в бій на світанку.
+- <code>v</code> Good quests **engage** players for hours. — Хороші квести захоплюють гравців на години.
+- <code>v</code> We **engage with** users through in-app feedback. — Ми взаємодіємо з користувачами через відгуки в застосунку.
+- <code>v</code> The knights **engaged in** battle at dawn. — Лицарі вступили в бій на світанку.
 
 
 ---
@@ -218,9 +218,9 @@
 - **assure** /əˈʃʊə(r)/ — запевнити ЛЮДИНУ, заспокоїти словами: He **assured** me it was safe.
 
 **Приклади:**
-- <code>v:</code> Validation **ensures** that the email field isn't empty. — Валідація гарантує, що поле email не порожнє.
-- <code>v:</code> **Ensure** you have a backup before the migration. — Подбай про бекап перед міграцією.
-- <code>v:</code> Please **ensure** that all windows are closed before you leave. — Будь ласка, переконайтеся, що всі вікна зачинені, перш ніж підете.
+- <code>v</code> Validation **ensures** that the email field isn't empty. — Валідація гарантує, що поле email не порожнє.
+- <code>v</code> **Ensure** you have a backup before the migration. — Подбай про бекап перед міграцією.
+- <code>v</code> Please **ensure** that all windows are closed before you leave. — Будь ласка, переконайтеся, що всі вікна зачинені, перш ніж підете.
 
 
 ---
@@ -231,9 +231,9 @@
 **Пояснення:** підкреслює «повністю, без винятку». Стоїть перед іменником з the/присвійним: the entire team.
 
 **Приклади:**
-- <code>adj:</code> He watched the **entire** series in one weekend. — Він подивився весь серіал за один вікенд.
-- <code>adj:</code> The **entire** team was against the idea. — Уся команда була проти ідеї.
-- <code>adj:</code> It rained the **entire** day, so we stayed at home. — Дощ ішов цілий день, тож ми сиділи вдома.
+- <code>adj</code> He watched the **entire** series in one weekend. — Він подивився весь серіал за один вікенд.
+- <code>adj</code> The **entire** team was against the idea. — Уся команда була проти ідеї.
+- <code>adj</code> It rained the **entire** day, so we stayed at home. — Дощ ішов цілий день, тож ми сиділи вдома.
 
 
 ---
@@ -248,9 +248,9 @@
 - Одна одиниця = **a piece of equipment**.
 
 **Приклади:**
-- <code>n:</code> The knight checked his **equipment** before the raid. — Лицар перевірив своє спорядження перед рейдом.
-- <code>n:</code> The studio bought new recording **equipment**. — Студія купила нове звукозаписувальне обладнання.
-- <code>n:</code> A good tent is the most important **piece of equipment** for hiking. — Хороший намет — найважливіша частина спорядження для походу.
+- <code>n</code> The knight checked his **equipment** before the raid. — Лицар перевірив своє спорядження перед рейдом.
+- <code>n</code> The studio bought new recording **equipment**. — Студія купила нове звукозаписувальне обладнання.
+- <code>n</code> A good tent is the most important **piece of equipment** for hiking. — Хороший намет — найважливіша частина спорядження для походу.
 
 
 ---
@@ -266,9 +266,9 @@
 - **it is essential to** do sth — конче потрібно щось зробити: It's **essential to** back up your data.
 
 **Приклади:**
-- <code>adj:</code> Backups are **essential** — do them daily. — Бекапи життєво необхідні — роби їх щодня.
-- <code>adj:</code> Water is **essential for** survival in the desert. — Вода необхідна для виживання в пустелі.
-- <code>adj:</code> **It's essential to** warm up before a long run. — Перед довгою пробіжкою конче потрібно розім'ятися. _(спорт)_
+- <code>adj</code> Backups are **essential** — do them daily. — Бекапи життєво необхідні — роби їх щодня.
+- <code>adj</code> Water is **essential for** survival in the desert. — Вода необхідна для виживання в пустелі.
+- <code>adj</code> **It's essential to** warm up before a long run. — Перед довгою пробіжкою конче потрібно розім'ятися. _(спорт)_
 
 
 ---
@@ -279,9 +279,9 @@
 **Пояснення:** формальне слово для бізнесу з приміщенням — кафе, бар, готель, магазин («заклад»). У розмові кажуть простіше: a place, a café, a bar. Друге значення — акт заснування (the establishment of a company). Дієслово — **establish** (заснувати, встановити).
 
 **Приклади:**
-- <code>n:</code> He runs three small **establishments** in Lviv. — Він тримає три невеликі заклади у Львові.
-- <code>n:</code> The **establishment** of the company took a year. — Заснування компанії зайняло рік.
-- <code>n:</code> The restaurant is a small family **establishment** near the river. — Ресторан — невеликий сімейний заклад біля річки.
+- <code>n</code> He runs three small **establishments** in Lviv. — Він тримає три невеликі заклади у Львові.
+- <code>n</code> The **establishment** of the company took a year. — Заснування компанії зайняло рік.
+- <code>n</code> The restaurant is a small family **establishment** near the river. — Ресторан — невеликий сімейний заклад біля річки.
 
 ---
 
@@ -291,9 +291,9 @@
 **Пояснення:** уважно розглянути щось і зробити висновок про його цінність чи якість. У програмуванні — обчислювати вираз. Іменник: **evaluation** (оцінювання).
 
 **Приклади:**
-- <code>v:</code> We **evaluated** three databases before choosing Postgres. — Ми оцінили три бази даних, перш ніж обрати Postgres.
-- <code>v:</code> The interpreter **evaluates** the expression step by step. — Інтерпретатор обчислює вираз крок за кроком.
-- <code>v:</code> The judges **evaluate** each dish on taste and presentation. — Судді оцінюють кожну страву за смаком і подачею.
+- <code>v</code> We **evaluated** three databases before choosing Postgres. — Ми оцінили три бази даних, перш ніж обрати Postgres.
+- <code>v</code> The interpreter **evaluates** the expression step by step. — Інтерпретатор обчислює вираз крок за кроком.
+- <code>v</code> The judges **evaluate** each dish on taste and presentation. — Судді оцінюють кожну страву за смаком і подачею.
 
 
 ---
@@ -306,9 +306,9 @@
 **💡 False friend:** це НЕ «евентуально/можливо»! **Eventually** = «врешті-решт» — подія точно сталася, просто не одразу. «Можливо» = possibly / perhaps. (Звідси й eventual consistency у розподілених БД — дані «зрештою» узгодяться.)
 
 **Приклади:**
-- <code>adv:</code> We searched the logs for hours and **eventually** found the leak. — Ми годинами копалися в логах і врешті-решт знайшли витік.
-- <code>adv:</code> Keep practising — **eventually** English will feel natural. — Продовжуй практикуватися — зрештою англійська стане природною.
-- <code>adv:</code> The train was two hours late, but we **eventually** got home. — Потяг запізнився на дві години, але врешті-решт ми дісталися додому.
+- <code>adv</code> We searched the logs for hours and **eventually** found the leak. — Ми годинами копалися в логах і врешті-решт знайшли витік.
+- <code>adv</code> Keep practising — **eventually** English will feel natural. — Продовжуй практикуватися — зрештою англійська стане природною.
+- <code>adv</code> The train was two hours late, but we **eventually** got home. — Потяг запізнився на дві години, але врешті-решт ми дісталися додому.
 
 
 ---
@@ -325,9 +325,9 @@
 - **evidence that** + речення — доказ того, що…: evidence **that** the leak exists.
 
 **Приклади:**
-- <code>n:</code> The logs show no **evidence of** a memory leak. — У логах немає ознак витоку пам'яті.
-- <code>n:</code> The detective found new **evidence that** the butler lied. — Детектив знайшов нові докази того, що дворецький збрехав.
-- <code>n:</code> The police found an important **piece of evidence** at the scene. — Поліція знайшла важливий доказ на місці злочину.
+- <code>n</code> The logs show no **evidence of** a memory leak. — У логах немає ознак витоку пам'яті.
+- <code>n</code> The detective found new **evidence that** the butler lied. — Детектив знайшов нові докази того, що дворецький збрехав.
+- <code>n</code> The police found an important **piece of evidence** at the scene. — Поліція знайшла важливий доказ на місці злочину.
 
 
 ---
@@ -338,9 +338,9 @@
 **Пояснення:** підкреслює абсолютну точність. Також як відповідь: «Exactly!» = «Саме так!».
 
 **Приклади:**
-- <code>adv:</code> It's **exactly** what I needed. — Це саме те, що мені було потрібно.
-- <code>adv:</code> The bus leaves at **exactly** 8:00. — Автобус відходить рівно о 8:00.
-- <code>adv:</code> "So we meet at the station?" "**Exactly!**" — «То зустрічаємося на вокзалі?» — «Саме так!»
+- <code>adv</code> It's **exactly** what I needed. — Це саме те, що мені було потрібно.
+- <code>adv</code> The bus leaves at **exactly** 8:00. — Автобус відходить рівно о 8:00.
+- <code>adv</code> "So we meet at the station?" "**Exactly!**" — «То зустрічаємося на вокзалі?» — «Саме так!»
 
 
 ---
@@ -356,9 +356,9 @@
 - Так само: bored/boring, interested/interesting, disappointed/disappointing, exhausted/exhausting.
 
 **Приклади:**
-- <code>v:</code> New frameworks don't **excite** me as much as they used to. — Нові фреймворки вже не захоплюють мене так, як колись.
-- <code>v:</code> The trailer **excited** the whole community. — Трейлер викликав захват у всієї спільноти.
-- <code>v:</code> The idea of a trip to Japan really **excites** me. — Ідея поїздки до Японії мене справді захоплює.
+- <code>v</code> New frameworks don't **excite** me as much as they used to. — Нові фреймворки вже не захоплюють мене так, як колись.
+- <code>v</code> The trailer **excited** the whole community. — Трейлер викликав захват у всієї спільноти.
+- <code>v</code> The idea of a trip to Japan really **excites** me. — Ідея поїздки до Японії мене справді захоплює.
 
 
 ---
@@ -373,9 +373,9 @@
 - **excited to** do sth — не може дочекатися зробити щось: excited **to** start.
 
 **Приклади:**
-- <code>adj:</code> I'm **excited about** the new season of our favourite series. — Я в захваті від нового сезону нашого улюбленого серіалу.
-- <code>adj:</code> She's **excited to** start her first dev job. — Вона з нетерпінням чекає початку своєї першої роботи розробницею.
-- <code>adj:</code> The fans are **excited about** the final on Sunday. — Фанати з нетерпінням чекають фіналу в неділю. _(спорт)_
+- <code>adj</code> I'm **excited about** the new season of our favourite series. — Я в захваті від нового сезону нашого улюбленого серіалу.
+- <code>adj</code> She's **excited to** start her first dev job. — Вона з нетерпінням чекає початку своєї першої роботи розробницею.
+- <code>adj</code> The fans are **excited about** the final on Sunday. — Фанати з нетерпінням чекають фіналу в неділю. _(спорт)_
 
 🔗 Пов'язане: [excite](#excite)
 
@@ -388,9 +388,9 @@
 **Пояснення:** про річ або подію, яка викликає захват (не про людину, що його відчуває).
 
 **Приклади:**
-- <code>adj:</code> The boss fight was the most **exciting** part of the game. — Бій з босом був найзахопливішою частиною гри.
-- <code>adj:</code> It's an **exciting** time to be a backend developer. — Зараз захопливий час, щоб бути бекенд-розробником.
-- <code>adj:</code> The last five minutes of the match were really **exciting**. — Останні п'ять хвилин матчу були справді захопливими. _(спорт)_
+- <code>adj</code> The boss fight was the most **exciting** part of the game. — Бій з босом був найзахопливішою частиною гри.
+- <code>adj</code> It's an **exciting** time to be a backend developer. — Зараз захопливий час, щоб бути бекенд-розробником.
+- <code>adj</code> The last five minutes of the match were really **exciting**. — Останні п'ять хвилин матчу були справді захопливими. _(спорт)_
 
 🔗 Пов'язане: [excite](#excite)
 
@@ -408,10 +408,10 @@
 - **make excuses** — виправдовуватися (зазвичай негативно): Stop **making excuses** and just fix it.
 
 **Приклади:**
-- <code>n:</code> Her explanations sounded like **excuses**, not facts. — Її пояснення звучали як виправдання, а не факти.
-- <code>v:</code> "**Excuse** me, where's the exit?" — «Вибачте, де вихід?»
-- <code>n:</code> He always has an **excuse for** missing training. — У нього завжди є виправдання, чому він пропускає тренування.
-- <code>v:</code> Please **excuse** me **for** interrupting your call. — Вибачте, що перериваю ваш дзвінок.
+- <code>n</code> Her explanations sounded like **excuses**, not facts. — Її пояснення звучали як виправдання, а не факти.
+- <code>v</code> "**Excuse** me, where's the exit?" — «Вибачте, де вихід?»
+- <code>n</code> He always has an **excuse for** missing training. — У нього завжди є виправдання, чому він пропускає тренування.
+- <code>v</code> Please **excuse** me **for** interrupting your call. — Вибачте, що перериваю ваш дзвінок.
 
 
 ---
@@ -422,9 +422,9 @@
 **Пояснення:** набагато сильніше за tired — сил не лишилося зовсім. Пара за правилом -ed/-ing: **exhausting** — виснажливий (про справу, день, рейд).
 
 **Приклади:**
-- <code>adj:</code> After the night deploy I was completely **exhausted**. — Після нічного деплою я був геть виснажений.
-- <code>adj:</code> The party was **exhausted** after the ten-hour raid. — Після десятигодинного рейду загін був виснажений.
-- <code>adj:</code> The kids were **exhausted** after a day at the beach. — Діти були геть виснажені після дня на пляжі.
+- <code>adj</code> After the night deploy I was completely **exhausted**. — Після нічного деплою я був геть виснажений.
+- <code>adj</code> The party was **exhausted** after the ten-hour raid. — Після десятигодинного рейду загін був виснажений.
+- <code>adj</code> The kids were **exhausted** after a day at the beach. — Діти були геть виснажені після дня на пляжі.
 
 
 ---
@@ -435,9 +435,9 @@
 **Пояснення:** розірватися з гучним звуком (бомба, бочка в грі); переносно — різко «вистрелити» вгору (числа, популярність) або спалахнути гнівом. Іменник: **explosion** /ɪkˈspləʊʒn/ — вибух.
 
 **Приклади:**
-- <code>v:</code> Shoot the red barrel and it **explodes**. — Вистрели в червону бочку — і вона вибухне.
-- <code>v:</code> After the update, the number of users **exploded**. — Після оновлення кількість користувачів різко зросла.
-- <code>v:</code> Dad **exploded** with anger when he saw the broken window. — Тато вибухнув від злості, коли побачив розбите вікно.
+- <code>v</code> Shoot the red barrel and it **explodes**. — Вистрели в червону бочку — і вона вибухне.
+- <code>v</code> After the update, the number of users **exploded**. — Після оновлення кількість користувачів різко зросла.
+- <code>v</code> Dad **exploded** with anger when he saw the broken window. — Тато вибухнув від злості, коли побачив розбите вікно.
 
 
 ---
@@ -450,9 +450,9 @@
 **💡 Наголос розрізняє частини мови:** verb /ɪkˈsplɔɪt/ (наголос на 2-й склад) vs noun /ˈeksplɔɪt/ (на 1-й).
 
 **Приклади:**
-- <code>v:</code> Hackers **exploited** a bug in the login form. — Хакери використали баг у формі входу.
-- <code>v:</code> Players **exploited** a glitch to farm gold. — Гравці користувалися глюком, щоб фармити золото.
-- <code>n:</code> The attacker used a zero-day **exploit**. — Зловмисник застосував zero-day експлойт.
+- <code>v</code> Hackers **exploited** a bug in the login form. — Хакери використали баг у формі входу.
+- <code>v</code> Players **exploited** a glitch to farm gold. — Гравці користувалися глюком, щоб фармити золото.
+- <code>n</code> The attacker used a zero-day **exploit**. — Зловмисник застосував zero-day експлойт.
 
 
 ---
@@ -463,9 +463,9 @@
 **Пояснення:** уважно оглядати нове місце/тему/можливості. Прямий об'єкт, без прийменника: explore a city / a map / an idea.
 
 **Приклади:**
-- <code>v:</code> Let's **explore** the map before starting the level. — Розвідаймо мапу перед стартом рівня.
-- <code>v:</code> We're **exploring** new options for the backend. — Ми досліджуємо нові варіанти для бекенду.
-- <code>v:</code> We spent the whole day **exploring** the old town. — Ми цілий день досліджували старе місто. _(подорожі)_
+- <code>v</code> Let's **explore** the map before starting the level. — Розвідаймо мапу перед стартом рівня.
+- <code>v</code> We're **exploring** new options for the backend. — Ми досліджуємо нові варіанти для бекенду.
+- <code>v</code> We spent the whole day **exploring** the old town. — Ми цілий день досліджували старе місто. _(подорожі)_
 
 
 ---
@@ -478,9 +478,9 @@
 **💡 expose sth to sth** — піддавати впливу чогось: Don't **expose** the device **to** water.
 
 **Приклади:**
-- <code>v:</code> The service **exposes** a REST API on port 3000. — Сервіс відкриває REST API на порту 3000.
-- <code>v:</code> Never **expose** your API keys in a public repo. — Ніколи не світи свої API-ключі в публічному репозиторії.
-- <code>v:</code> The article **exposed** the studio's crunch culture. — Стаття викрила культуру кранчів у студії.
+- <code>v</code> The service **exposes** a REST API on port 3000. — Сервіс відкриває REST API на порту 3000.
+- <code>v</code> Never **expose** your API keys in a public repo. — Ніколи не світи свої API-ключі в публічному репозиторії.
+- <code>v</code> The article **exposed** the studio's crunch culture. — Стаття викрила культуру кранчів у студії.
 
 
 ---
@@ -491,6 +491,6 @@
 **Пояснення:** підсилювач, значно сильніший за very. НЕ вживається з «крайніми» прикметниками (amazing, impossible) — з ними кажуть absolutely.
 
 **Приклади:**
-- <code>adv:</code> The final boss is **extremely** hard without good equipment. — Фінальний бос надзвичайно складний без хорошого спорядження.
-- <code>adv:</code> This query is **extremely** slow — add an index. — Цей запит вкрай повільний — додай індекс.
-- <code>adv:</code> It was **extremely** cold in the mountains last night. — Минулої ночі в горах було надзвичайно холодно.
+- <code>adv</code> The final boss is **extremely** hard without good equipment. — Фінальний бос надзвичайно складний без хорошого спорядження.
+- <code>adv</code> This query is **extremely** slow — add an index. — Цей запит вкрай повільний — додай індекс.
+- <code>adv</code> It was **extremely** cold in the mountains last night. — Минулої ночі в горах було надзвичайно холодно.

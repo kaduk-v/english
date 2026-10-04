@@ -1388,3 +1388,44 @@
 Одне-три короткі речення про сьогодні.
 
 *Після перевірки Р12 — Діалог 4.*
+
+### Відповіді учня
+
+1. I'll pay for the coffee tomorrow.
+2. I can't afford a new flat because of the rent.
+3. The meeting is starting at 10:00 on Monday.
+4. Yes, I'll attend the conference. It's not expensive.
+5. There is not a good place near my house. The one that is here is terrible.
+6. I won the game on Friday evening. The fog was thick, so we played at the kitchen instead of the garden. My brother answered each question quickly. There is no doubt, that he is smartest then me.
+7. Я не можу дозволити собі новий ноутбук цього року через оренду. Мої надходження не високі, але це не жахливо. Я відвідаю конференцію в суботу. Проект нового офісу чудовий.
+8. It's not fair, але There is no place — тому що not ставиться перед прикметниками, no — перед іменниками.
+9. a) I'll paid in cash b) because of the rain c) on Friday evening d) is here a cafe? e) it's not fair f) be at the meeting
+10. a) She can't afford a new flat because of the rent. b) I can't afford a new trip because of the rent. c) I can't afford a new flat because of the war. d) I couldn't afford a new flat because of the rent.
+11. I'll attend the event next Monday. I rent the flat because of I don't have enough money to finish renovation in my own flat. I can't afford to live for six months without a salary. I didn't attend the church this weekend because of the illness.
+
+### Перевірка Раунду 12 — ❌ (5 помилок)
+
+**Коротко:** нові слова зайшли одразу й правильно: `afford` ×4, включно з конструкцією з картки — `I can't afford to live for six months without a salary`; `attend` ×3 без прийменника (`attend the conference`, `attend the event`). `because of` + іменник — 4 з 4 (the rent, the rain, the war, the illness), `will` + база — у перекладах і міні-тексті чисто, `on Friday evening`, `on Monday`, `at 10:00`. Пояснення not / no — точне. Рамка 4/4. П'ять помилок: дві — повтори Р11 у дзеркальному вигляді (`I'll paid` у чанку; `because of I don't` — `of` там, де далі ціле речення), одна — прийменник теми (`at the kitchen`), одна — порівняння (`smartest then`), одна — конструкція «чи є тут» (`is here a cafe?`).
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 6 | played **at** the kitchen | played **in** the kitchen | Тема уроку. Кімната — простір, у якому ти всередині → `in`: in the kitchen, in the garden, in my room. `at` — точка / місце призначення: at the office, at work, at the door. В оригіналі було `in`. |
+| 6 | he is **smartest then** me | he is **smarter than** me | Порівнюєш двох (брат і ти) → вищий ступінь `smarter`. `the smartest` — найвищий, коли вибираєш одного з трьох і більше: the smartest in the family. І `than` (ніж) ≠ `then` (потім) — різні слова, хоч і схожі на слух. Кома перед `that` — зайва *(не рахую)*. |
+| 9a | I'll **paid** in cash | I'll **pay** in cash | 🔴 Та сама помилка, що в Р11, — тепер у чанку. Після `will` — тільки база. Чанк треба перезаписати цілим: *I'll pay in cash*. |
+| 9d | **is here a cafe?** | **Is there a café here?** | «Чи є тут…?» — це питальна форма від `There is a café here`: міняються місцями тільки `there` і `is`. `here` — місце — йде в кінець. `Is here a café?` англієць не скаже. |
+| 11 | because **of** I don't have enough money | because I don't have enough money | Дзеркало Р11. `because of` — перед іменником (because of the rent); `because` — перед цілим реченням із підметом і дієсловом (because **I don't have**…). Тест: після «через» стоїть «я / він / ми + дієслово»? → без `of`. |
+| 3 | is starting | starts | *(не рахую — граматично можливо)* Але мішень «розклад → Present Simple» вдруге обійдена. |
+| 5 | There is **not a** good place | There's **no** good café | *(не рахую — `There isn't a good place` теж правильно)* Мішень раунду була `no` + іменник — тут вона просилась. `The one that is here` → *the one that's there* (ти говориш з другом не біля дому). |
+| 11 | attend **the** church · because of **the** illness · finish renovation | go to church · because I was ill · finish **the** renovation | *(не рахую)* `church` як установа — без артикля, як `at school`, `at work`. `the illness` — «та сама хвороба, про яку ми говорили»; про себе — because I was ill. |
+| 7 | надходження · проект | дохід · дизайн | *(не рахую)* `income` — дохід; `design` — дизайн, а «проєкт» — це радше project. |
+| 1, 2, 4, 8, 9b/c/e/f, 10, 11 (умови) | — | ✅ | Міні-текст 3/3; слова: attend, afford. |
+
+*Повна теорія — у [prepositions.md](../grammar/a1-a2/prepositions.md) (§1 in / at місце), [adjectives-adverbs.md](../grammar/b1/adjectives-adverbs.md) (ступені порівняння) і `rules.md` (§1, §6, §9).*
+
+**Головне:** мішені Р11 закрито — але кожна з'явилась у дзеркальному вигляді. `because of` вивчено → `of` поліз туди, де йому не місце. Це нормальний етап: правило вже є, тепер вчимося бачити його межу. Динаміка: 13 → 13 → 14 → 8 → 6 → 2 → 1 → 5 → 5.
+
+---
+
+## 💬 Діалог 4 (після Раунду 12)
+
+Студент називає роль Claude і тему. 10 повідомлень від кожної сторони, без виправлень по ходу. Після діалогу — розбір і Раунд 13.

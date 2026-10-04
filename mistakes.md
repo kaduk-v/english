@@ -381,3 +381,8 @@
 | The meeting **is starting in** Friday *(дриль)* | The meeting **starts on** Friday | помилку не знайдено (in Friday), а правильне starts змінено; день → on; розклад → Present Simple | 05.10 · Урок 12 Р11 |
 | Is there **place** like that? | Is there **a** place like that? | однинний злічуваний без артикля — повтор патерну Діалогу 3; no заміняє a, прибрав no — поверни a | 05.10 · Урок 12 Р11 |
 | It's **no** fair | It's **not** fair | no + іменник (no place); not + прикметник (not fair) → [§1](rules.md#1-дієслово-та-підмет) | 05.10 · Урок 12 Р11 |
+| played **at** the kitchen *(зворотний переклад)* | played **in** the kitchen | кімната — простір → in; at — точка / пункт (at the office, at the door) | 04.10 · Урок 12 Р12 |
+| he is **smartest then** me | he is **smarter than** me | двоє → вищий ступінь (-er); the -est — з трьох і більше; than (ніж) ≠ then (потім) → [§6](rules.md#6-comparative-vs-superlative) | 04.10 · Урок 12 Р12 |
+| I'll **paid** in cash *(чанк)* | I'll **pay** in cash | 🔴 повтор Р11 у чанку — після will тільки база | 04.10 · Урок 12 Р12 |
+| **is here a cafe?** | **Is there a café here?** | «чи є тут» = питання від there is: міняються лише there ↔ is, here — в кінець | 04.10 · Урок 12 Р12 |
+| because **of** I don't have enough money | because I don't have | дзеркало Р11: because of + іменник; because + підмет + дієслово → [§9](rules.md#9-прийменники-часу-і-дедлайнів) | 04.10 · Урок 12 Р12 |

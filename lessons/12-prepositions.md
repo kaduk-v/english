@@ -1739,3 +1739,40 @@
 Одне-три короткі речення про сьогодні.
 
 *Після перевірки Р15 — Діалог 5.*
+
+### Відповіді учня
+
+1. There were many tourists at the fortress last Saturday.
+2. There was a problem at the office yesterday.
+3. My brother leads a team of five people.
+4. I attended a conference, and there were many people.
+5. The old fortress is at a the high altitude, and I recognized it immediately in the photo.
+6. My sibling works at the counter at a small establishment. Her income is not high, but it's stable. Last month, there were problems with the card terminal. The latency was terrible, and people didn't wait or pay.
+7. Минулої суботи був ярмарок в нашому місті. Було багато людей за прилавками. Я впізнав старого друга тут. Він переїхав до Канади назавжди минулого року.
+8. There у реченні виконує роль «заглушки» для підмета. was — для однини, were — для множини.
+9. a) Yesterday there were many people at the fair. b) He leads a team of five people. c) Last week there were many problems. d) She didn't call me or answer my email. e) It is such a big fortress. f) There is an old fortress on the hill. g) I can't afford to buy a new laptop.
+10. a) Last month there was a problem with the terminal. b) Were there problems with the terminal last month? c) Last month there weren't problems with the terminal. d) There are problems with the terminal.
+11. Last weekend there were a lot of people at the fair. Is there a problem? They moved to Odesa permanently last year. I attended the conference.
+
+### Перевірка Раунду 15 — ✅ 100% (перший чистий раунд уроку) · ✅ 1/5
+
+**Коротко:** жодної помилки, що зриває раунд. Головна мішень — `there was / there were` — **9 разів із 9**, у всіх формах: ствердження, питання (`Were there problems…?`, `Is there a problem?`), заперечення, теперішній (`There are problems`), однина й множина. У перекладі ти знайшов власний обхід пастки — переніс час у кінець: `There were many tourists at the fortress last Saturday`. А у зворотному перекладі пастка стояла прямо в тексті — «Минулого місяця були проблеми» — і ти написав `Last month, there were problems` без жодного вагання. Зворотний переклад — граматично слово в слово з оригіналом. Дриль — **7 з 7**, кожна помилка знайдена і виправлена мінімально. Пояснення в п.8 — «`there` — заглушка для підмета» — це точно те, як воно працює.
+
+| № | Було | Краще | Коментар *(нічого не рахую)* |
+|---|---|---|---|
+| 5 | at **a the** high altitude | at **a** high altitude | Схоже на залишок після правки — `a` вже правильне, `the` зайве. |
+| 4 | I attended **a** conference | I attended **the** conference | Друг питає про конкретну конференцію → `the`. У міні-тексті (`I attended the conference`) — саме так. |
+| 6 | **at** the counter **at** a small establishment | **behind** the counter **in** a small establishment | Обидва варіанти можливі; в оригіналі — `behind` (працівник) і `in`. |
+| 7 | «Я впізнав старого друга **тут**» | «…**там**» | `there` — там; `here` — тут. |
+| 10c | there **weren't problems** | there **weren't any problems** / there **were no problems** | У запереченні з множиною природно додати `any` або сказати `no`. |
+| 11 | `Is there a problem?` | — | Умова «історія з минулого» не зовсім виконана, але речення правильне. |
+
+*Повна теорія — у [to-be.md](../grammar/a1-a2/to-be.md) (there is / there are) і [articles.md](../grammar/a1-a2/articles.md).*
+
+**Головне:** за 12 раундів нового формату — від 13 помилок до нуля. `there were`, яке тричі поспіль ламалося в перекладі, закрито — не новим поясненням, а тим, що ти сам знайшов, як не дати українському «було» стати першим.
+
+---
+
+## 💬 Діалог 5 (після Раунду 15)
+
+Студент називає роль Claude і тему. 10 повідомлень від кожної сторони, без виправлень по ходу. Після діалогу — розбір і Раунд 16.

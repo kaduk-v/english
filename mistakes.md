@@ -403,5 +403,5 @@
 | My income is not high, but **is** not terrible | but **it's** not terrible | друге речення після but — свій підмет → [§1](rules.md#1-дієслово-та-підмет) | 05.10 · Урок 12 Р13 |
 | I didn't choose a knight and **ran** / Did I choose … and **ran** | didn't choose … **or run** / Did you choose … and **run** | 🆕 did / didn't діє на **обидва** дієслова після and — друге теж база → [§3](rules.md#3-past-simple) | 05.10 · Урок 12 Р13 |
 | The map **leads me the entire game** | The map **led me through** the entire game | lead sb to / through — напрямок обов'язковий; розповідь → led | 05.10 · Урок 12 Р13 |
-| Yesterday, **were** many people in the cafe | Yesterday **there were** many people | 🔴 **третій раз поспіль** (Д4, Р13, Р14): у чанку того ж раунду правильно, у перекладі «учора було…» there зникає → [§1](rules.md#1-дієслово-та-підмет) | 05.10 · Урок 12 Р14 |
+| Yesterday, **were** many people in the cafe | Yesterday **there were** many people | ✅ **ЗАКРИТО в Р15 (9/9)** · було 🔴 третій раз поспіль (Д4, Р13, Р14): у чанку того ж раунду правильно, у перекладі «учора було…» there зникає → [§1](rules.md#1-дієслово-та-підмет) | 05.10 · Урок 12 Р14 |
 | He led **the** team of four people *(зворотний переклад)* | He led **a** team of four people | перша згадка → a | 05.10 · Урок 12 Р14 |

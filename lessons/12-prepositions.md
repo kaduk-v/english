@@ -1640,3 +1640,102 @@
 Одне-три короткі речення про сьогодні.
 
 *Після Р15 — Діалог 5.*
+
+### Відповіді учня
+
+1. Yesterday, were many people in the cafe.
+2. I didn't order coffee and didn't sit at the counter.
+3. It is such a beautiful establishment.
+4. I didn't buy the ticket, and I didn't read the schedule.
+5. The guide led me through the entire project, but it was very thick.
+6. Last year, my friend invented a small board game. He led the team of for people. The price of the box rose twice.
+7. Моя сестра працює за прилавком в маленькому закладі. Її дохід не великий, але стабільний. Минулого місяці були проблеми із платіжним терміналом. Затримка була жахливою, люди не чекали чи не платили.
+8. Після didn't всі дієслова в реченні повинні йти в базовій формі.
+9. a) such an old establishment b) last week there were many people c) didn't buy and didn't read d) led me through the game e) at the counter f) but it's not terrible
+10. a) My sibling didn't buy a ticket or read the schedule b) Did I buy a ticket or read the schedule. c) I bought a ticket and read the schedule. d) I didn't walk a dog and download the game.
+11. I didn't fall asleep after lunch and read a book. There is such a cozy cafe near my house. This guide is too difficult for me. This book is so thick. The latency between requests is so terrible.
+
+### Перевірка Раунду 14 — ❌ (2 помилки)
+
+**Коротко:** мішень Р13 закрита повністю — **`didn't` + обидва дієслова в базовій формі шість разів із шести** (`didn't order … and didn't sit`, `didn't buy … or read`, `didn't walk … and download`, `didn't fall asleep … and read`). `such a` / `such an` — 3 з 3, включно з `such an old establishment` (сам поставив `an` перед голосною). `so thick` / `so terrible` без іменника — теж правильно: ти тепер розрізняєш `so` і `such a`. `led me through the entire project`, `but it's not terrible`, `at the counter` — чисто. Дві помилки, і одна з них — **третій раз поспіль**: «Учора було багато людей» → `Yesterday, were many people`. У чанку 9b того ж раунду — `last week there were many people` правильно. Тобто конструкцію ти знаєш, а українське «було» на початку речення її витісняє.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1 | Yesterday, **were** many people in the cafe | Yesterday **there were** many people in the café | 🔴 Третій раз (Діалог 4, Р13, Р14). «Було / були» після слова про час — це **`there was / there were`**. `Yesterday` — обставина, а не підмет; без `there` у реченні немає підмета. Тест: якщо українське речення починається з «учора / минулого тижня / в кафе» і далі йде «було / були» — пиши `there`. |
+| 6 | He led **the** team of four people | He led **a** team of four people | Команда згадується вперше і слухач її не знає → `a`. `the team` = «та сама команда, про яку ми вже говорили». *(`for` → `four` — описка, не рахую.)* |
+| 6 | *(4-те речення пропущено)* | In the end, he closed the project permanently. | *(не рахую)* Зворотний переклад — весь текст. Перші три речення — без розбіжностей, крім артикля. |
+| 4 | didn't buy **the** ticket | didn't buy **a** ticket | *(не рахую)* Можна, якщо квиток конкретний; природніше `a`. |
+| 7 | «не чекали **чи** не платили» | «не чекали **і** не платили» | *(не рахую)* `didn't wait or pay` — заперечення обох дій. |
+| 9e | at the counter | **behind** the counter *(працювати)* | *(не рахую)* Обидва правильні: `at the counter` — клієнт біля стійки; `behind the counter` — працівник за нею. |
+| 10b | Did **I** buy … **.** | Did **you** buy … **?** | *(не рахую)* Знак питання і природніший підмет. |
+| 2, 3, 5, 8, 9a–d/f, 10a/c/d, 11 | — | ✅ | Міні-текст: didn't + два дієслова ✅, such a ✅, слова guide, thick, latency ✅. |
+
+*Повна теорія — у [articles.md](../grammar/a1-a2/articles.md), [to-be.md](../grammar/a1-a2/to-be.md) (there is / there are) і `rules.md` (§1, §3).*
+
+**Головне:** 8 → 2. `did / didn't` закрито за один раунд. Лишилось одне вперте місце — `there were` у перекладі. Раунд 15 — тільки про нього, і після нього — Діалог 5.
+
+---
+
+## Раунд 15
+
+**Слова раунду:** altitude · permanently · fortress · recognize · attend · afford · counter *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені:** **головна — `there was / there were` після слова про час або місце** · `a` при першій згадці (a team of four) · `afford to` + дієслово · узгодження: `there was` + однина / `there were` + множина.
+
+**Перед здачею:** знайди в українському реченні «було / були / є». Перед ним стоїть «учора / минулого тижня / у кафе / на горі»? Тоді англійською — `there was / there were`, і **`there` стоїть одразу після часу чи на початку**.
+
+### Частина 1 — UA → EN
+
+1. Минулої суботи у фортеці було багато туристів.
+2. Учора в офісі була одна проблема.
+3. Мій брат очолює команду з п'яти людей.
+
+### Частина 2 — ситуація → речення
+
+4. Друг питає, як пройшла конференція. Скажи: ти був на ній, і там було багато людей. *(2 короткі речення; `attend`)*
+5. Друг питає про стару фортецю в горах. Скажи: вона на великій висоті, і ти одразу впізнав її на фото. *(2 короткі речення; `altitude`, `recognize`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 14. Назад англійською, **не дивлячись в оригінал**:
+   > Моя сестра працює за прилавком у маленькому закладі. Її дохід не великий, але стабільний. Минулого місяця були проблеми з платіжним терміналом. Затримка була жахливою, і люди не чекали і не платили.
+
+### Частина 4 — EN → UA
+
+7. > Last Sunday there was a fair in our town. There were a lot of people at the counters. I recognized an old friend there. He moved to Canada permanently last year.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому «Минулого місяця були проблеми» — це `Last month **there were** problems`, а не `Last month were problems`? Що робить `there` у реченні? І коли `was`, а коли `were`?
+
+### Частина 6 — дриль: знайди помилку
+
+9. У кожному — **рівно одна** помилка. Мінімальне виправлення, час не міняй:
+    a) Yesterday were many people at the fair.
+    b) He leads team of five people.
+    c) Last week there was many problems.
+    d) She didn't call me or answered my email.
+    e) It is such big fortress.
+    f) There is a old fortress on the hill.
+    g) I can't afford buy a new laptop.
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **Last month there were problems with the terminal.** 4 варіанти, у кожному змінено тільки одне:
+    a) кількість → одна проблема *(і дієслово за нею)*
+    b) питання *(«Чи були минулого місяця проблеми…?»)*
+    c) заперечення *(«не було проблем»)*
+    d) час → зараз *(«зараз є проблеми»)*
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення**, історія з минулого. 3 умови:
+    - **одне речення** починається з часу або місця + `there was / there were`;
+    - **одне речення** з `a` при першій згадці;
+    - **два слова зі списку раунду** (altitude · permanently · fortress · recognize · attend · afford · counter).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.
+
+*Після перевірки Р15 — Діалог 5.*

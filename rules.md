@@ -34,6 +34,7 @@
   - перед **прикметником**: ❌ I proud. → ✅ I**'m** proud.
   - перед **місцем**: ❌ My grinder in the cupboard. → ✅ My grinder **is** in the cupboard.
   - замість **тире** між двома іменниками / іменником і дією: ❌ My dream — make a game. → ✅ My dream **is to** make a game.
+- **«Учора / минулого тижня / у кафе + було / були»** → `there was / there were`. Обставина часу чи місця — не підмет; підмет речення — `there`: ✅ Yesterday **there were** many people in the café. ❌ Yesterday were many people. `was` — перед одниною (there was a problem), `were` — перед множиною (there were problems).
 - **«Скільки … є?» / «Чи є …?»** — `are there` / `is there`, місце — в кінець (✅ **Is there** a café **here**? ❌ Is here a café?): ❌ How many rooms in your flat? → ✅ How many rooms **are there** in your flat? · ✅ **Is there** a kitchen?
 - **Зворотний бік:** перед звичайним дієсловом `be` НЕ ставиться: ❌ It is not support me. → ✅ It **does not / will not support** me.
 - **`not` vs `no`:** `not` — перед прикметником / дієсловом / прислівником (It's **not** fair · I'm **not** sure); `no` — перед іменником, заміняє артикль (There is **no** place · I have **no** doubt). ❌ It's no fair.

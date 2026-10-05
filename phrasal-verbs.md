@@ -2,7 +2,7 @@
 
 Як і [irregular-verbs.md](irregular-verbs.md) — це не підручниковий повний список, а слова, які реально трапились у твоїх уроках/чатах/розмовах. Росте з практики. Поруч із фразовими дієсловами тут і **сталі фрази** (позначені *(фраза)*), які треба брати цілим чанком — by the way, at all, for a while тощо.
 
-**Зміст:** [any good](#any-good) · [at a time](#at-a-time) · [at all](#at-all) · [at once](#at-once) · [be based on](#be-based-on) · [by the way](#by-the-way) · [come back](#come-back) · [cross over](#cross-over) · [figure out](#figure-out) · [find out](#find-out) · [follow up](#follow-up) · [for a while](#for-a-while) · [get back (to sb)](#get-back-to-sb) · [give up](#give-up) · [go on](#go-on) · [level up](#level-up) · [look forward to](#look-forward-to) · [on the side](#on-the-side) · [over time](#over-time) · [sort out / get sorted](#sort-out-get-sorted) · [straight away](#straight-away) · [take back](#take-back) · [take down](#take-down) · [turn off / turn on](#turn-off-turn-on) · [turn out](#turn-out) · [wake up](#wake-up) · [work out](#work-out) · [write up](#write-up)
+**Зміст:** [any good](#any-good) · [at a time](#at-a-time) · [at all](#at-all) · [at once](#at-once) · [be based on](#be-based-on) · [by the way](#by-the-way) · [come back](#come-back) · [cross over](#cross-over) · [figure out](#figure-out) · [find out](#find-out) · [follow up](#follow-up) · [for a while](#for-a-while) · [get back (to sb)](#get-back-to-sb) · [give up](#give-up) · [go on](#go-on) · [level up](#level-up) · [look for](#look-for) · [look forward to](#look-forward-to) · [on the side](#on-the-side) · [over time](#over-time) · [sort out / get sorted](#sort-out-get-sorted) · [straight away](#straight-away) · [take back](#take-back) · [take down](#take-down) · [turn off / turn on](#turn-off-turn-on) · [turn out](#turn-out) · [wake up](#wake-up) · [work out](#work-out) · [write up](#write-up)
 
 ---
 
@@ -15,6 +15,7 @@
 - Is this coffee **any good**? — Ця кава взагалі нормальна?
 - The old tutorial isn't **any good** anymore. — Старий туторіал уже нікуди не годиться.
 - Is the new version **any better**? — Нова версія хоч трохи краща?
+
 
 
 ---
@@ -30,6 +31,7 @@
 - I was a student **at the time**. — На той час я був студентом. *(інша фраза!)*
 
 
+
 ---
 
 ## at all
@@ -41,6 +43,7 @@
 - It's no bother **at all**. — Це зовсім не клопіт.
 - I didn't like the film **at all**. — Мені фільм зовсім не сподобався.
 - Do you play **at all**? — Ти взагалі граєш?
+
 
 
 ---
@@ -56,6 +59,7 @@
 - Don't open ten tabs **at once**. — Не відкривай десять вкладок одразу.
 
 
+
 ---
 
 ## be based on
@@ -67,6 +71,7 @@
 - The film **is based on** a true story. — Фільм заснований на реальних подіях.
 - My game **will be based on** a real village. — Моя гра базуватиметься на реальному селі.
 - We **based** the design **on** user feedback. — Ми побудували дизайн на відгуках користувачів.
+
 
 
 ---
@@ -82,6 +87,7 @@
 - What's your name, **by the way**? — Як тебе звати, до речі?
 
 
+
 ---
 
 ## come back
@@ -93,6 +99,7 @@
 - I stopped playing Elden Ring, but I'll **come back** later. — Я кинув Elden Ring, але повернуся пізніше.
 - When an idea keeps **coming back**, it usually means something. — Коли ідея постійно повертається, це зазвичай щось означає.
 - Let's **come back to** this question tomorrow. — Повернімося до цього питання завтра.
+
 
 ---
 
@@ -107,6 +114,7 @@
 - The game is a **crossover** between a farm sim and an RPG. — Гра — кросовер між фермерським симулятором і RPG.
 
 
+
 ---
 
 ## figure out
@@ -116,6 +124,7 @@
 - It took me three days to **figure out** the bug. — Мені знадобилось три дні, щоб розібратися з багом.
 - Let's **figure out** a better approach together. — Давай разом придумаємо кращий підхід.
 - I couldn't **figure out** why the tests were failing. — Я не міг зрозуміти, чому тести падають.
+
 
 
 
@@ -133,6 +142,7 @@
 
 
 
+
 ---
 
 ## follow up
@@ -142,6 +152,7 @@
 - I'll **follow up** with an email tomorrow. — Я надішлю follow-up email завтра.
 - We should **follow up** on that bug report. — Нам варто простежити за цим баг-репортом.
 - He **followed up** with the client after the demo. — Він зв'язався з клієнтом повторно після демо.
+
 
 
 
@@ -158,6 +169,7 @@
 - **After a while** the crowd went home. — Через якийсь час натовп розійшовся.
 
 
+
 ---
 
 ## get back (to sb)
@@ -167,6 +179,7 @@
 - I'll **get back to you** by Friday. — Я зв'яжусь із тобою до п'ятниці.
 - She never **got back to me** about the offer. — Вона так і не відповіла мені щодо пропозиції.
 - Let me check with the team and **get back to you** tomorrow. — Дай мені звіритися з командою і я зв'яжусь із тобою завтра.
+
 
 
 
@@ -184,6 +197,7 @@
 
 
 
+
 ---
 
 ## go on
@@ -193,6 +207,7 @@
 - What's **going on** with the deployment? — Що відбувається з деплоєм?
 - Please, **go on** — I'm listening. — Продовжуй, будь ласка, я слухаю.
 - The meeting **went on** for almost two hours. — Зустріч тривала майже дві години.
+
 
 
 
@@ -208,6 +223,19 @@
 - Kill twenty wolves and you'll **level up**. — Вбий двадцять вовків, і піднімеш рівень.
 - This course helped me **level up** my English. — Цей курс допоміг мені прокачати англійську.
 
+
+---
+
+## look for
+**look for** /lʊk fɔː/ — шукати
+
+**Пояснення:** процес пошуку — ще не знайшов. Частка невідокремлювана: look **for** it (❌ look it for). Порівняй: **find** — знайти (результат), **look up** — знайти в словнику / довіднику, **look after** — доглядати.
+
+**Приклади:**
+- I'll **look for** an artist when the demo is ready. — Я шукатиму художника, коли демо буде готове.
+- What are you **looking for**? — Що ти шукаєш?
+- I **looked for** my keys for an hour and found them in the fridge. — Я годину шукав ключі й знайшов їх у холодильнику.
+
 ---
 
 ## look forward to
@@ -219,6 +247,7 @@
 - I'm **looking forward to** the weekend. — Чекаю не дочекаюся вихідних.
 - We **look forward to** working with you. — Ми з нетерпінням чекаємо на співпрацю з вами.
 - She's **looking forward to** seeing the new season. — Вона дуже чекає новий сезон.
+
 
 
 
@@ -236,6 +265,7 @@
 
 
 
+
 ---
 
 ## over time
@@ -249,6 +279,7 @@
 - I worked **overtime** last week. — Минулого тижня я працював понаднормово. *(інше слово!)*
 
 
+
 ---
 
 ## sort out / get sorted
@@ -259,6 +290,7 @@
 - We finally **sorted out** the deployment issue. — Ми нарешті розібралися з проблемою деплою.
 - Don't worry, it'll **get sorted** by tomorrow. — Не хвилюйся, до завтра все владнається.
 - Can you **sort out** the invoice mess before Friday? — Можеш розібратися з плутаниною в рахунках до п'ятниці?
+
 
 
 
@@ -275,6 +307,7 @@
 - She recognized him **straight away**. — Вона впізнала його одразу.
 
 
+
 ---
 
 ## take back
@@ -287,6 +320,7 @@
 - These shoes don't fit — I'll **take them back** to the shop. — Ці черевики не підходять — віднесу їх назад у магазин.
 - Okay, you were right. I **take it back**. — Гаразд, ти мав рацію. Беру свої слова назад.
 
+
 ---
 
 ## take down
@@ -298,6 +332,7 @@
 - A memory leak **took down** the whole service. — Витік пам'яті вивів з ладу весь сервіс.
 - We **took** the old server **down** for maintenance. — Ми вимкнули старий сервер на обслуговування.
 - The DDoS attack **took** the website **down** for hours. — DDoS-атака вивела сайт з ладу на кілька годин.
+
 
 
 
@@ -315,6 +350,7 @@
 
 
 
+
 ---
 
 ## turn out
@@ -326,6 +362,7 @@
 - The morning meeting **turned out** to be very useful. — Ранкова зустріч виявилась дуже корисною.
 - Everyone thought the plan was risky, but it **turned out** fine. — Усі думали, що план ризикований, але все вийшло добре.
 - **It turned out that** the bug was in the config, not in the code. — Виявилось, що баг був у конфігу, а не в коді. _(розробка)_
+
 
 
 
@@ -343,6 +380,7 @@
 
 
 
+
 ---
 
 ## work out
@@ -354,6 +392,7 @@
 - I **work out** three times a week. — Я тренуюсь тричі на тиждень. _(спорт)_
 - We tried the new schedule, but it didn't **work out**. — Ми спробували новий розклад, але не спрацювало.
 - Can you **work out** how much we spent on coffee? — Можеш вирахувати, скільки ми витратили на каву?
+
 
 
 

@@ -45,6 +45,8 @@
   - ❌ He hardly reads, although works hard. → ✅ He hardly reads, although **he** works hard.
   - Українською другий підмет можна пропустити («хоча працює наполегливо»); англійською — ні.
   - ❌ Last time was starting at 9:30. → ✅ Last time **it** started at 9:30. («почалося» — підмет `it` обов'язковий; *Last time* — обставина, не підмет)
+- **`will` + прикметник → `will be`:** ✅ The game **will be** cozy. ❌ It will cozy.
+- **«У когось є» = `sb has`**, не `in sb`: ✅ The villagers **have** the boards. ❌ The boards are in citizens.
 - **Одне просте речення — один присудок.** Після `will` / `can` / `should` — одразу базова форма; `be` — лише перед прикметником, іменником або -ing:
   - ❌ It will be provide money. → ✅ It **will provide** money. · ❌ The game will based on… → ✅ The game **will be based** on…
   - ❌ It's my biggest dream is to travel. → ✅ **My biggest dream is** to travel. (не починай з `It's`, якщо далі є своє `is`)
@@ -153,6 +155,10 @@
 | habit **of** doing sth | звичка щось робити | habit to do |
 | thankful / grateful **to** sb **for** sth | вдячний комусь за щось | thankful him |
 | thankful **that** + речення | вдячний, що… (перед that прийменника немає) | thankful for that they… |
+| be tired **of** sth | втомитися від (набридло) | tired from life *(tired from = фізично від дії: tired from the walk)* |
+| thanks / thank you **for** sth | дякую за | thanks of |
+| do sth **for** sb | зробити щось для когось | do a task from them |
+| require **sb to** do sth | вимагати від когось | requires to know |
 | doubt sth | сумніватися в чомусь (БЕЗ прийменника) | doubt on / in it |
 | obvious **to** sb | очевидно для когось | obvious for you |
 | bring / take / go / come **to** + місце | принести / піти **в** (рух до) | bring in the office *(in = уже всередині)* |
@@ -276,6 +282,8 @@
 - **original** (прикметник «оригінальний, незвичайний») vs **origin** (іменник «походження»). ❌ origin places → ✅ **original** places.
 - **save money** («відкладати гроші»); `collect` — колекціонувати. **bring an idea to life** («втілити в життя»); `implement` — впровадити план / фічу.
 - **fit** дієслово («підходити за розміром», без прийменника і без be): ✅ This lid **doesn't fit** the pot. ❌ is not fit for the pot · vs **be fit for** прикметник («придатний»): ✅ This water **is not fit for** drinking.
+- **for the first time** («вперше») — з прийменником і артиклем: ✅ I played it **for the first time** yesterday. ❌ first time.
+- **its** (присвійне «його / її» для речей, без апострофа) vs **it's** (= it is): ✅ Godot and **its** UI. ❌ it scripts.
 - **lack** /læk/ («брак, нестача»: a lack of time) vs **leak** /liːk/ («витік»: a memory leak). ❌ a leak of time.
 - **series** («серіал»; однина = множина: a series, two series) / **show** vs **serial** (прикметник «серійний»: a serial number). ❌ that serial → ✅ that **series**.
 - **change jobs / trains / hands** — «змінити роботу / пересісти / перейти з рук у руки» — множина без артикля: ✅ I want to **change jobs**. ❌ change a job.

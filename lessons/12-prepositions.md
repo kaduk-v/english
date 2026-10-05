@@ -1776,3 +1776,111 @@
 ## 💬 Діалог 5 (після Раунду 15)
 
 Студент називає роль Claude і тему. 10 повідомлень від кожної сторони, без виправлень по ходу. Після діалогу — розбір і Раунд 16.
+
+**Роль і тема (задав студент, 05.10):** Claude — інді-розробник піксельної гри *Pinewood* (натхнення — Stardew Valley): персонаж тікає з міста в старий мисливський будиночок діда в лісі і будує поселення. Почув про ідею студента — 2D-гру про село — і пише йому.
+
+### Репліки студента (10)
+
+1. Hi! Right now, I only have an idea for the game. And that's the truth about start near the grandfather's house. I think to make pixel perfect 2D game. My main character also tired from life in city and moves to the village. There he has to repair the house, find the place where he can sleep first time. First quests will be: meet some citizens, speak to them, and tell about yourself.
+2. Pixel art is the soul of a 2d game. I'm not sure I can do it well. So I'll look for an artist. But at first, I'll use free character animations from asset stores. Before I start looking for an artist I want to have a few finished scenes to be able to show the game in action.
+3. I chose the Unity engine because I know it a little. I watched videos about Godot on Youtube. Its UI looks great but it requires to know it scripts. I know TypeScript that has C-type syntax and learn C# for Unity will be easier for me
+4. Oh, there will be a lot of work. At first, character has to find resources to fix the house. Some of them he can find on village locations, some only will be in citizens. To get some from neighbours you have to get a trust from him. To get trust - you have to do some task from them
+5. I have not thought about it yet. But I think Unity already provides ready-made mechanisms to store data.
+6. It will cozy and warm. I want to create a game where people can forger about real life and just relax. Because I like souls like games and it not for everyone))
+7. I have to thought about bandura. It's very calm music
+8. The game takes a lot of time. Not it's just the dream. But I collected all ideas related to the game
+9. The scene where character explore the old house and find different things. This things will be first inventory
+10. Thanks a lot of this conversation. You inspired me to move faster to my dream
+
+### Розбір Діалогу 5 — 27 помилок
+
+**Коротко:** розмова про задум гри — найабстрактніша з усіх: не «що сталося», а «як буде влаштовано». І на ній видно обидва боки. Сильний бік — дві репліки без жодної помилки: №2 (`Before I start looking for an artist I want to have a few finished scenes to be able to show the game in action` — довге речення з трьома конструкціями, усе на місці) і №5. Чудові ідеї англійською: trust-система, бандура, `a game where people can forget about real life and just relax`. Слабкий бік — коли описуєш **майбутню гру прикметниками**, повертається **be-omission ×3** (`My main character also tired`, `It will cozy`, `it not for everyone`) — у раундах його нуль уже вісім раундів. **Прийменники — 6 зривів** (у Д4 було 2): усі в конструкціях, яких не було в раундах — `tired of`, `for the first time`, «у жителів», «для них», `thanks for`. **Артиклі — 8.** І четверте: **форма дієслова після дієслова** — `think to make`, `requires to know`, `learn C# … will be easier`, `about start`.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 1, 6 | My main character also **tired** / It will **cozy** / it **not** for everyone | My main character **is** also tired / It will **be** cozy / they**'re not** for everyone | 🎯 be-omission повернувся ×3 — усі три в описі «яка буде гра / який герой». Прикметник (tired, cozy) не може бути присудком сам: потрібне `is` / `will be`. Після `will` перед прикметником — `be` обов'язково. І `souls-like games` — множина → `they're`, не `it`. |
+| 1 | tired **from** life in **city** | tired **of** life in **the city** | Тема уроку. «Втомився від чогось» (набридло) — `tired of`. `tired from` — фізично втомився від дії: tired from the walk. І «місто» як протилежність селу — `the city`. |
+| 1 | I **think to make** | I**'m thinking of making** / I **plan to make** | Калька «думаю зробити». Після `think` інфінітив не ставиться: або `think of / about` + -ing, або інше дієслово — `plan to`, `want to`. Повтор Діалогу 2 (`think about to continue`). |
+| 1 | that's the truth about **start** near | it's true that **it starts** near / that's true about **starting** | Після прийменника (`about`) — тільки `-ing`. Простіше — `That's true: it starts near…`. |
+| 1 | pixel perfect 2D game · First quests · **first time** | **a** pixel-perfect 2D game · **The** first quests · **for the first time** | Артикль перед однинним злічуваним; `the` перед `first`. «Вперше» — чанк `for the first time`, з прийменником і артиклем. |
+| 1 | **tell** about yourself | **tell them** about himself | `tell` вимагає адресата: tell **sb** about sth. Без `them` — «розповісти про себе» нікому. |
+| 3 | it **requires to know** **it** scripts | it **requires you to know its** scripting language | `require` + **кого** + `to`: requires **you** to know. І присвійне «його» — `its` (без апострофа); `it` — «воно». |
+| 3 | and **learn** C# will be easier | and **learning** C# will be easier | 🔴 Повтор Р10 / Діалогу 3: дія як підмет — тільки `-ing`. |
+| 4 | **At first, character** has to find | **First, the character** has to find | Персонаж конкретний → `the`. «Спочатку» в списку кроків — `First`; `At first` = «спершу (а потім змінилось)». |
+| 4 | find **on village locations** | find **in the village** / **at different places in the village** | Тема уроку. Місце в межах села — `in`; `on` — поверхня. |
+| 4 | some only will be **in citizens** | others only **the villagers have** | Калька «у жителів». Українське «у когось є» англійською — `someone has`: the villagers have them. `in` — тільки «всередині». *(«Жителі села» — `villagers`; `citizens` — громадяни країни.)* |
+| 4 | get **a trust** from **him** | **earn their trust** | `trust` — незлічуване, без `a`. Сусідів багато → `their`, не `him`. І довіру не «беруть», а заробляють: `earn trust`. |
+| 4 | do some task **from** them | do some tasks **for** them | Тема уроку. Завдання робиш **для** когось → `for`. `from` — «від когось» (отримати). |
+| 7 | I **have to thought** about bandura | I **thought** about **the** bandura | Змішано дві конструкції (`have to` + минулий). Простіше: `I thought about the bandura` — Past Simple. Інструмент — з `the`: play the guitar, the bandura. |
+| 8 | **Not** it's just **the** dream | **Now** it's just **a** dream | «Поки що це лише мрія» — одна з багатьох → `a dream`. *(`Not` → `Now` — описка.)* |
+| 9 | where **character explore** … **find** | where **the character explores** … **finds** | Артикль + `-s` ×2: `the character` = he → explores, finds. |
+| 9 | **This** things will be **first inventory** | **These** things will be **the first items in the inventory** | `this` — однина; з множиною — `these`. І `the first …` — з артиклем. |
+| 10 | Thanks a lot **of** this conversation | Thanks a lot **for** this conversation | Тема уроку. Дякують **за** щось — `thanks for`, `thank you for`. |
+| 3, 6, 8 | TypeScript **that** has · **forger** · **Because** I like… (окремим реченням) · all ideas | TypeScript, **which** has · forget · …relax, because I like… · all **the** ideas | *(не рахую)* Описки й пунктуація. |
+
+*Повна теорія — у [to-be.md](../grammar/a1-a2/to-be.md), [articles.md](../grammar/a1-a2/articles.md), [prepositions.md](../grammar/a1-a2/prepositions.md) і `rules.md` (§1, §5, §8, §12).*
+
+**Головне:** у раундах be і прийменники вже чисті, бо там короткі речення з однією мішенню. У довгому описі майбутнього увага йде на ідею, і повертаються старі леаки + прийменники в нових для тебе конструкціях (`tired of`, `thanks for`, `for them`). Раунд 16 — саме на ці нові пари.
+
+---
+
+## Раунд 16
+
+**Слова раунду:** sibling · unity · lead · rise · design · permanently · counter *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені, по одній на речення:** `will be` + прикметник · `tired of` · `for the first time` · `thanks for` · `do sth for sb` · «у когось є» = `sb has` · `-ing` як підмет / після прийменника · `these` + множина · `its` (присвійне).
+
+**Перед здачею:** у реченні є `will` і прикметник? Між ними — `be`. Після прийменника дієслово — з `-ing`. «Дякую за / втомився від / для них» — перевір прийменник за чанком, не за українським словом.
+
+### Частина 1 — UA → EN
+
+1. Гра буде затишною і теплою.
+2. Я втомився від життя в місті.
+3. Дякую за пораду!
+
+### Частина 2 — ситуація → речення
+
+4. Друг питає, чи ти вже грав у Stardew Valley. Скажи: так, учора вперше, і тобі сподобався дизайн. *(2 короткі речення; `design`, `for the first time`)*
+5. Друг питає, де взяти дошки для будинку в твоїй грі. Поясни: дошки є у сусідів, і треба виконати для них завдання. *(2 короткі речення)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 15. Назад англійською, **не дивлячись в оригінал**:
+   > Минулої суботи в нашому місті був ярмарок. Біля прилавків було багато людей. Я впізнав там старого друга. Він назавжди переїхав до Канади минулого року.
+
+### Частина 4 — EN → UA
+
+7. > My sibling leads a small team. They're tired of long meetings. Learning a new engine will be hard. Thanks for your help — the game will be cozy.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому `It will **be** cozy`, а не `It will cozy`? І чому `**Learning** C# is easier`, а не `Learn C# is easier`?
+
+### Частина 6 — дриль: чанки
+
+9. По 10 секунд на фразу:
+    a) втомився від міста
+    b) вперше
+    c) дякую за допомогу
+    d) зробити це для них
+    e) у сусідів є дошки
+    f) ці речі
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **The game will be cozy and warm.** 4 варіанти, у кожному змінено тільки одне:
+    a) підмет → `the music`
+    b) прикметники → інші (calm and quiet / dark and hard)
+    c) час → минулий *(«гра була…»)*
+    d) заперечення
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення** про гру, яку хочеш зробити. 3 умови:
+    - **одне речення** з `will be` + прикметник;
+    - **одне речення** з `for` (for them / for the first time / thanks for);
+    - **два слова зі списку раунду** (sibling · unity · lead · rise · design · permanently · counter).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.

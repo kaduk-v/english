@@ -405,3 +405,12 @@
 | The map **leads me the entire game** | The map **led me through** the entire game | lead sb to / through — напрямок обов'язковий; розповідь → led | 05.10 · Урок 12 Р13 |
 | Yesterday, **were** many people in the cafe | Yesterday **there were** many people | ✅ **ЗАКРИТО в Р15 (9/9)** · було 🔴 третій раз поспіль (Д4, Р13, Р14): у чанку того ж раунду правильно, у перекладі «учора було…» there зникає → [§1](rules.md#1-дієслово-та-підмет) | 05.10 · Урок 12 Р14 |
 | He led **the** team of four people *(зворотний переклад)* | He led **a** team of four people | перша згадка → a | 05.10 · Урок 12 Р14 |
+| My main character also **tired** / It will **cozy** / it **not** for everyone | **is** also tired / will **be** cozy / they**'re not** | 🎯 be-omission ×3 у живому описі майбутньої гри (у раундах — 0 вісім раундів поспіль); will + прикметник → will be → [§1](rules.md#1-дієслово-та-підмет) | 05.10 · Урок 12 Діалог 5 |
+| tired **from** life in city | tired **of** life in **the city** | tired of = набридло; tired from = фізично від дії → [§8](rules.md#8-прийменники-з-дієсловами) | 05.10 · Діалог 5 |
+| **first time** / **First** quests / pixel perfect game / **character** explore / **the** dream | **for the first time** / **The first** quests / **a** pixel-perfect game / **the** character explores / **a** dream | артиклі ×8 (третій діалог поспіль); «вперше» — чанк for the first time | 05.10 · Діалог 5 |
+| I **think to make** / it **requires to know** / **learn** C# will be easier / about **start** | I'm **thinking of making** / requires **you to know** / **learning** C# / about **starting** | форма дієслова після дієслова / прийменника; -ing-підмет 🔴 повтор Р10/Д3 → [§12](rules.md#12-схеми-дієслів) | 05.10 · Діалог 5 |
+| **tell** about yourself | **tell them** about himself | tell + адресат обов'язково | 05.10 · Діалог 5 |
+| **it** scripts / **This** things | **its** scripts / **These** things | its — присвійне «його» (без апострофа); this → these з множиною | 05.10 · Діалог 5 |
+| on village locations / **in** citizens / task **from** them / Thanks **of** | **in** the village / **the villagers have** / tasks **for** them / Thanks **for** | 🔴 прийменники ×6 у нових конструкціях: «у когось є» = sb has; для них = for; дякую за = thanks for | 05.10 · Діалог 5 |
+| get **a trust** from **him** | **earn their trust** | trust незлічуване; сусіди → their; довіру заробляють (earn) | 05.10 · Діалог 5 |
+| I **have to thought** about bandura | I **thought** about **the** bandura | змішано have to + минулий; інструмент — з the | 05.10 · Діалог 5 |

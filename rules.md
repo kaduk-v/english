@@ -34,7 +34,7 @@
   - перед **прикметником**: ❌ I proud. → ✅ I**'m** proud.
   - перед **місцем**: ❌ My grinder in the cupboard. → ✅ My grinder **is** in the cupboard.
   - замість **тире** між двома іменниками / іменником і дією: ❌ My dream — make a game. → ✅ My dream **is to** make a game.
-- **«Учора / минулого тижня / у кафе + було / були»** → `there was / there were`. Обставина часу чи місця — не підмет; підмет речення — `there`: ✅ Yesterday **there were** many people in the café. ❌ Yesterday were many people. `was` — перед одниною (there was a problem), `were` — перед множиною (there were problems).
+- **«Учора / минулого тижня / біля прилавків / у кафе + було / були»** → `there was / there were` — і після **часу**, і після **місця** на початку: ✅ **There were** many people near the counters. · Near the counters **there were** many people. ❌ Near the counters were many people. Обставина часу чи місця — не підмет; підмет речення — `there`: ✅ Yesterday **there were** many people in the café. ❌ Yesterday were many people. `was` — перед одниною (there was a problem), `were` — перед множиною (there were problems).
 - **«Скільки … є?» / «Чи є …?»** — `are there` / `is there`, місце — в кінець (✅ **Is there** a café **here**? ❌ Is here a café?): ❌ How many rooms in your flat? → ✅ How many rooms **are there** in your flat? · ✅ **Is there** a kitchen?
 - **Зворотний бік:** перед звичайним дієсловом `be` НЕ ставиться: ❌ It is not support me. → ✅ It **does not / will not support** me.
 - **`not` vs `no`:** `not` — перед прикметником / дієсловом / прислівником (It's **not** fair · I'm **not** sure); `no` — перед іменником, заміняє артикль (There is **no** place · I have **no** doubt). ❌ It's no fair.
@@ -46,6 +46,7 @@
   - Українською другий підмет можна пропустити («хоча працює наполегливо»); англійською — ні.
   - ❌ Last time was starting at 9:30. → ✅ Last time **it** started at 9:30. («почалося» — підмет `it` обов'язковий; *Last time* — обставина, не підмет)
 - **`will` + прикметник → `will be`:** ✅ The game **will be** cozy. ❌ It will cozy.
+- **Безособове «треба / потрібно»** → підмет `you` (інструкція) або `we`: ✅ **You need** to fix the roof. ❌ Need to fix the roof.
 - **«У когось є» = `sb has`**, не `in sb`: ✅ The villagers **have** the boards. ❌ The boards are in citizens.
 - **Одне просте речення — один присудок.** Після `will` / `can` / `should` — одразу базова форма; `be` — лише перед прикметником, іменником або -ing:
   - ❌ It will be provide money. → ✅ It **will provide** money. · ❌ The game will based on… → ✅ The game **will be based** on…

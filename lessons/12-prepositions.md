@@ -1884,3 +1884,103 @@
 ### Щоденник *(необов'язково)*
 
 Одне-три короткі речення про сьогодні.
+
+### Відповіді учня
+
+1. The game will be cozy and warm.
+2. I'm tired of life in the city.
+3. Thanks for the advice.
+4. Yes, yesterday was the first time. I liked the design.
+5. The neighbors have boards. Need to do tasks for them.
+6. There was the fair in out city last Saturday. Near the counters were many people. There I recognized the old friend.
+7. Мій брат керує невеликою командою. Їм набридли довгі мітинги. Вчитися новому движку буде важко. Дякую за твою допомогу — гра буде затишною.
+8. It will **be** cozy, а не It will cozy — тому що cozy прикметник, який вимагає дієслова. Learn — це дієслово, і воно не може бути підметом, тому ми його перетворюємо в герундій.
+9. a) tired of the city b) for the fist time c) thanks for the help d) do this for them e) the neighbors have boards f) these things
+10. a) The music will be cozy and warm. b) The game will be easy and optimized. c) The game was cozy and warm. d) The game won't be cozy and warm.
+11. My game will be nice and hard. I should do the new level for my game. Could you lead a team of five people? We lost this package permanently.
+
+### Перевірка Раунду 16 — ❌ (5 помилок) · ✅ 1/5
+
+**Коротко:** **усі нові пари з Діалогу 5 — закриті з першого разу**: `will be` + прикметник ×6 (переклад, рамка, міні-текст), `tired of` ×2, `thanks for` ×2, `for them` ×2, «у сусідів є» → `The neighbors have boards` (без кальки `in`), `these things`, `-ing` як підмет — пояснено точно. Рамка 4/4, чанки 6/6. Усі п'ять помилок — у двох місцях. Чотири — у **зворотному перекладі**: там двічі артикль першої згадки (`the fair`, `the old friend`) і знову зник `there` — цього разу після **місця** на початку речення: «Біля прилавків було багато людей» → `Near the counters were many people`. П'ята — підмет в інструкції (`Need to do tasks`).
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 6 | **Near the counters were** many people | **There were** many people near the counters / Near the counters **there were** many people | 🔴 Та сама дірка, що з часом (`Yesterday, were…`), тільки тепер на початку — **місце**. «Біля прилавків» — обставина, не підмет. «Було / були» → `there were`. У Р15 ти обходив пастку, переносячи час у кінець; тут місце стояло першим у твоєму ж українському тексті — і `there` випав. |
+| 6 | There was **the** fair | There was **a** fair | Ярмарок згадується вперше → `a`. Після `there was` майже завжди `a`: there was **a** problem, there is **a** café. |
+| 6 | I recognized **the** old friend | I recognized **an** old friend | Перша згадка → `an` (перед голосною). `the old friend` = «той самий старий друг, про якого ми говорили». |
+| 5 | **Need** to do tasks for them | **You need** to do tasks for them | Підмет зник — українське «треба виконати» безособове, англійське речення без підмета не буває. В інструкції гравцю підмет — `you`. |
+| 11 | I should **do the** new level | I should **make a** new level | Створити щось нове — `make` (make a game, make a level); `do` — виконати дію або завдання (do a task, do homework). І рівень ще не існує → `a`. |
+| 4 | yesterday **was the first time** | I played it **for the first time** yesterday | *(не рахую — граматично правильно)* Мішень `for the first time` обійдена, але твій варіант — природна англійська. |
+| 6 | *(4-те речення знову пропущено)* | He moved to Canada permanently last year. | *(не рахую)* Другий раунд поспіль без останнього речення зворотного перекладу. |
+| 6, 9b | out city · fist time | our city · first time | *(описки)* |
+| 1–3, 7, 8, 9, 10, 11 (інше) | — | ✅ | Міні-текст 3/3: will be ✅, for my game ✅, lead / permanently ✅. |
+
+*Повна теорія — у [articles.md](../grammar/a1-a2/articles.md), [to-be.md](../grammar/a1-a2/to-be.md) (there is / there are) і `rules.md` (§1, §11).*
+
+**Головне:** коли конструкція нова — вона ламається в діалозі і закривається за один раунд (так було з `tired of`, `thanks for`, `will be`). А `there` + обставина на початку — вперта: щойно речення починається з часу **або місця**, підмет `there` зникає. Раунд 17 — на місце.
+
+---
+
+## Раунд 17
+
+**Слова раунду:** unity · compound · fortress · invent · recognize · afford · income *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені:** **головна — `there is / are / was / were` після МІСЦЯ на початку** («біля / у / на … є / було») · `a / an` при першій згадці (особливо після `there was`) · підмет в інструкції (`You need to…`) · `make` (створити) vs `do` (виконати).
+
+**Перед здачею:** українське речення починається з «біля / у / на / в …» і далі «є / був / було»? → `there`. Іменник після `there is / there was` — з `a / an`.
+
+### Частина 1 — UA → EN
+
+1. Біля фортеці був маленький ярмарок.
+2. У моїй грі є старий будинок.
+3. Я зробив новий рівень для гри.
+
+### Частина 2 — ситуація → речення
+
+4. Друг питає про твою гру. Скажи: у ній є старий будинок, і гравцеві треба його полагодити. *(2 короткі речення)*
+5. Друг питає, що ти робив на вихідних. Скажи: ти був на ярмарку і впізнав там старого друга. *(2 короткі речення; `recognize`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 16. Назад англійською, **не дивлячись в оригінал** — **усі чотири речення**:
+   > Мій брат керує невеликою командою. Їм набридли довгі мітинги. Вивчати новий рушій буде важко. Дякую за твою допомогу — гра буде затишною.
+
+### Частина 4 — EN → UA
+
+7. > Near the old fortress there is a small café. There were a lot of tourists there last week. I met an old friend at the counter. He invented a new board game, but he can't afford a holiday.
+
+### Частина 5 — граматика своїми словами
+
+8. Чому «Біля прилавків було багато людей» — це `There were many people near the counters`, а не `Near the counters were many people`? Що спільного з «Учора було багато людей»?
+
+### Частина 6 — дриль: знайди помилку
+
+9. У кожному — **рівно одна** помилка. Мінімальне виправлення, час не міняй:
+    a) Near the house were two old trees.
+    b) Yesterday I went to fair in the city.
+    c) Need to fix the roof first.
+    d) I did a new level for my game.
+    e) In my game is an old house.
+    f) I'm tired from long meetings.
+    g) Thanks a lot of your help.
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **Near the old house there is a small garden.** 4 варіанти, у кожному змінено тільки одне:
+    a) кількість → два сади *(і дієслово за ними)*
+    b) час → минулий
+    c) питання
+    d) місце → інше (near the fortress / in the village)
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення** про місце (село, місто, локація в грі). 3 умови:
+    - **одне речення** починається з місця + `there is / are / was / were`;
+    - **одне речення** з `a / an` при першій згадці;
+    - **два слова зі списку раунду** (unity · compound · fortress · invent · recognize · afford · income).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.
+
+*Після Р18 — Діалог 6.*

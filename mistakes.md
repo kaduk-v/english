@@ -414,3 +414,7 @@
 | on village locations / **in** citizens / task **from** them / Thanks **of** | **in** the village / **the villagers have** / tasks **for** them / Thanks **for** | 🔴 прийменники ×6 у нових конструкціях: «у когось є» = sb has; для них = for; дякую за = thanks for | 05.10 · Діалог 5 |
 | get **a trust** from **him** | **earn their trust** | trust незлічуване; сусіди → their; довіру заробляють (earn) | 05.10 · Діалог 5 |
 | I **have to thought** about bandura | I **thought** about **the** bandura | змішано have to + минулий; інструмент — з the | 05.10 · Діалог 5 |
+| **Near the counters were** many people *(зворотний переклад)* | **There were** many people near the counters | 🔴 there зникає після **місця** на початку (як після часу: Д4, Р13, Р14) → [§1](rules.md#1-дієслово-та-підмет) | 09.10 · Урок 12 Р16 |
+| There was **the** fair / I recognized **the** old friend | There was **a** fair / **an** old friend | перша згадка → a / an; після there was майже завжди a | 09.10 · Урок 12 Р16 |
+| **Need** to do tasks for them | **You need** to do tasks for them | безособове «треба» → підмет you | 09.10 · Урок 12 Р16 |
+| I should **do the** new level | I should **make a** new level | створити = make; do = виконати (do a task) → [§11](rules.md#11-do--make--perform--carry-out) | 09.10 · Урок 12 Р16 |

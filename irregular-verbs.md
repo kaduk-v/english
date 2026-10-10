@@ -1,8 +1,8 @@
 # Неправильні дієслова
 
-Це **не** повний довідник (той — [past-simple.md](grammar/a1-a2/past-simple.md#2-неправильні-дієслова-найчастіші)). Тут лише слова, які реально траплялись у твоїх уроках/раундах — живий список, що росте.
+Найуживаніші неправильні дієслова з трьома формами — **base · past · participle** — і для **кожної форми** окремий переклад і приклад. Повний перелік за групами — у темі [Past Simple](grammar/a1-a2/past-simple.md#2-неправильні-дієслова-найчастіші).
 
-Колонка **V3** (participle) поки не потрібна для Past Simple, але знадобиться, коли дійдемо до Present Perfect (L20) і Passive (L24) — тому додаю одразу, щоб не переробляти. Де форма V3 вже вживається як звичайний прикметник (без Perfect/Passive), приклад природний уже зараз; де ні — позначаю приміткою, що це просто ілюстрація форми на майбутнє.
+Третя форма (**participle**, V3) потрібна для Present Perfect і пасиву. Де вона вже вживається як звичайний прикметник (*a given task*, *ground coffee*), приклад природний; де ні — приклад показує форму в Present Perfect або пасиві з позначкою *(Present Perfect / Passive)*.
 
 ---
 
@@ -47,7 +47,7 @@
 |---|---|---|
 | become | ставати | Practice helps developers **become** better. — Практика допомагає розробникам ставати кращими. |
 | became | став(-ла) | He **became** a senior developer last year. — Він став senior-розробником минулого року. |
-| become | *(Present Perfect, буде в L20 — просто приклад форми)* | He has **become** more confident. — Він став впевненішим. |
+| become | *(Present Perfect)* | He has **become** more confident. — Він став впевненішим. |
 
 ---
 
@@ -141,7 +141,7 @@
 |---|---|---|
 | tell | казати (комусь), розповідати | Always **tell** the truth. — Завжди кажи правду. |
 | told | сказав(-ла), розповів(-ла) | He **told** me about the bug. — Він розповів мені про баг. |
-| told | *(Present Perfect, буде в L20 — просто приклад форми)* | She has **told** everyone already. — Вона вже всім сказала. |
+| told | *(Present Perfect)* | She has **told** everyone already. — Вона вже всім сказала. |
 
 > ⚠️ **say ≠ tell:** `tell` — коли є адресат або стала пара (tell **me**, tell **the truth**, tell **a story**); `say` — самі слова (say **that**…, say **hello**). ❌ say me / say the truth → ✅ tell me / tell the truth.
 
@@ -161,7 +161,7 @@
 |---|---|---|
 | find | знаходити; (find out) дізнаватися | I can't **find** the config file. — Не можу знайти файл конфігу. |
 | found | знайшов(-ла) | He **found** a new job in May. — Він знайшов нову роботу в травні. |
-| found | *(Present Perfect / Passive — буде пізніше; просто форма)* | The bug was **found** by a user. — Баг знайшов користувач. |
+| found | *(Present Perfect / Passive)* | The bug was **found** by a user. — Баг знайшов користувач. |
 
 > ⚠️ **found** — також окреме дієслово «заснувати» (found a company → founded), правильне: founded / founded. Не плутай із минулим від find.
 
@@ -172,7 +172,7 @@
 |---|---|---|
 | see | бачити | I **see** the problem now. — Тепер я бачу проблему. |
 | saw | бачив(-ла) | We **saw** the manager after lunch. — Ми бачили менеджера після обіду. |
-| seen | *(Present Perfect — буде в L20; просто форма)* | I have **seen** this error before. — Я вже бачив цю помилку. |
+| seen | *(Present Perfect)* | I have **seen** this error before. — Я вже бачив цю помилку. |
 
 > 💡 **saw** — також іменник «пилка» і дієслово «пиляти» (saw – sawed – sawn). Контекст підкаже.
 
@@ -194,7 +194,7 @@
 |---|---|---|
 | lead /liːd/ | вести, очолювати | She **leads** the backend team. — Вона очолює бекенд-команду. |
 | led /led/ | вів(-ла), очолював(-ла) | He **led** the project last year. — Він очолював проєкт минулого року. |
-| led /led/ | *(Present Perfect / Passive — буде пізніше; просто форма)* | The team is **led** by Anna. — Команду очолює Анна. |
+| led /led/ | *(Present Perfect / Passive)* | The team is **led** by Anna. — Команду очолює Анна. |
 
 > ⚠️ Вимова: **lead** (дієслово) — /liːd/, але **led** — /led/. Слово **lead** /led/ «свинець» пишеться так само, як дієслово, а читається як минулий час.
 
@@ -205,7 +205,7 @@
 |---|---|---|
 | rise | підніматися, зростати | Prices **rise** every spring. — Ціни зростають щовесни. |
 | rose | піднявся(-лась), зріс(-ла) | The sun **rose** at six. — Сонце зійшло о шостій. |
-| risen | *(Present Perfect — буде пізніше; просто форма)* | Rent has **risen** by 20%. — Оренда зросла на 20%. |
+| risen | *(Present Perfect)* | Rent has **risen** by 20%. — Оренда зросла на 20%. |
 
 > ⚠️ **rise** (само піднімається, без об'єкта) ≠ **raise** (підняти щось, правильне дієслово: raise – raised – raised). ✅ Prices rose. / We raised prices. ❌ We rised prices.
 
@@ -216,7 +216,7 @@
 |---|---|---|
 | choose /tʃuːz/ | вибирати | I always **choose** the knight in RPGs. — Я завжди вибираю лицаря в RPG. |
 | chose /tʃəʊz/ | вибрав(-ла) | Yesterday I **chose** a mage and died in five minutes. — Учора я вибрав мага і помер за п'ять хвилин. |
-| chosen | *(Present Perfect / Passive — пізніше; просто форма)* | She was **chosen** as the team lead. — Її обрали тімлідом. |
+| chosen | *(Present Perfect / Passive)* | She was **chosen** as the team lead. — Її обрали тімлідом. |
 
 > ⚠️ **choose** /uː/ — довге «у»; **chose** /əʊ/ — «оу». На письмі різниця — одна літера **o**: ch**oo**se → ch**o**se.
 
@@ -227,7 +227,7 @@
 |---|---|---|
 | begin | починати | The match **begins** at eight. — Матч починається о восьмій. |
 | began | почав(-ла) | We **began** the level again from the start. — Ми почали рівень знову з початку. |
-| begun | *(Present Perfect — пізніше; просто форма)* | The meeting has already **begun**. — Зустріч уже почалася. |
+| begun | *(Present Perfect)* | The meeting has already **begun**. — Зустріч уже почалася. |
 
 ---
 
@@ -236,7 +236,7 @@
 |---|---|---|
 | run | бігати; керувати | I **run** every morning. — Я бігаю щоранку. |
 | ran | біг(-ла), пробіг(-ла) | Then I **ran** ahead to the next checkpoint. — Потім я побіг далі до наступної точки збереження. |
-| run | *(Present Perfect — пізніше; збігається з базовою)* | We've **run** out of coffee. — У нас скінчилась кава. |
+| run | *(Present Perfect; збігається з базовою)* | We've **run** out of coffee. — У нас скінчилась кава. |
 
 ---
 
@@ -245,10 +245,8 @@
 |---|---|---|
 | fight | битися | I **fight** the boss every evening. — Я б'юся з босом щовечора. |
 | fought | бився(-лась) | We **fought** for an hour and lost. — Ми билися годину і програли. |
-| fought | *(Present Perfect — пізніше)* | I've **fought** him twenty times. — Я бився з ним двадцять разів. |
+| fought | *(Present Perfect)* | I've **fought** him twenty times. — Я бився з ним двадцять разів. |
 
 > 💡 Та сама сім'я **-ought**, що think → thought, buy → bought, bring → brought.
 
 ---
-
-_Додаю нову секцію щоразу, коли в раунді з'являється нове неправильне дієслово (правильно вжите чи ні — байдуже, головне що воно вже твоє)._

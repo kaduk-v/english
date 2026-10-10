@@ -37,6 +37,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Дієслово to be', link: '/grammar/a1-a2/to-be' },
+            { text: 'There is / There are', link: '/grammar/a1-a2/there-is-there-are' },
             { text: 'Займенники', link: '/grammar/a1-a2/pronouns' },
             { text: 'Артиклі', link: '/grammar/a1-a2/articles' },
             { text: 'Іменники: множина й злічуваність', link: '/grammar/a1-a2/nouns-plural-countable' },
@@ -54,6 +55,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Прикметники та прислівники', link: '/grammar/b1/adjectives-adverbs' },
+            { text: 'Герундій (-ing як іменник)', link: '/grammar/b1/gerund' },
           ],
         },
         {

@@ -4,11 +4,12 @@
 
 ## Зміст
 
-- [Present: am / is / are](#навіщо)
-- [Past: was / were](#короткі-відповіді)
-- [There is / There are](#past-was-were)
-- [Сталі вирази з be](#there-is-there-are)
-- [🔑 Головне правило](#сталі-вирази-з-be)
+- [Навіщо](#навіщо)
+- [Present: am / is / are](#present-am-is-are)
+- [Past: was / were](#past-was-were)
+- [There is / There are](#there-is-there-are)
+- [Сталі вирази з be](#сталі-вирази-з-be)
+- [🔑 Головне правило](#🔑-головне-правило)
 
 ---
 
@@ -86,17 +87,15 @@
 
 ## There is / There are
 
-Конструкція «є / знаходиться» (існування чогось десь).
+Конструкція «є / знаходиться» (існування чогось десь). Коротко:
 
 | | Форма | Приклад |
 |---|---|---|
 | однина / uncountable | **There is** (There's) | **There is** a problem. · **There's** milk in the fridge. |
 | множина | **There are** | **There are** two players online. |
-| заперечення | There isn't / There aren't | **There aren't** any tickets. |
-| питання | Is there …? / Are there …? | **Is there** a problem? — Yes, there **is**. |
 | минуле | There **was** / There **were** | **There were** many people. |
 
-> Дієслово узгоджується з **першим** іменником: There **is** a table and two chairs.
+> Повністю — заперечення, питання, майбутній час, порядок слів з обставиною на початку, there is vs it is vs have — в окремій темі [There is / There are](there-is-there-are.md).
 
 ---
 

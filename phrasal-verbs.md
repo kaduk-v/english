@@ -1,8 +1,8 @@
 # Фразові дієслова
 
-Як і [irregular-verbs.md](irregular-verbs.md) — це не підручниковий повний список, а слова, які реально трапились у твоїх уроках/чатах/розмовах. Росте з практики. Поруч із фразовими дієсловами тут і **сталі фрази** (позначені *(фраза)*), які треба брати цілим чанком — by the way, at all, for a while тощо.
+Фразові дієслова (дієслово + частка: figure out, give up, turn off) і **сталі фрази**, які треба брати цілим чанком — вони позначені *(фраза)*: by the way, at first, for the first time. Кожен запис — значення українською, пояснення нюансів і приклади з перекладом. Список росте.
 
-**Зміст:** [any good](#any-good) · [at a time](#at-a-time) · [at all](#at-all) · [at once](#at-once) · [be based on](#be-based-on) · [by the way](#by-the-way) · [come back](#come-back) · [cross over](#cross-over) · [figure out](#figure-out) · [find out](#find-out) · [follow up](#follow-up) · [for a while](#for-a-while) · [get back (to sb)](#get-back-to-sb) · [give up](#give-up) · [go on](#go-on) · [level up](#level-up) · [look for](#look-for) · [look forward to](#look-forward-to) · [on the side](#on-the-side) · [over time](#over-time) · [sort out / get sorted](#sort-out-get-sorted) · [straight away](#straight-away) · [take back](#take-back) · [take down](#take-down) · [turn off / turn on](#turn-off-turn-on) · [turn out](#turn-out) · [wake up](#wake-up) · [work out](#work-out) · [write up](#write-up)
+**Зміст:** [any good](#any-good) · [at a time](#at-a-time) · [at all](#at-all) · [at first](#at-first) · [at once](#at-once) · [be based on](#be-based-on) · [by the way](#by-the-way) · [come back](#come-back) · [cross over](#cross-over) · [do sth for sb](#do-sth-for-sb) · [figure out](#figure-out) · [find out](#find-out) · [follow up](#follow-up) · [for a while](#for-a-while) · [for the first time](#for-the-first-time) · [get back (to sb)](#get-back-to-sb) · [give up](#give-up) · [go on](#go-on) · [level up](#level-up) · [look for](#look-for) · [look forward to](#look-forward-to) · [on the side](#on-the-side) · [over time](#over-time) · [sort out / get sorted](#sort-out-get-sorted) · [straight away](#straight-away) · [take back](#take-back) · [take down](#take-down) · [tired of / tired from](#tired-of-tired-from) · [turn off / turn on](#turn-off-turn-on) · [turn out](#turn-out) · [wake up](#wake-up) · [work out](#work-out) · [write up](#write-up)
 
 ---
 
@@ -15,6 +15,7 @@
 - Is this coffee **any good**? — Ця кава взагалі нормальна?
 - The old tutorial isn't **any good** anymore. — Старий туторіал уже нікуди не годиться.
 - Is the new version **any better**? — Нова версія хоч трохи краща?
+
 
 
 
@@ -32,6 +33,7 @@
 
 
 
+
 ---
 
 ## at all
@@ -46,6 +48,19 @@
 
 
 
+
+---
+
+## at first
+**at first** /ət ˈfɜːst/ — *(фраза)* спершу, спочатку (а потім усе змінилось)
+
+**Пояснення:** **at first** протиставляє початок і те, що було потім — після нього майже завжди йде *but / then / later*. Якщо ж ти просто перелічуєш кроки (спочатку — потім — нарешті), кажи **first** (або *firstly*), без *at*. ❌ First, I didn't like it, but… · ❌ At first, open the door. Then…
+
+**Приклади:**
+- **At first** the game was hard, but then I liked it. — Спершу гра була складною, але потім вона мені сподобалась.
+- **At first** I didn't recognize him. — Спочатку я його не впізнав.
+- **First**, find the key. Then open the door. — Спочатку знайди ключ. Потім відчини двері. *(кроки — без at)*
+
 ---
 
 ## at once
@@ -57,6 +72,7 @@
 - Call the doctor **at once**. — Негайно виклич лікаря.
 - Everyone started talking **at once**. — Усі заговорили одночасно.
 - Don't open ten tabs **at once**. — Не відкривай десять вкладок одразу.
+
 
 
 
@@ -74,6 +90,7 @@
 
 
 
+
 ---
 
 ## by the way
@@ -85,6 +102,7 @@
 - I'm Andriy, **by the way**. — Я Андрій, до речі.
 - **By the way**, did you fix that bug? — До речі, ти виправив той баг?
 - What's your name, **by the way**? — Як тебе звати, до речі?
+
 
 
 
@@ -101,6 +119,7 @@
 - Let's **come back to** this question tomorrow. — Повернімося до цього питання завтра.
 
 
+
 ---
 
 ## cross over
@@ -115,6 +134,19 @@
 
 
 
+
+---
+
+## do sth for sb
+**do something for somebody** /duː … fɔː/ — *(фраза)* зробити щось для когось
+
+**Пояснення:** людина, заради якої робиш, приєднується через **for**. ❌ do a task from them (from — «від когось», отримати). Близькі вирази: **do sb a favour** — зробити комусь послугу; **What can I do for you?** — Чим можу допомогти?
+
+**Приклади:**
+- Can you **do** something **for** me? — Можеш дещо для мене зробити?
+- You need to **do** a few tasks **for** the neighbours first. — Спочатку треба виконати кілька завдань для сусідів.
+- What can I **do for** you? — Чим я можу вам допомогти?
+
 ---
 
 ## figure out
@@ -124,6 +156,7 @@
 - It took me three days to **figure out** the bug. — Мені знадобилось три дні, щоб розібратися з багом.
 - Let's **figure out** a better approach together. — Давай разом придумаємо кращий підхід.
 - I couldn't **figure out** why the tests were failing. — Я не міг зрозуміти, чому тести падають.
+
 
 
 
@@ -143,6 +176,7 @@
 
 
 
+
 ---
 
 ## follow up
@@ -152,6 +186,7 @@
 - I'll **follow up** with an email tomorrow. — Я надішлю follow-up email завтра.
 - We should **follow up** on that bug report. — Нам варто простежити за цим баг-репортом.
 - He **followed up** with the client after the demo. — Він зв'язався з клієнтом повторно після демо.
+
 
 
 
@@ -170,6 +205,19 @@
 
 
 
+
+---
+
+## for the first time
+**for the first time** /fər ðə ˈfɜːst taɪm/ — *(фраза)* вперше
+
+**Пояснення:** сталий вираз — завжди з **for** і **the**. Зазвичай стоїть у кінці речення або після підмета. Порівняй: **the first time** (без for) — «того першого разу, коли…»: *The first time I saw the sea, I was five.* ❌ first time · ❌ in the first time.
+
+**Приклади:**
+- Yesterday I played chess **for the first time**. — Учора я вперше грав у шахи.
+- She went abroad **for the first time** at the age of thirty. — Вона вперше поїхала за кордон у тридцять років.
+- **For the first time** in years, the whole family was together. — Уперше за багато років уся родина була разом.
+
 ---
 
 ## get back (to sb)
@@ -179,6 +227,7 @@
 - I'll **get back to you** by Friday. — Я зв'яжусь із тобою до п'ятниці.
 - She never **got back to me** about the offer. — Вона так і не відповіла мені щодо пропозиції.
 - Let me check with the team and **get back to you** tomorrow. — Дай мені звіритися з командою і я зв'яжусь із тобою завтра.
+
 
 
 
@@ -198,6 +247,7 @@
 
 
 
+
 ---
 
 ## go on
@@ -207,6 +257,7 @@
 - What's **going on** with the deployment? — Що відбувається з деплоєм?
 - Please, **go on** — I'm listening. — Продовжуй, будь ласка, я слухаю.
 - The meeting **went on** for almost two hours. — Зустріч тривала майже дві години.
+
 
 
 
@@ -224,6 +275,7 @@
 - This course helped me **level up** my English. — Цей курс допоміг мені прокачати англійську.
 
 
+
 ---
 
 ## look for
@@ -236,6 +288,7 @@
 - What are you **looking for**? — Що ти шукаєш?
 - I **looked for** my keys for an hour and found them in the fridge. — Я годину шукав ключі й знайшов їх у холодильнику.
 
+
 ---
 
 ## look forward to
@@ -247,6 +300,7 @@
 - I'm **looking forward to** the weekend. — Чекаю не дочекаюся вихідних.
 - We **look forward to** working with you. — Ми з нетерпінням чекаємо на співпрацю з вами.
 - She's **looking forward to** seeing the new season. — Вона дуже чекає новий сезон.
+
 
 
 
@@ -266,6 +320,7 @@
 
 
 
+
 ---
 
 ## over time
@@ -280,6 +335,7 @@
 
 
 
+
 ---
 
 ## sort out / get sorted
@@ -290,6 +346,7 @@
 - We finally **sorted out** the deployment issue. — Ми нарешті розібралися з проблемою деплою.
 - Don't worry, it'll **get sorted** by tomorrow. — Не хвилюйся, до завтра все владнається.
 - Can you **sort out** the invoice mess before Friday? — Можеш розібратися з плутаниною в рахунках до п'ятниці?
+
 
 
 
@@ -308,6 +365,7 @@
 
 
 
+
 ---
 
 ## take back
@@ -319,6 +377,7 @@
 - I thought the level was easy, but soon I **took my words back**. — Я думав, рівень легкий, але скоро взяв свої слова назад. _(гра)_
 - These shoes don't fit — I'll **take them back** to the shop. — Ці черевики не підходять — віднесу їх назад у магазин.
 - Okay, you were right. I **take it back**. — Гаразд, ти мав рацію. Беру свої слова назад.
+
 
 
 ---
@@ -336,6 +395,20 @@
 
 
 
+
+---
+
+## tired of / tired from
+**be tired of** /ˈtaɪəd əv/ — *(фраза)* набриднути, втомитися від чогось (морально)
+**be tired from** /ˈtaɪəd frəm/ — *(фраза)* втомитися фізично через якусь дію
+
+**Пояснення:** два прийменники — два різні значення. **tired of** — щось набридло, вже не хочеться (life in the city, waiting, the same food). **tired from** — тіло втомилося після дії (the walk, work, the trip). Після обох — іменник або **-ing**. ⚠️ **tired for** так не кажуть: українське «втомився **від**» — це `of` або `from`, ніколи `for`.
+
+**Приклади:**
+- I'm **tired of** life in the city. — Мені набридло життя в місті.
+- She's **tired of waiting** for the bus every morning. — Їй набридло щоранку чекати автобус.
+- We were **tired from** the long walk, so we went to bed early. — Ми втомилися від довгої прогулянки, тож рано лягли спати.
+
 ---
 
 ## turn off / turn on
@@ -347,6 +420,7 @@
 - Please **turn off** the music — I can't work. — Вимкни, будь ласка, музику — я не можу працювати.
 - **Turn it off** and **on** again. — Вимкни і ввімкни знову. _(класика техпідтримки)_
 - I **turned on** notifications for that channel. — Я увімкнув сповіщення для того каналу.
+
 
 
 
@@ -366,6 +440,7 @@
 
 
 
+
 ---
 
 ## wake up
@@ -381,6 +456,7 @@
 
 
 
+
 ---
 
 ## work out
@@ -392,6 +468,7 @@
 - I **work out** three times a week. — Я тренуюсь тричі на тиждень. _(спорт)_
 - We tried the new schedule, but it didn't **work out**. — Ми спробували новий розклад, але не спрацювало.
 - Can you **work out** how much we spent on coffee? — Можеш вирахувати, скільки ми витратили на каву?
+
 
 
 

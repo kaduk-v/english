@@ -1984,3 +1984,103 @@
 Одне-три короткі речення про сьогодні.
 
 *Після Р18 — Діалог 6.*
+
+### Відповіді учня
+
+1. There was a small fair near the fortress.
+2. There is an old house in my game.
+3. I made a new level for my game.
+4. There is an old house in my game. Player has to repair it.
+5. I was at a fair on weekends. There I recognized an old friend.
+6. My sibling lead a small team. They are tired of long meetings. Learning a new engine will be hard. Thanks for your help, the game will be cosy.
+7. Біля старого замку маленьке кафе. Минулого тижня там було багато туристів. Я зустрів старого друга за прилавком.
+8. Коли в українській починається із слова «біля», в англійській використовуємо there + to be. Спільне в обох реченнях те — що немає явно вираженого підмета і є обставина часу.
+9. a) There were two old trees near the house. b) Yesterday I went to a fair in the city. c) Need to fix the roof at first. d) I made a new level for my game. e) There is an old house in my game. f) I'm tired of long meetings. g) Thanks a lot for your help.
+10. a) Near the old house there are two small gardens. b) Near the old house there was a small garden. c) Is there a small garden near the old house? d) Near the old fortress there is a small garden.
+11. There were two towers on top of the hill. An old singer performed at the fair. Who invented the first radio? We can afford a new car right now.
+
+### Перевірка Раунду 17 — ❌ (4 помилки) · ✅ 1/5
+
+**Коротко:** головна мішень закрита — **`there` після місця 10 разів із 10**, і в кожному випадку після `there is / there was` стоїть `a / an` (`a small fair`, `an old house`, `a small garden`). Ти використав обидва порядки: `There was a small fair near the fortress` і `Near the old house there are two small gardens` — `there` не загубився жодного разу. `make a new level` ×2, `tired of`, `thanks for`, `Learning a new engine` — пари з Діалогу 5 тримаються. Зворотний переклад — **уперше всі чотири речення**. Чотири помилки — дрібніші: артикль перед роллю (`Player`), час із вихідними (`on weekends` про один раз), `-s` у зворотному перекладі (`My sibling lead`), і в дрилі 9c помилку не знайдено.
+
+| № | Було | Правильно | Що не так |
+|---|---|---|---|
+| 4 | **Player** has to repair it | **The player** has to repair it | Роль у грі — одна, відома всім (як the driver, the teacher) → `the`. Однинний злічуваний іменник без артикля не буває. |
+| 5 | I was at a fair **on weekends** | I was at a fair **last weekend** / **at the weekend** | Тема уроку. `on weekends` — «по вихідних» (регулярно, звичка: I play football on weekends). Про один конкретний раз у минулому — `last weekend`. |
+| 6 | My sibling **lead** a small team | My sibling **leads** a small team | `my sibling` = he / she → `-s`. В оригіналі було `leads`. |
+| 9c | **Need** to fix the roof **at first** | **You need** to fix the roof first | Помилку не знайдено: речення без підмета (`You need`) лишилось, а `first` змінено на `at first`, що тут неправильно. `at first` — «спершу (а потім усе змінилось)»: At first I didn't like it, but… Для кроку в інструкції — просто `first`. |
+| 7 | «старого **замку**» · *(4-те речення пропущено)* | «старої **фортеці**» · «Він винайшов нову настільну гру, але не може дозволити собі відпустку.» | *(не рахую)* `fortress` — фортеця, `castle` — замок. Останнє речення тексту пропущене — уже втретє за чотири раунди в частинах 3–4. |
+| 8 | «…починається із слова „біля“» · «обставина часу» | будь-яка обставина **місця або часу** на початку | *(не рахую)* Суть правильна; правило ширше за «біля»: in the café, on the hill, yesterday, last month. |
+| 11 | There were two towers… | *(умова: почати з місця)* | *(не рахую)* Речення правильне; умова просила почати з місця, але `there` першим — теж правильний порядок. |
+| 1–3, 9a/b/d–g, 10, 11 (інше) | — | ✅ | Слова: recognize, fortress, invent, afford. |
+
+*Повна теорія — у новій темі [There is / There are](../grammar/a1-a2/there-is-there-are.md) і в [Герундій](../grammar/b1/gerund.md).*
+
+**Головне:** `there` + місце — закрито. Наступний шар — артикль перед роллю (`the player`) і час-вирази (`on weekends` vs `last weekend`).
+
+---
+
+## Раунд 18
+
+**Слова раунду:** sibling · establishment · design · altitude · latency · fortress · lead *(усі — в [словнику](../vocabulary/_index.md))*
+
+**Мішені, по одній на речення:** `the` + роль / конкретна особа (the player, the boss, the owner) · `last weekend` (один раз) vs `on weekends` (звичка) · `-s` у 3-й особі (he / she / my sibling) · `first` (крок) vs `at first` (спершу, а потім інакше) · `there` після місця — для підтримки.
+
+**Перед здачею:** кожен однинний злічуваний іменник — з `a / the`? Підмет he / she / my sibling → дієслово з `-s`? «Вихідні» — один раз чи завжди?
+
+### Частина 1 — UA → EN
+
+1. Минулих вихідних я був у фортеці.
+2. Гравець має знайти ключ.
+3. Моя сестра проєктує рівні для ігор.
+
+### Частина 2 — ситуація → речення
+
+4. Друг питає, що ти зазвичай робиш на вихідних. Скажи: на вихідних ти зазвичай граєш, а минулих вихідних був у горах. *(2 короткі речення)*
+5. Друг питає, як почати твою гру. Поясни: спочатку гравець шукає ключ, потім відчиняє будинок. *(2 короткі речення; `first`)*
+
+### Частина 3 — зворотний переклад
+
+6. Твій переклад із Раунду 17. Назад англійською, **не дивлячись в оригінал**, усі речення:
+   > Біля старої фортеці є маленьке кафе. Минулого тижня там було багато туристів. Я зустрів старого друга біля прилавка. Він винайшов нову настільну гру, але не може дозволити собі відпустку.
+
+### Частина 4 — EN → UA
+
+7. > At first, the game was hard for me. Then I learned the controls. Now my sibling designs levels for it. In the last level, there is a fortress at a high altitude.
+
+   *Весь текст — він стане джерелом для Частини 3 у Раунді 19.*
+
+### Частина 5 — граматика своїми словами
+
+8. Яка різниця між `first` і `at first`? І між `on weekends` і `last weekend`? Дай по одному короткому прикладу.
+
+### Частина 6 — дриль: чанки
+
+9. По 10 секунд на фразу:
+    a) минулих вихідних
+    b) на вихідних (зазвичай)
+    c) спочатку (крок 1)
+    d) спершу (а потім інакше)
+    e) гравець має…
+    f) біля фортеці є кафе
+
+### Частина 7 — підстановочна рамка
+
+10. Зразок: **My sister designs levels for small games.** 4 варіанти, у кожному змінено тільки одне:
+    a) підмет → `I`
+    b) підмет → `my brothers`
+    c) заперечення
+    d) питання
+
+### Частина 8 — міні-текст
+
+11. **3–4 короткі речення** про вихідні або гру. 3 умови:
+    - **одне речення** з `last weekend` або `on weekends`;
+    - **одне речення** з `the` + роль (the player / the owner / the boss);
+    - **два слова зі списку раунду** (sibling · establishment · design · altitude · latency · fortress · lead).
+
+### Щоденник *(необов'язково)*
+
+Одне-три короткі речення про сьогодні.
+
+*Після перевірки Р18 — Діалог 6.*

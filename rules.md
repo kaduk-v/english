@@ -1,6 +1,6 @@
 # 🔑 Золоті правила — швидкий довідник
 
-Твій головний довідник «яке правило застосувати». Згруповано за темами. `✅` — правильно, `❌` — помилка, `⚠️` — уточнення до твоєї нотатки.
+Швидкий довідник «яке правило застосувати» для україномовних, хто вчить англійську. Згруповано за темами. `✅` — правильно, `❌` — помилка, `⚠️` — уточнення. Повна теорія кожної теми — у розділі [Граматика](grammar/_index.md).
 
 ## Зміст
 1. [Дієслово та підмет — обов'язкові](#1-дієслово-та-підмет)
@@ -26,7 +26,7 @@
 
 ## 1. Дієслово та підмет
 
-**В англійському реченні ЗАВЖДИ є дієслово і ЗАВЖДИ є підмет.** Українська дозволяє їх пропускати — англійська ні. Це твоя коренева, повторювана помилка.
+**В англійському реченні ЗАВЖДИ є дієслово і ЗАВЖДИ є підмет.** Українська дозволяє їх пропускати — англійська ні. Це найчастіша помилка україномовних.
 
 - Немає смислового дієслова (run, eat, work) → постав **be** (am/is/are/was/were):
   - ❌ I tired. → ✅ I **am** tired. · ❌ He tired. → ✅ He **is** tired.
@@ -34,7 +34,7 @@
   - перед **прикметником**: ❌ I proud. → ✅ I**'m** proud.
   - перед **місцем**: ❌ My grinder in the cupboard. → ✅ My grinder **is** in the cupboard.
   - замість **тире** між двома іменниками / іменником і дією: ❌ My dream — make a game. → ✅ My dream **is to** make a game.
-- **«Учора / минулого тижня / біля прилавків / у кафе + було / були»** → `there was / there were` — і після **часу**, і після **місця** на початку: ✅ **There were** many people near the counters. · Near the counters **there were** many people. ❌ Near the counters were many people. Обставина часу чи місця — не підмет; підмет речення — `there`: ✅ Yesterday **there were** many people in the café. ❌ Yesterday were many people. `was` — перед одниною (there was a problem), `were` — перед множиною (there were problems).
+- **«Учора / минулого тижня / біля прилавків / у кафе + було / були»** → `there was / there were` — і після **часу**, і після **місця** на початку: ✅ **There were** many people near the counters. · Near the counters **there were** many people. ❌ Near the counters were many people. Обставина часу чи місця — не підмет; підмет речення — `there`: ✅ Yesterday **there were** many people in the café. ❌ Yesterday were many people. `was` — перед одниною (there was a problem), `were` — перед множиною (there were problems). Детально — [There is / There are](grammar/a1-a2/there-is-there-are.md).
 - **«Скільки … є?» / «Чи є …?»** — `are there` / `is there`, місце — в кінець (✅ **Is there** a café **here**? ❌ Is here a café?): ❌ How many rooms in your flat? → ✅ How many rooms **are there** in your flat? · ✅ **Is there** a kitchen?
 - **Зворотний бік:** перед звичайним дієсловом `be` НЕ ставиться: ❌ It is not support me. → ✅ It **does not / will not support** me.
 - **`not` vs `no`:** `not` — перед прикметником / дієсловом / прислівником (It's **not** fair · I'm **not** sure); `no` — перед іменником, заміняє артикль (There is **no** place · I have **no** doubt). ❌ It's no fair.
@@ -57,7 +57,6 @@
   - ❌ I divide into three cups. → ✅ I divide **it** into three cups. · ❌ Please grind for a Moka pot. → ✅ Please grind **it** for a Moka pot.
   - Об'єкт стоїть **одразу після дієслова, перед прислівником**; прислівник його не заміняє: ❌ eat slowly → ✅ eat **it** slowly · ❌ figure out quickly → ✅ figure **it** out quickly.
 
-> 💡 Аналогія: у JS не буває виразу без значення. Тут не буває речення без підмета й дієслова — «порожнє місце» треба заповнити (`it` / `be`), як заглушку.
 
 ## 2. Present Simple
 
@@ -216,7 +215,7 @@
 
 **Інше:**
 - **spend time** + **V-ing**: ✅ I spend time **studying**. (⚠️ «spend time studying» природніше за «spend time on studying»; з іменником — spend time **on** homework.)
-- **Дія як підмет — `-ing`:** ✅ **Running** the bar is hard. · **Smoking** is bad. ❌ Run the bar is hard.
+- **Дія як підмет — `-ing`:** коли з дії («вчити») хочемо зробити предмет речення («вивчення», «процес навчання»), дієслово перетворюємо на іменник закінченням **-ing**. ✅ **Learning** English is hard. · **Running** a bar is hard. ❌ Learn English is hard. Детально — [Герундій](grammar/b1/gerund.md).
 - **goal / dream / plan / idea is + to + V:** ✅ My goal **is to open** a bar. ❌ My goal is open a bar.
 - **stop** + **V-ing** — перестати щось робити: ✅ stop **underestimating** yourself · stop **talking**. ❌ stop underestimate.
 - **start / begin** + **V-ing** або **to + V** — ніколи гола форма: ✅ started **dancing** / started **to dance** · before starting **to eat**. ❌ started dance.

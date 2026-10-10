@@ -418,3 +418,7 @@
 | There was **the** fair / I recognized **the** old friend | There was **a** fair / **an** old friend | перша згадка → a / an; після there was майже завжди a | 09.10 · Урок 12 Р16 |
 | **Need** to do tasks for them | **You need** to do tasks for them | безособове «треба» → підмет you | 09.10 · Урок 12 Р16 |
 | I should **do the** new level | I should **make a** new level | створити = make; do = виконати (do a task) → [§11](rules.md#11-do--make--perform--carry-out) | 09.10 · Урок 12 Р16 |
+| **Player** has to repair it | **The player** has to repair it | роль у грі (одна, відома) → the; однинний злічуваний без артикля не буває | 10.10 · Урок 12 Р17 |
+| I was at a fair **on weekends** *(один раз)* | **last weekend** / at the weekend | on weekends = регулярно, по вихідних; один раз у минулому → last weekend | 10.10 · Урок 12 Р17 |
+| My sibling **lead** *(зворотний переклад)* | My sibling **leads** | he / she → -s | 10.10 · Урок 12 Р17 |
+| Need to fix the roof → … **at first** *(дриль)* | **You need** to fix the roof **first** | помилку не знайдено; at first = спершу, а потім інакше; крок — first | 10.10 · Урок 12 Р17 |
